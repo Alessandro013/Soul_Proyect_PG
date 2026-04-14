@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 203be3d8f0348a305bbc8fa88f4abefb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 498779158341827645
+    second: Buff Totem Sprite Sheet v1.1_0
+  - first:
+      213: -947264355835340856
+    second: Buff Totem Sprite Sheet v1.1_1
+  - first:
+      213: -6772734812153638686
+    second: Buff Totem Sprite Sheet v1.1_2
+  - first:
+      213: 6054065363561675842
+    second: Buff Totem Sprite Sheet v1.1_3
+  - first:
+      213: 3228475856335615002
+    second: Buff Totem Sprite Sheet v1.1_4
+  - first:
+      213: 3859121107781006499
+    second: Buff Totem Sprite Sheet v1.1_5
+  - first:
+      213: -530403609408852514
+    second: Buff Totem Sprite Sheet v1.1_6
+  - first:
+      213: -7264983083062297901
+    second: Buff Totem Sprite Sheet v1.1_7
+  - first:
+      213: -2151399331916659100
+    second: Buff Totem Sprite Sheet v1.1_8
+  - first:
+      213: -7534612541243856724
+    second: Buff Totem Sprite Sheet v1.1_9
+  - first:
+      213: -5850833889219920428
+    second: Buff Totem Sprite Sheet v1.1_10
+  - first:
+      213: 5068864272458802244
+    second: Buff Totem Sprite Sheet v1.1_11
+  - first:
+      213: -392218590137146818
+    second: Buff Totem Sprite Sheet v1.1_12
+  - first:
+      213: 3226541165216441092
+    second: Buff Totem Sprite Sheet v1.1_13
+  - first:
+      213: 6766139268044045297
+    second: Buff Totem Sprite Sheet v1.1_14
+  - first:
+      213: 931472954469928132
+    second: Buff Totem Sprite Sheet v1.1_15
+  - first:
+      213: -7939045574548684249
+    second: Buff Totem Sprite Sheet v1.1_16
+  - first:
+      213: 617295882890533632
+    second: Buff Totem Sprite Sheet v1.1_17
+  - first:
+      213: -3051637454555725081
+    second: Buff Totem Sprite Sheet v1.1_18
+  - first:
+      213: 5593072290279877658
+    second: Buff Totem Sprite Sheet v1.1_19
+  - first:
+      213: -5851675780684957658
+    second: Buff Totem Sprite Sheet v1.1_20
+  - first:
+      213: -3066089858536444543
+    second: Buff Totem Sprite Sheet v1.1_21
+  - first:
+      213: -3911874314436617866
+    second: Buff Totem Sprite Sheet v1.1_22
+  - first:
+      213: -6525313048110121765
+    second: Buff Totem Sprite Sheet v1.1_23
+  - first:
+      213: 3094336612906789238
+    second: Buff Totem Sprite Sheet v1.1_24
+  - first:
+      213: 8235095672682095702
+    second: Buff Totem Sprite Sheet v1.1_25
+  - first:
+      213: -7370119876058185839
+    second: Buff Totem Sprite Sheet v1.1_26
+  - first:
+      213: 5503436592393781734
+    second: Buff Totem Sprite Sheet v1.1_27
+  - first:
+      213: -3307643439191089126
+    second: Buff Totem Sprite Sheet v1.1_28
+  - first:
+      213: -1944116711940643945
+    second: Buff Totem Sprite Sheet v1.1_29
+  - first:
+      213: 4290210557315353028
+    second: Buff Totem Sprite Sheet v1.1_30
+  - first:
+      213: -7298197303091993853
+    second: Buff Totem Sprite Sheet v1.1_31
+  - first:
+      213: 866431526263005403
+    second: Buff Totem Sprite Sheet v1.1_32
+  - first:
+      213: -7441988894117889853
+    second: Buff Totem Sprite Sheet v1.1_33
+  - first:
+      213: 8969602815367522538
+    second: Buff Totem Sprite Sheet v1.1_34
+  - first:
+      213: -5751599135133524520
+    second: Buff Totem Sprite Sheet v1.1_35
+  - first:
+      213: 2253345316776862528
+    second: Buff Totem Sprite Sheet v1.1_36
+  - first:
+      213: -6753488516672348915
+    second: Buff Totem Sprite Sheet v1.1_37
+  - first:
+      213: 6103331554733937213
+    second: Buff Totem Sprite Sheet v1.1_38
+  - first:
+      213: 7122085034754835675
+    second: Buff Totem Sprite Sheet v1.1_39
+  - first:
+      213: -2416267166072120821
+    second: Buff Totem Sprite Sheet v1.1_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 96
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c355a70050ce600800000000000000
+      internalID: 498779158341827645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 96
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c79b025614aad2f0800000000000000
+      internalID: -947264355835340856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 111
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e019a362996202a0800000000000000
+      internalID: -6772734812153638686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 111
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cf6125f5c540450800000000000000
+      internalID: 6054065363561675842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 111
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a143fc6afa9ddcc20800000000000000
+      internalID: 3228475856335615002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 96
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4bf76733a5e8530800000000000000
+      internalID: 3859121107781006499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 96
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edda9993ab0a3a8f0800000000000000
+      internalID: -530403609408852514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 96
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da79d2a0689d2b90800000000000000
+      internalID: -7264983083062297901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_8
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 96
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466481bc4b1b422e0800000000000000
+      internalID: -2151399331916659100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 96
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8e4f650ddaf6790800000000000000
+      internalID: -7534612541243856724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_10
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 96
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddba39a399adcea0800000000000000
+      internalID: -5850833889219920428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 64
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44463962339385640800000000000000
+      internalID: 5068864272458802244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 64
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e322294354f8e8af0800000000000000
+      internalID: -392218590137146818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 64
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403a6e5481af6cc20800000000000000
+      internalID: 3226541165216441092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 64
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb3694d0d726ed50800000000000000
+      internalID: 6766139268044045297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 64
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc401987b14dec00800000000000000
+      internalID: 931472954469928132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 32
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7228361ec18d2d190800000000000000
+      internalID: -7939045574548684249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 32
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b500db553119800800000000000000
+      internalID: 617295882890533632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 46
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2cde147e766a5d0800000000000000
+      internalID: -3051637454555725081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 46
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c66395d959e9d40800000000000000
+      internalID: 5593072290279877658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 49
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628348781ebaacea0800000000000000
+      internalID: -5851675780684957658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 32
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18de18cb48f0375d0800000000000000
+      internalID: -3066089858536444543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_22
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 32
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679d70a790b36b9c0800000000000000
+      internalID: -3911874314436617866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_23
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 32
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcbc27fa5e6175a0800000000000000
+      internalID: -6525313048110121765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_24
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 32
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6796bc341ca41fa20800000000000000
+      internalID: 3094336612906789238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_25
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 32
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654a29502efe84270800000000000000
+      internalID: 8235095672682095702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_26
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 32
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f7183750318b990800000000000000
+      internalID: -7370119876058185839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1848d1c62206c40800000000000000
+      internalID: 5503436592393781734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a102d5311d3e812d0800000000000000
+      internalID: -3307643439191089126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793a0ee962c1505e0800000000000000
+      internalID: -1944116711940643945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9896875c3e98b30800000000000000
+      internalID: 4290210557315353028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 17
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303ec78683897ba90800000000000000
+      internalID: -7298197303091993853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd02b11f1ee260c00800000000000000
+      internalID: 866431526263005403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c873b7b78eb8b890800000000000000
+      internalID: -7441988894117889853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_34
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae82352dc3e6a7c70800000000000000
+      internalID: 8969602815367522538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_35
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd1ce35f073e20b0800000000000000
+      internalID: -5751599135133524520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_36
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04366ca70ad754f10800000000000000
+      internalID: 2253345316776862528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_37
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d9011c9f9c642a0800000000000000
+      internalID: -6753488516672348915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_38
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32595256b363b450800000000000000
+      internalID: 6103331554733937213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_39
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd400bcca9ab6d260800000000000000
+      internalID: 7122085034754835675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buff Totem Sprite Sheet v1.1_40
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ad4db70d1b77ed0800000000000000
+      internalID: -2416267166072120821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Buff Totem Sprite Sheet v1.1_0: 498779158341827645
+      Buff Totem Sprite Sheet v1.1_1: -947264355835340856
+      Buff Totem Sprite Sheet v1.1_10: -5850833889219920428
+      Buff Totem Sprite Sheet v1.1_11: 5068864272458802244
+      Buff Totem Sprite Sheet v1.1_12: -392218590137146818
+      Buff Totem Sprite Sheet v1.1_13: 3226541165216441092
+      Buff Totem Sprite Sheet v1.1_14: 6766139268044045297
+      Buff Totem Sprite Sheet v1.1_15: 931472954469928132
+      Buff Totem Sprite Sheet v1.1_16: -7939045574548684249
+      Buff Totem Sprite Sheet v1.1_17: 617295882890533632
+      Buff Totem Sprite Sheet v1.1_18: -3051637454555725081
+      Buff Totem Sprite Sheet v1.1_19: 5593072290279877658
+      Buff Totem Sprite Sheet v1.1_2: -6772734812153638686
+      Buff Totem Sprite Sheet v1.1_20: -5851675780684957658
+      Buff Totem Sprite Sheet v1.1_21: -3066089858536444543
+      Buff Totem Sprite Sheet v1.1_22: -3911874314436617866
+      Buff Totem Sprite Sheet v1.1_23: -6525313048110121765
+      Buff Totem Sprite Sheet v1.1_24: 3094336612906789238
+      Buff Totem Sprite Sheet v1.1_25: 8235095672682095702
+      Buff Totem Sprite Sheet v1.1_26: -7370119876058185839
+      Buff Totem Sprite Sheet v1.1_27: 5503436592393781734
+      Buff Totem Sprite Sheet v1.1_28: -3307643439191089126
+      Buff Totem Sprite Sheet v1.1_29: -1944116711940643945
+      Buff Totem Sprite Sheet v1.1_3: 6054065363561675842
+      Buff Totem Sprite Sheet v1.1_30: 4290210557315353028
+      Buff Totem Sprite Sheet v1.1_31: -7298197303091993853
+      Buff Totem Sprite Sheet v1.1_32: 866431526263005403
+      Buff Totem Sprite Sheet v1.1_33: -7441988894117889853
+      Buff Totem Sprite Sheet v1.1_34: 8969602815367522538
+      Buff Totem Sprite Sheet v1.1_35: -5751599135133524520
+      Buff Totem Sprite Sheet v1.1_36: 2253345316776862528
+      Buff Totem Sprite Sheet v1.1_37: -6753488516672348915
+      Buff Totem Sprite Sheet v1.1_38: 6103331554733937213
+      Buff Totem Sprite Sheet v1.1_39: 7122085034754835675
+      Buff Totem Sprite Sheet v1.1_4: 3228475856335615002
+      Buff Totem Sprite Sheet v1.1_40: -2416267166072120821
+      Buff Totem Sprite Sheet v1.1_5: 3859121107781006499
+      Buff Totem Sprite Sheet v1.1_6: -530403609408852514
+      Buff Totem Sprite Sheet v1.1_7: -7264983083062297901
+      Buff Totem Sprite Sheet v1.1_8: -2151399331916659100
+      Buff Totem Sprite Sheet v1.1_9: -7534612541243856724
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

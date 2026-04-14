@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: a47c12a9839bd62cb91fe161b97acc6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5134906873333365682
+    second: Swampling Sprite Sheet_0
+  - first:
+      213: -676214682731284844
+    second: Swampling Sprite Sheet_1
+  - first:
+      213: 7478892497430678462
+    second: Swampling Sprite Sheet_2
+  - first:
+      213: -8887868790321334046
+    second: Swampling Sprite Sheet_3
+  - first:
+      213: -1730990574032097386
+    second: Swampling Sprite Sheet_4
+  - first:
+      213: -5109753669974273732
+    second: Swampling Sprite Sheet_5
+  - first:
+      213: 5597988545474974541
+    second: Swampling Sprite Sheet_6
+  - first:
+      213: -6665866599571930510
+    second: Swampling Sprite Sheet_7
+  - first:
+      213: 5662098447577734618
+    second: Swampling Sprite Sheet_8
+  - first:
+      213: -3725393807025406036
+    second: Swampling Sprite Sheet_9
+  - first:
+      213: 1237251415507574991
+    second: Swampling Sprite Sheet_10
+  - first:
+      213: -1335558595184382939
+    second: Swampling Sprite Sheet_11
+  - first:
+      213: 3874705214619465725
+    second: Swampling Sprite Sheet_12
+  - first:
+      213: -5233569353102646032
+    second: Swampling Sprite Sheet_13
+  - first:
+      213: 4525289646707584632
+    second: Swampling Sprite Sheet_14
+  - first:
+      213: 3988785871348572795
+    second: Swampling Sprite Sheet_15
+  - first:
+      213: -2769717698407954395
+    second: Swampling Sprite Sheet_16
+  - first:
+      213: 349801468599060695
+    second: Swampling Sprite Sheet_17
+  - first:
+      213: 1186029549176749895
+    second: Swampling Sprite Sheet_18
+  - first:
+      213: -8409399925310191888
+    second: Swampling Sprite Sheet_19
+  - first:
+      213: -5332285179448844554
+    second: Swampling Sprite Sheet_20
+  - first:
+      213: 5219659759138393840
+    second: Swampling Sprite Sheet_21
+  - first:
+      213: -7559844675733787916
+    second: Swampling Sprite Sheet_22
+  - first:
+      213: 6635091197736526236
+    second: Swampling Sprite Sheet_23
+  - first:
+      213: -93347330106840515
+    second: Swampling Sprite Sheet_24
+  - first:
+      213: -2028863645085710797
+    second: Swampling Sprite Sheet_25
+  - first:
+      213: -8019323872079837027
+    second: Swampling Sprite Sheet_26
+  - first:
+      213: -108484114541420580
+    second: Swampling Sprite Sheet_27
+  - first:
+      213: -1760945173418225338
+    second: Swampling Sprite Sheet_28
+  - first:
+      213: 4402540957738310078
+    second: Swampling Sprite Sheet_29
+  - first:
+      213: -7260152498321602257
+    second: Swampling Sprite Sheet_30
+  - first:
+      213: 8192484314737551989
+    second: Swampling Sprite Sheet_31
+  - first:
+      213: 1017329164942795881
+    second: Swampling Sprite Sheet_32
+  - first:
+      213: -5531851946572466903
+    second: Swampling Sprite Sheet_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 135
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb3fbb689ad24740800000000000000
+      internalID: 5134906873333365682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 135
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496f5eb245a9d96f0800000000000000
+      internalID: -676214682731284844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 135
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb80bef91d5ac760800000000000000
+      internalID: 7478892497430678462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 135
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8bd96dc62f7a480800000000000000
+      internalID: -8887868790321334046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 135
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f644d7e394af7e0800000000000000
+      internalID: -1730990574032097386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c315f6b1c128619b0800000000000000
+      internalID: -5109753669974273732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 135
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43ddb53cec00bd40800000000000000
+      internalID: 5597988545474974541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 135
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272cf5c15a51e73a0800000000000000
+      internalID: -6665866599571930510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 103
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add592bf980d39e40800000000000000
+      internalID: 5662098447577734618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf7fcb021ebc4cc0800000000000000
+      internalID: -3725393807025406036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 106
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0ad2f6b999b2110800000000000000
+      internalID: 1237251415507574991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 105
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ca055a884277de0800000000000000
+      internalID: -1335558595184382939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 103
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df73fb61dd7b5c530800000000000000
+      internalID: 3874705214619465725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 105
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f422f8e660ae57b0800000000000000
+      internalID: -5233569353102646032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 107
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e22c925fe0dce30800000000000000
+      internalID: 4525289646707584632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 105
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7224d2dd930b5730800000000000000
+      internalID: 3988785871348572795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 71
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528084a8d6cff89d0800000000000000
+      internalID: -2769717698407954395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 71
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8c1c5159ebad400800000000000000
+      internalID: 349801468599060695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 71
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ffbc3579f957010800000000000000
+      internalID: 1186029549176749895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 71
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f680b5a25fcb4b80800000000000000
+      internalID: -8409399925310191888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 71
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe1fd581eaeff5b0800000000000000
+      internalID: -5332285179448844554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 71
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe48df55e4ff6840800000000000000
+      internalID: 5219659759138393840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 71
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa62c93259061790800000000000000
+      internalID: -7559844675733787916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 71
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9128654a44941c50800000000000000
+      internalID: 6635091197736526236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 39
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a204c091d54bef0800000000000000
+      internalID: -93347330106840515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 39
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33646f0a34708d3e0800000000000000
+      internalID: -2028863645085710797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 39
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d980fd13d63a5b090800000000000000
+      internalID: -8019323872079837027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 39
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf5cf8c5469e7ef0800000000000000
+      internalID: -108484114541420580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 39
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641d775d1bddf87e0800000000000000
+      internalID: -1760945173418225338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb99917eca7f81d30800000000000000
+      internalID: 4402540957738310078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 7
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29406ac4c1ce3b90800000000000000
+      internalID: -7260152498321602257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 7
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a24ef141d81b170800000000000000
+      internalID: 8192484314737551989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 7
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9646f084c774e1e00800000000000000
+      internalID: 1017329164942795881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swampling Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 7
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925be7ea6f9ea33b0800000000000000
+      internalID: -5531851946572466903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Swampling Sprite Sheet_0: 5134906873333365682
+      Swampling Sprite Sheet_1: -676214682731284844
+      Swampling Sprite Sheet_10: 1237251415507574991
+      Swampling Sprite Sheet_11: -1335558595184382939
+      Swampling Sprite Sheet_12: 3874705214619465725
+      Swampling Sprite Sheet_13: -5233569353102646032
+      Swampling Sprite Sheet_14: 4525289646707584632
+      Swampling Sprite Sheet_15: 3988785871348572795
+      Swampling Sprite Sheet_16: -2769717698407954395
+      Swampling Sprite Sheet_17: 349801468599060695
+      Swampling Sprite Sheet_18: 1186029549176749895
+      Swampling Sprite Sheet_19: -8409399925310191888
+      Swampling Sprite Sheet_2: 7478892497430678462
+      Swampling Sprite Sheet_20: -5332285179448844554
+      Swampling Sprite Sheet_21: 5219659759138393840
+      Swampling Sprite Sheet_22: -7559844675733787916
+      Swampling Sprite Sheet_23: 6635091197736526236
+      Swampling Sprite Sheet_24: -93347330106840515
+      Swampling Sprite Sheet_25: -2028863645085710797
+      Swampling Sprite Sheet_26: -8019323872079837027
+      Swampling Sprite Sheet_27: -108484114541420580
+      Swampling Sprite Sheet_28: -1760945173418225338
+      Swampling Sprite Sheet_29: 4402540957738310078
+      Swampling Sprite Sheet_3: -8887868790321334046
+      Swampling Sprite Sheet_30: -7260152498321602257
+      Swampling Sprite Sheet_31: 8192484314737551989
+      Swampling Sprite Sheet_32: 1017329164942795881
+      Swampling Sprite Sheet_33: -5531851946572466903
+      Swampling Sprite Sheet_4: -1730990574032097386
+      Swampling Sprite Sheet_5: -5109753669974273732
+      Swampling Sprite Sheet_6: 5597988545474974541
+      Swampling Sprite Sheet_7: -6665866599571930510
+      Swampling Sprite Sheet_8: 5662098447577734618
+      Swampling Sprite Sheet_9: -3725393807025406036
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
