@@ -1,0 +1,1835 @@
+fileFormatVersion: 2
+guid: 188c98c2dba9d5ade96e375adf843aae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4546533408259231518
+    second: nuevohielo4-Photoroom_0
+  - first:
+      213: -8146296555983414834
+    second: nuevohielo4-Photoroom_1
+  - first:
+      213: -8360970370768906092
+    second: nuevohielo4-Photoroom_2
+  - first:
+      213: -6894527274564773946
+    second: nuevohielo4-Photoroom_3
+  - first:
+      213: 1561612598697148283
+    second: nuevohielo4-Photoroom_4
+  - first:
+      213: 4153403937952444195
+    second: nuevohielo4-Photoroom_5
+  - first:
+      213: 1497664918509198888
+    second: nuevohielo4-Photoroom_6
+  - first:
+      213: -4003199374488249498
+    second: nuevohielo4-Photoroom_7
+  - first:
+      213: -3388536675584812513
+    second: nuevohielo4-Photoroom_8
+  - first:
+      213: -7454988868176495311
+    second: nuevohielo4-Photoroom_9
+  - first:
+      213: 6045751088562768659
+    second: nuevohielo4-Photoroom_10
+  - first:
+      213: -36012391487122573
+    second: nuevohielo4-Photoroom_11
+  - first:
+      213: -6748248326492327444
+    second: nuevohielo4-Photoroom_12
+  - first:
+      213: 7423052876793104662
+    second: nuevohielo4-Photoroom_13
+  - first:
+      213: -4897131185212119493
+    second: nuevohielo4-Photoroom_14
+  - first:
+      213: 6209201709274714130
+    second: nuevohielo4-Photoroom_15
+  - first:
+      213: 5530666662153201149
+    second: nuevohielo4-Photoroom_16
+  - first:
+      213: 4828145675014901596
+    second: nuevohielo4-Photoroom_17
+  - first:
+      213: -7171559353398249190
+    second: nuevohielo4-Photoroom_18
+  - first:
+      213: -8618601431539276916
+    second: nuevohielo4-Photoroom_19
+  - first:
+      213: 7941846655115138714
+    second: nuevohielo4-Photoroom_20
+  - first:
+      213: 1547002801959200068
+    second: nuevohielo4-Photoroom_21
+  - first:
+      213: -8873380688277184098
+    second: nuevohielo4-Photoroom_22
+  - first:
+      213: -8602191833116929090
+    second: nuevohielo4-Photoroom_23
+  - first:
+      213: 1786419553925238200
+    second: nuevohielo4-Photoroom_24
+  - first:
+      213: 1593976892888299685
+    second: nuevohielo4-Photoroom_25
+  - first:
+      213: -2081690830444957061
+    second: nuevohielo4-Photoroom_26
+  - first:
+      213: 4427257567792517608
+    second: nuevohielo4-Photoroom_27
+  - first:
+      213: -7545381157278554749
+    second: nuevohielo4-Photoroom_28
+  - first:
+      213: 439729395162489848
+    second: nuevohielo4-Photoroom_29
+  - first:
+      213: -2083012158179316981
+    second: nuevohielo4-Photoroom_30
+  - first:
+      213: -6474585835299396031
+    second: nuevohielo4-Photoroom_31
+  - first:
+      213: -8889608117194233524
+    second: nuevohielo4-Photoroom_32
+  - first:
+      213: -3696027181834444539
+    second: nuevohielo4-Photoroom_33
+  - first:
+      213: -6135360390633980645
+    second: nuevohielo4-Photoroom_34
+  - first:
+      213: 4897916956347394128
+    second: nuevohielo4-Photoroom_35
+  - first:
+      213: -6092234762688611740
+    second: nuevohielo4-Photoroom_36
+  - first:
+      213: -1127154719939606178
+    second: nuevohielo4-Photoroom_37
+  - first:
+      213: -4525540961240478558
+    second: nuevohielo4-Photoroom_38
+  - first:
+      213: -4763927180931782628
+    second: nuevohielo4-Photoroom_39
+  - first:
+      213: 4480688454497255308
+    second: nuevohielo4-Photoroom_40
+  - first:
+      213: 4035853120082715770
+    second: nuevohielo4-Photoroom_41
+  - first:
+      213: 5282151633682093213
+    second: nuevohielo4-Photoroom_42
+  - first:
+      213: 3781421310056600953
+    second: nuevohielo4-Photoroom_43
+  - first:
+      213: -8014948503607326882
+    second: nuevohielo4-Photoroom_44
+  - first:
+      213: 934202964431312926
+    second: nuevohielo4-Photoroom_45
+  - first:
+      213: -491302421592779192
+    second: nuevohielo4-Photoroom_46
+  - first:
+      213: 5836803256783798165
+    second: nuevohielo4-Photoroom_47
+  - first:
+      213: 2165507925380839570
+    second: nuevohielo4-Photoroom_48
+  - first:
+      213: -8613711744161388533
+    second: nuevohielo4-Photoroom_49
+  - first:
+      213: -503007068486193607
+    second: nuevohielo4-Photoroom_50
+  - first:
+      213: -1818303785004091950
+    second: nuevohielo4-Photoroom_51
+  - first:
+      213: -4196353708261536390
+    second: nuevohielo4-Photoroom_52
+  - first:
+      213: 4653957365247289307
+    second: nuevohielo4-Photoroom_53
+  - first:
+      213: -5063551052576313146
+    second: nuevohielo4-Photoroom_54
+  - first:
+      213: 6175978563993164059
+    second: nuevohielo4-Photoroom_55
+  - first:
+      213: 5378186592036356215
+    second: nuevohielo4-Photoroom_56
+  - first:
+      213: -3339286358917403624
+    second: nuevohielo4-Photoroom_57
+  - first:
+      213: 5599026616292749777
+    second: nuevohielo4-Photoroom_58
+  - first:
+      213: 2354592796832382823
+    second: nuevohielo4-Photoroom_59
+  - first:
+      213: -4348486567953553105
+    second: nuevohielo4-Photoroom_60
+  - first:
+      213: -6525691521944347767
+    second: nuevohielo4-Photoroom_61
+  - first:
+      213: 2085932587387417327
+    second: nuevohielo4-Photoroom_62
+  - first:
+      213: 5990887218159735955
+    second: nuevohielo4-Photoroom_63
+  - first:
+      213: -1696577674440486404
+    second: nuevohielo4-Photoroom_64
+  - first:
+      213: 6154627268722224210
+    second: nuevohielo4-Photoroom_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 227
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0334924f777e0c0800000000000000
+      internalID: -4546533408259231518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 756
+        width: 185
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9de99717a82fe80800000000000000
+      internalID: -8146296555983414834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 716
+        width: 566
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498d0c00fbdd7fb80800000000000000
+      internalID: -8360970370768906092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 770
+        width: 204
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c71359f8f7b150a0800000000000000
+      internalID: -6894527274564773946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 773
+        width: 191
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f3e1e7266fba510800000000000000
+      internalID: 1561612598697148283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 772
+        width: 227
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f2d5a30ead3a930800000000000000
+      internalID: 4153403937952444195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 773
+        width: 176
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e1e44fe46c8c410800000000000000
+      internalID: 1497664918509198888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 773
+        width: 258
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bdf86f067c178c0800000000000000
+      internalID: -4003199374488249498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 557
+        width: 133
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a5267c8df79f0d0800000000000000
+      internalID: -3388536675584812513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 557
+        width: 134
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d39d36f1f8a8890800000000000000
+      internalID: -7454988868176495311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 561
+        width: 124
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b07325592d6e350800000000000000
+      internalID: 6045751088562768659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 425
+        width: 245
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373d5e5bbee008ff0800000000000000
+      internalID: -36012391487122573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 438
+        width: 354
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1fc4b96e76952a0800000000000000
+      internalID: -6748248326492327444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 439
+        width: 132
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619c13e234bf30760800000000000000
+      internalID: 7423052876793104662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 438
+        width: 162
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36a1f61225e90cb0800000000000000
+      internalID: -4897131185212119493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 554
+        width: 195
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210511c8e048b2650800000000000000
+      internalID: 6209201709274714130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 561
+        width: 170
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5acb8c600e0cc40800000000000000
+      internalID: 5530666662153201149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 565
+        width: 172
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f0a1b29e4010340800000000000000
+      internalID: 4828145675014901596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 568
+        width: 146
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19311fb3c0897c90800000000000000
+      internalID: -7171559353398249190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 439
+        width: 96
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83ad6c49a3946880800000000000000
+      internalID: -8618601431539276916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 438
+        width: 99
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9613c2847b173e60800000000000000
+      internalID: 7941846655115138714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 436
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445ef4d1ade087510800000000000000
+      internalID: 1547002801959200068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 424
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e916d66f64b6bd480800000000000000
+      internalID: -8873380688277184098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 348
+        width: 170
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb39c49aa10ee9880800000000000000
+      internalID: -8602191833116929090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 345
+        width: 180
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd86839e13aac810800000000000000
+      internalID: 1786419553925238200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 330
+        width: 126
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8b9c0f981fe1610800000000000000
+      internalID: 1593976892888299685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 307
+        width: 130
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72f32f08395c13e0800000000000000
+      internalID: -2081690830444957061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 307
+        width: 122
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1de612d47c07d30800000000000000
+      internalID: 4427257567792517608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 309
+        width: 123
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3856c7980db694790800000000000000
+      internalID: -7545381157278554749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 195
+        width: 205
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f325fb1e8b3a1600800000000000000
+      internalID: 439729395162489848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 204
+        width: 165
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0be6e87a77a713e0800000000000000
+      internalID: -2083012158179316981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 195
+        width: 195
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14624339c76a526a0800000000000000
+      internalID: -6474585835299396031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 195
+        width: 195
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49653e3484c1a480800000000000000
+      internalID: -8889608117194233524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 195
+        width: 116
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501e19a4cd215bcc0800000000000000
+      internalID: -3696027181834444539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 36
+        width: 209
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d72433b32dadaa0800000000000000
+      internalID: -6135360390633980645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 149
+        width: 175
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058e2728585e8f340800000000000000
+      internalID: 4897916956347394128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 149
+        width: 158
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ab8a9e2c8047ba0800000000000000
+      internalID: -6092234762688611740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 157
+        width: 150
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59481f01ca8b50f0800000000000000
+      internalID: -1127154719939606178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 42
+        width: 122
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac08cc197c0231c0800000000000000
+      internalID: -4525540961240478558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 0
+        width: 188
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18abb4287123edb0800000000000000
+      internalID: -4763927180931782628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 170
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fb08fd86a9e2e30800000000000000
+      internalID: 4480688454497255308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 46
+        width: 105
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74ae24a70b320830800000000000000
+      internalID: 4035853120082715770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 35
+        width: 97
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94de5fbce8fd4940800000000000000
+      internalID: 5282151633682093213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 59
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975140c85ae4a7430800000000000000
+      internalID: 3781421310056600953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 75
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57cf6d0dce25c090800000000000000
+      internalID: -8014948503607326882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 53
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e189b0385a4f6fc00800000000000000
+      internalID: 934202964431312926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 90
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8465ca3fc0b8e29f0800000000000000
+      internalID: -491302421592779192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 55
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ff07823ad700150800000000000000
+      internalID: 5836803256783798165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 55
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2983e9a1cfd6d0e10800000000000000
+      internalID: 2165507925380839570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 55
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0866ab5ec2f57880800000000000000
+      internalID: -8613711744161388533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 55
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93eae5b7cb5f409f0800000000000000
+      internalID: -503007068486193607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 55
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d53511675614c6e0800000000000000
+      internalID: -1818303785004091950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 93
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d8d2b198e83c5c0800000000000000
+      internalID: -4196353708261536390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 111
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7a063e09d269040800000000000000
+      internalID: 4653957365247289307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 64
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c032214527aab9b0800000000000000
+      internalID: -5063551052576313146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 60
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b195d3f38cb75b550800000000000000
+      internalID: 6175978563993164059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 62
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770881ae53823aa40800000000000000
+      internalID: 5378186592036356215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 55
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cab65bfb878a1d0800000000000000
+      internalID: -3339286358917403624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 55
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d13618ea0db3bd40800000000000000
+      internalID: 5599026616292749777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 64
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f33ed6ca13da020800000000000000
+      internalID: 2354592796832382823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 60
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f292296718217a3c0800000000000000
+      internalID: -4348486567953553105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 56
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b9ab8a2261075a0800000000000000
+      internalID: -6525691521944347767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 83
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe273a0f2a8b2fc10800000000000000
+      internalID: 2085932587387417327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 63
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394d6df0f28e32350800000000000000
+      internalID: 5990887218159735955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 64
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1dd1d089b8478e0800000000000000
+      internalID: -1696577674440486404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuevohielo4-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 47
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cee1d64e0a96550800000000000000
+      internalID: 6154627268722224210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1bd5657bdb87d9ed586c275f9c6dec65
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      nuevohielo4-Photoroom_0: -4546533408259231518
+      nuevohielo4-Photoroom_1: -8146296555983414834
+      nuevohielo4-Photoroom_10: 6045751088562768659
+      nuevohielo4-Photoroom_11: -36012391487122573
+      nuevohielo4-Photoroom_12: -6748248326492327444
+      nuevohielo4-Photoroom_13: 7423052876793104662
+      nuevohielo4-Photoroom_14: -4897131185212119493
+      nuevohielo4-Photoroom_15: 6209201709274714130
+      nuevohielo4-Photoroom_16: 5530666662153201149
+      nuevohielo4-Photoroom_17: 4828145675014901596
+      nuevohielo4-Photoroom_18: -7171559353398249190
+      nuevohielo4-Photoroom_19: -8618601431539276916
+      nuevohielo4-Photoroom_2: -8360970370768906092
+      nuevohielo4-Photoroom_20: 7941846655115138714
+      nuevohielo4-Photoroom_21: 1547002801959200068
+      nuevohielo4-Photoroom_22: -8873380688277184098
+      nuevohielo4-Photoroom_23: -8602191833116929090
+      nuevohielo4-Photoroom_24: 1786419553925238200
+      nuevohielo4-Photoroom_25: 1593976892888299685
+      nuevohielo4-Photoroom_26: -2081690830444957061
+      nuevohielo4-Photoroom_27: 4427257567792517608
+      nuevohielo4-Photoroom_28: -7545381157278554749
+      nuevohielo4-Photoroom_29: 439729395162489848
+      nuevohielo4-Photoroom_3: -6894527274564773946
+      nuevohielo4-Photoroom_30: -2083012158179316981
+      nuevohielo4-Photoroom_31: -6474585835299396031
+      nuevohielo4-Photoroom_32: -8889608117194233524
+      nuevohielo4-Photoroom_33: -3696027181834444539
+      nuevohielo4-Photoroom_34: -6135360390633980645
+      nuevohielo4-Photoroom_35: 4897916956347394128
+      nuevohielo4-Photoroom_36: -6092234762688611740
+      nuevohielo4-Photoroom_37: -1127154719939606178
+      nuevohielo4-Photoroom_38: -4525540961240478558
+      nuevohielo4-Photoroom_39: -4763927180931782628
+      nuevohielo4-Photoroom_4: 1561612598697148283
+      nuevohielo4-Photoroom_40: 4480688454497255308
+      nuevohielo4-Photoroom_41: 4035853120082715770
+      nuevohielo4-Photoroom_42: 5282151633682093213
+      nuevohielo4-Photoroom_43: 3781421310056600953
+      nuevohielo4-Photoroom_44: -8014948503607326882
+      nuevohielo4-Photoroom_45: 934202964431312926
+      nuevohielo4-Photoroom_46: -491302421592779192
+      nuevohielo4-Photoroom_47: 5836803256783798165
+      nuevohielo4-Photoroom_48: 2165507925380839570
+      nuevohielo4-Photoroom_49: -8613711744161388533
+      nuevohielo4-Photoroom_5: 4153403937952444195
+      nuevohielo4-Photoroom_50: -503007068486193607
+      nuevohielo4-Photoroom_51: -1818303785004091950
+      nuevohielo4-Photoroom_52: -4196353708261536390
+      nuevohielo4-Photoroom_53: 4653957365247289307
+      nuevohielo4-Photoroom_54: -5063551052576313146
+      nuevohielo4-Photoroom_55: 6175978563993164059
+      nuevohielo4-Photoroom_56: 5378186592036356215
+      nuevohielo4-Photoroom_57: -3339286358917403624
+      nuevohielo4-Photoroom_58: 5599026616292749777
+      nuevohielo4-Photoroom_59: 2354592796832382823
+      nuevohielo4-Photoroom_6: 1497664918509198888
+      nuevohielo4-Photoroom_60: -4348486567953553105
+      nuevohielo4-Photoroom_61: -6525691521944347767
+      nuevohielo4-Photoroom_62: 2085932587387417327
+      nuevohielo4-Photoroom_63: 5990887218159735955
+      nuevohielo4-Photoroom_64: -1696577674440486404
+      nuevohielo4-Photoroom_65: 6154627268722224210
+      nuevohielo4-Photoroom_7: -4003199374488249498
+      nuevohielo4-Photoroom_8: -3388536675584812513
+      nuevohielo4-Photoroom_9: -7454988868176495311
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
