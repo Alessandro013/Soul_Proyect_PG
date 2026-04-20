@@ -1,0 +1,1679 @@
+fileFormatVersion: 2
+guid: bd8148efb045a977e9b4101ebf2ffb3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1176436169914050947
+    second: programadores_0
+  - first:
+      213: 2244053603269504620
+    second: programadores_1
+  - first:
+      213: -3489110716082025568
+    second: programadores_2
+  - first:
+      213: -6157823873909785110
+    second: programadores_3
+  - first:
+      213: 5592953232985518262
+    second: programadores_4
+  - first:
+      213: 2450709703840212805
+    second: programadores_5
+  - first:
+      213: -6813648345551525653
+    second: programadores_6
+  - first:
+      213: 3496266541764168821
+    second: programadores_7
+  - first:
+      213: 8002634629423869425
+    second: programadores_8
+  - first:
+      213: -1222543424767267152
+    second: programadores_9
+  - first:
+      213: -3564338974978087781
+    second: programadores_10
+  - first:
+      213: 4352650126608256072
+    second: programadores_11
+  - first:
+      213: -1745072986819124925
+    second: programadores_12
+  - first:
+      213: -6333739451315424240
+    second: programadores_13
+  - first:
+      213: -656577506163803724
+    second: programadores_14
+  - first:
+      213: -6289765194025766257
+    second: programadores_15
+  - first:
+      213: 1260170666696516035
+    second: programadores_16
+  - first:
+      213: 3868970014028449038
+    second: programadores_17
+  - first:
+      213: -2640386803824943722
+    second: programadores_18
+  - first:
+      213: 7625177844161497596
+    second: programadores_19
+  - first:
+      213: 8245790425120190427
+    second: programadores_20
+  - first:
+      213: -2741671669189542560
+    second: programadores_21
+  - first:
+      213: -4070896895584122344
+    second: programadores_22
+  - first:
+      213: 687440438352863584
+    second: programadores_23
+  - first:
+      213: 6632592806577126704
+    second: programadores_24
+  - first:
+      213: 3480142468046183621
+    second: programadores_25
+  - first:
+      213: 6491778693502378964
+    second: programadores_26
+  - first:
+      213: -8894755265718008440
+    second: programadores_27
+  - first:
+      213: 2103241783734048483
+    second: programadores_28
+  - first:
+      213: -8178141057613160260
+    second: programadores_29
+  - first:
+      213: 8866845888557922228
+    second: programadores_30
+  - first:
+      213: -4000413255505514437
+    second: programadores_31
+  - first:
+      213: -8866197331959112942
+    second: programadores_32
+  - first:
+      213: -7219531973885961986
+    second: programadores_33
+  - first:
+      213: 5025311079376474188
+    second: programadores_34
+  - first:
+      213: -8527321371463978856
+    second: programadores_35
+  - first:
+      213: -40850873432056849
+    second: programadores_36
+  - first:
+      213: -4319537157430039060
+    second: programadores_37
+  - first:
+      213: 7332158704288999373
+    second: programadores_38
+  - first:
+      213: 2072077476371852635
+    second: programadores_39
+  - first:
+      213: 8208513103223476907
+    second: programadores_40
+  - first:
+      213: -8041419634097021030
+    second: programadores_41
+  - first:
+      213: -7120399068104796643
+    second: programadores_42
+  - first:
+      213: 2439359545210163785
+    second: programadores_43
+  - first:
+      213: 2175725300850856622
+    second: programadores_44
+  - first:
+      213: -5076063797727655367
+    second: programadores_45
+  - first:
+      213: -1374681201402640298
+    second: programadores_46
+  - first:
+      213: 3454129531007153153
+    second: programadores_47
+  - first:
+      213: -13553127785756465
+    second: programadores_48
+  - first:
+      213: 5152938107394410533
+    second: programadores_49
+  - first:
+      213: 4412764136473018209
+    second: programadores_50
+  - first:
+      213: 8605720740289257435
+    second: programadores_51
+  - first:
+      213: 258445412673070349
+    second: programadores_52
+  - first:
+      213: -5739237331632123771
+    second: programadores_53
+  - first:
+      213: 8624053170224559745
+    second: programadores_54
+  - first:
+      213: -5133134883141593412
+    second: programadores_55
+  - first:
+      213: -3269352968138576039
+    second: programadores_56
+  - first:
+      213: 407641994405617663
+    second: programadores_57
+  - first:
+      213: 8251629011470059308
+    second: programadores_58
+  - first:
+      213: -7012253132584868280
+    second: programadores_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: programadores_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 988
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d761a5759857cafe0800000000000000
+      internalID: -1176436169914050947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 988
+        width: 78
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e60d7dcda742f10800000000000000
+      internalID: 2244053603269504620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 988
+        width: 75
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab0ce13a40349fc0800000000000000
+      internalID: -3489110716082025568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_3
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 988
+        width: 59
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedff2eefc30b8aa0800000000000000
+      internalID: -6157823873909785110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_4
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 988
+        width: 53
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0797925592e9d40800000000000000
+      internalID: 5592953232985518262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_5
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 994
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547aff0cd7ba20220800000000000000
+      internalID: 2450709703840212805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_6
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 988
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be829f21eee0171a0800000000000000
+      internalID: -6813648345551525653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_7
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 988
+        width: 97
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ccfed45eb358030800000000000000
+      internalID: 3496266541764168821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 798
+        width: 136
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdac02bbc11f0f60800000000000000
+      internalID: 8002634629423869425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 882
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bee1448b37a80fe0800000000000000
+      internalID: -1222543424767267152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_10
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 846
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94e951469ce88ec0800000000000000
+      internalID: -3564338974978087781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_11
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 889
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c4b049a38b76c30800000000000000
+      internalID: 4352650126608256072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 652
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34124814d5148c7e0800000000000000
+      internalID: -1745072986819124925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 633
+        width: 159
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0147770d6890a18a0800000000000000
+      internalID: -6333739451315424240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_14
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 351
+        width: 239
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b93891ac3e53e6f0800000000000000
+      internalID: -656577506163803724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_15
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 351
+        width: 226
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f827a7171e346b8a0800000000000000
+      internalID: -6289765194025766257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_16
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 234
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c120d07b860d7110800000000000000
+      internalID: 1260170666696516035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_17
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 249
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05cdc4aab751b530800000000000000
+      internalID: 3868970014028449038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_18
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 161
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d9268f0367b5bd0800000000000000
+      internalID: -2640386803824943722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_19
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 147
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9cc6e69d212d960800000000000000
+      internalID: 7625177844161497596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 155
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf2b9d14beee6270800000000000000
+      internalID: 8245790425120190427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_21
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 158
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d74339420a3f9d0800000000000000
+      internalID: -2741671669189542560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_22
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 155
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ac77d87d44187c0800000000000000
+      internalID: -4070896895584122344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_23
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 105
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061e24cbf674a8900800000000000000
+      internalID: 687440438352863584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_24
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 120
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d37df3404bb0c50800000000000000
+      internalID: 6632592806577126704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_25
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 87
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccd4a7d223fb4030800000000000000
+      internalID: 3480142468046183621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_26
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 34
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3a8aaa35e671a50800000000000000
+      internalID: 6491778693502378964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_27
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 34
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885c7d6563b7f8480800000000000000
+      internalID: -8894755265718008440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 34
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e61a344247303d10800000000000000
+      internalID: 2103241783734048483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 34
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb02ee9a908618e80800000000000000
+      internalID: -8178141057613160260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_30
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 34
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7b0a96b5d5d0b70800000000000000
+      internalID: 8866845888557922228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_31
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 39
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3074d6d65dab78c0800000000000000
+      internalID: -4000413255505514437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_32
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 39
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b9f007080f4f480800000000000000
+      internalID: -8866197331959112942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_33
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 33
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8d3f3abe11fcb90800000000000000
+      internalID: -7219531973885961986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_34
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 36
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40d11c2dcd7db540800000000000000
+      internalID: 5025311079376474188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_35
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 32
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890fa40746ed8a980800000000000000
+      internalID: -8527321371463978856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 22
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb5158d85ede6ff0800000000000000
+      internalID: -40850873432056849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_37
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 22
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced284957dbed04c0800000000000000
+      internalID: -4319537157430039060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc72fed7e7f01c560800000000000000
+      internalID: 7332158704288999373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 18
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d6b368c7f71cc10800000000000000
+      internalID: 2072077476371852635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_40
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 16
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba256c34d2f7ae170800000000000000
+      internalID: 8208513103223476907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_41
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 16
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f9bc3b273276090800000000000000
+      internalID: -8041419634097021030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_42
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 18
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d165796e5c24f2d90800000000000000
+      internalID: -7120399068104796643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_43
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 22
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942d5b305985ad120800000000000000
+      internalID: 2439359545210163785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 22
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea29b0632aab13e10800000000000000
+      internalID: 2175725300850856622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_45
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 13
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a093fbed23e89b0800000000000000
+      internalID: -5076063797727655367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_46
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 22
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6580dfe0bb62cece0800000000000000
+      internalID: -1374681201402640298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_47
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 12
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1043ed7f1888fef20800000000000000
+      internalID: 3454129531007153153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_48
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 22
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc80cb88089dfcff0800000000000000
+      internalID: -13553127785756465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_49
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 22
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52841d048e9e28740800000000000000
+      internalID: 5152938107394410533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_50
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 21
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fbe003a994d3d30800000000000000
+      internalID: 4412764136473018209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_51
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 14
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf17211b69ad6770800000000000000
+      internalID: 8605720740289257435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 17
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d052538cbbe269300800000000000000
+      internalID: 258445412673070349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_53
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 18
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580186efd022a50b0800000000000000
+      internalID: -5739237331632123771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_54
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 13
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186f0578aaacea770800000000000000
+      internalID: 8624053170224559745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_55
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 14
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6dd22350173c8b0800000000000000
+      internalID: -5133134883141593412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_56
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 13
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f2bb81ccce0a2d0800000000000000
+      internalID: -3269352968138576039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_57
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 13
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff1410fb3c38a500800000000000000
+      internalID: 407641994405617663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_58
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 14
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c270bfeeddca38270800000000000000
+      internalID: 8251629011470059308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: programadores_59
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 14
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846a82dade87fae90800000000000000
+      internalID: -7012253132584868280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 42656e062425a58adbf46fedea25bc32
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      programadores_0: -1176436169914050947
+      programadores_1: 2244053603269504620
+      programadores_10: -3564338974978087781
+      programadores_11: 4352650126608256072
+      programadores_12: -1745072986819124925
+      programadores_13: -6333739451315424240
+      programadores_14: -656577506163803724
+      programadores_15: -6289765194025766257
+      programadores_16: 1260170666696516035
+      programadores_17: 3868970014028449038
+      programadores_18: -2640386803824943722
+      programadores_19: 7625177844161497596
+      programadores_2: -3489110716082025568
+      programadores_20: 8245790425120190427
+      programadores_21: -2741671669189542560
+      programadores_22: -4070896895584122344
+      programadores_23: 687440438352863584
+      programadores_24: 6632592806577126704
+      programadores_25: 3480142468046183621
+      programadores_26: 6491778693502378964
+      programadores_27: -8894755265718008440
+      programadores_28: 2103241783734048483
+      programadores_29: -8178141057613160260
+      programadores_3: -6157823873909785110
+      programadores_30: 8866845888557922228
+      programadores_31: -4000413255505514437
+      programadores_32: -8866197331959112942
+      programadores_33: -7219531973885961986
+      programadores_34: 5025311079376474188
+      programadores_35: -8527321371463978856
+      programadores_36: -40850873432056849
+      programadores_37: -4319537157430039060
+      programadores_38: 7332158704288999373
+      programadores_39: 2072077476371852635
+      programadores_4: 5592953232985518262
+      programadores_40: 8208513103223476907
+      programadores_41: -8041419634097021030
+      programadores_42: -7120399068104796643
+      programadores_43: 2439359545210163785
+      programadores_44: 2175725300850856622
+      programadores_45: -5076063797727655367
+      programadores_46: -1374681201402640298
+      programadores_47: 3454129531007153153
+      programadores_48: -13553127785756465
+      programadores_49: 5152938107394410533
+      programadores_5: 2450709703840212805
+      programadores_50: 4412764136473018209
+      programadores_51: 8605720740289257435
+      programadores_52: 258445412673070349
+      programadores_53: -5739237331632123771
+      programadores_54: 8624053170224559745
+      programadores_55: -5133134883141593412
+      programadores_56: -3269352968138576039
+      programadores_57: 407641994405617663
+      programadores_58: 8251629011470059308
+      programadores_59: -7012253132584868280
+      programadores_6: -6813648345551525653
+      programadores_7: 3496266541764168821
+      programadores_8: 8002634629423869425
+      programadores_9: -1222543424767267152
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

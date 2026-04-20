@@ -1,0 +1,4643 @@
+fileFormatVersion: 2
+guid: ef506cacfe84062ce87c0b469ab9bdc9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7143528988312684409
+    second: newsala_0
+  - first:
+      213: -5547322447922986187
+    second: newsala_1
+  - first:
+      213: -6106275746115926420
+    second: newsala_2
+  - first:
+      213: 6528815719423208053
+    second: newsala_3
+  - first:
+      213: -1939594317878130658
+    second: newsala_4
+  - first:
+      213: -8636935354764625275
+    second: newsala_5
+  - first:
+      213: 8473193952403475103
+    second: newsala_6
+  - first:
+      213: 1619377582899381163
+    second: newsala_7
+  - first:
+      213: 171285719626429264
+    second: newsala_8
+  - first:
+      213: 2083882364710334256
+    second: newsala_9
+  - first:
+      213: -7097684057092399855
+    second: newsala_10
+  - first:
+      213: 4402791700276791893
+    second: newsala_11
+  - first:
+      213: -7023298016545760344
+    second: newsala_12
+  - first:
+      213: -1425848409624996259
+    second: newsala_13
+  - first:
+      213: -7761533414788930316
+    second: newsala_14
+  - first:
+      213: 945922268683958820
+    second: newsala_15
+  - first:
+      213: 909937852052997331
+    second: newsala_16
+  - first:
+      213: 8053565059581872848
+    second: newsala_17
+  - first:
+      213: 8356525029344819048
+    second: newsala_18
+  - first:
+      213: 2701986223119997072
+    second: newsala_19
+  - first:
+      213: -3558994870351422932
+    second: newsala_20
+  - first:
+      213: 476278266298521068
+    second: newsala_21
+  - first:
+      213: 2686921147874775599
+    second: newsala_22
+  - first:
+      213: 2886755100885674655
+    second: newsala_23
+  - first:
+      213: -3483092382746322613
+    second: newsala_24
+  - first:
+      213: -9031810073601438152
+    second: newsala_25
+  - first:
+      213: 5298137457727618087
+    second: newsala_26
+  - first:
+      213: 1293046214434233526
+    second: newsala_27
+  - first:
+      213: 1800334337156378679
+    second: newsala_28
+  - first:
+      213: -8112386259984305299
+    second: newsala_29
+  - first:
+      213: -7497979282034368570
+    second: newsala_30
+  - first:
+      213: -4713110841059968700
+    second: newsala_31
+  - first:
+      213: 3260007811307269166
+    second: newsala_32
+  - first:
+      213: 259704812569808637
+    second: newsala_33
+  - first:
+      213: 5860982742840128454
+    second: newsala_34
+  - first:
+      213: 7986276691817994682
+    second: newsala_35
+  - first:
+      213: -7319474822539220938
+    second: newsala_36
+  - first:
+      213: 8593453757318371640
+    second: newsala_37
+  - first:
+      213: -3100629641332122651
+    second: newsala_38
+  - first:
+      213: 2125979958177082487
+    second: newsala_39
+  - first:
+      213: -78132944101421811
+    second: newsala_40
+  - first:
+      213: 7534136353702910840
+    second: newsala_41
+  - first:
+      213: -3152837577930292562
+    second: newsala_42
+  - first:
+      213: -3818529458063833314
+    second: newsala_43
+  - first:
+      213: 4990293342812511884
+    second: newsala_44
+  - first:
+      213: 2957827766657529121
+    second: newsala_45
+  - first:
+      213: -1352510069123085730
+    second: newsala_46
+  - first:
+      213: 7444959617849320267
+    second: newsala_47
+  - first:
+      213: -4112065853503799052
+    second: newsala_48
+  - first:
+      213: -5840491370035768779
+    second: newsala_49
+  - first:
+      213: -8179950851208260158
+    second: newsala_50
+  - first:
+      213: 3360106881360627276
+    second: newsala_51
+  - first:
+      213: 5243054272076830510
+    second: newsala_52
+  - first:
+      213: -8012271616415197516
+    second: newsala_53
+  - first:
+      213: -7407781501224872980
+    second: newsala_54
+  - first:
+      213: -2345528832350504740
+    second: newsala_55
+  - first:
+      213: -3838013873904651777
+    second: newsala_56
+  - first:
+      213: -2118804003751881942
+    second: newsala_57
+  - first:
+      213: -1436108591348889972
+    second: newsala_58
+  - first:
+      213: -1964644136382637209
+    second: newsala_59
+  - first:
+      213: -8648968310363196349
+    second: newsala_60
+  - first:
+      213: -5645533017986336847
+    second: newsala_61
+  - first:
+      213: -1037359864964621484
+    second: newsala_62
+  - first:
+      213: -118060587671447465
+    second: newsala_63
+  - first:
+      213: 7002933806747408413
+    second: newsala_64
+  - first:
+      213: -5116675301086073362
+    second: newsala_65
+  - first:
+      213: 7869125620430592971
+    second: newsala_66
+  - first:
+      213: -5449320133986890238
+    second: newsala_67
+  - first:
+      213: -5973733018467079151
+    second: newsala_68
+  - first:
+      213: -9079403167464535478
+    second: newsala_69
+  - first:
+      213: -4358142057106542502
+    second: newsala_70
+  - first:
+      213: 1197215777620450718
+    second: newsala_71
+  - first:
+      213: 7811651429340100207
+    second: newsala_72
+  - first:
+      213: 8214890188628319384
+    second: newsala_73
+  - first:
+      213: -8561731613801883441
+    second: newsala_74
+  - first:
+      213: -8103049557530090414
+    second: newsala_75
+  - first:
+      213: -137268961158937512
+    second: newsala_76
+  - first:
+      213: 3841576260613286215
+    second: newsala_77
+  - first:
+      213: -4167050841828904726
+    second: newsala_78
+  - first:
+      213: -6433436153204736430
+    second: newsala_79
+  - first:
+      213: -9119977119902640455
+    second: newsala_80
+  - first:
+      213: 3489460834457566905
+    second: newsala_81
+  - first:
+      213: -5397178573817608008
+    second: newsala_82
+  - first:
+      213: -6718100404485474397
+    second: newsala_83
+  - first:
+      213: -3995689935679463736
+    second: newsala_84
+  - first:
+      213: -5893134814390416548
+    second: newsala_85
+  - first:
+      213: 6117135851748069100
+    second: newsala_86
+  - first:
+      213: 6047772733835329812
+    second: newsala_87
+  - first:
+      213: 4994893259947782260
+    second: newsala_88
+  - first:
+      213: -1538667497061109732
+    second: newsala_89
+  - first:
+      213: 4125536731666727650
+    second: newsala_90
+  - first:
+      213: 4877871653210515983
+    second: newsala_91
+  - first:
+      213: -4097232520543951151
+    second: newsala_92
+  - first:
+      213: 356010261568972708
+    second: newsala_93
+  - first:
+      213: 2952907516897086902
+    second: newsala_94
+  - first:
+      213: -7193484460676138978
+    second: newsala_95
+  - first:
+      213: -6577335639183489955
+    second: newsala_96
+  - first:
+      213: 976853305096462684
+    second: newsala_97
+  - first:
+      213: 1521676556107963816
+    second: newsala_98
+  - first:
+      213: 3600382747865254727
+    second: newsala_99
+  - first:
+      213: -4126068381000109111
+    second: newsala_100
+  - first:
+      213: 716839075137083610
+    second: newsala_101
+  - first:
+      213: 8159760204931619906
+    second: newsala_102
+  - first:
+      213: -1858390004355942518
+    second: newsala_103
+  - first:
+      213: 2063835674608820572
+    second: newsala_104
+  - first:
+      213: -6697172413073637782
+    second: newsala_105
+  - first:
+      213: -5708946698051161224
+    second: newsala_106
+  - first:
+      213: -4387137119246996759
+    second: newsala_107
+  - first:
+      213: 8233813857479939245
+    second: newsala_108
+  - first:
+      213: 8039206014210492053
+    second: newsala_109
+  - first:
+      213: 2326606854881524549
+    second: newsala_110
+  - first:
+      213: 8574464391069382474
+    second: newsala_111
+  - first:
+      213: 2850900949722856123
+    second: newsala_112
+  - first:
+      213: 2238782238946861923
+    second: newsala_113
+  - first:
+      213: 898311855421850375
+    second: newsala_114
+  - first:
+      213: -7390605552298245633
+    second: newsala_115
+  - first:
+      213: -190917533639701102
+    second: newsala_116
+  - first:
+      213: -7887687427777087968
+    second: newsala_117
+  - first:
+      213: -3356927275235621667
+    second: newsala_118
+  - first:
+      213: 8411161658447693799
+    second: newsala_119
+  - first:
+      213: 8936146755176786068
+    second: newsala_120
+  - first:
+      213: 6026812361770622371
+    second: newsala_121
+  - first:
+      213: 6279829207626845168
+    second: newsala_122
+  - first:
+      213: -2153789935120710836
+    second: newsala_123
+  - first:
+      213: -9172365189541086120
+    second: newsala_124
+  - first:
+      213: 4911189014257783924
+    second: newsala_125
+  - first:
+      213: -215562986376244687
+    second: newsala_126
+  - first:
+      213: -1533977190167210174
+    second: newsala_127
+  - first:
+      213: -8321668210269769246
+    second: newsala_128
+  - first:
+      213: -2882297410010003423
+    second: newsala_129
+  - first:
+      213: 7228833698505298005
+    second: newsala_130
+  - first:
+      213: -3338267892897775726
+    second: newsala_131
+  - first:
+      213: 8631625223120306895
+    second: newsala_132
+  - first:
+      213: 6217242048059519208
+    second: newsala_133
+  - first:
+      213: -311673781213517663
+    second: newsala_134
+  - first:
+      213: -1856495606411064203
+    second: newsala_135
+  - first:
+      213: 5054840735259279440
+    second: newsala_136
+  - first:
+      213: 7356646043152065917
+    second: newsala_137
+  - first:
+      213: -6707771826641838557
+    second: newsala_138
+  - first:
+      213: -8387289817934098595
+    second: newsala_139
+  - first:
+      213: 5397699543535439198
+    second: newsala_140
+  - first:
+      213: -5081724134010761301
+    second: newsala_141
+  - first:
+      213: -8864591455277784766
+    second: newsala_142
+  - first:
+      213: -4564178598679498422
+    second: newsala_143
+  - first:
+      213: 740083633757917485
+    second: newsala_144
+  - first:
+      213: 1070899004746195277
+    second: newsala_145
+  - first:
+      213: -2830368061425196446
+    second: newsala_146
+  - first:
+      213: 2519901677582581643
+    second: newsala_147
+  - first:
+      213: -2667933007903725846
+    second: newsala_148
+  - first:
+      213: -3855555306804949174
+    second: newsala_149
+  - first:
+      213: -9138872312403221201
+    second: newsala_150
+  - first:
+      213: -1027425520056291994
+    second: newsala_151
+  - first:
+      213: 8036464204503916574
+    second: newsala_152
+  - first:
+      213: -3213340396407233940
+    second: newsala_153
+  - first:
+      213: -5443104611114376263
+    second: newsala_154
+  - first:
+      213: 6107941669840370554
+    second: newsala_155
+  - first:
+      213: -8814673931260505116
+    second: newsala_156
+  - first:
+      213: -2019676325956105289
+    second: newsala_157
+  - first:
+      213: 3008590815020105286
+    second: newsala_158
+  - first:
+      213: 7803416816843436882
+    second: newsala_159
+  - first:
+      213: -8534502029213128797
+    second: newsala_160
+  - first:
+      213: -702215846722639086
+    second: newsala_161
+  - first:
+      213: -307682225973317186
+    second: newsala_162
+  - first:
+      213: -5227078341691806655
+    second: newsala_163
+  - first:
+      213: 2472100150892767963
+    second: newsala_164
+  - first:
+      213: 4968494761630955587
+    second: newsala_165
+  - first:
+      213: -4365071837306244419
+    second: newsala_166
+  - first:
+      213: -5652641864790368545
+    second: newsala_167
+  - first:
+      213: -4321273794827929424
+    second: newsala_168
+  - first:
+      213: 3366350077348926079
+    second: newsala_169
+  - first:
+      213: -4219354144471082281
+    second: newsala_170
+  - first:
+      213: -926598311300745707
+    second: newsala_171
+  - first:
+      213: 848703015578424838
+    second: newsala_172
+  - first:
+      213: 1989176661560038957
+    second: newsala_173
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: newsala_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 933
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977451f44c9e22360800000000000000
+      internalID: 7143528988312684409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 946
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5330005ef93f303b0800000000000000
+      internalID: -5547322447922986187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 945
+        width: 83
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c664d24bf86224ba0800000000000000
+      internalID: -6106275746115926420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 933
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ae4304e430b9a50800000000000000
+      internalID: 6528815719423208053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_4
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 946
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18028a8e3d2515e0800000000000000
+      internalID: -1939594317878130658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_5
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 947
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58afd372e01732880800000000000000
+      internalID: -8636935354764625275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_6
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 946
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a4ffdb105d69570800000000000000
+      internalID: 8473193952403475103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 933
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3c2f1f45f297610800000000000000
+      internalID: 1619377582899381163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 933
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0533e695477806200800000000000000
+      internalID: 171285719626429264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_9
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 931
+        width: 65
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fa24648ff6bec10800000000000000
+      internalID: 2083882364710334256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 933
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ddd0984f5ff7d90800000000000000
+      internalID: -7097684057092399855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_11
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 933
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a490379bbd91d30800000000000000
+      internalID: 4402791700276791893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_12
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 933
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab951c3aab388e90800000000000000
+      internalID: -7023298016545760344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_13
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 931
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d561fb80d6e563ce0800000000000000
+      internalID: -1425848409624996259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 871
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f46e2b4b7e794490800000000000000
+      internalID: -7761533414788930316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 871
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42af90aaa47902d00800000000000000
+      internalID: 945922268683958820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 870
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d40d47c7afb0ac00800000000000000
+      internalID: 909937852052997331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 871
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da00e780c204cf60800000000000000
+      internalID: 8053565059581872848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_18
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 871
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86732ca4d3758f370800000000000000
+      internalID: 8356525029344819048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 872
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098111977226f7520800000000000000
+      internalID: 2701986223119997072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_20
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 861
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a14439509eb9ec0800000000000000
+      internalID: -3558994870351422932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_21
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 873
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce556fc4f841c9600800000000000000
+      internalID: 476278266298521068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_22
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 861
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f229f8e4c8cd94520800000000000000
+      internalID: 2686921147874775599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_23
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 861
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a66d53870df0820800000000000000
+      internalID: 2886755100885674655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_24
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 872
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49598e9ee199afc0800000000000000
+      internalID: -3483092382746322613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 808
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e0134379098a280800000000000000
+      internalID: -9031810073601438152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 807
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cbb0372f3c68940800000000000000
+      internalID: 5298137457727618087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_27
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 807
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc14816ea2d1f110800000000000000
+      internalID: 1293046214434233526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 793
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730f4238a821cf810800000000000000
+      internalID: 1800334337156378679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_29
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 808
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6330e48da30b6f80800000000000000
+      internalID: -8112386259984305299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_30
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 808
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf5a19a193d1f790800000000000000
+      internalID: -7497979282034368570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_31
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 794
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449f39349aaa79eb0800000000000000
+      internalID: -4713110841059968700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_32
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 808
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ce7f505dfdd3d20800000000000000
+      internalID: 3260007811307269166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_33
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 808
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfeceaba628aa9300800000000000000
+      internalID: 259704812569808637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_34
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 794
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c33ea570c4665150800000000000000
+      internalID: 5860982742840128454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_35
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 794
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab91bcd8654f4de60800000000000000
+      internalID: 7986276691817994682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 793
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638622cdd600c6a90800000000000000
+      internalID: -7319474822539220938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_37
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 793
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83915b689a4124770800000000000000
+      internalID: 8593453757318371640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_38
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 793
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb1a50e4c958f4d0800000000000000
+      internalID: -3100629641332122651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 794
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77caebe028ff08d10800000000000000
+      internalID: 2125979958177082487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_40
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 794
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d4495508a6aeef0800000000000000
+      internalID: -78132944101421811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_41
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 792
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b91db9811ae8860800000000000000
+      internalID: 7534136353702910840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 760
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea246f46deede34d0800000000000000
+      internalID: -3152837577930292562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_43
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 762
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e178db770bbd10bc0800000000000000
+      internalID: -3818529458063833314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_44
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 658
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e16570b55114540800000000000000
+      internalID: 4990293342812511884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_45
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 762
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125b86abea05c0920800000000000000
+      internalID: 2957827766657529121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_46
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 762
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a87ce024bea3de0800000000000000
+      internalID: -1352510069123085730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_47
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 760
+        width: 58
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43690dc35fc15760800000000000000
+      internalID: 7444959617849320267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 672
+        width: 145
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f084e494e10fe6c0800000000000000
+      internalID: -4112065853503799052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_49
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 648
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532984f0b0862fea0800000000000000
+      internalID: -5840491370035768779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_50
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 641
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5d3914a0afa7e80800000000000000
+      internalID: -8179950851208260158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_51
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 660
+        width: 157
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4688dee76f71ae20800000000000000
+      internalID: 3360106881360627276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_52
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 543
+        width: 56
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27db31e41213c840800000000000000
+      internalID: 5243054272076830510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_53
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 489
+        width: 116
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b690ab6a61bec090800000000000000
+      internalID: -8012271616415197516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_54
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 624
+        width: 63
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce318c509f5423990800000000000000
+      internalID: -7407781501224872980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_55
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 624
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8bf4144f1037fd0800000000000000
+      internalID: -2345528832350504740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_56
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 545
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff174e267b2acbac0800000000000000
+      internalID: -3838013873904651777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_57
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 543
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2391b70cfe7892e0800000000000000
+      internalID: -2118804003751881942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_58
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 543
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8643c158dae11ce0800000000000000
+      internalID: -1436108591348889972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_59
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 553
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bdbdc219e2cb4e0800000000000000
+      internalID: -1964644136382637209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_60
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 542
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344f03b5521b8f780800000000000000
+      internalID: -8648968310363196349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_61
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 543
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b77f27a1a907a1b0800000000000000
+      internalID: -5645533017986336847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_62
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 489
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b5980f2be8a91f0800000000000000
+      internalID: -1037359864964621484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_63
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 489
+        width: 85
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7589ed165809c5ef0800000000000000
+      internalID: -118060587671447465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_64
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 461
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18d0c0b13b6f2160800000000000000
+      internalID: 7002933806747408413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 461
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedefb74ceaedf8b0800000000000000
+      internalID: -5116675301086073362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_66
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 459
+        width: 54
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbd0b23f00c43d60800000000000000
+      internalID: 7869125620430592971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_67
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 459
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ec35ab5302064b0800000000000000
+      internalID: -5449320133986890238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_68
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 461
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c6f3b4879091da0800000000000000
+      internalID: -5973733018467079151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_69
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 459
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a48b68cea7ff180800000000000000
+      internalID: -9079403167464535478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_70
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 461
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a507975b3e4c483c0800000000000000
+      internalID: -4358142057106542502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_71
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 462
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d5f88186d5d9010800000000000000
+      internalID: 1197215777620450718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_72
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 464
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f663dfa469f886c60800000000000000
+      internalID: 7811651429340100207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_73
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 463
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c580a2a17210270800000000000000
+      internalID: 8214890188628319384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_74
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 464
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc85b11957e9e2980800000000000000
+      internalID: -8561731613801883441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_75
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 378
+        width: 111
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2546806fb5f2c8f80800000000000000
+      internalID: -8103049557530090414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_76
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 379
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8544f6b6b92581ef0800000000000000
+      internalID: -137268961158937512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_77
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 372
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749ad676145005530800000000000000
+      internalID: 3841576260613286215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_78
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 403
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0bbcb5659ab26c0800000000000000
+      internalID: -4167050841828904726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_79
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 425
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e731b87e7d7b6a0800000000000000
+      internalID: -6433436153204736430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_80
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 427
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6538011255f6180800000000000000
+      internalID: -9119977119902640455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_81
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 386
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be3b77142e0d6030800000000000000
+      internalID: 3489460834457566905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_82
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 386
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8804ebeae5915b0800000000000000
+      internalID: -5397178573817608008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_83
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 388
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a73c31b64384c2a0800000000000000
+      internalID: -6718100404485474397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_84
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 344
+        width: 74
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ced83f6c257c88c0800000000000000
+      internalID: -3995689935679463736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_85
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 344
+        width: 65
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b85c60c11673ea0800000000000000
+      internalID: -5893134814390416548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_86
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 296
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee004ea5ae64e450800000000000000
+      internalID: 6117135851748069100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_87
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 342
+        width: 62
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4114c8a42410ee350800000000000000
+      internalID: 6047772733835329812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_88
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 344
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4703e22b4fc615540800000000000000
+      internalID: 4994893259947782260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_89
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 290
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10bb3a401e85aae0800000000000000
+      internalID: -1538667497061109732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_90
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 293
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e242d6acc9d04930800000000000000
+      internalID: 4125536731666727650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_91
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 305
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a6f8dac6ea1b340800000000000000
+      internalID: 4877871653210515983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_92
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 300
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6acca0bb4b327c0800000000000000
+      internalID: -4097232520543951151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_93
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 295
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a76639527dc0f400800000000000000
+      internalID: 356010261568972708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_94
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 297
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd4b3fcdb5daf820800000000000000
+      internalID: 2952907516897086902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_95
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 276
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e183b18eefb9b2c90800000000000000
+      internalID: -7193484460676138978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_96
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 276
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5483f9951c98b4a0800000000000000
+      internalID: -6577335639183489955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_97
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 267
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51e0f7c7ea7e8d00800000000000000
+      internalID: 976853305096462684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_98
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 268
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8addaddf3c41e1510800000000000000
+      internalID: 1521676556107963816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_99
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 255
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b04f5980127f130800000000000000
+      internalID: 3600382747865254727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_100
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 244
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c374871ba24db6c0800000000000000
+      internalID: -4126068381000109111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_101
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 246
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad85aa24759b2f900800000000000000
+      internalID: 716839075137083610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_102
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 246
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c51539caa4d3170800000000000000
+      internalID: 8159760204931619906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_103
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 251
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a873a30232ca536e0800000000000000
+      internalID: -1858390004355942518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_104
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 257
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5166d38c9734ac10800000000000000
+      internalID: 2063835674608820572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_105
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 238
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e33376c2dde03a0800000000000000
+      internalID: -6697172413073637782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_106
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 230
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8737505b93fb5c0b0800000000000000
+      internalID: -5708946698051161224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_107
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 199
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea2a5ab802cd13c0800000000000000
+      internalID: -4387137119246996759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_108
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 198
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4d7c92412644270800000000000000
+      internalID: 8233813857479939245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_109
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 201
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5964331c64ff09f60800000000000000
+      internalID: 8039206014210492053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_110
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 200
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bb33d8b94c94020800000000000000
+      internalID: 2326606854881524549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_111
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 220
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a473de82fed9ef670800000000000000
+      internalID: 8574464391069382474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_112
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 227
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbafd0e1f4f609720800000000000000
+      internalID: 2850900949722856123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_113
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 205
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363a1e1b590c11f10800000000000000
+      internalID: 2238782238946861923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_114
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 198
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70301ff7fd1777c00800000000000000
+      internalID: 898311855421850375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_115
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 198
+        width: 72
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1cb34486b4f6990800000000000000
+      internalID: -7390605552298245633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_116
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 201
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d0302c389b95df0800000000000000
+      internalID: -190917533639701102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_117
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 197
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0263800431e498290800000000000000
+      internalID: -7887687427777087968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_118
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 162
+        width: 61
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4c2cecd6cc961d0800000000000000
+      internalID: -3356927275235621667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_119
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 162
+        width: 52
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e70920d6f27ab470800000000000000
+      internalID: 8411161658447693799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_120
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 162
+        width: 56
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498621bc022930c70800000000000000
+      internalID: 8936146755176786068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_121
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 164
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad554f59e983a350800000000000000
+      internalID: 6026812361770622371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_122
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 164
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb88b2746f662750800000000000000
+      internalID: 6279829207626845168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_123
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 129
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43815c17733c12e0800000000000000
+      internalID: -2153789935120710836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_124
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 127
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cbe37157635b080800000000000000
+      internalID: -9172365189541086120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_125
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 129
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474d2ab436c082440800000000000000
+      internalID: 4911189014257783924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_126
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 127
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13252522b9a220df0800000000000000
+      internalID: -215562986376244687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_127
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 131
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24718867fd736bae0800000000000000
+      internalID: -1533977190167210174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_128
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 131
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1b5345ade738c80800000000000000
+      internalID: -8321668210269769246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_129
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 131
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1284353d6c50008d0800000000000000
+      internalID: -2882297410010003423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_130
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 136
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55018c3e2f9f15460800000000000000
+      internalID: 7228833698505298005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_131
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 130
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f7cbec9071ca1d0800000000000000
+      internalID: -3338267892897775726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_132
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 131
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2436a7861b9c770800000000000000
+      internalID: 8631625223120306895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_133
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 129
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0b53dc3b4184650800000000000000
+      internalID: 6217242048059519208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_134
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 129
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a827f8e856bcabf0800000000000000
+      internalID: -311673781213517663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_135
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 129
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c8bc405176c36e0800000000000000
+      internalID: -1856495606411064203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_136
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 94
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050cd45fdd6662640800000000000000
+      internalID: 5054840735259279440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_137
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 95
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75ac5c599e081660800000000000000
+      internalID: 7356646043152065917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_138
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 94
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ed3ae101539e2a0800000000000000
+      internalID: -6707771826641838557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_139
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 94
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f89cd295c5a9b80800000000000000
+      internalID: -8387289817934098595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_140
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 92
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5dc7b8f22b78ea40800000000000000
+      internalID: 5397699543535439198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_141
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 93
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf42c103d61a79b0800000000000000
+      internalID: -5081724134010761301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_142
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 94
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241643db905aaf480800000000000000
+      internalID: -8864591455277784766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_143
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 95
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41b44e1fb7c8a0c0800000000000000
+      internalID: -4564178598679498422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_144
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 95
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21983ec42e454a00800000000000000
+      internalID: 740083633757917485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_145
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 95
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41673098f89cde00800000000000000
+      internalID: 1070899004746195277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_146
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 70
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262e32b7e3388b8d0800000000000000
+      internalID: -2830368061425196446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_147
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 72
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f7839893d78f220800000000000000
+      internalID: 2519901677582581643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_148
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 72
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6eb5b801999fad0800000000000000
+      internalID: -2667933007903725846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_149
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 72
+        width: 60
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fc40640e05e7ac0800000000000000
+      internalID: -3855555306804949174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_150
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 72
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25ad8b3d043c2180800000000000000
+      internalID: -9138872312403221201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_151
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 16
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dafdbdee9ddb1f0800000000000000
+      internalID: -1027425520056291994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_152
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10299f6d91478f60800000000000000
+      internalID: 8036464204503916574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_153
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 48
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62ebb93febe763d0800000000000000
+      internalID: -3213340396407233940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_154
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 59
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3ac3be1353674b0800000000000000
+      internalID: -5443104611114376263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_155
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 52
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b34a36694c3c450800000000000000
+      internalID: 6107941669840370554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_156
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 16
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3525cf2ccfba580800000000000000
+      internalID: -8814673931260505116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_157
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 15
+        width: 99
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbce1e051ba8f3e0800000000000000
+      internalID: -2019676325956105289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_158
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 24
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64eb6c3f769a0c920800000000000000
+      internalID: 3008590815020105286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_159
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 23
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253334a204e4b4c60800000000000000
+      internalID: 7803416816843436882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_160
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 26
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7a6e54f9b5f8980800000000000000
+      internalID: -8534502029213128797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_161
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 44
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b627c686a3146f0800000000000000
+      internalID: -702215846722639086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_162
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 37
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1b82945a4eabbf0800000000000000
+      internalID: -307682225973317186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_163
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 35
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c625641ffa577b0800000000000000
+      internalID: -5227078341691806655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_164
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 43
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda272f4df9ae4220800000000000000
+      internalID: 2472100150892767963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_165
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 43
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348f66759a3a3f440800000000000000
+      internalID: 4968494761630955587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_166
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 29
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2bc468a462c63c0800000000000000
+      internalID: -4365071837306244419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_167
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 25
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde1ba64c28cd81b0800000000000000
+      internalID: -5652641864790368545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_168
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 31
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8b312f060c704c0800000000000000
+      internalID: -4321273794827929424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_169
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 31
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72ddf54f8da7be20800000000000000
+      internalID: 3366350077348926079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_170
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da9a3db2c7d175c0800000000000000
+      internalID: -4219354144471082281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_171
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 22
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5163175cebf0423f0800000000000000
+      internalID: -926598311300745707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_172
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 23
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606da5365e237cb00800000000000000
+      internalID: 848703015578424838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: newsala_173
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 26
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2698c372a9fa9b10800000000000000
+      internalID: 1989176661560038957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f4a56014f1701d6aaa5563955d87fb6f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      newsala_0: 7143528988312684409
+      newsala_1: -5547322447922986187
+      newsala_10: -7097684057092399855
+      newsala_100: -4126068381000109111
+      newsala_101: 716839075137083610
+      newsala_102: 8159760204931619906
+      newsala_103: -1858390004355942518
+      newsala_104: 2063835674608820572
+      newsala_105: -6697172413073637782
+      newsala_106: -5708946698051161224
+      newsala_107: -4387137119246996759
+      newsala_108: 8233813857479939245
+      newsala_109: 8039206014210492053
+      newsala_11: 4402791700276791893
+      newsala_110: 2326606854881524549
+      newsala_111: 8574464391069382474
+      newsala_112: 2850900949722856123
+      newsala_113: 2238782238946861923
+      newsala_114: 898311855421850375
+      newsala_115: -7390605552298245633
+      newsala_116: -190917533639701102
+      newsala_117: -7887687427777087968
+      newsala_118: -3356927275235621667
+      newsala_119: 8411161658447693799
+      newsala_12: -7023298016545760344
+      newsala_120: 8936146755176786068
+      newsala_121: 6026812361770622371
+      newsala_122: 6279829207626845168
+      newsala_123: -2153789935120710836
+      newsala_124: -9172365189541086120
+      newsala_125: 4911189014257783924
+      newsala_126: -215562986376244687
+      newsala_127: -1533977190167210174
+      newsala_128: -8321668210269769246
+      newsala_129: -2882297410010003423
+      newsala_13: -1425848409624996259
+      newsala_130: 7228833698505298005
+      newsala_131: -3338267892897775726
+      newsala_132: 8631625223120306895
+      newsala_133: 6217242048059519208
+      newsala_134: -311673781213517663
+      newsala_135: -1856495606411064203
+      newsala_136: 5054840735259279440
+      newsala_137: 7356646043152065917
+      newsala_138: -6707771826641838557
+      newsala_139: -8387289817934098595
+      newsala_14: -7761533414788930316
+      newsala_140: 5397699543535439198
+      newsala_141: -5081724134010761301
+      newsala_142: -8864591455277784766
+      newsala_143: -4564178598679498422
+      newsala_144: 740083633757917485
+      newsala_145: 1070899004746195277
+      newsala_146: -2830368061425196446
+      newsala_147: 2519901677582581643
+      newsala_148: -2667933007903725846
+      newsala_149: -3855555306804949174
+      newsala_15: 945922268683958820
+      newsala_150: -9138872312403221201
+      newsala_151: -1027425520056291994
+      newsala_152: 8036464204503916574
+      newsala_153: -3213340396407233940
+      newsala_154: -5443104611114376263
+      newsala_155: 6107941669840370554
+      newsala_156: -8814673931260505116
+      newsala_157: -2019676325956105289
+      newsala_158: 3008590815020105286
+      newsala_159: 7803416816843436882
+      newsala_16: 909937852052997331
+      newsala_160: -8534502029213128797
+      newsala_161: -702215846722639086
+      newsala_162: -307682225973317186
+      newsala_163: -5227078341691806655
+      newsala_164: 2472100150892767963
+      newsala_165: 4968494761630955587
+      newsala_166: -4365071837306244419
+      newsala_167: -5652641864790368545
+      newsala_168: -4321273794827929424
+      newsala_169: 3366350077348926079
+      newsala_17: 8053565059581872848
+      newsala_170: -4219354144471082281
+      newsala_171: -926598311300745707
+      newsala_172: 848703015578424838
+      newsala_173: 1989176661560038957
+      newsala_18: 8356525029344819048
+      newsala_19: 2701986223119997072
+      newsala_2: -6106275746115926420
+      newsala_20: -3558994870351422932
+      newsala_21: 476278266298521068
+      newsala_22: 2686921147874775599
+      newsala_23: 2886755100885674655
+      newsala_24: -3483092382746322613
+      newsala_25: -9031810073601438152
+      newsala_26: 5298137457727618087
+      newsala_27: 1293046214434233526
+      newsala_28: 1800334337156378679
+      newsala_29: -8112386259984305299
+      newsala_3: 6528815719423208053
+      newsala_30: -7497979282034368570
+      newsala_31: -4713110841059968700
+      newsala_32: 3260007811307269166
+      newsala_33: 259704812569808637
+      newsala_34: 5860982742840128454
+      newsala_35: 7986276691817994682
+      newsala_36: -7319474822539220938
+      newsala_37: 8593453757318371640
+      newsala_38: -3100629641332122651
+      newsala_39: 2125979958177082487
+      newsala_4: -1939594317878130658
+      newsala_40: -78132944101421811
+      newsala_41: 7534136353702910840
+      newsala_42: -3152837577930292562
+      newsala_43: -3818529458063833314
+      newsala_44: 4990293342812511884
+      newsala_45: 2957827766657529121
+      newsala_46: -1352510069123085730
+      newsala_47: 7444959617849320267
+      newsala_48: -4112065853503799052
+      newsala_49: -5840491370035768779
+      newsala_5: -8636935354764625275
+      newsala_50: -8179950851208260158
+      newsala_51: 3360106881360627276
+      newsala_52: 5243054272076830510
+      newsala_53: -8012271616415197516
+      newsala_54: -7407781501224872980
+      newsala_55: -2345528832350504740
+      newsala_56: -3838013873904651777
+      newsala_57: -2118804003751881942
+      newsala_58: -1436108591348889972
+      newsala_59: -1964644136382637209
+      newsala_6: 8473193952403475103
+      newsala_60: -8648968310363196349
+      newsala_61: -5645533017986336847
+      newsala_62: -1037359864964621484
+      newsala_63: -118060587671447465
+      newsala_64: 7002933806747408413
+      newsala_65: -5116675301086073362
+      newsala_66: 7869125620430592971
+      newsala_67: -5449320133986890238
+      newsala_68: -5973733018467079151
+      newsala_69: -9079403167464535478
+      newsala_7: 1619377582899381163
+      newsala_70: -4358142057106542502
+      newsala_71: 1197215777620450718
+      newsala_72: 7811651429340100207
+      newsala_73: 8214890188628319384
+      newsala_74: -8561731613801883441
+      newsala_75: -8103049557530090414
+      newsala_76: -137268961158937512
+      newsala_77: 3841576260613286215
+      newsala_78: -4167050841828904726
+      newsala_79: -6433436153204736430
+      newsala_8: 171285719626429264
+      newsala_80: -9119977119902640455
+      newsala_81: 3489460834457566905
+      newsala_82: -5397178573817608008
+      newsala_83: -6718100404485474397
+      newsala_84: -3995689935679463736
+      newsala_85: -5893134814390416548
+      newsala_86: 6117135851748069100
+      newsala_87: 6047772733835329812
+      newsala_88: 4994893259947782260
+      newsala_89: -1538667497061109732
+      newsala_9: 2083882364710334256
+      newsala_90: 4125536731666727650
+      newsala_91: 4877871653210515983
+      newsala_92: -4097232520543951151
+      newsala_93: 356010261568972708
+      newsala_94: 2952907516897086902
+      newsala_95: -7193484460676138978
+      newsala_96: -6577335639183489955
+      newsala_97: 976853305096462684
+      newsala_98: 1521676556107963816
+      newsala_99: 3600382747865254727
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
