@@ -1,0 +1,1859 @@
+fileFormatVersion: 2
+guid: 19c1c3840bc65368eb1248d83a03dd55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8658862254663421975
+    second: mosco-Photoroom_0
+  - first:
+      213: -936987858223189490
+    second: mosco-Photoroom_1
+  - first:
+      213: -2803537724845109104
+    second: mosco-Photoroom_2
+  - first:
+      213: -4783784657663089502
+    second: mosco-Photoroom_3
+  - first:
+      213: 3754099109458458036
+    second: mosco-Photoroom_4
+  - first:
+      213: 7057825584630946177
+    second: mosco-Photoroom_5
+  - first:
+      213: 4949966140715809089
+    second: mosco-Photoroom_6
+  - first:
+      213: -7113869617847470659
+    second: mosco-Photoroom_7
+  - first:
+      213: -8866346234124990235
+    second: mosco-Photoroom_8
+  - first:
+      213: -630560389770467682
+    second: mosco-Photoroom_9
+  - first:
+      213: 4297667262437250113
+    second: mosco-Photoroom_10
+  - first:
+      213: -8328392099417129234
+    second: mosco-Photoroom_11
+  - first:
+      213: 2134936773911650701
+    second: mosco-Photoroom_12
+  - first:
+      213: 9209741903674559737
+    second: mosco-Photoroom_13
+  - first:
+      213: 2331466045049554528
+    second: mosco-Photoroom_14
+  - first:
+      213: -6817893701061127063
+    second: mosco-Photoroom_15
+  - first:
+      213: 8197011253127379550
+    second: mosco-Photoroom_16
+  - first:
+      213: -607558035570538089
+    second: mosco-Photoroom_17
+  - first:
+      213: -9193970609525353444
+    second: mosco-Photoroom_18
+  - first:
+      213: -2435272236982556922
+    second: mosco-Photoroom_19
+  - first:
+      213: -8744944413502953815
+    second: mosco-Photoroom_20
+  - first:
+      213: 1882624557166642918
+    second: mosco-Photoroom_21
+  - first:
+      213: 3847610239700295480
+    second: mosco-Photoroom_22
+  - first:
+      213: -2402804792139438782
+    second: mosco-Photoroom_23
+  - first:
+      213: -387346132834493448
+    second: mosco-Photoroom_24
+  - first:
+      213: -6626202736495001842
+    second: mosco-Photoroom_25
+  - first:
+      213: -6841343115373222381
+    second: mosco-Photoroom_26
+  - first:
+      213: 1076257314117338195
+    second: mosco-Photoroom_27
+  - first:
+      213: 684667718422161732
+    second: mosco-Photoroom_28
+  - first:
+      213: -7786540565873688201
+    second: mosco-Photoroom_29
+  - first:
+      213: 8302030697223812982
+    second: mosco-Photoroom_30
+  - first:
+      213: 5686590457634201013
+    second: mosco-Photoroom_31
+  - first:
+      213: -8468889075872100551
+    second: mosco-Photoroom_32
+  - first:
+      213: 4056696171355305306
+    second: mosco-Photoroom_33
+  - first:
+      213: -4238819129168751849
+    second: mosco-Photoroom_34
+  - first:
+      213: 814484183407162561
+    second: mosco-Photoroom_35
+  - first:
+      213: 8399534390414169856
+    second: mosco-Photoroom_36
+  - first:
+      213: 634876921971613148
+    second: mosco-Photoroom_37
+  - first:
+      213: 3092637544114714747
+    second: mosco-Photoroom_38
+  - first:
+      213: 7590324177233359809
+    second: mosco-Photoroom_39
+  - first:
+      213: -6320948881585388388
+    second: mosco-Photoroom_40
+  - first:
+      213: 5132629693015645770
+    second: mosco-Photoroom_41
+  - first:
+      213: -977916243941278629
+    second: mosco-Photoroom_42
+  - first:
+      213: 1908571099835107038
+    second: mosco-Photoroom_43
+  - first:
+      213: 5467851634272072897
+    second: mosco-Photoroom_44
+  - first:
+      213: 1362763237487188374
+    second: mosco-Photoroom_45
+  - first:
+      213: -1589701848934517811
+    second: mosco-Photoroom_46
+  - first:
+      213: 9152370143324271280
+    second: mosco-Photoroom_47
+  - first:
+      213: 3930394043371949262
+    second: mosco-Photoroom_48
+  - first:
+      213: -5898112725349259922
+    second: mosco-Photoroom_49
+  - first:
+      213: 8665153864338831143
+    second: mosco-Photoroom_50
+  - first:
+      213: -1945657274076478264
+    second: mosco-Photoroom_51
+  - first:
+      213: 7741149457566270972
+    second: mosco-Photoroom_52
+  - first:
+      213: 2466409902844401183
+    second: mosco-Photoroom_53
+  - first:
+      213: 8000499612337302149
+    second: mosco-Photoroom_54
+  - first:
+      213: -3192896697762374266
+    second: mosco-Photoroom_55
+  - first:
+      213: -6601226015614659115
+    second: mosco-Photoroom_56
+  - first:
+      213: 7511251476499682988
+    second: mosco-Photoroom_57
+  - first:
+      213: -3858974548680450266
+    second: mosco-Photoroom_58
+  - first:
+      213: 8295731844126434674
+    second: mosco-Photoroom_59
+  - first:
+      213: -7487454677922544086
+    second: mosco-Photoroom_60
+  - first:
+      213: -2683502757169637854
+    second: mosco-Photoroom_61
+  - first:
+      213: -5375529832234088284
+    second: mosco-Photoroom_62
+  - first:
+      213: 6692549150225864244
+    second: mosco-Photoroom_63
+  - first:
+      213: -6779327069847341244
+    second: mosco-Photoroom_64
+  - first:
+      213: -1033885368716489345
+    second: mosco-Photoroom_65
+  - first:
+      213: -4601799004320127748
+    second: mosco-Photoroom_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mosco-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2310
+        width: 158
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efafbfe7aa85d780800000000000000
+      internalID: -8658862254663421975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2308
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02b0cfd1862ff2f0800000000000000
+      internalID: -936987858223189490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2306
+        width: 158
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09053340b45d719d0800000000000000
+      internalID: -2803537724845109104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2180
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4270e03359c9db0800000000000000
+      internalID: -4783784657663089502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2180
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5b1eeff3d391430800000000000000
+      internalID: 3754099109458458036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2180
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189579aa9fe62f160800000000000000
+      internalID: 7057825584630946177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2056
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149b39b9affc1b440800000000000000
+      internalID: 4949966140715809089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2058
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5f1c10645764d90800000000000000
+      internalID: -7113869617847470659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 2058
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e88b53731964f480800000000000000
+      internalID: -8866346234124990235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1929
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96ac469aaccf37f0800000000000000
+      internalID: -630560389770467682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1928
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144d56cea9164ab30800000000000000
+      internalID: 4297667262437250113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1928
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee7214e28b9b6c80800000000000000
+      internalID: -8328392099417129234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1801
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d812cea3fa1d0ad10800000000000000
+      internalID: 2134936773911650701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1801
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc4d8157739fcf70800000000000000
+      internalID: 9209741903674559737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1803
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066401de3080b5020800000000000000
+      internalID: 2331466045049554528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1679
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964d0e73dc9f161a0800000000000000
+      internalID: -6817893701061127063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1679
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a798a1e42a1c170800000000000000
+      internalID: 8197011253127379550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1677
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79942658f258197f0800000000000000
+      internalID: -607558035570538089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1549
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c141cdf3174786080800000000000000
+      internalID: -9193970609525353444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1548
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607a8479dcc243ed0800000000000000
+      internalID: -2435272236982556922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1548
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6ae9c7367b3a680800000000000000
+      internalID: -8744944413502953815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1423
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e648576f0d602a10800000000000000
+      internalID: 1882624557166642918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1424
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fdd73a025756530800000000000000
+      internalID: 3847610239700295480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1426
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2452ceba5c587aed0800000000000000
+      internalID: -2402804792139438782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1300
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb57439ebedf9af0800000000000000
+      internalID: -387346132834493448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1298
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f7e71e7bffa04a0800000000000000
+      internalID: -6626202736495001842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1300
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3166d9dfeaaae01a0800000000000000
+      internalID: -6841343115373222381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1175
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35441ee2352afee00800000000000000
+      internalID: 1076257314117338195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1174
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449eab199ad608900800000000000000
+      internalID: 684667718422161732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1172
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7710ee53c96a0f390800000000000000
+      internalID: -7786540565873688201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1047
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677f96edeecb63370800000000000000
+      internalID: 8302030697223812982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1049
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd996274e3daee40800000000000000
+      internalID: 5686590457634201013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1048
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f057e6146787a80800000000000000
+      internalID: -8468889075872100551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 919
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55f15faca74c4830800000000000000
+      internalID: 4056696171355305306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 921
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71314c2d570bc25c0800000000000000
+      internalID: -4238819129168751849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 922
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4782bac01ad4b00800000000000000
+      internalID: 814484183407162561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 794
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00750538604219470800000000000000
+      internalID: 8399534390414169856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 796
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd163262398fc800800000000000000
+      internalID: 634876921971613148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 802
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b787efbf5714bea20800000000000000
+      internalID: 3092637544114714747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 661
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3bd0abf9f365960800000000000000
+      internalID: 7590324177233359809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 661
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9443b56b7a7748a0800000000000000
+      internalID: -6320948881585388388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 670
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ed1df0383ca3740800000000000000
+      internalID: 5132629693015645770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 541
+        width: 68
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cbbcb7b5ebd62f0800000000000000
+      internalID: -977916243941278629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 542
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed68f32ad4b9c7a10800000000000000
+      internalID: 1908571099835107038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 544
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c473596716b1eb40800000000000000
+      internalID: 5467851634272072897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 421
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699926bb1f189e210800000000000000
+      internalID: 1362763237487188374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 421
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3f97b479e30f9e0800000000000000
+      internalID: -1589701848934517811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 417
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2fbbd6720c30f70800000000000000
+      internalID: 9152370143324271280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 288
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc0f7eee809b8630800000000000000
+      internalID: 3930394043371949262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 282
+        width: 91
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65a850d9b1b52ea0800000000000000
+      internalID: -5898112725349259922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 347
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727f408978fc04870800000000000000
+      internalID: 8665153864338831143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 344
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4440c8403aff4e0800000000000000
+      internalID: -1945657274076478264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 329
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf50273da661e6b60800000000000000
+      internalID: 7741149457566270972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 328
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16db813db27a3220800000000000000
+      internalID: 2466409902844401183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 332
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ae30b420c770f60800000000000000
+      internalID: 8000499612337302149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 329
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d1b5dbe5d80b3d0800000000000000
+      internalID: -3192896697762374266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 329
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d59831e9ebb364a0800000000000000
+      internalID: -6601226015614659115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 307
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6546beb635d3860800000000000000
+      internalID: 7511251476499682988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 312
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fd0acf71b227ac0800000000000000
+      internalID: -3858974548680450266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 307
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2756d09d82c502370800000000000000
+      internalID: 8295731844126434674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 313
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26079204a7371890800000000000000
+      internalID: -7487454677922544086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 316
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2265f1dc57842cad0800000000000000
+      internalID: -2683502757169637854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 118
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a80c2e29184665b0800000000000000
+      internalID: -5375529832234088284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 204
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4361e055ef5b0ec50800000000000000
+      internalID: 6692549150225864244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 177
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4473f89c2fdfae1a0800000000000000
+      internalID: -6779327069847341244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 192
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d0e232cb6e6a1f0800000000000000
+      internalID: -1033885368716489345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mosco-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 110
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4a0cbdf202320c0800000000000000
+      internalID: -4601799004320127748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mosco-Photoroom_0: -8658862254663421975
+      mosco-Photoroom_1: -936987858223189490
+      mosco-Photoroom_10: 4297667262437250113
+      mosco-Photoroom_11: -8328392099417129234
+      mosco-Photoroom_12: 2134936773911650701
+      mosco-Photoroom_13: 9209741903674559737
+      mosco-Photoroom_14: 2331466045049554528
+      mosco-Photoroom_15: -6817893701061127063
+      mosco-Photoroom_16: 8197011253127379550
+      mosco-Photoroom_17: -607558035570538089
+      mosco-Photoroom_18: -9193970609525353444
+      mosco-Photoroom_19: -2435272236982556922
+      mosco-Photoroom_2: -2803537724845109104
+      mosco-Photoroom_20: -8744944413502953815
+      mosco-Photoroom_21: 1882624557166642918
+      mosco-Photoroom_22: 3847610239700295480
+      mosco-Photoroom_23: -2402804792139438782
+      mosco-Photoroom_24: -387346132834493448
+      mosco-Photoroom_25: -6626202736495001842
+      mosco-Photoroom_26: -6841343115373222381
+      mosco-Photoroom_27: 1076257314117338195
+      mosco-Photoroom_28: 684667718422161732
+      mosco-Photoroom_29: -7786540565873688201
+      mosco-Photoroom_3: -4783784657663089502
+      mosco-Photoroom_30: 8302030697223812982
+      mosco-Photoroom_31: 5686590457634201013
+      mosco-Photoroom_32: -8468889075872100551
+      mosco-Photoroom_33: 4056696171355305306
+      mosco-Photoroom_34: -4238819129168751849
+      mosco-Photoroom_35: 814484183407162561
+      mosco-Photoroom_36: 8399534390414169856
+      mosco-Photoroom_37: 634876921971613148
+      mosco-Photoroom_38: 3092637544114714747
+      mosco-Photoroom_39: 7590324177233359809
+      mosco-Photoroom_4: 3754099109458458036
+      mosco-Photoroom_40: -6320948881585388388
+      mosco-Photoroom_41: 5132629693015645770
+      mosco-Photoroom_42: -977916243941278629
+      mosco-Photoroom_43: 1908571099835107038
+      mosco-Photoroom_44: 5467851634272072897
+      mosco-Photoroom_45: 1362763237487188374
+      mosco-Photoroom_46: -1589701848934517811
+      mosco-Photoroom_47: 9152370143324271280
+      mosco-Photoroom_48: 3930394043371949262
+      mosco-Photoroom_49: -5898112725349259922
+      mosco-Photoroom_5: 7057825584630946177
+      mosco-Photoroom_50: 8665153864338831143
+      mosco-Photoroom_51: -1945657274076478264
+      mosco-Photoroom_52: 7741149457566270972
+      mosco-Photoroom_53: 2466409902844401183
+      mosco-Photoroom_54: 8000499612337302149
+      mosco-Photoroom_55: -3192896697762374266
+      mosco-Photoroom_56: -6601226015614659115
+      mosco-Photoroom_57: 7511251476499682988
+      mosco-Photoroom_58: -3858974548680450266
+      mosco-Photoroom_59: 8295731844126434674
+      mosco-Photoroom_6: 4949966140715809089
+      mosco-Photoroom_60: -7487454677922544086
+      mosco-Photoroom_61: -2683502757169637854
+      mosco-Photoroom_62: -5375529832234088284
+      mosco-Photoroom_63: 6692549150225864244
+      mosco-Photoroom_64: -6779327069847341244
+      mosco-Photoroom_65: -1033885368716489345
+      mosco-Photoroom_66: -4601799004320127748
+      mosco-Photoroom_7: -7113869617847470659
+      mosco-Photoroom_8: -8866346234124990235
+      mosco-Photoroom_9: -630560389770467682
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

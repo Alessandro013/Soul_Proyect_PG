@@ -1,0 +1,2327 @@
+fileFormatVersion: 2
+guid: 7bc6061e84650de53acda78bcc9f490a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1215147600436269559
+    second: bolas-Photoroom_0
+  - first:
+      213: -7558664993565915053
+    second: bolas-Photoroom_1
+  - first:
+      213: -5489599893471055311
+    second: bolas-Photoroom_2
+  - first:
+      213: -6957480400012613235
+    second: bolas-Photoroom_3
+  - first:
+      213: 7670152704229035086
+    second: bolas-Photoroom_4
+  - first:
+      213: 5510590853923403275
+    second: bolas-Photoroom_5
+  - first:
+      213: -5805506997517362844
+    second: bolas-Photoroom_6
+  - first:
+      213: -5288495434289028980
+    second: bolas-Photoroom_7
+  - first:
+      213: 8010182336092413353
+    second: bolas-Photoroom_8
+  - first:
+      213: 6033530136793012132
+    second: bolas-Photoroom_9
+  - first:
+      213: 4466455373755042947
+    second: bolas-Photoroom_10
+  - first:
+      213: -4083770773840796755
+    second: bolas-Photoroom_11
+  - first:
+      213: -3082572125396793161
+    second: bolas-Photoroom_12
+  - first:
+      213: 2690433817444161005
+    second: bolas-Photoroom_13
+  - first:
+      213: 660709347459719994
+    second: bolas-Photoroom_14
+  - first:
+      213: 8379925261883958342
+    second: bolas-Photoroom_15
+  - first:
+      213: -8032983397012974818
+    second: bolas-Photoroom_16
+  - first:
+      213: -7159894567051522181
+    second: bolas-Photoroom_17
+  - first:
+      213: -3558126022246645232
+    second: bolas-Photoroom_18
+  - first:
+      213: 4665389369652325479
+    second: bolas-Photoroom_19
+  - first:
+      213: -910543440610405574
+    second: bolas-Photoroom_20
+  - first:
+      213: 7487261818031814859
+    second: bolas-Photoroom_21
+  - first:
+      213: 2500276646479438082
+    second: bolas-Photoroom_22
+  - first:
+      213: -7343388177788627734
+    second: bolas-Photoroom_23
+  - first:
+      213: -7943463853694016165
+    second: bolas-Photoroom_24
+  - first:
+      213: -8956584488247507159
+    second: bolas-Photoroom_25
+  - first:
+      213: 2412579538469861524
+    second: bolas-Photoroom_26
+  - first:
+      213: 4855452397256351570
+    second: bolas-Photoroom_27
+  - first:
+      213: 207135834867658378
+    second: bolas-Photoroom_28
+  - first:
+      213: -7026522080975339810
+    second: bolas-Photoroom_29
+  - first:
+      213: -2417090820137614926
+    second: bolas-Photoroom_30
+  - first:
+      213: 5937240019540824585
+    second: bolas-Photoroom_31
+  - first:
+      213: 7365156949941463281
+    second: bolas-Photoroom_32
+  - first:
+      213: -8554975298797279739
+    second: bolas-Photoroom_33
+  - first:
+      213: 2111608649653063561
+    second: bolas-Photoroom_34
+  - first:
+      213: -226447403927866945
+    second: bolas-Photoroom_35
+  - first:
+      213: -2612024155803503789
+    second: bolas-Photoroom_36
+  - first:
+      213: -4943532365299728491
+    second: bolas-Photoroom_37
+  - first:
+      213: -4187007028226836895
+    second: bolas-Photoroom_38
+  - first:
+      213: -3275091624767275779
+    second: bolas-Photoroom_39
+  - first:
+      213: -3116218899363751132
+    second: bolas-Photoroom_40
+  - first:
+      213: -3454241148559639127
+    second: bolas-Photoroom_41
+  - first:
+      213: 5765881472362955441
+    second: bolas-Photoroom_42
+  - first:
+      213: 5071708731052154338
+    second: bolas-Photoroom_43
+  - first:
+      213: -8253206556837049729
+    second: bolas-Photoroom_44
+  - first:
+      213: -3656267194825461690
+    second: bolas-Photoroom_45
+  - first:
+      213: 7719046767095805280
+    second: bolas-Photoroom_46
+  - first:
+      213: -852765418174981116
+    second: bolas-Photoroom_47
+  - first:
+      213: -146631158459492838
+    second: bolas-Photoroom_48
+  - first:
+      213: -1472537762588891569
+    second: bolas-Photoroom_49
+  - first:
+      213: -1232480063208793473
+    second: bolas-Photoroom_50
+  - first:
+      213: -3385560278052540597
+    second: bolas-Photoroom_51
+  - first:
+      213: -2646082041129933945
+    second: bolas-Photoroom_52
+  - first:
+      213: -8430586642958282357
+    second: bolas-Photoroom_53
+  - first:
+      213: 5390865147230686380
+    second: bolas-Photoroom_54
+  - first:
+      213: -4993235204466635929
+    second: bolas-Photoroom_55
+  - first:
+      213: 8008824628466534202
+    second: bolas-Photoroom_56
+  - first:
+      213: 3850088528100981267
+    second: bolas-Photoroom_57
+  - first:
+      213: 6655198189349572776
+    second: bolas-Photoroom_58
+  - first:
+      213: 5524184674256030790
+    second: bolas-Photoroom_59
+  - first:
+      213: -5361394688228624274
+    second: bolas-Photoroom_60
+  - first:
+      213: -71573501384659833
+    second: bolas-Photoroom_61
+  - first:
+      213: -8052687456140349524
+    second: bolas-Photoroom_62
+  - first:
+      213: -2157555936136076465
+    second: bolas-Photoroom_63
+  - first:
+      213: 4481016545908266702
+    second: bolas-Photoroom_64
+  - first:
+      213: -3568169938718202735
+    second: bolas-Photoroom_65
+  - first:
+      213: 2997374531063607543
+    second: bolas-Photoroom_66
+  - first:
+      213: -2675327795519747120
+    second: bolas-Photoroom_67
+  - first:
+      213: -3682998698988636585
+    second: bolas-Photoroom_68
+  - first:
+      213: 1312083399820788589
+    second: bolas-Photoroom_69
+  - first:
+      213: 80383717790200431
+    second: bolas-Photoroom_70
+  - first:
+      213: -3873462382997080450
+    second: bolas-Photoroom_71
+  - first:
+      213: -6505962264729620333
+    second: bolas-Photoroom_72
+  - first:
+      213: 4751810804038214174
+    second: bolas-Photoroom_73
+  - first:
+      213: 907220941533268402
+    second: bolas-Photoroom_74
+  - first:
+      213: 7113653033536984176
+    second: bolas-Photoroom_75
+  - first:
+      213: -1343356495658386442
+    second: bolas-Photoroom_76
+  - first:
+      213: 1029941272481639112
+    second: bolas-Photoroom_77
+  - first:
+      213: -8304148361174581063
+    second: bolas-Photoroom_78
+  - first:
+      213: -938987804303711365
+    second: bolas-Photoroom_79
+  - first:
+      213: -2601944805996279709
+    second: bolas-Photoroom_80
+  - first:
+      213: -6477080739305333010
+    second: bolas-Photoroom_81
+  - first:
+      213: -6516391700486835672
+    second: bolas-Photoroom_82
+  - first:
+      213: 4333340057775712369
+    second: bolas-Photoroom_83
+  - first:
+      213: 517699136722022021
+    second: bolas-Photoroom_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bolas-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f11ca1fd421dd010800000000000000
+      internalID: 1215147600436269559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 508
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358c2526c3a3a1790800000000000000
+      internalID: -7558664993565915053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 506
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132b2a66bf501d3b0800000000000000
+      internalID: -5489599893471055311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 502
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8961814070127f90800000000000000
+      internalID: -6957480400012613235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 510
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cc29c0f3bd17a60800000000000000
+      internalID: 7670152704229035086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 508
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06fe9e6f2d897c40800000000000000
+      internalID: 5510590853923403275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 501
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469dee70522be6fa0800000000000000
+      internalID: -5805506997517362844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 510
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c806de21c6d7b96b0800000000000000
+      internalID: -5288495434289028980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 507
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad95e81562e92f60800000000000000
+      internalID: 8010182336092413353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 502
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7592141b76bb350800000000000000
+      internalID: 6033530136793012132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 510
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ccdc58f790cfd30800000000000000
+      internalID: 4466455373755042947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 506
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3e8113e188357c0800000000000000
+      internalID: -4083770773840796755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 501
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8043febf08835d0800000000000000
+      internalID: -3082572125396793161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 440
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5157c6d47565520800000000000000
+      internalID: 2690433817444161005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 438
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33ed13a6af4b2900800000000000000
+      internalID: 660709347459719994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 437
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6446aee70a97b4470800000000000000
+      internalID: 8379925261883958342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 434
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e135e66392c158090800000000000000
+      internalID: -8032983397012974818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 438
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f05a573d1f2ac90800000000000000
+      internalID: -7159894567051522181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 437
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0124ae90c3ffe9ec0800000000000000
+      internalID: -3558126022246645232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 434
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ca205d9eaceb040800000000000000
+      internalID: 4665389369652325479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 438
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33dad5a0991d53f0800000000000000
+      internalID: -910543440610405574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 437
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8b12c44f818e760800000000000000
+      internalID: 7487261818031814859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 434
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201ac99ec54c2b220800000000000000
+      internalID: 2500276646479438082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 438
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae41b17fb5b071a90800000000000000
+      internalID: -7343388177788627734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 437
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55a96a16b523c190800000000000000
+      internalID: -7943463853694016165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 434
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927cb39acd1d3b380800000000000000
+      internalID: -8956584488247507159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 365
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4983fdece443b7120800000000000000
+      internalID: 2412579538469861524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 365
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f9842ea38026340800000000000000
+      internalID: 4855452397256351570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 365
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e6a81c1f4efd200800000000000000
+      internalID: 207135834867658378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 362
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edeb60d3567cc7e90800000000000000
+      internalID: -7026522080975339810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 365
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b107d394b4c47ed0800000000000000
+      internalID: -2417090820137614926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 365
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902d6f64750556250800000000000000
+      internalID: 5937240019540824585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 361
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8a244493b463660800000000000000
+      internalID: 7365156949941463281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 365
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50662fcba4f964980800000000000000
+      internalID: -8554975298797279739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 365
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f863b01e0fd4d10800000000000000
+      internalID: 2111608649653063561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 362
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1f190394f7bdcf0800000000000000
+      internalID: -226447403927866945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 365
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353b7909ed930cbd0800000000000000
+      internalID: -2612024155803503789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 365
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fb9a6718b056bb0800000000000000
+      internalID: -4943532365299728491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 360
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166b972aa43c4e5c0800000000000000
+      internalID: -4187007028226836895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 298
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcb3eaf4898c82d0800000000000000
+      internalID: -3275091624767275779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 297
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b9015eb67f0c4d0800000000000000
+      internalID: -3116218899363751132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 296
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adb09b0af11010d0800000000000000
+      internalID: -3454241148559639127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 287
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2433176a6840050800000000000000
+      internalID: 5765881472362955441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 293
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed5c964834526640800000000000000
+      internalID: 5071708731052154338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 296
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a8dc92d58b67d80800000000000000
+      internalID: -8253206556837049729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 287
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640b388ab54524dc0800000000000000
+      internalID: -3656267194825461690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 293
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0657f5d23209f1b60800000000000000
+      internalID: 7719046767095805280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 296
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c51fcce5e5a24f0800000000000000
+      internalID: -852765418174981116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 287
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16940ffcbf07fdf0800000000000000
+      internalID: -146631158459492838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 294
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f466a8ee4be709be0800000000000000
+      internalID: -1472537762588891569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 302
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a50b799e955eee0800000000000000
+      internalID: -1232480063208793473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 299
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f61055dd21401d0800000000000000
+      internalID: -3385560278052540597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 165
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783e8e3376a374bd0800000000000000
+      internalID: -2646082041129933945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 166
+        width: 113
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81915a8d1a800b80800000000000000
+      internalID: -8430586642958282357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 167
+        width: 127
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac08b41a4330da40800000000000000
+      internalID: 5390865147230686380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 256
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b8acd690774bab0800000000000000
+      internalID: -4993235204466635929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 198
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37c528219f052f60800000000000000
+      internalID: 8008824628466534202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 193
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31af34f1e134e6530800000000000000
+      internalID: 3850088528100981267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 186
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a011021e730c5c50800000000000000
+      internalID: 6655198189349572776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 181
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c00be51b8d9ac40800000000000000
+      internalID: 5524184674256030790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 182
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68777bdfef7895b0800000000000000
+      internalID: -5361394688228624274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 212
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ce2aa9748b10ff0800000000000000
+      internalID: -71573501384659833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 15
+        width: 164
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafa2817c6b1f3090800000000000000
+      internalID: -8052687456140349524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 105
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43e29bae42de02e0800000000000000
+      internalID: -2157555936136076465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 117
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6928b9ec4cf2e30800000000000000
+      internalID: 4481016545908266702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 105
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194697088505b7ec0800000000000000
+      internalID: -3568169938718202735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 106
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f079d65140d89920800000000000000
+      internalID: 2997374531063607543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 116
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db01526b835fdad0800000000000000
+      internalID: -2675327795519747120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 97
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7567e86523c53ecc0800000000000000
+      internalID: -3682998698988636585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 73
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63410286e4753210800000000000000
+      internalID: 1312083399820788589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f623c90c0949d1100800000000000000
+      internalID: 80383717790200431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76fe923c72be3ac0800000000000000
+      internalID: -3873462382997080450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 81
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390f1b05acd26b5a0800000000000000
+      internalID: -6505962264729620333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 94
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12af8600c2d1f140800000000000000
+      internalID: 4751810804038214174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 83
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9c2e0c3a8179c00800000000000000
+      internalID: 907220941533268402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 92
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0741a578eb5c8b260800000000000000
+      internalID: 7113653033536984176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 82
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb719572607b5de0800000000000000
+      internalID: -1343356495658386442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca28c561261b4e00800000000000000
+      internalID: 1029941272481639112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 52
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b00c02101db1cc80800000000000000
+      internalID: -8304148361174581063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_79
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 79
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73ad04219b08f2f0800000000000000
+      internalID: -938987804303711365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 41
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3684b611cf804ebd0800000000000000
+      internalID: -2601944805996279709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 41
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee5e287269cc16a0800000000000000
+      internalID: -6477080739305333010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_82
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 64
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822bd2316402195a0800000000000000
+      internalID: -6516391700486835672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_83
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 28
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17821b2d2dd132c30800000000000000
+      internalID: 4333340057775712369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bolas-Photoroom_84
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 22
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ea7d83f9c3f2700800000000000000
+      internalID: 517699136722022021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bolas-Photoroom_0: 1215147600436269559
+      bolas-Photoroom_1: -7558664993565915053
+      bolas-Photoroom_10: 4466455373755042947
+      bolas-Photoroom_11: -4083770773840796755
+      bolas-Photoroom_12: -3082572125396793161
+      bolas-Photoroom_13: 2690433817444161005
+      bolas-Photoroom_14: 660709347459719994
+      bolas-Photoroom_15: 8379925261883958342
+      bolas-Photoroom_16: -8032983397012974818
+      bolas-Photoroom_17: -7159894567051522181
+      bolas-Photoroom_18: -3558126022246645232
+      bolas-Photoroom_19: 4665389369652325479
+      bolas-Photoroom_2: -5489599893471055311
+      bolas-Photoroom_20: -910543440610405574
+      bolas-Photoroom_21: 7487261818031814859
+      bolas-Photoroom_22: 2500276646479438082
+      bolas-Photoroom_23: -7343388177788627734
+      bolas-Photoroom_24: -7943463853694016165
+      bolas-Photoroom_25: -8956584488247507159
+      bolas-Photoroom_26: 2412579538469861524
+      bolas-Photoroom_27: 4855452397256351570
+      bolas-Photoroom_28: 207135834867658378
+      bolas-Photoroom_29: -7026522080975339810
+      bolas-Photoroom_3: -6957480400012613235
+      bolas-Photoroom_30: -2417090820137614926
+      bolas-Photoroom_31: 5937240019540824585
+      bolas-Photoroom_32: 7365156949941463281
+      bolas-Photoroom_33: -8554975298797279739
+      bolas-Photoroom_34: 2111608649653063561
+      bolas-Photoroom_35: -226447403927866945
+      bolas-Photoroom_36: -2612024155803503789
+      bolas-Photoroom_37: -4943532365299728491
+      bolas-Photoroom_38: -4187007028226836895
+      bolas-Photoroom_39: -3275091624767275779
+      bolas-Photoroom_4: 7670152704229035086
+      bolas-Photoroom_40: -3116218899363751132
+      bolas-Photoroom_41: -3454241148559639127
+      bolas-Photoroom_42: 5765881472362955441
+      bolas-Photoroom_43: 5071708731052154338
+      bolas-Photoroom_44: -8253206556837049729
+      bolas-Photoroom_45: -3656267194825461690
+      bolas-Photoroom_46: 7719046767095805280
+      bolas-Photoroom_47: -852765418174981116
+      bolas-Photoroom_48: -146631158459492838
+      bolas-Photoroom_49: -1472537762588891569
+      bolas-Photoroom_5: 5510590853923403275
+      bolas-Photoroom_50: -1232480063208793473
+      bolas-Photoroom_51: -3385560278052540597
+      bolas-Photoroom_52: -2646082041129933945
+      bolas-Photoroom_53: -8430586642958282357
+      bolas-Photoroom_54: 5390865147230686380
+      bolas-Photoroom_55: -4993235204466635929
+      bolas-Photoroom_56: 8008824628466534202
+      bolas-Photoroom_57: 3850088528100981267
+      bolas-Photoroom_58: 6655198189349572776
+      bolas-Photoroom_59: 5524184674256030790
+      bolas-Photoroom_6: -5805506997517362844
+      bolas-Photoroom_60: -5361394688228624274
+      bolas-Photoroom_61: -71573501384659833
+      bolas-Photoroom_62: -8052687456140349524
+      bolas-Photoroom_63: -2157555936136076465
+      bolas-Photoroom_64: 4481016545908266702
+      bolas-Photoroom_65: -3568169938718202735
+      bolas-Photoroom_66: 2997374531063607543
+      bolas-Photoroom_67: -2675327795519747120
+      bolas-Photoroom_68: -3682998698988636585
+      bolas-Photoroom_69: 1312083399820788589
+      bolas-Photoroom_7: -5288495434289028980
+      bolas-Photoroom_70: 80383717790200431
+      bolas-Photoroom_71: -3873462382997080450
+      bolas-Photoroom_72: -6505962264729620333
+      bolas-Photoroom_73: 4751810804038214174
+      bolas-Photoroom_74: 907220941533268402
+      bolas-Photoroom_75: 7113653033536984176
+      bolas-Photoroom_76: -1343356495658386442
+      bolas-Photoroom_77: 1029941272481639112
+      bolas-Photoroom_78: -8304148361174581063
+      bolas-Photoroom_79: -938987804303711365
+      bolas-Photoroom_8: 8010182336092413353
+      bolas-Photoroom_80: -2601944805996279709
+      bolas-Photoroom_81: -6477080739305333010
+      bolas-Photoroom_82: -6516391700486835672
+      bolas-Photoroom_83: 4333340057775712369
+      bolas-Photoroom_84: 517699136722022021
+      bolas-Photoroom_9: 6033530136793012132
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: 1fc969b5bf8ba5ace8a24c8cc121815e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3596415851309690683
+    second: montanahelada-Photoroom_0
+  - first:
+      213: -1904675023520164149
+    second: montanahelada-Photoroom_1
+  - first:
+      213: 916813019473311869
+    second: montanahelada-Photoroom_2
+  - first:
+      213: -6509847533130458762
+    second: montanahelada-Photoroom_3
+  - first:
+      213: 4740893021175709533
+    second: montanahelada-Photoroom_4
+  - first:
+      213: -7825209157952347302
+    second: montanahelada-Photoroom_5
+  - first:
+      213: 7151906271585506404
+    second: montanahelada-Photoroom_6
+  - first:
+      213: -9033713226524312363
+    second: montanahelada-Photoroom_7
+  - first:
+      213: 7680662414132544854
+    second: montanahelada-Photoroom_8
+  - first:
+      213: 3387863352796071910
+    second: montanahelada-Photoroom_9
+  - first:
+      213: 49392096951837472
+    second: montanahelada-Photoroom_10
+  - first:
+      213: -8205168728783207589
+    second: montanahelada-Photoroom_11
+  - first:
+      213: 49140320558106979
+    second: montanahelada-Photoroom_12
+  - first:
+      213: 6671598271175625502
+    second: montanahelada-Photoroom_13
+  - first:
+      213: -5360868331752883324
+    second: montanahelada-Photoroom_14
+  - first:
+      213: 6418798221329766163
+    second: montanahelada-Photoroom_15
+  - first:
+      213: -8913764563644426469
+    second: montanahelada-Photoroom_16
+  - first:
+      213: -1573685938231178619
+    second: montanahelada-Photoroom_17
+  - first:
+      213: -8948207791287156045
+    second: montanahelada-Photoroom_18
+  - first:
+      213: 825314624379652001
+    second: montanahelada-Photoroom_19
+  - first:
+      213: -1625070458796919227
+    second: montanahelada-Photoroom_20
+  - first:
+      213: 8542357485647135798
+    second: montanahelada-Photoroom_21
+  - first:
+      213: -9098851898207695641
+    second: montanahelada-Photoroom_22
+  - first:
+      213: -7382826424475234508
+    second: montanahelada-Photoroom_23
+  - first:
+      213: 7938558549094300798
+    second: montanahelada-Photoroom_24
+  - first:
+      213: -6027859983558123829
+    second: montanahelada-Photoroom_25
+  - first:
+      213: 949049885507503569
+    second: montanahelada-Photoroom_26
+  - first:
+      213: -5545626090671741175
+    second: montanahelada-Photoroom_27
+  - first:
+      213: 4539082617121174033
+    second: montanahelada-Photoroom_28
+  - first:
+      213: -1231594884378788284
+    second: montanahelada-Photoroom_29
+  - first:
+      213: 4659970612474799457
+    second: montanahelada-Photoroom_30
+  - first:
+      213: -3836858611879996376
+    second: montanahelada-Photoroom_31
+  - first:
+      213: 3541798655545496829
+    second: montanahelada-Photoroom_32
+  - first:
+      213: 7893065369034987376
+    second: montanahelada-Photoroom_33
+  - first:
+      213: -4845574470605939320
+    second: montanahelada-Photoroom_34
+  - first:
+      213: -1164332466427099773
+    second: montanahelada-Photoroom_35
+  - first:
+      213: 7331565528203214953
+    second: montanahelada-Photoroom_36
+  - first:
+      213: 8911610802969180026
+    second: montanahelada-Photoroom_37
+  - first:
+      213: 5989322820485821233
+    second: montanahelada-Photoroom_38
+  - first:
+      213: -8319029706694393878
+    second: montanahelada-Photoroom_39
+  - first:
+      213: -7320913473632564373
+    second: montanahelada-Photoroom_40
+  - first:
+      213: 671132835852027236
+    second: montanahelada-Photoroom_41
+  - first:
+      213: -1468959519271891
+    second: montanahelada-Photoroom_42
+  - first:
+      213: 1834231918473674639
+    second: montanahelada-Photoroom_43
+  - first:
+      213: -112298790890597413
+    second: montanahelada-Photoroom_44
+  - first:
+      213: 7338749339874310399
+    second: montanahelada-Photoroom_45
+  - first:
+      213: -3251741298404352249
+    second: montanahelada-Photoroom_46
+  - first:
+      213: 7709403427331730159
+    second: montanahelada-Photoroom_47
+  - first:
+      213: -4344404381008818428
+    second: montanahelada-Photoroom_48
+  - first:
+      213: -3079556978291933612
+    second: montanahelada-Photoroom_49
+  - first:
+      213: -2693673071420830717
+    second: montanahelada-Photoroom_50
+  - first:
+      213: -2757843242939222692
+    second: montanahelada-Photoroom_51
+  - first:
+      213: -5770321669288667212
+    second: montanahelada-Photoroom_52
+  - first:
+      213: 8698024471251717302
+    second: montanahelada-Photoroom_53
+  - first:
+      213: -7152281563261445520
+    second: montanahelada-Photoroom_54
+  - first:
+      213: 1954139380817515281
+    second: montanahelada-Photoroom_55
+  - first:
+      213: -5796550406293760417
+    second: montanahelada-Photoroom_56
+  - first:
+      213: -5096365140209006397
+    second: montanahelada-Photoroom_57
+  - first:
+      213: -2695546876849837395
+    second: montanahelada-Photoroom_58
+  - first:
+      213: -3255239558406250285
+    second: montanahelada-Photoroom_59
+  - first:
+      213: 4417793826963469528
+    second: montanahelada-Photoroom_60
+  - first:
+      213: -7579650408745706361
+    second: montanahelada-Photoroom_61
+  - first:
+      213: 7388910209119841976
+    second: montanahelada-Photoroom_62
+  - first:
+      213: 3461191873426790000
+    second: montanahelada-Photoroom_63
+  - first:
+      213: -4224354642970145505
+    second: montanahelada-Photoroom_64
+  - first:
+      213: -320219841709242787
+    second: montanahelada-Photoroom_65
+  - first:
+      213: 1103312806811329735
+    second: montanahelada-Photoroom_66
+  - first:
+      213: -2188954177184798834
+    second: montanahelada-Photoroom_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 943
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c01a1e76d6f61ec0800000000000000
+      internalID: -3596415851309690683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 943
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc69582582c3195e0800000000000000
+      internalID: -1904675023520164149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 943
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78f82f659c29bc00800000000000000
+      internalID: 916813019473311869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 943
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6795ec5c82068a5a0800000000000000
+      internalID: -6509847533130458762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 943
+        width: 310
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f7e4d95190bc140800000000000000
+      internalID: 4740893021175709533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 867
+        width: 129
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53ed170bb5476390800000000000000
+      internalID: -7825209157952347302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 867
+        width: 130
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4641eb09cdca04360800000000000000
+      internalID: 7151906271585506404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 866
+        width: 155
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc3542eeadc1a280800000000000000
+      internalID: -9033713226524312363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 760
+        width: 172
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655801295c1379a60800000000000000
+      internalID: 7680662414132544854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 768
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e749fa05cb140f20800000000000000
+      internalID: 3387863352796071910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 763
+        width: 232
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023a689b9d97fa000800000000000000
+      internalID: 49392096951837472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 717
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53cbb69382612e80800000000000000
+      internalID: -8205168728783207589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 719
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369c3077cd49ea000800000000000000
+      internalID: 49140320558106979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 717
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b888da747469c50800000000000000
+      internalID: 6671598271175625502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 664
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b7a36c7ae5a95b0800000000000000
+      internalID: -5360868331752883324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 668
+        width: 309
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317154b59f6241950800000000000000
+      internalID: 6418798221329766163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 662
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1752844b52fb4480800000000000000
+      internalID: -8913764563644426469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 662
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a04b71af4292ae0800000000000000
+      internalID: -1573685938231178619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 662
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b242f76c6491d380800000000000000
+      internalID: -8948207791287156045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 613
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a78516374b147b00800000000000000
+      internalID: 825314624379652001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 628
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546bd6817079279e0800000000000000
+      internalID: -1625070458796919227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 585
+        width: 130
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6348564bfdc8c8670800000000000000
+      internalID: 8542357485647135798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 586
+        width: 129
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec017708626ab180800000000000000
+      internalID: -9098851898207695641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 585
+        width: 155
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f49ca9b7eea8990800000000000000
+      internalID: -7382826424475234508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 435
+        width: 185
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cf76ba0fc6b2e60800000000000000
+      internalID: 7938558549094300798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 515
+        width: 100
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bced93c284db85ca0800000000000000
+      internalID: -6027859983558123829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 515
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5ccc3b7d3bb2d00800000000000000
+      internalID: 949049885507503569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 515
+        width: 78
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9076f58d37af903b0800000000000000
+      internalID: -5545626090671741175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 435
+        width: 185
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11278a7579f0efe30800000000000000
+      internalID: 4539082617121174033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 435
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ef9695afe78eee0800000000000000
+      internalID: -1231594884378788284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 342
+        width: 102
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165e15c159a8ba040800000000000000
+      internalID: 4659970612474799457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 343
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8249e79cb6db0cac0800000000000000
+      internalID: -3836858611879996376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 342
+        width: 132
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4deb9ac1ff62130800000000000000
+      internalID: 3541798655545496829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 329
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0779446422dc98d60800000000000000
+      internalID: 7893065369034987376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 381
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dd4d221bf01ccb0800000000000000
+      internalID: -4845574470605939320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 380
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385882a6ac577dfe0800000000000000
+      internalID: -1164332466427099773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 343
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9604d0ce004feb560800000000000000
+      internalID: 7331565528203214953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 344
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77f28f3fc66cab70800000000000000
+      internalID: 8911610802969180026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 345
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133b2385f595e1350800000000000000
+      internalID: 5989322820485821233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 228
+        width: 185
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeffe80de8edc8c80800000000000000
+      internalID: -8319029706694393878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 230
+        width: 131
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b82cccbf3e66a90800000000000000
+      internalID: -7320913473632564373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 209
+        width: 76
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4658f0622c7505900800000000000000
+      internalID: 671132835852027236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 106
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d241aa53df7cafff0800000000000000
+      internalID: -1468959519271891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 106
+        width: 85
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f7e403630847910800000000000000
+      internalID: 1834231918473674639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 108
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3924c38d8017ef0800000000000000
+      internalID: -112298790890597413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 142
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff837da64a978d560800000000000000
+      internalID: 7338749339874310399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 145
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f142f748e7fd2d0800000000000000
+      internalID: -3251741298404352249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 153
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea694c229d4dfa60800000000000000
+      internalID: 7709403427331730159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 155
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f815dab3395b3c0800000000000000
+      internalID: -4344404381008818428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 109
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e75539e373345d0800000000000000
+      internalID: -3079556978291933612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 113
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c0decfc962e9ad0800000000000000
+      internalID: -2693673071420830717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 106
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c557566ae2c2ab9d0800000000000000
+      internalID: -2757843242939222692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 113
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b75f46a303bbefa0800000000000000
+      internalID: -5770321669288667212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 106
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc0d982c2795b870800000000000000
+      internalID: 8698024471251717302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ad93800ddfdbc90800000000000000
+      internalID: -7152281563261445520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 11
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113da33d96f7e1b10800000000000000
+      internalID: 1954139380817515281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 50
+        width: 54
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56d63eed148e8fa0800000000000000
+      internalID: -5796550406293760417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 54
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8882c18e21649b0800000000000000
+      internalID: -5096365140209006397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 51
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daaa3f9a56e779ad0800000000000000
+      internalID: -2695546876849837395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 50
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0656e5ed013d2d0800000000000000
+      internalID: -3255239558406250285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 13
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4321344182f4d30800000000000000
+      internalID: 4417793826963469528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 12
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c5119ac1cafc690800000000000000
+      internalID: -7579650408745706361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 24
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be68d3efaeaa8660800000000000000
+      internalID: 7388910209119841976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 13
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0769213bbaf980030800000000000000
+      internalID: 3461191873426790000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 23
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d0e7475d31065c0800000000000000
+      internalID: -4224354642970145505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 12
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5683e420c95e8bf0800000000000000
+      internalID: -320219841709242787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 11
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4e026f621cf4f00800000000000000
+      internalID: 1103312806811329735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: montanahelada-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 14
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87ea4ff5c54f91e0800000000000000
+      internalID: -2188954177184798834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      montanahelada-Photoroom_0: -3596415851309690683
+      montanahelada-Photoroom_1: -1904675023520164149
+      montanahelada-Photoroom_10: 49392096951837472
+      montanahelada-Photoroom_11: -8205168728783207589
+      montanahelada-Photoroom_12: 49140320558106979
+      montanahelada-Photoroom_13: 6671598271175625502
+      montanahelada-Photoroom_14: -5360868331752883324
+      montanahelada-Photoroom_15: 6418798221329766163
+      montanahelada-Photoroom_16: -8913764563644426469
+      montanahelada-Photoroom_17: -1573685938231178619
+      montanahelada-Photoroom_18: -8948207791287156045
+      montanahelada-Photoroom_19: 825314624379652001
+      montanahelada-Photoroom_2: 916813019473311869
+      montanahelada-Photoroom_20: -1625070458796919227
+      montanahelada-Photoroom_21: 8542357485647135798
+      montanahelada-Photoroom_22: -9098851898207695641
+      montanahelada-Photoroom_23: -7382826424475234508
+      montanahelada-Photoroom_24: 7938558549094300798
+      montanahelada-Photoroom_25: -6027859983558123829
+      montanahelada-Photoroom_26: 949049885507503569
+      montanahelada-Photoroom_27: -5545626090671741175
+      montanahelada-Photoroom_28: 4539082617121174033
+      montanahelada-Photoroom_29: -1231594884378788284
+      montanahelada-Photoroom_3: -6509847533130458762
+      montanahelada-Photoroom_30: 4659970612474799457
+      montanahelada-Photoroom_31: -3836858611879996376
+      montanahelada-Photoroom_32: 3541798655545496829
+      montanahelada-Photoroom_33: 7893065369034987376
+      montanahelada-Photoroom_34: -4845574470605939320
+      montanahelada-Photoroom_35: -1164332466427099773
+      montanahelada-Photoroom_36: 7331565528203214953
+      montanahelada-Photoroom_37: 8911610802969180026
+      montanahelada-Photoroom_38: 5989322820485821233
+      montanahelada-Photoroom_39: -8319029706694393878
+      montanahelada-Photoroom_4: 4740893021175709533
+      montanahelada-Photoroom_40: -7320913473632564373
+      montanahelada-Photoroom_41: 671132835852027236
+      montanahelada-Photoroom_42: -1468959519271891
+      montanahelada-Photoroom_43: 1834231918473674639
+      montanahelada-Photoroom_44: -112298790890597413
+      montanahelada-Photoroom_45: 7338749339874310399
+      montanahelada-Photoroom_46: -3251741298404352249
+      montanahelada-Photoroom_47: 7709403427331730159
+      montanahelada-Photoroom_48: -4344404381008818428
+      montanahelada-Photoroom_49: -3079556978291933612
+      montanahelada-Photoroom_5: -7825209157952347302
+      montanahelada-Photoroom_50: -2693673071420830717
+      montanahelada-Photoroom_51: -2757843242939222692
+      montanahelada-Photoroom_52: -5770321669288667212
+      montanahelada-Photoroom_53: 8698024471251717302
+      montanahelada-Photoroom_54: -7152281563261445520
+      montanahelada-Photoroom_55: 1954139380817515281
+      montanahelada-Photoroom_56: -5796550406293760417
+      montanahelada-Photoroom_57: -5096365140209006397
+      montanahelada-Photoroom_58: -2695546876849837395
+      montanahelada-Photoroom_59: -3255239558406250285
+      montanahelada-Photoroom_6: 7151906271585506404
+      montanahelada-Photoroom_60: 4417793826963469528
+      montanahelada-Photoroom_61: -7579650408745706361
+      montanahelada-Photoroom_62: 7388910209119841976
+      montanahelada-Photoroom_63: 3461191873426790000
+      montanahelada-Photoroom_64: -4224354642970145505
+      montanahelada-Photoroom_65: -320219841709242787
+      montanahelada-Photoroom_66: 1103312806811329735
+      montanahelada-Photoroom_67: -2188954177184798834
+      montanahelada-Photoroom_7: -9033713226524312363
+      montanahelada-Photoroom_8: 7680662414132544854
+      montanahelada-Photoroom_9: 3387863352796071910
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

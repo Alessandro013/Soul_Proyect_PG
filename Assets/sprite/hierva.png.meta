@@ -1,0 +1,2329 @@
+fileFormatVersion: 2
+guid: 600a94ffa25a78ad186d98298a83c840
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8813714666116654481
+    second: hierva_0
+  - first:
+      213: -838759466481229312
+    second: hierva_1
+  - first:
+      213: 968544792144962344
+    second: hierva_2
+  - first:
+      213: 5514530766235265618
+    second: hierva_3
+  - first:
+      213: 8115888650350761354
+    second: hierva_4
+  - first:
+      213: 2447831717538945972
+    second: hierva_5
+  - first:
+      213: -998053324893647842
+    second: hierva_6
+  - first:
+      213: -3710671779692623519
+    second: hierva_7
+  - first:
+      213: 5034818954868286028
+    second: hierva_8
+  - first:
+      213: -113290059990118741
+    second: hierva_9
+  - first:
+      213: 6721886487166447480
+    second: hierva_10
+  - first:
+      213: 470561397832106398
+    second: hierva_11
+  - first:
+      213: 3908536891421932963
+    second: hierva_12
+  - first:
+      213: 5609303044121160952
+    second: hierva_13
+  - first:
+      213: 8459342194508262563
+    second: hierva_14
+  - first:
+      213: -7240626236614140070
+    second: hierva_15
+  - first:
+      213: 3222424052996470729
+    second: hierva_16
+  - first:
+      213: 7427107204645604550
+    second: hierva_17
+  - first:
+      213: -4590844563426346976
+    second: hierva_18
+  - first:
+      213: -2216366044860455266
+    second: hierva_19
+  - first:
+      213: 413186642083260877
+    second: hierva_20
+  - first:
+      213: -1940814625537888594
+    second: hierva_21
+  - first:
+      213: -2901585036849853780
+    second: hierva_22
+  - first:
+      213: 4251787077215517893
+    second: hierva_23
+  - first:
+      213: -6196257927711758441
+    second: hierva_24
+  - first:
+      213: 1531154304906657640
+    second: hierva_25
+  - first:
+      213: 9107158655396328680
+    second: hierva_26
+  - first:
+      213: -1996809570881851139
+    second: hierva_27
+  - first:
+      213: -4278056450454325662
+    second: hierva_28
+  - first:
+      213: 6914955891449443520
+    second: hierva_29
+  - first:
+      213: -3893745130969595180
+    second: hierva_30
+  - first:
+      213: -8670514249051858010
+    second: hierva_31
+  - first:
+      213: 2877792064251247951
+    second: hierva_32
+  - first:
+      213: 8272748787365446657
+    second: hierva_33
+  - first:
+      213: -3984370094442505052
+    second: hierva_34
+  - first:
+      213: 2922001339192190918
+    second: hierva_35
+  - first:
+      213: -6929870497964655746
+    second: hierva_36
+  - first:
+      213: 8649824191998585660
+    second: hierva_37
+  - first:
+      213: 4640579128530960981
+    second: hierva_38
+  - first:
+      213: 1282268160777642623
+    second: hierva_39
+  - first:
+      213: 1800597834924889961
+    second: hierva_40
+  - first:
+      213: -7978910775532309939
+    second: hierva_41
+  - first:
+      213: 8945629935048399305
+    second: hierva_42
+  - first:
+      213: -74556618362052458
+    second: hierva_43
+  - first:
+      213: 7830556194927324186
+    second: hierva_44
+  - first:
+      213: 525384731075285100
+    second: hierva_45
+  - first:
+      213: -198367145730620185
+    second: hierva_46
+  - first:
+      213: 6923813796473131780
+    second: hierva_47
+  - first:
+      213: -4179726730376819262
+    second: hierva_48
+  - first:
+      213: -5278017595387873119
+    second: hierva_49
+  - first:
+      213: 4377623218470226686
+    second: hierva_50
+  - first:
+      213: 3424860416277223207
+    second: hierva_51
+  - first:
+      213: -4076400681720755882
+    second: hierva_52
+  - first:
+      213: 7730004567233828573
+    second: hierva_53
+  - first:
+      213: -2641139266121742279
+    second: hierva_54
+  - first:
+      213: 6335783158641768625
+    second: hierva_55
+  - first:
+      213: -522628404743738457
+    second: hierva_56
+  - first:
+      213: 6056250599386745206
+    second: hierva_57
+  - first:
+      213: -354559630205392588
+    second: hierva_58
+  - first:
+      213: -5919431025383991038
+    second: hierva_59
+  - first:
+      213: -1838274488789164583
+    second: hierva_60
+  - first:
+      213: 919262997701545055
+    second: hierva_61
+  - first:
+      213: 2809017443072912388
+    second: hierva_62
+  - first:
+      213: 505850608114359631
+    second: hierva_63
+  - first:
+      213: -4215130073822206199
+    second: hierva_64
+  - first:
+      213: -94038506887362255
+    second: hierva_65
+  - first:
+      213: 8778398965341293028
+    second: hierva_66
+  - first:
+      213: 1071603990939581031
+    second: hierva_67
+  - first:
+      213: -4793725260299760711
+    second: hierva_68
+  - first:
+      213: 3605420438166009386
+    second: hierva_69
+  - first:
+      213: 8118564046674480798
+    second: hierva_70
+  - first:
+      213: 8450331904568927067
+    second: hierva_71
+  - first:
+      213: -7959305967936366640
+    second: hierva_72
+  - first:
+      213: 3708176749081073220
+    second: hierva_73
+  - first:
+      213: -1857178748482202191
+    second: hierva_74
+  - first:
+      213: 9005888659343235929
+    second: hierva_75
+  - first:
+      213: 3957994190666461723
+    second: hierva_76
+  - first:
+      213: -7111647830182560521
+    second: hierva_77
+  - first:
+      213: 8494612302549589536
+    second: hierva_78
+  - first:
+      213: 6649696791519917094
+    second: hierva_79
+  - first:
+      213: -3662181615948423633
+    second: hierva_80
+  - first:
+      213: -2556607489907482422
+    second: hierva_81
+  - first:
+      213: -3048998575331533646
+    second: hierva_82
+  - first:
+      213: 41847753943740560
+    second: hierva_83
+  - first:
+      213: 792207732703874196
+    second: hierva_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hierva_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 712
+        width: 110
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a577e45356fa580800000000000000
+      internalID: -8813714666116654481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 986
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002e36c85b02c54f0800000000000000
+      internalID: -838759466481229312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 987
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823eadc5b56f07d00800000000000000
+      internalID: 968544792144962344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 985
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a6a60c38c878c40800000000000000
+      internalID: 5514530766235265618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_4
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 986
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8518c84abd61a070800000000000000
+      internalID: 8115888650350761354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 970
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbd7d95af178f120800000000000000
+      internalID: 2447831717538945972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_6
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 971
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c01d6f9c33622f0800000000000000
+      internalID: -998053324893647842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 912
+        width: 71
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169ca552dab018cc0800000000000000
+      internalID: -3710671779692623519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 959
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42e351f9254fd540800000000000000
+      internalID: 5034818954868286028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 963
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baec4b96a438d6ef0800000000000000
+      internalID: -113290059990118741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 960
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fed006520f84d50800000000000000
+      internalID: 6721886487166447480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 961
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e914bc22915c78600800000000000000
+      internalID: 470561397832106398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_12
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 971
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adb6bc2899ed3630800000000000000
+      internalID: 3908536891421932963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_13
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 974
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fceb56366f38dd40800000000000000
+      internalID: 5609303044121160952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_14
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 972
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac632908ee956570800000000000000
+      internalID: 8459342194508262563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_15
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 974
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f9d3fdcc0248b90800000000000000
+      internalID: -7240626236614140070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 934
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c777826a9958bc20800000000000000
+      internalID: 3222424052996470729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 933
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc45a1f6a2621760800000000000000
+      internalID: 7427107204645604550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_18
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 935
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02870f1613b0a40c0800000000000000
+      internalID: -4590844563426346976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_19
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 937
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96ead333d2ed31e0800000000000000
+      internalID: -2216366044860455266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_20
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 946
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc92f43df0febb500800000000000000
+      internalID: 413186642083260877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_21
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 948
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae6ee58167d015e0800000000000000
+      internalID: -1940814625537888594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_22
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 949
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caac9f048cf7bb7d0800000000000000
+      internalID: -2901585036849853780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_23
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 952
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccf60ed1d1610b30800000000000000
+      internalID: 4251787077215517893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_24
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 952
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797ea027e38720aa0800000000000000
+      internalID: -6196257927711758441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_25
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 955
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f75485ab0cf3510800000000000000
+      internalID: 1531154304906657640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 909
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4b5089b80236e70800000000000000
+      internalID: 9107158655396328680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_27
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 909
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0bc7b5648e944e0800000000000000
+      internalID: -1996809570881851139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_28
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 909
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266f99d035a41a4c0800000000000000
+      internalID: -4278056450454325662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_29
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 925
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4b65b0fbbd6ff50800000000000000
+      internalID: 6914955891449443520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_30
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 925
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d286aeee63a6f9c0800000000000000
+      internalID: -3893745130969595180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_31
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 928
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab1d459a352ca780800000000000000
+      internalID: -8670514249051858010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_32
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 930
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d322f92a8ffe720800000000000000
+      internalID: 2877792064251247951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_33
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 928
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10406f2f035bec270800000000000000
+      internalID: 8272748787365446657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_34
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 931
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac901b528ca4b8c0800000000000000
+      internalID: -3984370094442505052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_35
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 911
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c724cf8cb80d8820800000000000000
+      internalID: 2922001339192190918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 882
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b7b558f7724df90800000000000000
+      internalID: -6929870497964655746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_37
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 883
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3be7ad16495a0870800000000000000
+      internalID: 8649824191998585660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 883
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5520e2c6126a66040800000000000000
+      internalID: 4640579128530960981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_39
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 882
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72e1f539188bc110800000000000000
+      internalID: 1282268160777642623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_40
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 890
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967190ed0320df810800000000000000
+      internalID: 1800597834924889961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_41
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 889
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d423cd97ce6354190800000000000000
+      internalID: -7978910775532309939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_42
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 890
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c919aaa703452c70800000000000000
+      internalID: 8945629935048399305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_43
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 891
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69020ee862f17fef0800000000000000
+      internalID: -74556618362052458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_44
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 887
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ca0680f59bbac60800000000000000
+      internalID: 7830556194927324186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_45
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 865
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60182a11aa8a4700800000000000000
+      internalID: 525384731075285100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_46
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 864
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e44e97c1224f3df0800000000000000
+      internalID: -198367145730620185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_47
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 860
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403dab5c6f3561060800000000000000
+      internalID: 6923813796473131780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_48
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 860
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd4fa11fa0aef5c0800000000000000
+      internalID: -4179726730376819262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_49
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 861
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8f4ac06f6b0c6b0800000000000000
+      internalID: -5278017595387873119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_50
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 829
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa8b61af1170cc30800000000000000
+      internalID: 4377623218470226686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_51
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 844
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7271085276c878f20800000000000000
+      internalID: 3424860416277223207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_52
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 830
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659cfdb7d27bd67c0800000000000000
+      internalID: -4076400681720755882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_53
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 828
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd69e16d23e764b60800000000000000
+      internalID: 7730004567233828573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_54
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 828
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9384a70b4d9c85bd0800000000000000
+      internalID: -2641139266121742279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_55
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 824
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8beb0e6393de750800000000000000
+      internalID: 6335783158641768625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_56
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 701
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab68b12c304fb8f0800000000000000
+      internalID: -522628404743738457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_57
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 706
+        width: 113
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679813f25df1c0450800000000000000
+      internalID: 6056250599386745206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_58
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 637
+        width: 126
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439e9e515e9541bf0800000000000000
+      internalID: -354559630205392588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_59
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 470
+        width: 241
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2099f8b48d4f9dda0800000000000000
+      internalID: -5919431025383991038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 600
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd1f0097132d76e0800000000000000
+      internalID: -1838274488789164583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_61
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 550
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c492173d0e1cc00800000000000000
+      internalID: 919262997701545055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_62
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 545
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cac3e4b72abf620800000000000000
+      internalID: 2809017443072912388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_63
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 549
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d521ea274250700800000000000000
+      internalID: 505850608114359631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_64
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 550
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907e2c3d789d085c0800000000000000
+      internalID: -4215130073822206199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_65
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 550
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13945c9e978e1bef0800000000000000
+      internalID: -94038506887362255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_66
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 545
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e903d9595323d970800000000000000
+      internalID: 8778398965341293028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_67
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 551
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a38d3f62a1fde00800000000000000
+      internalID: 1071603990939581031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_68
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 549
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb04052644497db0800000000000000
+      internalID: -4793725260299760711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_69
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 472
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2671d249c6090230800000000000000
+      internalID: 3605420438166009386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_70
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 473
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e4a488cfeeaa070800000000000000
+      internalID: 8118564046674480798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_71
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 473
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b532bfd681c954570800000000000000
+      internalID: 8450331904568927067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_72
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 473
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d79182746dda8190800000000000000
+      internalID: -7959305967936366640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_73
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 474
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44617554b17167330800000000000000
+      internalID: 3708176749081073220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_74
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 472
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5505c94c9f936e0800000000000000
+      internalID: -1857178748482202191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_75
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 194
+        width: 113
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b5fda35085bfc70800000000000000
+      internalID: 9005888659343235929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_76
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 233
+        width: 108
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12fbbdfebe9de630800000000000000
+      internalID: 3957994190666461723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_77
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 435
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc7a424af95e4d90800000000000000
+      internalID: -7111647830182560521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_78
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 209
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e912ef1ece2e570800000000000000
+      internalID: 8494612302549589536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_79
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 127
+        width: 238
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62479921008784c50800000000000000
+      internalID: 6649696791519917094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 71
+        width: 114
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e9d6e29315d2dc0800000000000000
+      internalID: -3662181615948423633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_81
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 71
+        width: 113
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac026fd880b158cd0800000000000000
+      internalID: -2556607489907482422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_82
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 26
+        width: 257
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc11b433f7cfa5d0800000000000000
+      internalID: -3048998575331533646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_83
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 11
+        width: 113
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090f67c7f4ca49000800000000000000
+      internalID: 41847753943740560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hierva_84
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 11
+        width: 119
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cc1205cbc7efa00800000000000000
+      internalID: 792207732703874196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f45364213cfb13781882bc355bdf3c34
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      hierva_0: -8813714666116654481
+      hierva_1: -838759466481229312
+      hierva_10: 6721886487166447480
+      hierva_11: 470561397832106398
+      hierva_12: 3908536891421932963
+      hierva_13: 5609303044121160952
+      hierva_14: 8459342194508262563
+      hierva_15: -7240626236614140070
+      hierva_16: 3222424052996470729
+      hierva_17: 7427107204645604550
+      hierva_18: -4590844563426346976
+      hierva_19: -2216366044860455266
+      hierva_2: 968544792144962344
+      hierva_20: 413186642083260877
+      hierva_21: -1940814625537888594
+      hierva_22: -2901585036849853780
+      hierva_23: 4251787077215517893
+      hierva_24: -6196257927711758441
+      hierva_25: 1531154304906657640
+      hierva_26: 9107158655396328680
+      hierva_27: -1996809570881851139
+      hierva_28: -4278056450454325662
+      hierva_29: 6914955891449443520
+      hierva_3: 5514530766235265618
+      hierva_30: -3893745130969595180
+      hierva_31: -8670514249051858010
+      hierva_32: 2877792064251247951
+      hierva_33: 8272748787365446657
+      hierva_34: -3984370094442505052
+      hierva_35: 2922001339192190918
+      hierva_36: -6929870497964655746
+      hierva_37: 8649824191998585660
+      hierva_38: 4640579128530960981
+      hierva_39: 1282268160777642623
+      hierva_4: 8115888650350761354
+      hierva_40: 1800597834924889961
+      hierva_41: -7978910775532309939
+      hierva_42: 8945629935048399305
+      hierva_43: -74556618362052458
+      hierva_44: 7830556194927324186
+      hierva_45: 525384731075285100
+      hierva_46: -198367145730620185
+      hierva_47: 6923813796473131780
+      hierva_48: -4179726730376819262
+      hierva_49: -5278017595387873119
+      hierva_5: 2447831717538945972
+      hierva_50: 4377623218470226686
+      hierva_51: 3424860416277223207
+      hierva_52: -4076400681720755882
+      hierva_53: 7730004567233828573
+      hierva_54: -2641139266121742279
+      hierva_55: 6335783158641768625
+      hierva_56: -522628404743738457
+      hierva_57: 6056250599386745206
+      hierva_58: -354559630205392588
+      hierva_59: -5919431025383991038
+      hierva_6: -998053324893647842
+      hierva_60: -1838274488789164583
+      hierva_61: 919262997701545055
+      hierva_62: 2809017443072912388
+      hierva_63: 505850608114359631
+      hierva_64: -4215130073822206199
+      hierva_65: -94038506887362255
+      hierva_66: 8778398965341293028
+      hierva_67: 1071603990939581031
+      hierva_68: -4793725260299760711
+      hierva_69: 3605420438166009386
+      hierva_7: -3710671779692623519
+      hierva_70: 8118564046674480798
+      hierva_71: 8450331904568927067
+      hierva_72: -7959305967936366640
+      hierva_73: 3708176749081073220
+      hierva_74: -1857178748482202191
+      hierva_75: 9005888659343235929
+      hierva_76: 3957994190666461723
+      hierva_77: -7111647830182560521
+      hierva_78: 8494612302549589536
+      hierva_79: 6649696791519917094
+      hierva_8: 5034818954868286028
+      hierva_80: -3662181615948423633
+      hierva_81: -2556607489907482422
+      hierva_82: -3048998575331533646
+      hierva_83: 41847753943740560
+      hierva_84: 792207732703874196
+      hierva_9: -113290059990118741
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

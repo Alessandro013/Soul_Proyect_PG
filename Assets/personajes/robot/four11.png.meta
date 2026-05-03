@@ -1,0 +1,4641 @@
+fileFormatVersion: 2
+guid: b341fbedada8c6e45a390c8444085b88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2233006532279943714
+    second: four11_0
+  - first:
+      213: 5353878566010096370
+    second: four11_1
+  - first:
+      213: 6978010585953186939
+    second: four11_2
+  - first:
+      213: 6299831927479975299
+    second: four11_3
+  - first:
+      213: 3654045229813926870
+    second: four11_4
+  - first:
+      213: 6078228650169879129
+    second: four11_5
+  - first:
+      213: -7700904467682592241
+    second: four11_6
+  - first:
+      213: 8481298629696641785
+    second: four11_7
+  - first:
+      213: 4052313451559897605
+    second: four11_8
+  - first:
+      213: -8669429448551056153
+    second: four11_9
+  - first:
+      213: 5455499753701882783
+    second: four11_10
+  - first:
+      213: -6630587538427959456
+    second: four11_11
+  - first:
+      213: 7297975244548851532
+    second: four11_12
+  - first:
+      213: 4217917987211387961
+    second: four11_13
+  - first:
+      213: 5233240299215010948
+    second: four11_14
+  - first:
+      213: -440938724432275971
+    second: four11_15
+  - first:
+      213: 2789994966979883185
+    second: four11_16
+  - first:
+      213: -7165538389087239555
+    second: four11_17
+  - first:
+      213: 1773144821975775230
+    second: four11_18
+  - first:
+      213: -6088519639143181870
+    second: four11_19
+  - first:
+      213: -8162467541201210752
+    second: four11_20
+  - first:
+      213: -4202443421938837131
+    second: four11_21
+  - first:
+      213: -8076242161055839870
+    second: four11_22
+  - first:
+      213: -3767135595640099118
+    second: four11_23
+  - first:
+      213: 7776253657504465542
+    second: four11_24
+  - first:
+      213: -3775786189984024454
+    second: four11_25
+  - first:
+      213: -3188375775014725144
+    second: four11_26
+  - first:
+      213: 4357251579609050863
+    second: four11_27
+  - first:
+      213: 4784778755119757427
+    second: four11_28
+  - first:
+      213: 8302313618560874527
+    second: four11_29
+  - first:
+      213: -6870846247411637796
+    second: four11_30
+  - first:
+      213: 2808809305797932775
+    second: four11_31
+  - first:
+      213: 2098295956708053429
+    second: four11_32
+  - first:
+      213: -1451118585516216663
+    second: four11_33
+  - first:
+      213: -4274041557012664502
+    second: four11_34
+  - first:
+      213: -7426538573025406234
+    second: four11_35
+  - first:
+      213: 270887755279598531
+    second: four11_36
+  - first:
+      213: -2964405122616956949
+    second: four11_37
+  - first:
+      213: 1127132375818360633
+    second: four11_38
+  - first:
+      213: -1492865896647768661
+    second: four11_39
+  - first:
+      213: -3183491627478025791
+    second: four11_40
+  - first:
+      213: -6927949969402442213
+    second: four11_41
+  - first:
+      213: -4920479850514157221
+    second: four11_42
+  - first:
+      213: -1827290612468904027
+    second: four11_43
+  - first:
+      213: 5683498747513574530
+    second: four11_44
+  - first:
+      213: 7659007238773156269
+    second: four11_45
+  - first:
+      213: -4931505005322024662
+    second: four11_46
+  - first:
+      213: -2896607816718516206
+    second: four11_47
+  - first:
+      213: -2450619113243081285
+    second: four11_48
+  - first:
+      213: 3654432781016887245
+    second: four11_49
+  - first:
+      213: 3047872968256005948
+    second: four11_50
+  - first:
+      213: 510205521919696840
+    second: four11_51
+  - first:
+      213: 4376715252724377569
+    second: four11_52
+  - first:
+      213: 2242843732783159632
+    second: four11_53
+  - first:
+      213: -3745433732625482561
+    second: four11_54
+  - first:
+      213: 7157901638214521578
+    second: four11_55
+  - first:
+      213: -5628851713770879159
+    second: four11_56
+  - first:
+      213: 6107900915109025854
+    second: four11_57
+  - first:
+      213: -6091649354333811489
+    second: four11_58
+  - first:
+      213: -3493743402221536805
+    second: four11_59
+  - first:
+      213: -6356921693432302882
+    second: four11_60
+  - first:
+      213: -4956251280249774560
+    second: four11_61
+  - first:
+      213: -8584069673179497130
+    second: four11_62
+  - first:
+      213: -9084719134530964148
+    second: four11_63
+  - first:
+      213: -6851478031583235170
+    second: four11_64
+  - first:
+      213: 6248493384388364550
+    second: four11_65
+  - first:
+      213: 2848157364069379770
+    second: four11_66
+  - first:
+      213: 375284751484119555
+    second: four11_67
+  - first:
+      213: -6373448397733447373
+    second: four11_68
+  - first:
+      213: -6391737147279417212
+    second: four11_69
+  - first:
+      213: -6306811811164050661
+    second: four11_70
+  - first:
+      213: 8870134722248734809
+    second: four11_71
+  - first:
+      213: -651691737695755502
+    second: four11_72
+  - first:
+      213: -5972026809837962556
+    second: four11_73
+  - first:
+      213: -2061954306184945852
+    second: four11_74
+  - first:
+      213: -5986995304445339799
+    second: four11_75
+  - first:
+      213: 4937556214344171836
+    second: four11_76
+  - first:
+      213: 8711595385682644332
+    second: four11_77
+  - first:
+      213: -8569449459905988958
+    second: four11_78
+  - first:
+      213: 1448608413715819074
+    second: four11_79
+  - first:
+      213: 8759607467826019814
+    second: four11_80
+  - first:
+      213: -645134637591230520
+    second: four11_81
+  - first:
+      213: -5680345474407963567
+    second: four11_82
+  - first:
+      213: 3104025904475090776
+    second: four11_83
+  - first:
+      213: -6603865672503127115
+    second: four11_84
+  - first:
+      213: 7519558934774694006
+    second: four11_85
+  - first:
+      213: -8871346036054099927
+    second: four11_86
+  - first:
+      213: -4662208239347514171
+    second: four11_87
+  - first:
+      213: -8725343347398085889
+    second: four11_88
+  - first:
+      213: -1411267088685676918
+    second: four11_89
+  - first:
+      213: 4777278776517104080
+    second: four11_90
+  - first:
+      213: -6682428889072194425
+    second: four11_91
+  - first:
+      213: -2999909180869700221
+    second: four11_92
+  - first:
+      213: 7289277214591431660
+    second: four11_93
+  - first:
+      213: -7063485058093102920
+    second: four11_94
+  - first:
+      213: -2329877302558737491
+    second: four11_95
+  - first:
+      213: 3118927424750693583
+    second: four11_96
+  - first:
+      213: 5748978111331676802
+    second: four11_97
+  - first:
+      213: -7014791221359057882
+    second: four11_98
+  - first:
+      213: -3571980848137077714
+    second: four11_99
+  - first:
+      213: 8461437982138121203
+    second: four11_100
+  - first:
+      213: -2157801268437769250
+    second: four11_101
+  - first:
+      213: 9205697788219542481
+    second: four11_102
+  - first:
+      213: -5413382126749621318
+    second: four11_103
+  - first:
+      213: 4625169905997163945
+    second: four11_104
+  - first:
+      213: 2353395534589688371
+    second: four11_105
+  - first:
+      213: -8318085071193330974
+    second: four11_106
+  - first:
+      213: -2530660242069707797
+    second: four11_107
+  - first:
+      213: 5493626842496761553
+    second: four11_108
+  - first:
+      213: 7212030009718805961
+    second: four11_109
+  - first:
+      213: 6828973731192203590
+    second: four11_110
+  - first:
+      213: 8037516183468192300
+    second: four11_111
+  - first:
+      213: 7699813638506381703
+    second: four11_112
+  - first:
+      213: -3154710503607621753
+    second: four11_113
+  - first:
+      213: -6963120609840904671
+    second: four11_114
+  - first:
+      213: -7578132199726568461
+    second: four11_115
+  - first:
+      213: -4495277380046562322
+    second: four11_116
+  - first:
+      213: -3700660799897926191
+    second: four11_117
+  - first:
+      213: -3056415531537720382
+    second: four11_118
+  - first:
+      213: 7425998992003743834
+    second: four11_119
+  - first:
+      213: -4976139558007138626
+    second: four11_120
+  - first:
+      213: 8337545924794809281
+    second: four11_121
+  - first:
+      213: 8401293827996116418
+    second: four11_122
+  - first:
+      213: -7518023351717903085
+    second: four11_123
+  - first:
+      213: -5497381535113547675
+    second: four11_124
+  - first:
+      213: 2115082891159802656
+    second: four11_125
+  - first:
+      213: 3105488937478903722
+    second: four11_126
+  - first:
+      213: 954750615534499342
+    second: four11_127
+  - first:
+      213: 4172688253917812692
+    second: four11_128
+  - first:
+      213: 9147981991819746036
+    second: four11_129
+  - first:
+      213: -22688881848424818
+    second: four11_130
+  - first:
+      213: -8956747045666024658
+    second: four11_131
+  - first:
+      213: 2582948942425139161
+    second: four11_132
+  - first:
+      213: 1800787273359008559
+    second: four11_133
+  - first:
+      213: 1901271259921432577
+    second: four11_134
+  - first:
+      213: 2537431215199940874
+    second: four11_135
+  - first:
+      213: 762260168280881460
+    second: four11_136
+  - first:
+      213: 1733284636222434004
+    second: four11_137
+  - first:
+      213: 2191790146726053816
+    second: four11_138
+  - first:
+      213: 4886706588541265431
+    second: four11_139
+  - first:
+      213: -2706197119727784128
+    second: four11_140
+  - first:
+      213: 5304534934185282079
+    second: four11_141
+  - first:
+      213: -1980350006275357828
+    second: four11_142
+  - first:
+      213: 6590018541070687619
+    second: four11_143
+  - first:
+      213: 4820663322146802645
+    second: four11_144
+  - first:
+      213: 4920230799819685880
+    second: four11_145
+  - first:
+      213: 4973034727335601475
+    second: four11_146
+  - first:
+      213: 6095780815384298888
+    second: four11_147
+  - first:
+      213: -1996311816273098008
+    second: four11_148
+  - first:
+      213: 2943222664946806142
+    second: four11_149
+  - first:
+      213: -5870078944216097093
+    second: four11_150
+  - first:
+      213: -698723779154562823
+    second: four11_151
+  - first:
+      213: 2582381287428899745
+    second: four11_152
+  - first:
+      213: 8525159110619387280
+    second: four11_153
+  - first:
+      213: -7565574224268691095
+    second: four11_154
+  - first:
+      213: -6929804836329740547
+    second: four11_155
+  - first:
+      213: -8220898003977407096
+    second: four11_156
+  - first:
+      213: 6439519984262919339
+    second: four11_157
+  - first:
+      213: -4442821618367222545
+    second: four11_158
+  - first:
+      213: 8743888798782608825
+    second: four11_159
+  - first:
+      213: -605174356428867013
+    second: four11_160
+  - first:
+      213: -874912759620623682
+    second: four11_161
+  - first:
+      213: 1949160154846082047
+    second: four11_162
+  - first:
+      213: 8577556530026709526
+    second: four11_163
+  - first:
+      213: -1028109107027279432
+    second: four11_164
+  - first:
+      213: 8998051152048108291
+    second: four11_165
+  - first:
+      213: 5902990073631958482
+    second: four11_166
+  - first:
+      213: -6995776476210592233
+    second: four11_167
+  - first:
+      213: -8722020641943944836
+    second: four11_168
+  - first:
+      213: 1089939190647655476
+    second: four11_169
+  - first:
+      213: 8220127861631506251
+    second: four11_170
+  - first:
+      213: -2206360283080487072
+    second: four11_171
+  - first:
+      213: -3071748105529333848
+    second: four11_172
+  - first:
+      213: 2021171077440534908
+    second: four11_173
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: four11_0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1121
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddb35ec364c201e0800000000000000
+      internalID: -2233006532279943714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_1
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1121
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa0c91903ccc4a40800000000000000
+      internalID: 5353878566010096370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_2
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1123
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74b7a628afd6d060800000000000000
+      internalID: 6978010585953186939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_3
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1125
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dbb1692cf7d6750800000000000000
+      internalID: 6299831927479975299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_4
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1125
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db054cc6c6c5b230800000000000000
+      internalID: 3654045229813926870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_5
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1125
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a4af4e0c43a5450800000000000000
+      internalID: 6078228650169879129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_6
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 1133
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a7f821034e02590800000000000000
+      internalID: -7700904467682592241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_7
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1125
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa5319fa20a3b570800000000000000
+      internalID: 8481298629696641785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_8
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1137
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ac3c63d95bc3830800000000000000
+      internalID: 4052313451559897605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_9
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1137
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecbdc169dfffa780800000000000000
+      internalID: -8669429448551056153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_10
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1123
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bb1ab1f14d5bb40800000000000000
+      internalID: 5455499753701882783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_11
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067aedf93cb6bf3a0800000000000000
+      internalID: -6630587538427959456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_12
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1121
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47cdee81dd974560800000000000000
+      internalID: 7297975244548851532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_13
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1121
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9342777df0e098a30800000000000000
+      internalID: 4217917987211387961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_14
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 1121
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c38f2435430a840800000000000000
+      internalID: 5233240299215010948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_15
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1031
+        width: 95
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5108af09871e9f0800000000000000
+      internalID: -440938724432275971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_16
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1035
+        width: 113
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0b6f3f3ad08b620800000000000000
+      internalID: 2789994966979883185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_17
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1037
+        width: 106
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72c70ebcc4ee8c90800000000000000
+      internalID: -7165538389087239555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_18
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1039
+        width: 117
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7703132d97b9810800000000000000
+      internalID: 1773144821975775230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_19
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1039
+        width: 117
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d191e485ab318ba0800000000000000
+      internalID: -6088519639143181870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_20
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1037
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082bb04940719be80800000000000000
+      internalID: -8162467541201210752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_21
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1127
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57998a629fbeda5c0800000000000000
+      internalID: -4202443421938837131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_22
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1035
+        width: 108
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289cb365b8c6bef80800000000000000
+      internalID: -8076242161055839870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_23
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1125
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de6429822278bbc0800000000000000
+      internalID: -3767135595640099118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_24
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 1031
+        width: 84
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682c2ea408dcaeb60800000000000000
+      internalID: 7776253657504465542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1029
+        width: 94
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a783d261776b99bc0800000000000000
+      internalID: -3775786189984024454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_26
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1031
+        width: 100
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e959c7102d90c3d0800000000000000
+      internalID: -3188375775014725144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_27
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1029
+        width: 84
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee6b97d931187c30800000000000000
+      internalID: 4357251579609050863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_28
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 923
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378bfbb4de2f66240800000000000000
+      internalID: 4784778755119757427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_29
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 925
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f187530af3eb73370800000000000000
+      internalID: 8302313618560874527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_30
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 925
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd124b4cdb9d5a0a0800000000000000
+      internalID: -6870846247411637796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_31
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 925
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6b5e19e25eaf620800000000000000
+      internalID: 2808809305797932775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_32
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 933
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1d83d2e05ae1d10800000000000000
+      internalID: 2098295956708053429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_33
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 925
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aea657b5579cdbe0800000000000000
+      internalID: -1451118585516216663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_34
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 937
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fa00749dd8fa4c0800000000000000
+      internalID: -4274041557012664502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_35
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 937
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2951ce382afe890800000000000000
+      internalID: -7426538573025406234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_36
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 923
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3817b6af262c300800000000000000
+      internalID: 270887755279598531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_37
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 943
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be761104f315cd6d0800000000000000
+      internalID: -2964405122616956949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_38
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 921
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937de7b8ce064af00800000000000000
+      internalID: 1127132375818360633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_39
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 835
+        width: 112
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5c3056066484be0800000000000000
+      internalID: -1492865896647768661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_40
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 837
+        width: 123
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9fdbe4b37f1d3d0800000000000000
+      internalID: -3183491627478025791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_41
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 839
+        width: 110
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ec61c653afadf90800000000000000
+      internalID: -6927949969402442213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_42
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 839
+        width: 114
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51f2a155a1f6bbb0800000000000000
+      internalID: -4920479850514157221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_43
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 837
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af826e8ed824a6e0800000000000000
+      internalID: -1827290612468904027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_44
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 927
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2849ce69ff7dfde40800000000000000
+      internalID: 5683498747513574530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_45
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 835
+        width: 129
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9283721824a4a60800000000000000
+      internalID: 7659007238773156269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_46
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 925
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2948bd6356cf8bb0800000000000000
+      internalID: -4931505005322024662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_47
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 913
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2108fde998e2dc7d0800000000000000
+      internalID: -2896607816718516206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_48
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 835
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb50d5386e6adfdd0800000000000000
+      internalID: -2450619113243081285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_49
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 831
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfed08904727b230800000000000000
+      internalID: 3654432781016887245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_50
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 927
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c372a69f0583c4a20800000000000000
+      internalID: 3047872968256005948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_51
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 835
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf5770183d941700800000000000000
+      internalID: 510205521919696840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_52
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 827
+        width: 142
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7aba165573dbc30800000000000000
+      internalID: 4376715252724377569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_53
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 833
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059504bed7e202f10800000000000000
+      internalID: 2242843732783159632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_54
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 755
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcb7154ddb850cc0800000000000000
+      internalID: -3745433732625482561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_55
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 635
+        width: 108
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae296f2ad99f55360800000000000000
+      internalID: 7157901638214521578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_56
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 753
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9478653703d42e1b0800000000000000
+      internalID: -5628851713770879159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_57
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 633
+        width: 108
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e385b50758f93c450800000000000000
+      internalID: 6107900915109025854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_58
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 631
+        width: 110
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc02baef2d167ba0800000000000000
+      internalID: -6091649354333811489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_59
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 630
+        width: 137
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd97836e2eab38fc0800000000000000
+      internalID: -3493743402221536805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_60
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 755
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed23ef5766da7c7a0800000000000000
+      internalID: -6356921693432302882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_61
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 757
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e132f48bbd73bb0800000000000000
+      internalID: -4956251280249774560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_62
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 743
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dbee2dc124fd880800000000000000
+      internalID: -8584069673179497130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_63
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 635
+        width: 98
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45761e74189ce180800000000000000
+      internalID: -9084719134530964148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_64
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 635
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93b61de709aae0a0800000000000000
+      internalID: -6851478031583235170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_65
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 635
+        width: 106
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609c8dd80ab17b650800000000000000
+      internalID: 6248493384388364550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_66
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 635
+        width: 108
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abea4cd4800b68720800000000000000
+      internalID: 2848157364069379770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_67
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 685
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ae4dd3e77453500800000000000000
+      internalID: 375284751484119555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_68
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 693
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339b0d24376fc87a0800000000000000
+      internalID: -6373448397733447373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_69
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 699
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480edbeedecfb47a0800000000000000
+      internalID: -6391737147279417212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_70
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 697
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b245a9214b978a0800000000000000
+      internalID: -6306811811164050661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_71
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 687
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9587e7da88c091b70800000000000000
+      internalID: 8870134722248734809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_72
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 685
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213669f31d9b4f6f0800000000000000
+      internalID: -651691737695755502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_73
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 693
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cabf72f1491f1da0800000000000000
+      internalID: -5972026809837962556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_74
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 699
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f52c4bb777263e0800000000000000
+      internalID: -2061954306184945852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_75
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 632
+        width: 135
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9679a96bd7be9eca0800000000000000
+      internalID: -5986995304445339799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_76
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 697
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31c1867739b58440800000000000000
+      internalID: 4937556214344171836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_77
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 687
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dcb86e8ddc5e870800000000000000
+      internalID: 8711595385682644332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_78
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 683
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6f3ad7e13331980800000000000000
+      internalID: -8569449459905988958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_79
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 691
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a6c2e5dad7a1410800000000000000
+      internalID: 1448608413715819074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_80
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 697
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edf0a3e490609970800000000000000
+      internalID: 8759607467826019814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_81
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 631
+        width: 129
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7031617750c07f0800000000000000
+      internalID: -645134637591230520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_82
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 695
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1546a6403eb5b21b0800000000000000
+      internalID: -5680345474407963567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_83
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 685
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f29d14d17b31b20800000000000000
+      internalID: 3104025904475090776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_84
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 689
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b31e0ed82b5a54a0800000000000000
+      internalID: -6603865672503127115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_85
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 695
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6704cd6c207da5860800000000000000
+      internalID: 7519558934774694006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_86
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 633
+        width: 131
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928fc6958c5a2e480800000000000000
+      internalID: -8871346036054099927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_87
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 693
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4cac8ce428c4fb0800000000000000
+      internalID: -4662208239347514171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_88
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 683
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2f403547a59e680800000000000000
+      internalID: -8725343347398085889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_89
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 681
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86c0bf5f0c2a6ce0800000000000000
+      internalID: -1411267088685676918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_90
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 431
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d190537cbd4c4240800000000000000
+      internalID: 4777278776517104080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_91
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 437
+        width: 150
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c2b06945e3343a0800000000000000
+      internalID: -6682428889072194425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_92
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 437
+        width: 104
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38514d38e7e2e56d0800000000000000
+      internalID: -2999909180869700221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_93
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 561
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce33215a107b82560800000000000000
+      internalID: 7289277214591431660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_94
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 563
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8c41c73c579fd90800000000000000
+      internalID: -7063485058093102920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_95
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 543
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabbdb200fc9aafd0800000000000000
+      internalID: -2329877302558737491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_96
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 493
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc2d70d7f7a84b20800000000000000
+      internalID: 3118927424750693583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_97
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 435
+        width: 138
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282bb63022978cf40800000000000000
+      internalID: 5748978111331676802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_98
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 537
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6246d55dc8476ae90800000000000000
+      internalID: -7014791221359057882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_99
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 437
+        width: 138
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c7a420856cd6ec0800000000000000
+      internalID: -3571980848137077714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_100
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 437
+        width: 132
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb375e93011d6570800000000000000
+      internalID: 8461437982138121203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_101
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 429
+        width: 150
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed321eacd23fd02e0800000000000000
+      internalID: -2157801268437769250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_102
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 436
+        width: 156
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbcc605d5531cf70800000000000000
+      internalID: 9205697788219542481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_103
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 435
+        width: 149
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3e3a513adcfd4b0800000000000000
+      internalID: -5413382126749621318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_104
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 499
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ada9c83687ef2040800000000000000
+      internalID: 4625169905997163945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_105
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 541
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a753715c0f8a020800000000000000
+      internalID: 2353395534589688371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_106
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 483
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaaa08e2b9309c80800000000000000
+      internalID: -8318085071193330974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_107
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 435
+        width: 151
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be32b38fae941ecd0800000000000000
+      internalID: -2530660242069707797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_108
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 499
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1def19bb1884d3c40800000000000000
+      internalID: 5493626842496761553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_109
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 491
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c51fb63517461460800000000000000
+      internalID: 7212030009718805961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_110
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 485
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6496f245d6365ce50800000000000000
+      internalID: 6828973731192203590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_111
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 493
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c223310626efa8f60800000000000000
+      internalID: 8037516183468192300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_112
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 487
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78181e775bb3bda60800000000000000
+      internalID: 7699813638506381703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_113
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 493
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7872647e2873834d0800000000000000
+      internalID: -3154710503607621753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_114
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 435
+        width: 148
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1264b3292b60e5f90800000000000000
+      internalID: -6963120609840904671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_115
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 475
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb295e3ae015d690800000000000000
+      internalID: -7578132199726568461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_116
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 235
+        width: 144
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebd9733a019d91c0800000000000000
+      internalID: -4495277380046562322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_117
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 351
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d50fd30c9c94acc0800000000000000
+      internalID: -3700660799897926191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_118
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 233
+        width: 141
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb15b4844e6595d0800000000000000
+      internalID: -3056415531537720382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_119
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 229
+        width: 108
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50cac41db27e0760800000000000000
+      internalID: 7425998992003743834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_120
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 219
+        width: 150
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6173ccf6331fab0800000000000000
+      internalID: -4976139558007138626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_121
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 233
+        width: 146
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb76e928d9e4b370800000000000000
+      internalID: 8337545924794809281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_122
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 309
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5e36f7934679470800000000000000
+      internalID: 8401293827996116418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_123
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 299
+        width: 52
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31543c3089d9aa790800000000000000
+      internalID: -7518023351717903085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_124
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 233
+        width: 156
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560f3c4ce9065b3b0800000000000000
+      internalID: -5497381535113547675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_125
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 303
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023161eeea84a5d10800000000000000
+      internalID: 2115082891159802656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_126
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 232
+        width: 129
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7d55c2cb9e81b20800000000000000
+      internalID: 3105488937478903722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_127
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 357
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06f40850a4ff3d00800000000000000
+      internalID: 954750615534499342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_128
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 234
+        width: 154
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7573debdd58e930800000000000000
+      internalID: 4172688253917812692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_129
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 327
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa161a472924fe70800000000000000
+      internalID: 9147981991819746036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_130
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 331
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86e21905946faff0800000000000000
+      internalID: -22688881848424818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_131
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 321
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e231c00540e33b380800000000000000
+      internalID: -8956747045666024658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_132
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 305
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7a83ac06a78d320800000000000000
+      internalID: 2582948942425139161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_133
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 247
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23ab90fb7eadf810800000000000000
+      internalID: 1800787273359008559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_134
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 299
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100c645332ca26a10800000000000000
+      internalID: 1901271259921432577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_135
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 232
+        width: 130
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01faff0f34c63320800000000000000
+      internalID: 2537431215199940874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_136
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 265
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439bfcc9597149a00800000000000000
+      internalID: 762260168280881460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_137
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 281
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da2eac713ddd0810800000000000000
+      internalID: 1733284636222434004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_138
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 233
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7cecd968dca6e10800000000000000
+      internalID: 2191790146726053816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_139
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 235
+        width: 151
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716209b50c111d340800000000000000
+      internalID: 4886706588541265431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_140
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 297
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fa072ce08a17ad0800000000000000
+      internalID: -2706197119727784128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_141
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 291
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a83c20b6e7d9940800000000000000
+      internalID: 5304534934185282079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_142
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 295
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73c30169226484e0800000000000000
+      internalID: -1980350006275357828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_143
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 273
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d91cb92f2747b50800000000000000
+      internalID: 6590018541070687619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_144
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 273
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db805220cf66e240800000000000000
+      internalID: 4820663322146802645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_145
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 279
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff303c08db284440800000000000000
+      internalID: 4920230799819685880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_146
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 277
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345258a7cb4c30540800000000000000
+      internalID: 4973034727335601475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_147
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 291
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8854f91da50989450800000000000000
+      internalID: 6095780815384298888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_148
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 229
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea8022eafcab44e0800000000000000
+      internalID: -1996311816273098008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_149
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 185
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d680f7b6d68d820800000000000000
+      internalID: 2943222664946806142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_150
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 189
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbedf7e1d4a498ea0800000000000000
+      internalID: -5870078944216097093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_151
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 33
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0bf53cc62ad46f0800000000000000
+      internalID: -698723779154562823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_152
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 181
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3c0df491676d320800000000000000
+      internalID: 2582381287428899745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_153
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 169
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095572afa037f4670800000000000000
+      internalID: 8525159110619387280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_154
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 35
+        width: 137
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969fc90c35ea10790800000000000000
+      internalID: -7565574224268691095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_155
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 29
+        width: 148
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df628cf873364df90800000000000000
+      internalID: -6929804836329740547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_156
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 33
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885753252d089ed80800000000000000
+      internalID: -8220898003977407096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_157
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 33
+        width: 112
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba43502ce45cd5950800000000000000
+      internalID: 6439519984262919339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_158
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 33
+        width: 106
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecabc4f64de752c0800000000000000
+      internalID: -4442821618367222545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_159
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 155
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b554fe0988885970800000000000000
+      internalID: 8743888798782608825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_160
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 135
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ab1e1112df997f0800000000000000
+      internalID: -605174356428867013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_161
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 95
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb22b590b7fabd3f0800000000000000
+      internalID: -874912759620623682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_162
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 89
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff332ff65decc0b10800000000000000
+      internalID: 1949160154846082047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_163
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 87
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612031dd73a990770800000000000000
+      internalID: 8577556530026709526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_164
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 85
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b18b4dd63c6bb1f0800000000000000
+      internalID: -1028109107027279432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_165
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 91
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3033f9c59df7fdc70800000000000000
+      internalID: 8998051152048108291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_166
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 99
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d56d735232abe150800000000000000
+      internalID: 5902990073631958482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_167
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 93
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7160f6f2c520aee90800000000000000
+      internalID: -6995776476210592233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_168
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 87
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c718e49ff6825f680800000000000000
+      internalID: -8722020641943944836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_169
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 85
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c845d4bed302f00800000000000000
+      internalID: 1089939190647655476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_170
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 83
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4756d0fcb2c31270800000000000000
+      internalID: 8220127861631506251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_171
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 89
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f0578230f6161e0800000000000000
+      internalID: -2206360283080487072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_172
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 97
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7e1727f55fe55d0800000000000000
+      internalID: -3071748105529333848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: four11_173
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 33
+        width: 112
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79f225e264ac0c10800000000000000
+      internalID: 2021171077440534908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 32aaf26bf9d336c2789fbfd7006d0aff
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      four11_0: -2233006532279943714
+      four11_1: 5353878566010096370
+      four11_10: 5455499753701882783
+      four11_100: 8461437982138121203
+      four11_101: -2157801268437769250
+      four11_102: 9205697788219542481
+      four11_103: -5413382126749621318
+      four11_104: 4625169905997163945
+      four11_105: 2353395534589688371
+      four11_106: -8318085071193330974
+      four11_107: -2530660242069707797
+      four11_108: 5493626842496761553
+      four11_109: 7212030009718805961
+      four11_11: -6630587538427959456
+      four11_110: 6828973731192203590
+      four11_111: 8037516183468192300
+      four11_112: 7699813638506381703
+      four11_113: -3154710503607621753
+      four11_114: -6963120609840904671
+      four11_115: -7578132199726568461
+      four11_116: -4495277380046562322
+      four11_117: -3700660799897926191
+      four11_118: -3056415531537720382
+      four11_119: 7425998992003743834
+      four11_12: 7297975244548851532
+      four11_120: -4976139558007138626
+      four11_121: 8337545924794809281
+      four11_122: 8401293827996116418
+      four11_123: -7518023351717903085
+      four11_124: -5497381535113547675
+      four11_125: 2115082891159802656
+      four11_126: 3105488937478903722
+      four11_127: 954750615534499342
+      four11_128: 4172688253917812692
+      four11_129: 9147981991819746036
+      four11_13: 4217917987211387961
+      four11_130: -22688881848424818
+      four11_131: -8956747045666024658
+      four11_132: 2582948942425139161
+      four11_133: 1800787273359008559
+      four11_134: 1901271259921432577
+      four11_135: 2537431215199940874
+      four11_136: 762260168280881460
+      four11_137: 1733284636222434004
+      four11_138: 2191790146726053816
+      four11_139: 4886706588541265431
+      four11_14: 5233240299215010948
+      four11_140: -2706197119727784128
+      four11_141: 5304534934185282079
+      four11_142: -1980350006275357828
+      four11_143: 6590018541070687619
+      four11_144: 4820663322146802645
+      four11_145: 4920230799819685880
+      four11_146: 4973034727335601475
+      four11_147: 6095780815384298888
+      four11_148: -1996311816273098008
+      four11_149: 2943222664946806142
+      four11_15: -440938724432275971
+      four11_150: -5870078944216097093
+      four11_151: -698723779154562823
+      four11_152: 2582381287428899745
+      four11_153: 8525159110619387280
+      four11_154: -7565574224268691095
+      four11_155: -6929804836329740547
+      four11_156: -8220898003977407096
+      four11_157: 6439519984262919339
+      four11_158: -4442821618367222545
+      four11_159: 8743888798782608825
+      four11_16: 2789994966979883185
+      four11_160: -605174356428867013
+      four11_161: -874912759620623682
+      four11_162: 1949160154846082047
+      four11_163: 8577556530026709526
+      four11_164: -1028109107027279432
+      four11_165: 8998051152048108291
+      four11_166: 5902990073631958482
+      four11_167: -6995776476210592233
+      four11_168: -8722020641943944836
+      four11_169: 1089939190647655476
+      four11_17: -7165538389087239555
+      four11_170: 8220127861631506251
+      four11_171: -2206360283080487072
+      four11_172: -3071748105529333848
+      four11_173: 2021171077440534908
+      four11_18: 1773144821975775230
+      four11_19: -6088519639143181870
+      four11_2: 6978010585953186939
+      four11_20: -8162467541201210752
+      four11_21: -4202443421938837131
+      four11_22: -8076242161055839870
+      four11_23: -3767135595640099118
+      four11_24: 7776253657504465542
+      four11_25: -3775786189984024454
+      four11_26: -3188375775014725144
+      four11_27: 4357251579609050863
+      four11_28: 4784778755119757427
+      four11_29: 8302313618560874527
+      four11_3: 6299831927479975299
+      four11_30: -6870846247411637796
+      four11_31: 2808809305797932775
+      four11_32: 2098295956708053429
+      four11_33: -1451118585516216663
+      four11_34: -4274041557012664502
+      four11_35: -7426538573025406234
+      four11_36: 270887755279598531
+      four11_37: -2964405122616956949
+      four11_38: 1127132375818360633
+      four11_39: -1492865896647768661
+      four11_4: 3654045229813926870
+      four11_40: -3183491627478025791
+      four11_41: -6927949969402442213
+      four11_42: -4920479850514157221
+      four11_43: -1827290612468904027
+      four11_44: 5683498747513574530
+      four11_45: 7659007238773156269
+      four11_46: -4931505005322024662
+      four11_47: -2896607816718516206
+      four11_48: -2450619113243081285
+      four11_49: 3654432781016887245
+      four11_5: 6078228650169879129
+      four11_50: 3047872968256005948
+      four11_51: 510205521919696840
+      four11_52: 4376715252724377569
+      four11_53: 2242843732783159632
+      four11_54: -3745433732625482561
+      four11_55: 7157901638214521578
+      four11_56: -5628851713770879159
+      four11_57: 6107900915109025854
+      four11_58: -6091649354333811489
+      four11_59: -3493743402221536805
+      four11_6: -7700904467682592241
+      four11_60: -6356921693432302882
+      four11_61: -4956251280249774560
+      four11_62: -8584069673179497130
+      four11_63: -9084719134530964148
+      four11_64: -6851478031583235170
+      four11_65: 6248493384388364550
+      four11_66: 2848157364069379770
+      four11_67: 375284751484119555
+      four11_68: -6373448397733447373
+      four11_69: -6391737147279417212
+      four11_7: 8481298629696641785
+      four11_70: -6306811811164050661
+      four11_71: 8870134722248734809
+      four11_72: -651691737695755502
+      four11_73: -5972026809837962556
+      four11_74: -2061954306184945852
+      four11_75: -5986995304445339799
+      four11_76: 4937556214344171836
+      four11_77: 8711595385682644332
+      four11_78: -8569449459905988958
+      four11_79: 1448608413715819074
+      four11_8: 4052313451559897605
+      four11_80: 8759607467826019814
+      four11_81: -645134637591230520
+      four11_82: -5680345474407963567
+      four11_83: 3104025904475090776
+      four11_84: -6603865672503127115
+      four11_85: 7519558934774694006
+      four11_86: -8871346036054099927
+      four11_87: -4662208239347514171
+      four11_88: -8725343347398085889
+      four11_89: -1411267088685676918
+      four11_9: -8669429448551056153
+      four11_90: 4777278776517104080
+      four11_91: -6682428889072194425
+      four11_92: -2999909180869700221
+      four11_93: 7289277214591431660
+      four11_94: -7063485058093102920
+      four11_95: -2329877302558737491
+      four11_96: 3118927424750693583
+      four11_97: 5748978111331676802
+      four11_98: -7014791221359057882
+      four11_99: -3571980848137077714
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

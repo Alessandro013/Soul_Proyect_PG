@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 5d7c0c97638e48c20ba1d28be21220c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -229699011329402352
+    second: dragones-Photoroom_0
+  - first:
+      213: -1034396769313637505
+    second: dragones-Photoroom_1
+  - first:
+      213: 8895731482098785925
+    second: dragones-Photoroom_2
+  - first:
+      213: -1417423300443736194
+    second: dragones-Photoroom_3
+  - first:
+      213: 3438503314083133791
+    second: dragones-Photoroom_4
+  - first:
+      213: -1539239672633872935
+    second: dragones-Photoroom_5
+  - first:
+      213: -7358056502478162281
+    second: dragones-Photoroom_6
+  - first:
+      213: 745467260069746856
+    second: dragones-Photoroom_7
+  - first:
+      213: 7380046396849065184
+    second: dragones-Photoroom_8
+  - first:
+      213: -3869443401433619782
+    second: dragones-Photoroom_9
+  - first:
+      213: -4056968498761328422
+    second: dragones-Photoroom_10
+  - first:
+      213: -1287688274333196735
+    second: dragones-Photoroom_11
+  - first:
+      213: 4176167907960417486
+    second: dragones-Photoroom_12
+  - first:
+      213: 2137451036142685467
+    second: dragones-Photoroom_13
+  - first:
+      213: -7194635443021388681
+    second: dragones-Photoroom_14
+  - first:
+      213: 5897654802677661596
+    second: dragones-Photoroom_15
+  - first:
+      213: 8694867070085596164
+    second: dragones-Photoroom_16
+  - first:
+      213: 5662276692610111435
+    second: dragones-Photoroom_17
+  - first:
+      213: -3513527360528389351
+    second: dragones-Photoroom_18
+  - first:
+      213: 1318092589758300268
+    second: dragones-Photoroom_19
+  - first:
+      213: 6561754428155146593
+    second: dragones-Photoroom_20
+  - first:
+      213: 4254882588810710602
+    second: dragones-Photoroom_21
+  - first:
+      213: 4224840058725234763
+    second: dragones-Photoroom_22
+  - first:
+      213: -5310569624301443693
+    second: dragones-Photoroom_23
+  - first:
+      213: 8123189897792980177
+    second: dragones-Photoroom_24
+  - first:
+      213: -7931226593271017026
+    second: dragones-Photoroom_25
+  - first:
+      213: -9166152707144163758
+    second: dragones-Photoroom_26
+  - first:
+      213: -474432466319559692
+    second: dragones-Photoroom_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dragones-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 899
+        width: 60
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ad37857f1ffccf0800000000000000
+      internalID: -229699011329402352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 899
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bbf386e9515a1f0800000000000000
+      internalID: -1034396769313637505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 859
+        width: 132
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ed1cfb6acf37b70800000000000000
+      internalID: 8895731482098785925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 861
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7770b0a40d445ce0800000000000000
+      internalID: -1417423300443736194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 861
+        width: 82
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59bde2db8408bf20800000000000000
+      internalID: 3438503314083133791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 775
+        width: 58
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd28784ca583aae0800000000000000
+      internalID: -1539239672633872935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 775
+        width: 62
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796398c789ee2e990800000000000000
+      internalID: -7358056502478162281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 674
+        width: 171
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8142cf58e685a00800000000000000
+      internalID: 745467260069746856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 665
+        width: 157
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec0716c8113b6660800000000000000
+      internalID: 7380046396849065184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 652
+        width: 62
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2e1134ab9fc4ac0800000000000000
+      internalID: -3869443401433619782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 652
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8916625a0c2b7c0800000000000000
+      internalID: -4056968498761328422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 502
+        width: 149
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e1fe24656312ee0800000000000000
+      internalID: -1287688274333196735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 511
+        width: 101
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecced54069ab4f930800000000000000
+      internalID: 4176167907960417486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 478
+        width: 217
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d43168460c9ad10800000000000000
+      internalID: 2137451036142685467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 270
+        width: 112
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7746642fe25872c90800000000000000
+      internalID: -7194635443021388681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 273
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f7a71cbcda8d150800000000000000
+      internalID: 5897654802677661596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 311
+        width: 157
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40481b9688f5aa870800000000000000
+      internalID: 8694867070085596164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 264
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7dff2e6a2749e40800000000000000
+      internalID: 5662276692610111435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 295
+        width: 167
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91be6172b717d3fc0800000000000000
+      internalID: -3513527360528389351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 170
+        width: 115
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c604e911a3eca4210800000000000000
+      internalID: 1318092589758300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 171
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161b88103e8001b50800000000000000
+      internalID: 6561754428155146593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 180
+        width: 140
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e8e03db216c0b30800000000000000
+      internalID: 4254882588810710602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 96
+        width: 187
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48782536a5a1aa30800000000000000
+      internalID: 4224840058725234763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 104
+        width: 100
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395688430111d46b0800000000000000
+      internalID: -5310569624301443693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 99
+        width: 89
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d40efc6c2e5bb070800000000000000
+      internalID: 8123189897792980177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 14
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb113f25f6f9ee190800000000000000
+      internalID: -7931226593271017026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 101
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25edfad5da84bc080800000000000000
+      internalID: -9166152707144163758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragones-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 14
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f33c1f7f2a7a69f0800000000000000
+      internalID: -474432466319559692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dragones-Photoroom_0: -229699011329402352
+      dragones-Photoroom_1: -1034396769313637505
+      dragones-Photoroom_10: -4056968498761328422
+      dragones-Photoroom_11: -1287688274333196735
+      dragones-Photoroom_12: 4176167907960417486
+      dragones-Photoroom_13: 2137451036142685467
+      dragones-Photoroom_14: -7194635443021388681
+      dragones-Photoroom_15: 5897654802677661596
+      dragones-Photoroom_16: 8694867070085596164
+      dragones-Photoroom_17: 5662276692610111435
+      dragones-Photoroom_18: -3513527360528389351
+      dragones-Photoroom_19: 1318092589758300268
+      dragones-Photoroom_2: 8895731482098785925
+      dragones-Photoroom_20: 6561754428155146593
+      dragones-Photoroom_21: 4254882588810710602
+      dragones-Photoroom_22: 4224840058725234763
+      dragones-Photoroom_23: -5310569624301443693
+      dragones-Photoroom_24: 8123189897792980177
+      dragones-Photoroom_25: -7931226593271017026
+      dragones-Photoroom_26: -9166152707144163758
+      dragones-Photoroom_27: -474432466319559692
+      dragones-Photoroom_3: -1417423300443736194
+      dragones-Photoroom_4: 3438503314083133791
+      dragones-Photoroom_5: -1539239672633872935
+      dragones-Photoroom_6: -7358056502478162281
+      dragones-Photoroom_7: 745467260069746856
+      dragones-Photoroom_8: 7380046396849065184
+      dragones-Photoroom_9: -3869443401433619782
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

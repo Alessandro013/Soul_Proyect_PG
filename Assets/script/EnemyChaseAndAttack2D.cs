@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class EnemyChaseAndAttack2D : MonoBehaviour
+public class EnemyChaseAndAttack2D : Salud
 {
     // Parametros configurables desde el Inspector.
     public float speed = 1f;
@@ -106,6 +106,11 @@ public class EnemyChaseAndAttack2D : MonoBehaviour
         if (rb != null) rb.linearVelocity = Vector2.zero;
 
         Destroy(gameObject, 2f);
+    }
+
+    protected override void Morir()
+    {
+        Die();
     }
 
     // Busca el objeto con el tag configurado y guarda su Transform.

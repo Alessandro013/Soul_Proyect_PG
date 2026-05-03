@@ -1,0 +1,5863 @@
+fileFormatVersion: 2
+guid: c84b3823389a61222a73c057b9a7f560
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5415182200080483679
+    second: 1938885_rusron_c6h8o6_0
+  - first:
+      213: -135745718250270188
+    second: 1938885_rusron_c6h8o6_1
+  - first:
+      213: 4029634273629142906
+    second: 1938885_rusron_c6h8o6_2
+  - first:
+      213: -842335209582617184
+    second: 1938885_rusron_c6h8o6_3
+  - first:
+      213: -123910893940624706
+    second: 1938885_rusron_c6h8o6_4
+  - first:
+      213: 46745208661105651
+    second: 1938885_rusron_c6h8o6_5
+  - first:
+      213: 4405899318369011059
+    second: 1938885_rusron_c6h8o6_6
+  - first:
+      213: 5613913159773584472
+    second: 1938885_rusron_c6h8o6_7
+  - first:
+      213: -235647555742493507
+    second: 1938885_rusron_c6h8o6_8
+  - first:
+      213: 2250099027387685867
+    second: 1938885_rusron_c6h8o6_9
+  - first:
+      213: -8174325987697795450
+    second: 1938885_rusron_c6h8o6_10
+  - first:
+      213: 5288558311034221339
+    second: 1938885_rusron_c6h8o6_11
+  - first:
+      213: -3128959075117471135
+    second: 1938885_rusron_c6h8o6_12
+  - first:
+      213: -7347380409277496978
+    second: 1938885_rusron_c6h8o6_13
+  - first:
+      213: -6108572080421053112
+    second: 1938885_rusron_c6h8o6_14
+  - first:
+      213: 7820977260427998167
+    second: 1938885_rusron_c6h8o6_15
+  - first:
+      213: 4145302392215550264
+    second: 1938885_rusron_c6h8o6_16
+  - first:
+      213: 5163303931040487478
+    second: 1938885_rusron_c6h8o6_17
+  - first:
+      213: -7413639742174505484
+    second: 1938885_rusron_c6h8o6_18
+  - first:
+      213: 2682886669550633204
+    second: 1938885_rusron_c6h8o6_19
+  - first:
+      213: 8662395429630555226
+    second: 1938885_rusron_c6h8o6_20
+  - first:
+      213: -6782981844836945307
+    second: 1938885_rusron_c6h8o6_21
+  - first:
+      213: 7931342338841513159
+    second: 1938885_rusron_c6h8o6_22
+  - first:
+      213: -5924678144621940625
+    second: 1938885_rusron_c6h8o6_23
+  - first:
+      213: 4323232828711879514
+    second: 1938885_rusron_c6h8o6_24
+  - first:
+      213: -8292569601038875950
+    second: 1938885_rusron_c6h8o6_25
+  - first:
+      213: 5514156027035404193
+    second: 1938885_rusron_c6h8o6_26
+  - first:
+      213: 7735973059638786055
+    second: 1938885_rusron_c6h8o6_27
+  - first:
+      213: 1872578992604119155
+    second: 1938885_rusron_c6h8o6_28
+  - first:
+      213: 8400420992701051414
+    second: 1938885_rusron_c6h8o6_29
+  - first:
+      213: 3257271988600805505
+    second: 1938885_rusron_c6h8o6_30
+  - first:
+      213: 7839346479371554173
+    second: 1938885_rusron_c6h8o6_31
+  - first:
+      213: 1826703317227033340
+    second: 1938885_rusron_c6h8o6_32
+  - first:
+      213: 4278921763734645883
+    second: 1938885_rusron_c6h8o6_33
+  - first:
+      213: -5388846575898443273
+    second: 1938885_rusron_c6h8o6_34
+  - first:
+      213: 5262045967432046954
+    second: 1938885_rusron_c6h8o6_35
+  - first:
+      213: -6350694651462763462
+    second: 1938885_rusron_c6h8o6_36
+  - first:
+      213: 2629159982793004545
+    second: 1938885_rusron_c6h8o6_37
+  - first:
+      213: -106168773728763262
+    second: 1938885_rusron_c6h8o6_38
+  - first:
+      213: 3948924184675865630
+    second: 1938885_rusron_c6h8o6_39
+  - first:
+      213: 4473144140490032226
+    second: 1938885_rusron_c6h8o6_40
+  - first:
+      213: -293361233400004336
+    second: 1938885_rusron_c6h8o6_41
+  - first:
+      213: 6848887381064496807
+    second: 1938885_rusron_c6h8o6_42
+  - first:
+      213: -6640584399376076775
+    second: 1938885_rusron_c6h8o6_43
+  - first:
+      213: -7765317200937536552
+    second: 1938885_rusron_c6h8o6_44
+  - first:
+      213: -1489331154074582537
+    second: 1938885_rusron_c6h8o6_45
+  - first:
+      213: 8152883804682410897
+    second: 1938885_rusron_c6h8o6_46
+  - first:
+      213: 9123950479140602777
+    second: 1938885_rusron_c6h8o6_47
+  - first:
+      213: -3339333132285181280
+    second: 1938885_rusron_c6h8o6_48
+  - first:
+      213: -4104097182956828291
+    second: 1938885_rusron_c6h8o6_49
+  - first:
+      213: -8134208467761073404
+    second: 1938885_rusron_c6h8o6_50
+  - first:
+      213: -4133491996880701990
+    second: 1938885_rusron_c6h8o6_51
+  - first:
+      213: 6731160000041860403
+    second: 1938885_rusron_c6h8o6_52
+  - first:
+      213: -1066199930906084655
+    second: 1938885_rusron_c6h8o6_53
+  - first:
+      213: 1230574950532332854
+    second: 1938885_rusron_c6h8o6_54
+  - first:
+      213: 4731398155423317289
+    second: 1938885_rusron_c6h8o6_55
+  - first:
+      213: 5742584473964390802
+    second: 1938885_rusron_c6h8o6_56
+  - first:
+      213: 2312037755077136412
+    second: 1938885_rusron_c6h8o6_57
+  - first:
+      213: -2847503498352126783
+    second: 1938885_rusron_c6h8o6_58
+  - first:
+      213: 5558503407551117872
+    second: 1938885_rusron_c6h8o6_59
+  - first:
+      213: -7271096734167632272
+    second: 1938885_rusron_c6h8o6_60
+  - first:
+      213: 5458201080084616073
+    second: 1938885_rusron_c6h8o6_61
+  - first:
+      213: 1483811554565177113
+    second: 1938885_rusron_c6h8o6_62
+  - first:
+      213: -6202495978305862287
+    second: 1938885_rusron_c6h8o6_63
+  - first:
+      213: -2267475306210050360
+    second: 1938885_rusron_c6h8o6_64
+  - first:
+      213: 1482896521842033547
+    second: 1938885_rusron_c6h8o6_65
+  - first:
+      213: 1410703008310953471
+    second: 1938885_rusron_c6h8o6_66
+  - first:
+      213: -4984909278559448592
+    second: 1938885_rusron_c6h8o6_67
+  - first:
+      213: 1497886906328716901
+    second: 1938885_rusron_c6h8o6_68
+  - first:
+      213: -5988058355718000530
+    second: 1938885_rusron_c6h8o6_69
+  - first:
+      213: 1243157056269164702
+    second: 1938885_rusron_c6h8o6_70
+  - first:
+      213: -6375733946106259170
+    second: 1938885_rusron_c6h8o6_71
+  - first:
+      213: 1823444404364073192
+    second: 1938885_rusron_c6h8o6_72
+  - first:
+      213: -5611530192299002505
+    second: 1938885_rusron_c6h8o6_73
+  - first:
+      213: 5284127037829278588
+    second: 1938885_rusron_c6h8o6_74
+  - first:
+      213: -940147319874125479
+    second: 1938885_rusron_c6h8o6_75
+  - first:
+      213: 1764554546021111347
+    second: 1938885_rusron_c6h8o6_76
+  - first:
+      213: 5690761371438515825
+    second: 1938885_rusron_c6h8o6_77
+  - first:
+      213: -3259328205456784020
+    second: 1938885_rusron_c6h8o6_78
+  - first:
+      213: -199128396422033007
+    second: 1938885_rusron_c6h8o6_79
+  - first:
+      213: -841022409418224992
+    second: 1938885_rusron_c6h8o6_80
+  - first:
+      213: -2779771400573070277
+    second: 1938885_rusron_c6h8o6_81
+  - first:
+      213: -1375734852853032611
+    second: 1938885_rusron_c6h8o6_82
+  - first:
+      213: 2370604585210567724
+    second: 1938885_rusron_c6h8o6_83
+  - first:
+      213: 5550663156531878838
+    second: 1938885_rusron_c6h8o6_84
+  - first:
+      213: -5145828848374754612
+    second: 1938885_rusron_c6h8o6_85
+  - first:
+      213: -8968906617676356202
+    second: 1938885_rusron_c6h8o6_86
+  - first:
+      213: 9133553735393653935
+    second: 1938885_rusron_c6h8o6_87
+  - first:
+      213: 2218387622575718640
+    second: 1938885_rusron_c6h8o6_88
+  - first:
+      213: -3182205392847210416
+    second: 1938885_rusron_c6h8o6_89
+  - first:
+      213: 7702583192237624417
+    second: 1938885_rusron_c6h8o6_90
+  - first:
+      213: 2938003654543272683
+    second: 1938885_rusron_c6h8o6_91
+  - first:
+      213: 1251559500096838456
+    second: 1938885_rusron_c6h8o6_92
+  - first:
+      213: 1135483590882725039
+    second: 1938885_rusron_c6h8o6_93
+  - first:
+      213: 1070947073593819066
+    second: 1938885_rusron_c6h8o6_94
+  - first:
+      213: -1803723925512826385
+    second: 1938885_rusron_c6h8o6_95
+  - first:
+      213: -8372216043056485075
+    second: 1938885_rusron_c6h8o6_96
+  - first:
+      213: -7011676040841621021
+    second: 1938885_rusron_c6h8o6_97
+  - first:
+      213: 7781407755822770085
+    second: 1938885_rusron_c6h8o6_98
+  - first:
+      213: 3703148153934519794
+    second: 1938885_rusron_c6h8o6_99
+  - first:
+      213: -2640271891847162094
+    second: 1938885_rusron_c6h8o6_100
+  - first:
+      213: 1183357311103498811
+    second: 1938885_rusron_c6h8o6_101
+  - first:
+      213: -6382497772200367969
+    second: 1938885_rusron_c6h8o6_102
+  - first:
+      213: 3809346697902157864
+    second: 1938885_rusron_c6h8o6_103
+  - first:
+      213: 1367416819558852580
+    second: 1938885_rusron_c6h8o6_104
+  - first:
+      213: 2331061949700403720
+    second: 1938885_rusron_c6h8o6_105
+  - first:
+      213: -1538454683924392809
+    second: 1938885_rusron_c6h8o6_106
+  - first:
+      213: -8056375798000911696
+    second: 1938885_rusron_c6h8o6_107
+  - first:
+      213: 5969465431565688417
+    second: 1938885_rusron_c6h8o6_108
+  - first:
+      213: 7035762430778980720
+    second: 1938885_rusron_c6h8o6_109
+  - first:
+      213: 2294287796776965589
+    second: 1938885_rusron_c6h8o6_110
+  - first:
+      213: -3710177656768241018
+    second: 1938885_rusron_c6h8o6_111
+  - first:
+      213: 637398346098844960
+    second: 1938885_rusron_c6h8o6_112
+  - first:
+      213: 4125186891559839477
+    second: 1938885_rusron_c6h8o6_113
+  - first:
+      213: 4663484538184029773
+    second: 1938885_rusron_c6h8o6_114
+  - first:
+      213: 5982096349954499431
+    second: 1938885_rusron_c6h8o6_115
+  - first:
+      213: -8456750634803696122
+    second: 1938885_rusron_c6h8o6_116
+  - first:
+      213: 6269719910289668221
+    second: 1938885_rusron_c6h8o6_117
+  - first:
+      213: 4956782261033307028
+    second: 1938885_rusron_c6h8o6_118
+  - first:
+      213: 6453256461698459892
+    second: 1938885_rusron_c6h8o6_119
+  - first:
+      213: 7798932431924424172
+    second: 1938885_rusron_c6h8o6_120
+  - first:
+      213: 8228286107295403441
+    second: 1938885_rusron_c6h8o6_121
+  - first:
+      213: -8675969198527524501
+    second: 1938885_rusron_c6h8o6_122
+  - first:
+      213: 6830375228738283590
+    second: 1938885_rusron_c6h8o6_123
+  - first:
+      213: -5603700627737598337
+    second: 1938885_rusron_c6h8o6_124
+  - first:
+      213: -1799355037900321647
+    second: 1938885_rusron_c6h8o6_125
+  - first:
+      213: -3589534049641128197
+    second: 1938885_rusron_c6h8o6_126
+  - first:
+      213: 4128893529537059675
+    second: 1938885_rusron_c6h8o6_127
+  - first:
+      213: -7322031316763103280
+    second: 1938885_rusron_c6h8o6_128
+  - first:
+      213: 6552082493117167547
+    second: 1938885_rusron_c6h8o6_129
+  - first:
+      213: -670582276985162278
+    second: 1938885_rusron_c6h8o6_130
+  - first:
+      213: -8784726944347607067
+    second: 1938885_rusron_c6h8o6_131
+  - first:
+      213: -7887084286150475964
+    second: 1938885_rusron_c6h8o6_132
+  - first:
+      213: 8460060148289899949
+    second: 1938885_rusron_c6h8o6_133
+  - first:
+      213: 443704650901931645
+    second: 1938885_rusron_c6h8o6_134
+  - first:
+      213: -5313803872549714906
+    second: 1938885_rusron_c6h8o6_135
+  - first:
+      213: -575716541426831757
+    second: 1938885_rusron_c6h8o6_136
+  - first:
+      213: -7235811128897452481
+    second: 1938885_rusron_c6h8o6_137
+  - first:
+      213: 7767741325590603776
+    second: 1938885_rusron_c6h8o6_138
+  - first:
+      213: -459951783969264434
+    second: 1938885_rusron_c6h8o6_139
+  - first:
+      213: 291181382251226585
+    second: 1938885_rusron_c6h8o6_140
+  - first:
+      213: 8654468316499254819
+    second: 1938885_rusron_c6h8o6_141
+  - first:
+      213: -2033232410904878779
+    second: 1938885_rusron_c6h8o6_142
+  - first:
+      213: 513333612848759751
+    second: 1938885_rusron_c6h8o6_143
+  - first:
+      213: 2547666178358141585
+    second: 1938885_rusron_c6h8o6_144
+  - first:
+      213: -7700739529325491749
+    second: 1938885_rusron_c6h8o6_145
+  - first:
+      213: -122755749463324649
+    second: 1938885_rusron_c6h8o6_146
+  - first:
+      213: 8001032700362466952
+    second: 1938885_rusron_c6h8o6_147
+  - first:
+      213: -5633791006272241389
+    second: 1938885_rusron_c6h8o6_148
+  - first:
+      213: -7427732982194902246
+    second: 1938885_rusron_c6h8o6_149
+  - first:
+      213: -7223144148614905160
+    second: 1938885_rusron_c6h8o6_150
+  - first:
+      213: 125113388228769423
+    second: 1938885_rusron_c6h8o6_151
+  - first:
+      213: -3515624732257415196
+    second: 1938885_rusron_c6h8o6_152
+  - first:
+      213: -8953560524683108449
+    second: 1938885_rusron_c6h8o6_153
+  - first:
+      213: -6356550884389845856
+    second: 1938885_rusron_c6h8o6_154
+  - first:
+      213: 4915052809432061521
+    second: 1938885_rusron_c6h8o6_155
+  - first:
+      213: -8444671050966053978
+    second: 1938885_rusron_c6h8o6_156
+  - first:
+      213: -6372287590665873995
+    second: 1938885_rusron_c6h8o6_157
+  - first:
+      213: -364359627442931224
+    second: 1938885_rusron_c6h8o6_158
+  - first:
+      213: -8080087270154664220
+    second: 1938885_rusron_c6h8o6_159
+  - first:
+      213: 4858812105457494587
+    second: 1938885_rusron_c6h8o6_160
+  - first:
+      213: 857736733862918054
+    second: 1938885_rusron_c6h8o6_161
+  - first:
+      213: -8533416477140783967
+    second: 1938885_rusron_c6h8o6_162
+  - first:
+      213: 7292478397407905913
+    second: 1938885_rusron_c6h8o6_163
+  - first:
+      213: 6044013134926761084
+    second: 1938885_rusron_c6h8o6_164
+  - first:
+      213: 8381754614805343274
+    second: 1938885_rusron_c6h8o6_165
+  - first:
+      213: 5687586958359650786
+    second: 1938885_rusron_c6h8o6_166
+  - first:
+      213: 4492380354499244968
+    second: 1938885_rusron_c6h8o6_167
+  - first:
+      213: 8505280150735172103
+    second: 1938885_rusron_c6h8o6_168
+  - first:
+      213: 8949233433871462580
+    second: 1938885_rusron_c6h8o6_169
+  - first:
+      213: 7523825645815020010
+    second: 1938885_rusron_c6h8o6_170
+  - first:
+      213: -5548749083831614025
+    second: 1938885_rusron_c6h8o6_171
+  - first:
+      213: -368081921322970533
+    second: 1938885_rusron_c6h8o6_172
+  - first:
+      213: 1762408684390305795
+    second: 1938885_rusron_c6h8o6_173
+  - first:
+      213: 3626646305003077051
+    second: 1938885_rusron_c6h8o6_174
+  - first:
+      213: 7203104165236769897
+    second: 1938885_rusron_c6h8o6_175
+  - first:
+      213: -4089557959103496428
+    second: 1938885_rusron_c6h8o6_176
+  - first:
+      213: -5134741862583589052
+    second: 1938885_rusron_c6h8o6_177
+  - first:
+      213: 253347881253174853
+    second: 1938885_rusron_c6h8o6_178
+  - first:
+      213: 5973700499732095833
+    second: 1938885_rusron_c6h8o6_179
+  - first:
+      213: -816235385511158726
+    second: 1938885_rusron_c6h8o6_180
+  - first:
+      213: -6934730108190817193
+    second: 1938885_rusron_c6h8o6_181
+  - first:
+      213: 6915337575692669866
+    second: 1938885_rusron_c6h8o6_182
+  - first:
+      213: 2373760735712867985
+    second: 1938885_rusron_c6h8o6_183
+  - first:
+      213: -7393222262739920379
+    second: 1938885_rusron_c6h8o6_184
+  - first:
+      213: -1335634520029733255
+    second: 1938885_rusron_c6h8o6_185
+  - first:
+      213: -4342850353031319160
+    second: 1938885_rusron_c6h8o6_186
+  - first:
+      213: -6700881636498319889
+    second: 1938885_rusron_c6h8o6_187
+  - first:
+      213: 8410207212208650714
+    second: 1938885_rusron_c6h8o6_188
+  - first:
+      213: 4928199881794440920
+    second: 1938885_rusron_c6h8o6_189
+  - first:
+      213: 1966410251315832922
+    second: 1938885_rusron_c6h8o6_190
+  - first:
+      213: 1650269688813628508
+    second: 1938885_rusron_c6h8o6_191
+  - first:
+      213: 4546106359724824028
+    second: 1938885_rusron_c6h8o6_192
+  - first:
+      213: 4424661484981513116
+    second: 1938885_rusron_c6h8o6_193
+  - first:
+      213: -6041518821763960037
+    second: 1938885_rusron_c6h8o6_194
+  - first:
+      213: -2077036696279314405
+    second: 1938885_rusron_c6h8o6_195
+  - first:
+      213: 2625326542867776022
+    second: 1938885_rusron_c6h8o6_196
+  - first:
+      213: 8472799668063148026
+    second: 1938885_rusron_c6h8o6_197
+  - first:
+      213: -8747193439004861654
+    second: 1938885_rusron_c6h8o6_198
+  - first:
+      213: 4638061323987571296
+    second: 1938885_rusron_c6h8o6_199
+  - first:
+      213: 7055874454605504267
+    second: 1938885_rusron_c6h8o6_200
+  - first:
+      213: 8731497040334880369
+    second: 1938885_rusron_c6h8o6_201
+  - first:
+      213: -5885741973661739254
+    second: 1938885_rusron_c6h8o6_202
+  - first:
+      213: -4689016077336411833
+    second: 1938885_rusron_c6h8o6_203
+  - first:
+      213: 939146651205850828
+    second: 1938885_rusron_c6h8o6_204
+  - first:
+      213: 136559123413880141
+    second: 1938885_rusron_c6h8o6_205
+  - first:
+      213: 7664106133624247043
+    second: 1938885_rusron_c6h8o6_206
+  - first:
+      213: 7948493788529581400
+    second: 1938885_rusron_c6h8o6_207
+  - first:
+      213: -8593577804680577028
+    second: 1938885_rusron_c6h8o6_208
+  - first:
+      213: 488531178856350864
+    second: 1938885_rusron_c6h8o6_209
+  - first:
+      213: -1683640214334050147
+    second: 1938885_rusron_c6h8o6_210
+  - first:
+      213: 7198667177769671280
+    second: 1938885_rusron_c6h8o6_211
+  - first:
+      213: -3850922539392539932
+    second: 1938885_rusron_c6h8o6_212
+  - first:
+      213: 1392490273576006583
+    second: 1938885_rusron_c6h8o6_213
+  - first:
+      213: 2128863008642707646
+    second: 1938885_rusron_c6h8o6_214
+  - first:
+      213: -622698344214512991
+    second: 1938885_rusron_c6h8o6_215
+  - first:
+      213: -6034302055334823607
+    second: 1938885_rusron_c6h8o6_216
+  - first:
+      213: -5936596416710275182
+    second: 1938885_rusron_c6h8o6_217
+  - first:
+      213: 1628944385424981890
+    second: 1938885_rusron_c6h8o6_218
+  - first:
+      213: 6224163262526543088
+    second: 1938885_rusron_c6h8o6_219
+  - first:
+      213: 9152579045767689719
+    second: 1938885_rusron_c6h8o6_220
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_0
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 24605
+        width: 209
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa3f2ada7869d4b0800000000000000
+      internalID: -5415182200080483679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_1
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 24605
+        width: 209
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41299eb0dfbbd1ef0800000000000000
+      internalID: -135745718250270188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_2
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 24605
+        width: 209
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f776e95032ce730800000000000000
+      internalID: 4029634273629142906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_3
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 24605
+        width: 209
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad160bf69c6f44f0800000000000000
+      internalID: -842335209582617184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_4
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 23945
+        width: 209
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb23edec2b7c74ef0800000000000000
+      internalID: -123910893940624706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_5
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 23945
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb5235058216a000800000000000000
+      internalID: 46745208661105651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_6
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 23948
+        width: 245
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375458b2616e42d30800000000000000
+      internalID: 4405899318369011059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_7
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 23960
+        width: 245
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cf1386640a8ed40800000000000000
+      internalID: 5613913159773584472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_8
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 23300
+        width: 245
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db497cbebcfcabcf0800000000000000
+      internalID: -235647555742493507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_9
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 23294
+        width: 251
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb15e4d425f93f10800000000000000
+      internalID: 2250099027387685867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_10
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 23279
+        width: 263
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e5709d2d5fe8e80800000000000000
+      internalID: -8174325987697795450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_11
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 23288
+        width: 263
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13722f83cbb46940800000000000000
+      internalID: 5288558311034221339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_12
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 23282
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a63e29c44b394d0800000000000000
+      internalID: -3128959075117471135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 22637
+        width: 239
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61c953227cd80a90800000000000000
+      internalID: -7347380409277496978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_14
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 22634
+        width: 119
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d52a5be0ef93ba0800000000000000
+      internalID: -6108572080421053112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_15
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 22625
+        width: 317
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3f73c8161b98c60800000000000000
+      internalID: 7820977260427998167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_16
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 22661
+        width: 314
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839b59e1092178930800000000000000
+      internalID: 4145302392215550264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_17
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 22652
+        width: 314
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638db05a19db7a740800000000000000
+      internalID: 5163303931040487478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_18
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 22652
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f558f20fe57d1990800000000000000
+      internalID: -7413639742174505484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_19
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 22619
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0423f16378b3520800000000000000
+      internalID: 2682886669550633204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_20
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 21986
+        width: 311
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54b8177fb2073870800000000000000
+      internalID: 8662395429630555226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_21
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 21980
+        width: 308
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562f19c23f10ed1a0800000000000000
+      internalID: -6782981844836945307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_22
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 21980
+        width: 308
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc0aaac5d9c11e60800000000000000
+      internalID: 7931342338841513159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_23
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 21983
+        width: 344
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60f9452e9057cda0800000000000000
+      internalID: -5924678144621940625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_24
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 21323
+        width: 305
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53cdac2a553ffb30800000000000000
+      internalID: 4323232828711879514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_25
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 21323
+        width: 299
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d200ee32efdaec80800000000000000
+      internalID: -8292569601038875950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_26
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 21323
+        width: 299
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7468bf0b7368c40800000000000000
+      internalID: 5514156027035404193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_27
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 21323
+        width: 299
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708f2c3c282bb5b60800000000000000
+      internalID: 7735973059638786055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_28
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 20666
+        width: 299
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37007042cacbcf910800000000000000
+      internalID: 1872578992604119155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_29
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 20666
+        width: 299
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6123ea1b26a449470800000000000000
+      internalID: 8400420992701051414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_30
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 20663
+        width: 299
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1889169ad97243d20800000000000000
+      internalID: 3257271988600805505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_31
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 20663
+        width: 299
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d862e9614facc60800000000000000
+      internalID: 7839346479371554173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_32
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 20003
+        width: 299
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2585d1df0c95910800000000000000
+      internalID: 1826703317227033340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_33
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 20006
+        width: 299
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c67156ca8c16b30800000000000000
+      internalID: 4278921763734645883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_34
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 20003
+        width: 299
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f14e7e2798f635b0800000000000000
+      internalID: -5388846575898443273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_35
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 20003
+        width: 299
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6950988dea860940800000000000000
+      internalID: 5262045967432046954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_36
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 19346
+        width: 299
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cb696acdccdd7a0800000000000000
+      internalID: -6350694651462763462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_37
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 19346
+        width: 299
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1069c001317ac7420800000000000000
+      internalID: 2629159982793004545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_38
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 19370
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28288a31010d68ef0800000000000000
+      internalID: -106168773728763262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_39
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 19343
+        width: 281
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14dd88af956dc630800000000000000
+      internalID: 3948924184675865630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_40
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 19334
+        width: 335
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264470365ecc31e30800000000000000
+      internalID: 4473144140490032226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_41
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 18803
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01182543385cdebf0800000000000000
+      internalID: -293361233400004336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_42
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 18683
+        width: 308
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6310f39c22c0f50800000000000000
+      internalID: 6848887381064496807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_43
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 18683
+        width: 311
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910303e0ca7e7d3a0800000000000000
+      internalID: -6640584399376076775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_44
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 18683
+        width: 314
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d333ede52d0c3490800000000000000
+      internalID: -7765317200937536552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_45
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 18683
+        width: 299
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f14678c435d45be0800000000000000
+      internalID: -1489331154074582537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_46
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 18755
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b5121ef9cd42170800000000000000
+      internalID: 8152883804682410897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_47
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 18707
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9934e69be98ce9e70800000000000000
+      internalID: 9123950479140602777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_48
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 18689
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2037f653e48a1d0800000000000000
+      internalID: -3339333132285181280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_49
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 18671
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d794d264b515b07c0800000000000000
+      internalID: -4104097182956828291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_50
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 18671
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4037026de7c7d1f80800000000000000
+      internalID: -8134208467761073404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_51
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 18023
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad57104dde2e2a6c0800000000000000
+      internalID: -4133491996880701990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_52
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 18023
+        width: 311
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d30d85b52e96d50800000000000000
+      internalID: 6731160000041860403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_53
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 18023
+        width: 299
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dafbc2dfc81431f0800000000000000
+      internalID: -1066199930906084655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_54
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 18023
+        width: 365
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d39fbc561e31110800000000000000
+      internalID: 1230574950532332854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_55
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 18023
+        width: 335
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92df1f8ed8d49a140800000000000000
+      internalID: 4731398155423317289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_56
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 17363
+        width: 299
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299225f4722c1bf40800000000000000
+      internalID: 5742584473964390802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_57
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 17363
+        width: 359
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c101aaaa612061020800000000000000
+      internalID: 2312037755077136412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_58
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 17363
+        width: 335
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c41a0ca7a2ab78d0800000000000000
+      internalID: -2847503498352126783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_59
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 17363
+        width: 299
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03af1e12665c32d40800000000000000
+      internalID: 5558503407551117872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_60
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 16703
+        width: 356
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0767f605b00e71b90800000000000000
+      internalID: -7271096734167632272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_61
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 16703
+        width: 338
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983d81ba6fc6fbb40800000000000000
+      internalID: 5458201080084616073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_62
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 16703
+        width: 299
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f3a7f4fbe879410800000000000000
+      internalID: 1483811554565177113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_63
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 16703
+        width: 371
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1754a4c15ce4ce9a0800000000000000
+      internalID: -6202495978305862287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_64
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 16043
+        width: 338
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce316cf83f4880e0800000000000000
+      internalID: -2267475306210050360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_65
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 16043
+        width: 299
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b838e07a78e449410800000000000000
+      internalID: 1482896521842033547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_66
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 16163
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff503fd69e2d39310800000000000000
+      internalID: 1410703008310953471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_67
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 16043
+        width: 299
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f15aed1c6b02dab0800000000000000
+      internalID: -4984909278559448592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_68
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 16043
+        width: 296
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5669e65843099c410800000000000000
+      internalID: 1497886906328716901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_69
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 16115
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e607e1dc6a426eca0800000000000000
+      internalID: -5988058355718000530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_70
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 15407
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90a1f291c4904110800000000000000
+      internalID: 1243157056269164702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_71
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 15383
+        width: 296
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19dfef81c7d487a0800000000000000
+      internalID: -6375733946106259170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_72
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 15389
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e85bc5560d2e4910800000000000000
+      internalID: 1823444404364073192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_73
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 15383
+        width: 299
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77573a17507df12b0800000000000000
+      internalID: -5611530192299002505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_74
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 15383
+        width: 299
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7be9dd5b8df45940800000000000000
+      internalID: 5284127037829278588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_75
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 15383
+        width: 299
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9510e526efce3f2f0800000000000000
+      internalID: -940147319874125479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_76
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 15383
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3369366b205fc7810800000000000000
+      internalID: 1764554546021111347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_77
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 14723
+        width: 299
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1768b1ef055a9fe40800000000000000
+      internalID: 5690761371438515825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_78
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 14723
+        width: 332
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65465b044a84c2d0800000000000000
+      internalID: -3259328205456784020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_79
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 14723
+        width: 335
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191529a47cd8c3df0800000000000000
+      internalID: -199128396422033007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_80
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 14723
+        width: 299
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aacb7613961454f0800000000000000
+      internalID: -841022409418224992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_81
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 14075
+        width: 314
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b345d0893a44c69d0800000000000000
+      internalID: -2779771400573070277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_82
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 14096
+        width: 362
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d591296b07868ece0800000000000000
+      internalID: -1375734852853032611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_83
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 14090
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c536c6f4416e020800000000000000
+      internalID: 2370604585210567724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_84
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 14081
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb5ee07bbae70d40800000000000000
+      internalID: 5550663156531878838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_85
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 14072
+        width: 362
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc25aa91de75698b0800000000000000
+      internalID: -5145828848374754612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_86
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 14087
+        width: 236
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69520c553fa088380800000000000000
+      internalID: -8968906617676356202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_87
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 14087
+        width: 113
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4b41f0bb6e0ce70800000000000000
+      internalID: 9133553735393653935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_88
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 14072
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0cfb90acb49ce10800000000000000
+      internalID: 2218387622575718640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_89
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 13430
+        width: 272
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05872052e0986d3d0800000000000000
+      internalID: -3182205392847210416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_90
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 13415
+        width: 275
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cc7327a9215ea60800000000000000
+      internalID: 7702583192237624417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_91
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 13460
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beae9d1f1c2e5c820800000000000000
+      internalID: 2938003654543272683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_92
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 13415
+        width: 275
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b998afbbe6e5110800000000000000
+      internalID: 1251559500096838456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_93
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 13415
+        width: 275
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac89d25f4c02cf00800000000000000
+      internalID: 1135483590882725039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_94
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 13427
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfbdc670b4ccde00800000000000000
+      internalID: 1070947073593819066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_95
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 12752
+        width: 275
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe15fe275a2e7f6e0800000000000000
+      internalID: -1803723925512826385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_96
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 12755
+        width: 275
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2daac2edd9efcb80800000000000000
+      internalID: -8372216043056485075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_97
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 12752
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e194815ac581be90800000000000000
+      internalID: -7011676040841621021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_98
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 12755
+        width: 275
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a72942502d1dfb60800000000000000
+      internalID: 7781407755822770085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_99
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 12755
+        width: 275
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd19e930a9346330800000000000000
+      internalID: 3703148153934519794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_100
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 12140
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217500004bedb5bd0800000000000000
+      internalID: -2640271891847162094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_101
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 12095
+        width: 275
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a7faa64312c6010800000000000000
+      internalID: 1183357311103498811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_102
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 12095
+        width: 275
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9866449710dc67a0800000000000000
+      internalID: -6382497772200367969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_103
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 12092
+        width: 275
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820f3c293a48dd430800000000000000
+      internalID: 3809346697902157864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_104
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 12095
+        width: 275
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e723bd3a5a0af210800000000000000
+      internalID: 1367416819558852580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_105
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 12092
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80272552e78995020800000000000000
+      internalID: 2331061949700403720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_106
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 11438
+        width: 275
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79496a5bd9f46aae0800000000000000
+      internalID: -1538454683924392809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_107
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 11435
+        width: 275
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0baf91f65e0023090800000000000000
+      internalID: -8056375798000911696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_108
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 11480
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e5273be2dc7d250800000000000000
+      internalID: 5969465431565688417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_109
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 11438
+        width: 275
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079be9a57ac04a160800000000000000
+      internalID: 7035762430778980720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_110
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 11426
+        width: 275
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d597637892f6df10800000000000000
+      internalID: 2294287796776965589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 10772
+        width: 275
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682ecba141dc28cc0800000000000000
+      internalID: -3710177656768241018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_112
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 10769
+        width: 275
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025a4af2b6e78d800800000000000000
+      internalID: 637398346098844960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_113
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 10781
+        width: 275
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6a5872f9b9f3930800000000000000
+      internalID: 4125186891559839477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_114
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 10778
+        width: 275
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d465cf1ba7608b040800000000000000
+      internalID: 4663484538184029773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_115
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 10160
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763e23f8feca40350800000000000000
+      internalID: 5982096349954499431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_116
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 10109
+        width: 275
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e677a7a1693aa80800000000000000
+      internalID: -8456750634803696122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_117
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 10121
+        width: 278
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78720e3a05820750800000000000000
+      internalID: 6269719910289668221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_118
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 10112
+        width: 275
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b09d944370ac440800000000000000
+      internalID: 4956782261033307028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_119
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 10106
+        width: 272
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8e704af829e8950800000000000000
+      internalID: 6453256461698459892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_120
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 9638
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cede020f9bf5b3c60800000000000000
+      internalID: 7798932431924424172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_121
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 9464
+        width: 251
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdcf978e9eb03270800000000000000
+      internalID: 8228286107295403441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_122
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 9659
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61598f2bf3c89780800000000000000
+      internalID: -8675969198527524501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_123
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 9659
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648a297e41e5ace50800000000000000
+      internalID: 6830375228738283590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_124
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 9452
+        width: 317
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76211008f7ab32b0800000000000000
+      internalID: -5603700627737598337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_125
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 9665
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c442d50286707e0800000000000000
+      internalID: -1799355037900321647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_126
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 9659
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe98fdccc96f2ec0800000000000000
+      internalID: -3589534049641128197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_127
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 9458
+        width: 272
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b177f0ac6cc4930800000000000000
+      internalID: 4128893529537059675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_128
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 9443
+        width: 353
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfac0aaf4be26a90800000000000000
+      internalID: -7322031316763103280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_129
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 9635
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7fd45205cadea50800000000000000
+      internalID: 6552082493117167547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_130
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 9596
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad570a3d8fc91b6f0800000000000000
+      internalID: -670582276985162278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_131
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 9467
+        width: 101
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efab593361661680800000000000000
+      internalID: -8784726944347607067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_132
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 9563
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f7f6a11a27b8290800000000000000
+      internalID: -7887084286150475964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_133
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 9488
+        width: 53
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad024da1eb286570800000000000000
+      internalID: 8460060148289899949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_134
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 9506
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76c236770b582600800000000000000
+      internalID: 443704650901931645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_135
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 9518
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624449a18839146b0800000000000000
+      internalID: -5313803872549714906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_136
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 9452
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37eefe81bd4a208f0800000000000000
+      internalID: -575716541426831757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_137
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 9461
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36cf308d1c359b90800000000000000
+      internalID: -7235811128897452481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_138
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 9389
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00823f2949f8ccb60800000000000000
+      internalID: 7767741325590603776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_139
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 9413
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc64b61a4ced99f0800000000000000
+      internalID: -459951783969264434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_140
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 9371
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5aa46aceb7a0400800000000000000
+      internalID: 291181382251226585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_141
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 9362
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e9fcc9419da1870800000000000000
+      internalID: 8654468316499254819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_142
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 8792
+        width: 236
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541243215e188c3e0800000000000000
+      internalID: -2033232410904878779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_143
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 9005
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c34e1d733abf1700800000000000000
+      internalID: 513333612848759751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_144
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 8789
+        width: 299
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192605f14e02b5320800000000000000
+      internalID: 2547666178358141585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_145
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 9008
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9ceb6c23a712590800000000000000
+      internalID: -7700739529325491749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_146
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 8783
+        width: 299
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7180a17db42eb4ef0800000000000000
+      internalID: -122755749463324649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_147
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 9017
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886a36589d0690f60800000000000000
+      internalID: 8001032700362466952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_148
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 8783
+        width: 299
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3114a5ccde0c0d1b0800000000000000
+      internalID: -5633791006272241389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_149
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 8924
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1be1ddd4346be890800000000000000
+      internalID: -7427732982194902246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_150
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 8834
+        width: 26
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b20e5caaac32cb90800000000000000
+      internalID: -7223144148614905160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_151
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 8837
+        width: 29
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f867506b6fd7cb100800000000000000
+      internalID: 125113388228769423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_152
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 8909
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef083ebeedf53fc0800000000000000
+      internalID: -3515624732257415196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_153
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 8915
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f9d4b04209eb380800000000000000
+      internalID: -8953560524683108449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_154
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 8906
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a48f3b26aef8c7a0800000000000000
+      internalID: -6356550884389845856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_155
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 8783
+        width: 119
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156db763d76c53440800000000000000
+      internalID: 4915052809432061521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_156
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 8873
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abc422cb608eca80800000000000000
+      internalID: -8444671050966053978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_157
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 8876
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b51bb7b2361197a0800000000000000
+      internalID: -6372287590665873995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_158
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 8837
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e935cb69d881faf0800000000000000
+      internalID: -364359627442931224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_159
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 8705
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6864c1073cddf80800000000000000
+      internalID: -8080087270154664220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_160
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 8708
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a6928edd7fd6340800000000000000
+      internalID: 4858812105457494587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_161
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 8717
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7f3b4d30b47eb00800000000000000
+      internalID: 857736733862918054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_162
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 8123
+        width: 299
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acee8f0de6339980800000000000000
+      internalID: -8533416477140783967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_163
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 8393
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97845b91776143560800000000000000
+      internalID: 7292478397407905913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_164
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 8381
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cca157ce5a0e350800000000000000
+      internalID: 6044013134926761084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_165
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 8390
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ca6f9e969f15470800000000000000
+      internalID: 8381754614805343274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_166
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 8123
+        width: 299
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1eb2a543e5eee40800000000000000
+      internalID: 5687586958359650786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_167
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 8123
+        width: 299
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3fed97124285e30800000000000000
+      internalID: 4492380354499244968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_168
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 8123
+        width: 299
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70230c3fb33d80670800000000000000
+      internalID: 8505280150735172103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_169
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 7463
+        width: 299
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b035fd9460123c70800000000000000
+      internalID: 8949233433871462580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_170
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 7460
+        width: 299
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae937cadf8ff96860800000000000000
+      internalID: 7523825645815020010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_171
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 7460
+        width: 299
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b541765b12eef2b0800000000000000
+      internalID: -5548749083831614025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_172
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 7487
+        width: 233
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b521d47517f44eaf0800000000000000
+      internalID: -368081921322970533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_173
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 7463
+        width: 119
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300d52e5c55557810800000000000000
+      internalID: 1762408684390305795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_174
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 6827
+        width: 233
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdf0bf799f645230800000000000000
+      internalID: 3626646305003077051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_175
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 6803
+        width: 119
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9640319131196f360800000000000000
+      internalID: 7203104165236769897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_176
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 6803
+        width: 299
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fb34f14b8fe37c0800000000000000
+      internalID: -4089557959103496428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_177
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 6803
+        width: 299
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447a0632b7bbdb8b0800000000000000
+      internalID: -5134741862583589052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_178
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 6803
+        width: 299
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e71b24e82148300800000000000000
+      internalID: 253347881253174853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_179
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 6143
+        width: 299
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953ea1954f8d6e250800000000000000
+      internalID: 5973700499732095833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_180
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 6143
+        width: 299
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cd081dd362ca4f0800000000000000
+      internalID: -816235385511158726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_181
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 6143
+        width: 299
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754841855b3e2cf90800000000000000
+      internalID: -6934730108190817193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_182
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 6143
+        width: 299
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa39215d2e638ff50800000000000000
+      internalID: 6915337575692669866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_183
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 5483
+        width: 299
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1967fe9ffca41f020800000000000000
+      internalID: 2373760735712867985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_184
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 5483
+        width: 299
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a90e3e58ff56990800000000000000
+      internalID: -7393222262739920379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_185
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 5483
+        width: 299
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ed0e30b7fd67de0800000000000000
+      internalID: -1335634520029733255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_186
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 5483
+        width: 299
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88173e20d981bb3c0800000000000000
+      internalID: -4342850353031319160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_187
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 4823
+        width: 299
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5549687afa103a0800000000000000
+      internalID: -6700881636498319889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_188
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 4823
+        width: 299
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9ff1b76ee07b470800000000000000
+      internalID: 8410207212208650714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_189
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 4823
+        width: 299
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8deca788eab746440800000000000000
+      internalID: 4928199881794440920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_190
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 4823
+        width: 299
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58ed5084b71a4b10800000000000000
+      internalID: 1966410251315832922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_191
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 4163
+        width: 299
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ca459d98fe6e610800000000000000
+      internalID: 1650269688813628508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_192
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 4163
+        width: 302
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5da8ad5a3071f30800000000000000
+      internalID: 4546106359724824028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_193
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 4163
+        width: 299
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9becaf7d2e876d30800000000000000
+      internalID: 4424661484981513116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_194
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 4163
+        width: 299
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b133ce414a6382ca0800000000000000
+      internalID: -6041518821763960037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_195
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3503
+        width: 299
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1012dc1122ec23e0800000000000000
+      internalID: -2077036696279314405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_196
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 3503
+        width: 305
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612c907c4980f6420800000000000000
+      internalID: 2625326542867776022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_197
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 3503
+        width: 305
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af793f3486e659570800000000000000
+      internalID: 8472799668063148026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_198
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 3503
+        width: 305
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bdc7e69e9bb9680800000000000000
+      internalID: -8747193439004861654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_199
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2843
+        width: 305
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062d1ce5334bd5040800000000000000
+      internalID: 4638061323987571296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_200
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2963
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f938ece608be160800000000000000
+      internalID: 7055874454605504267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_201
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 2843
+        width: 305
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ef886fb428c2970800000000000000
+      internalID: 8731497040334880369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_202
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 2954
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a071944ebd4a15ea0800000000000000
+      internalID: -5885741973661739254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_203
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 2843
+        width: 311
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741844c98b44deeb0800000000000000
+      internalID: -4689016077336411833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_204
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 2843
+        width: 308
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc65f1947e4880d00800000000000000
+      internalID: 939146651205850828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_205
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2183
+        width: 311
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d4ce99cc725e100800000000000000
+      internalID: 136559123413880141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_206
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2312
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303d09f1cef5c5a60800000000000000
+      internalID: 7664106133624247043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_207
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2183
+        width: 308
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d54bcdcf8be4e60800000000000000
+      internalID: 7948493788529581400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_208
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 2183
+        width: 308
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff3552748a7db880800000000000000
+      internalID: -8593577804680577028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_209
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 2183
+        width: 293
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0948f61d48c97c600800000000000000
+      internalID: 488531178856350864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_210
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1523
+        width: 302
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d907e07352282a8e0800000000000000
+      internalID: -1683640214334050147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_211
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1523
+        width: 305
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a993378adc6e360800000000000000
+      internalID: 7198667177769671280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_212
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1523
+        width: 305
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e266fd7a56ce8ac0800000000000000
+      internalID: -3850922539392539932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_213
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 1523
+        width: 305
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b33fada68e135310800000000000000
+      internalID: 1392490273576006583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_214
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 863
+        width: 305
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb03e9d80ad3b8d10800000000000000
+      internalID: 2128863008642707646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_215
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 863
+        width: 299
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aabed6b72bbb57f0800000000000000
+      internalID: -622698344214512991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_216
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 863
+        width: 299
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949bb54704ad14ca0800000000000000
+      internalID: -6034302055334823607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_217
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 863
+        width: 299
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f802f2309fc9da0800000000000000
+      internalID: -5936596416710275182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_218
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 203
+        width: 299
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f7f1cb94c2b9610800000000000000
+      internalID: 1628944385424981890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_219
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 203
+        width: 308
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f45eee928ba06650800000000000000
+      internalID: 6224163262526543088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1938885_rusron_c6h8o6_220
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 203
+        width: 299
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5baa1562e740f70800000000000000
+      internalID: 9152579045767689719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      1938885_rusron_c6h8o6_0: -5415182200080483679
+      1938885_rusron_c6h8o6_1: -135745718250270188
+      1938885_rusron_c6h8o6_10: -8174325987697795450
+      1938885_rusron_c6h8o6_100: -2640271891847162094
+      1938885_rusron_c6h8o6_101: 1183357311103498811
+      1938885_rusron_c6h8o6_102: -6382497772200367969
+      1938885_rusron_c6h8o6_103: 3809346697902157864
+      1938885_rusron_c6h8o6_104: 1367416819558852580
+      1938885_rusron_c6h8o6_105: 2331061949700403720
+      1938885_rusron_c6h8o6_106: -1538454683924392809
+      1938885_rusron_c6h8o6_107: -8056375798000911696
+      1938885_rusron_c6h8o6_108: 5969465431565688417
+      1938885_rusron_c6h8o6_109: 7035762430778980720
+      1938885_rusron_c6h8o6_11: 5288558311034221339
+      1938885_rusron_c6h8o6_110: 2294287796776965589
+      1938885_rusron_c6h8o6_111: -3710177656768241018
+      1938885_rusron_c6h8o6_112: 637398346098844960
+      1938885_rusron_c6h8o6_113: 4125186891559839477
+      1938885_rusron_c6h8o6_114: 4663484538184029773
+      1938885_rusron_c6h8o6_115: 5982096349954499431
+      1938885_rusron_c6h8o6_116: -8456750634803696122
+      1938885_rusron_c6h8o6_117: 6269719910289668221
+      1938885_rusron_c6h8o6_118: 4956782261033307028
+      1938885_rusron_c6h8o6_119: 6453256461698459892
+      1938885_rusron_c6h8o6_12: -3128959075117471135
+      1938885_rusron_c6h8o6_120: 7798932431924424172
+      1938885_rusron_c6h8o6_121: 8228286107295403441
+      1938885_rusron_c6h8o6_122: -8675969198527524501
+      1938885_rusron_c6h8o6_123: 6830375228738283590
+      1938885_rusron_c6h8o6_124: -5603700627737598337
+      1938885_rusron_c6h8o6_125: -1799355037900321647
+      1938885_rusron_c6h8o6_126: -3589534049641128197
+      1938885_rusron_c6h8o6_127: 4128893529537059675
+      1938885_rusron_c6h8o6_128: -7322031316763103280
+      1938885_rusron_c6h8o6_129: 6552082493117167547
+      1938885_rusron_c6h8o6_13: -7347380409277496978
+      1938885_rusron_c6h8o6_130: -670582276985162278
+      1938885_rusron_c6h8o6_131: -8784726944347607067
+      1938885_rusron_c6h8o6_132: -7887084286150475964
+      1938885_rusron_c6h8o6_133: 8460060148289899949
+      1938885_rusron_c6h8o6_134: 443704650901931645
+      1938885_rusron_c6h8o6_135: -5313803872549714906
+      1938885_rusron_c6h8o6_136: -575716541426831757
+      1938885_rusron_c6h8o6_137: -7235811128897452481
+      1938885_rusron_c6h8o6_138: 7767741325590603776
+      1938885_rusron_c6h8o6_139: -459951783969264434
+      1938885_rusron_c6h8o6_14: -6108572080421053112
+      1938885_rusron_c6h8o6_140: 291181382251226585
+      1938885_rusron_c6h8o6_141: 8654468316499254819
+      1938885_rusron_c6h8o6_142: -2033232410904878779
+      1938885_rusron_c6h8o6_143: 513333612848759751
+      1938885_rusron_c6h8o6_144: 2547666178358141585
+      1938885_rusron_c6h8o6_145: -7700739529325491749
+      1938885_rusron_c6h8o6_146: -122755749463324649
+      1938885_rusron_c6h8o6_147: 8001032700362466952
+      1938885_rusron_c6h8o6_148: -5633791006272241389
+      1938885_rusron_c6h8o6_149: -7427732982194902246
+      1938885_rusron_c6h8o6_15: 7820977260427998167
+      1938885_rusron_c6h8o6_150: -7223144148614905160
+      1938885_rusron_c6h8o6_151: 125113388228769423
+      1938885_rusron_c6h8o6_152: -3515624732257415196
+      1938885_rusron_c6h8o6_153: -8953560524683108449
+      1938885_rusron_c6h8o6_154: -6356550884389845856
+      1938885_rusron_c6h8o6_155: 4915052809432061521
+      1938885_rusron_c6h8o6_156: -8444671050966053978
+      1938885_rusron_c6h8o6_157: -6372287590665873995
+      1938885_rusron_c6h8o6_158: -364359627442931224
+      1938885_rusron_c6h8o6_159: -8080087270154664220
+      1938885_rusron_c6h8o6_16: 4145302392215550264
+      1938885_rusron_c6h8o6_160: 4858812105457494587
+      1938885_rusron_c6h8o6_161: 857736733862918054
+      1938885_rusron_c6h8o6_162: -8533416477140783967
+      1938885_rusron_c6h8o6_163: 7292478397407905913
+      1938885_rusron_c6h8o6_164: 6044013134926761084
+      1938885_rusron_c6h8o6_165: 8381754614805343274
+      1938885_rusron_c6h8o6_166: 5687586958359650786
+      1938885_rusron_c6h8o6_167: 4492380354499244968
+      1938885_rusron_c6h8o6_168: 8505280150735172103
+      1938885_rusron_c6h8o6_169: 8949233433871462580
+      1938885_rusron_c6h8o6_17: 5163303931040487478
+      1938885_rusron_c6h8o6_170: 7523825645815020010
+      1938885_rusron_c6h8o6_171: -5548749083831614025
+      1938885_rusron_c6h8o6_172: -368081921322970533
+      1938885_rusron_c6h8o6_173: 1762408684390305795
+      1938885_rusron_c6h8o6_174: 3626646305003077051
+      1938885_rusron_c6h8o6_175: 7203104165236769897
+      1938885_rusron_c6h8o6_176: -4089557959103496428
+      1938885_rusron_c6h8o6_177: -5134741862583589052
+      1938885_rusron_c6h8o6_178: 253347881253174853
+      1938885_rusron_c6h8o6_179: 5973700499732095833
+      1938885_rusron_c6h8o6_18: -7413639742174505484
+      1938885_rusron_c6h8o6_180: -816235385511158726
+      1938885_rusron_c6h8o6_181: -6934730108190817193
+      1938885_rusron_c6h8o6_182: 6915337575692669866
+      1938885_rusron_c6h8o6_183: 2373760735712867985
+      1938885_rusron_c6h8o6_184: -7393222262739920379
+      1938885_rusron_c6h8o6_185: -1335634520029733255
+      1938885_rusron_c6h8o6_186: -4342850353031319160
+      1938885_rusron_c6h8o6_187: -6700881636498319889
+      1938885_rusron_c6h8o6_188: 8410207212208650714
+      1938885_rusron_c6h8o6_189: 4928199881794440920
+      1938885_rusron_c6h8o6_19: 2682886669550633204
+      1938885_rusron_c6h8o6_190: 1966410251315832922
+      1938885_rusron_c6h8o6_191: 1650269688813628508
+      1938885_rusron_c6h8o6_192: 4546106359724824028
+      1938885_rusron_c6h8o6_193: 4424661484981513116
+      1938885_rusron_c6h8o6_194: -6041518821763960037
+      1938885_rusron_c6h8o6_195: -2077036696279314405
+      1938885_rusron_c6h8o6_196: 2625326542867776022
+      1938885_rusron_c6h8o6_197: 8472799668063148026
+      1938885_rusron_c6h8o6_198: -8747193439004861654
+      1938885_rusron_c6h8o6_199: 4638061323987571296
+      1938885_rusron_c6h8o6_2: 4029634273629142906
+      1938885_rusron_c6h8o6_20: 8662395429630555226
+      1938885_rusron_c6h8o6_200: 7055874454605504267
+      1938885_rusron_c6h8o6_201: 8731497040334880369
+      1938885_rusron_c6h8o6_202: -5885741973661739254
+      1938885_rusron_c6h8o6_203: -4689016077336411833
+      1938885_rusron_c6h8o6_204: 939146651205850828
+      1938885_rusron_c6h8o6_205: 136559123413880141
+      1938885_rusron_c6h8o6_206: 7664106133624247043
+      1938885_rusron_c6h8o6_207: 7948493788529581400
+      1938885_rusron_c6h8o6_208: -8593577804680577028
+      1938885_rusron_c6h8o6_209: 488531178856350864
+      1938885_rusron_c6h8o6_21: -6782981844836945307
+      1938885_rusron_c6h8o6_210: -1683640214334050147
+      1938885_rusron_c6h8o6_211: 7198667177769671280
+      1938885_rusron_c6h8o6_212: -3850922539392539932
+      1938885_rusron_c6h8o6_213: 1392490273576006583
+      1938885_rusron_c6h8o6_214: 2128863008642707646
+      1938885_rusron_c6h8o6_215: -622698344214512991
+      1938885_rusron_c6h8o6_216: -6034302055334823607
+      1938885_rusron_c6h8o6_217: -5936596416710275182
+      1938885_rusron_c6h8o6_218: 1628944385424981890
+      1938885_rusron_c6h8o6_219: 6224163262526543088
+      1938885_rusron_c6h8o6_22: 7931342338841513159
+      1938885_rusron_c6h8o6_220: 9152579045767689719
+      1938885_rusron_c6h8o6_23: -5924678144621940625
+      1938885_rusron_c6h8o6_24: 4323232828711879514
+      1938885_rusron_c6h8o6_25: -8292569601038875950
+      1938885_rusron_c6h8o6_26: 5514156027035404193
+      1938885_rusron_c6h8o6_27: 7735973059638786055
+      1938885_rusron_c6h8o6_28: 1872578992604119155
+      1938885_rusron_c6h8o6_29: 8400420992701051414
+      1938885_rusron_c6h8o6_3: -842335209582617184
+      1938885_rusron_c6h8o6_30: 3257271988600805505
+      1938885_rusron_c6h8o6_31: 7839346479371554173
+      1938885_rusron_c6h8o6_32: 1826703317227033340
+      1938885_rusron_c6h8o6_33: 4278921763734645883
+      1938885_rusron_c6h8o6_34: -5388846575898443273
+      1938885_rusron_c6h8o6_35: 5262045967432046954
+      1938885_rusron_c6h8o6_36: -6350694651462763462
+      1938885_rusron_c6h8o6_37: 2629159982793004545
+      1938885_rusron_c6h8o6_38: -106168773728763262
+      1938885_rusron_c6h8o6_39: 3948924184675865630
+      1938885_rusron_c6h8o6_4: -123910893940624706
+      1938885_rusron_c6h8o6_40: 4473144140490032226
+      1938885_rusron_c6h8o6_41: -293361233400004336
+      1938885_rusron_c6h8o6_42: 6848887381064496807
+      1938885_rusron_c6h8o6_43: -6640584399376076775
+      1938885_rusron_c6h8o6_44: -7765317200937536552
+      1938885_rusron_c6h8o6_45: -1489331154074582537
+      1938885_rusron_c6h8o6_46: 8152883804682410897
+      1938885_rusron_c6h8o6_47: 9123950479140602777
+      1938885_rusron_c6h8o6_48: -3339333132285181280
+      1938885_rusron_c6h8o6_49: -4104097182956828291
+      1938885_rusron_c6h8o6_5: 46745208661105651
+      1938885_rusron_c6h8o6_50: -8134208467761073404
+      1938885_rusron_c6h8o6_51: -4133491996880701990
+      1938885_rusron_c6h8o6_52: 6731160000041860403
+      1938885_rusron_c6h8o6_53: -1066199930906084655
+      1938885_rusron_c6h8o6_54: 1230574950532332854
+      1938885_rusron_c6h8o6_55: 4731398155423317289
+      1938885_rusron_c6h8o6_56: 5742584473964390802
+      1938885_rusron_c6h8o6_57: 2312037755077136412
+      1938885_rusron_c6h8o6_58: -2847503498352126783
+      1938885_rusron_c6h8o6_59: 5558503407551117872
+      1938885_rusron_c6h8o6_6: 4405899318369011059
+      1938885_rusron_c6h8o6_60: -7271096734167632272
+      1938885_rusron_c6h8o6_61: 5458201080084616073
+      1938885_rusron_c6h8o6_62: 1483811554565177113
+      1938885_rusron_c6h8o6_63: -6202495978305862287
+      1938885_rusron_c6h8o6_64: -2267475306210050360
+      1938885_rusron_c6h8o6_65: 1482896521842033547
+      1938885_rusron_c6h8o6_66: 1410703008310953471
+      1938885_rusron_c6h8o6_67: -4984909278559448592
+      1938885_rusron_c6h8o6_68: 1497886906328716901
+      1938885_rusron_c6h8o6_69: -5988058355718000530
+      1938885_rusron_c6h8o6_7: 5613913159773584472
+      1938885_rusron_c6h8o6_70: 1243157056269164702
+      1938885_rusron_c6h8o6_71: -6375733946106259170
+      1938885_rusron_c6h8o6_72: 1823444404364073192
+      1938885_rusron_c6h8o6_73: -5611530192299002505
+      1938885_rusron_c6h8o6_74: 5284127037829278588
+      1938885_rusron_c6h8o6_75: -940147319874125479
+      1938885_rusron_c6h8o6_76: 1764554546021111347
+      1938885_rusron_c6h8o6_77: 5690761371438515825
+      1938885_rusron_c6h8o6_78: -3259328205456784020
+      1938885_rusron_c6h8o6_79: -199128396422033007
+      1938885_rusron_c6h8o6_8: -235647555742493507
+      1938885_rusron_c6h8o6_80: -841022409418224992
+      1938885_rusron_c6h8o6_81: -2779771400573070277
+      1938885_rusron_c6h8o6_82: -1375734852853032611
+      1938885_rusron_c6h8o6_83: 2370604585210567724
+      1938885_rusron_c6h8o6_84: 5550663156531878838
+      1938885_rusron_c6h8o6_85: -5145828848374754612
+      1938885_rusron_c6h8o6_86: -8968906617676356202
+      1938885_rusron_c6h8o6_87: 9133553735393653935
+      1938885_rusron_c6h8o6_88: 2218387622575718640
+      1938885_rusron_c6h8o6_89: -3182205392847210416
+      1938885_rusron_c6h8o6_9: 2250099027387685867
+      1938885_rusron_c6h8o6_90: 7702583192237624417
+      1938885_rusron_c6h8o6_91: 2938003654543272683
+      1938885_rusron_c6h8o6_92: 1251559500096838456
+      1938885_rusron_c6h8o6_93: 1135483590882725039
+      1938885_rusron_c6h8o6_94: 1070947073593819066
+      1938885_rusron_c6h8o6_95: -1803723925512826385
+      1938885_rusron_c6h8o6_96: -8372216043056485075
+      1938885_rusron_c6h8o6_97: -7011676040841621021
+      1938885_rusron_c6h8o6_98: 7781407755822770085
+      1938885_rusron_c6h8o6_99: 3703148153934519794
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

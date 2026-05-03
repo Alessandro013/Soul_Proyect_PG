@@ -1,0 +1,1703 @@
+fileFormatVersion: 2
+guid: 411a383fa022d48f9af55682a5003f5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6460079992866553929
+    second: monta-Photoroom_0
+  - first:
+      213: 681605865195137949
+    second: monta-Photoroom_1
+  - first:
+      213: 389460159247131047
+    second: monta-Photoroom_2
+  - first:
+      213: -6889657664691934167
+    second: monta-Photoroom_3
+  - first:
+      213: 2859718864036518844
+    second: monta-Photoroom_4
+  - first:
+      213: -9172043726979207287
+    second: monta-Photoroom_5
+  - first:
+      213: -5508142588379447978
+    second: monta-Photoroom_6
+  - first:
+      213: -4604216918694932279
+    second: monta-Photoroom_7
+  - first:
+      213: 7083089543263807825
+    second: monta-Photoroom_8
+  - first:
+      213: -147163544235531699
+    second: monta-Photoroom_9
+  - first:
+      213: -3461159371834497217
+    second: monta-Photoroom_10
+  - first:
+      213: 7067650346062002005
+    second: monta-Photoroom_11
+  - first:
+      213: 570113413364952164
+    second: monta-Photoroom_12
+  - first:
+      213: -4960766894279080815
+    second: monta-Photoroom_13
+  - first:
+      213: 7323526634634469735
+    second: monta-Photoroom_14
+  - first:
+      213: -3703982334194133733
+    second: monta-Photoroom_15
+  - first:
+      213: -8514645140730331849
+    second: monta-Photoroom_16
+  - first:
+      213: -3145521576429931875
+    second: monta-Photoroom_17
+  - first:
+      213: -2083165955263784148
+    second: monta-Photoroom_18
+  - first:
+      213: -2784557215127752808
+    second: monta-Photoroom_19
+  - first:
+      213: 2586343998415449570
+    second: monta-Photoroom_20
+  - first:
+      213: -1412298683275968990
+    second: monta-Photoroom_21
+  - first:
+      213: -8796501948316895814
+    second: monta-Photoroom_22
+  - first:
+      213: -131622717301299149
+    second: monta-Photoroom_23
+  - first:
+      213: 2865333543733878886
+    second: monta-Photoroom_24
+  - first:
+      213: -6263265796947881960
+    second: monta-Photoroom_25
+  - first:
+      213: -7572254609335339667
+    second: monta-Photoroom_26
+  - first:
+      213: 5792625084586776667
+    second: monta-Photoroom_27
+  - first:
+      213: 8825801802803885721
+    second: monta-Photoroom_28
+  - first:
+      213: 65057950812537465
+    second: monta-Photoroom_29
+  - first:
+      213: -1622804089099362209
+    second: monta-Photoroom_30
+  - first:
+      213: -5855058471376190277
+    second: monta-Photoroom_31
+  - first:
+      213: -893101516158283145
+    second: monta-Photoroom_32
+  - first:
+      213: 960094277686942958
+    second: monta-Photoroom_33
+  - first:
+      213: 7014452418089211177
+    second: monta-Photoroom_34
+  - first:
+      213: -6652198330596944517
+    second: monta-Photoroom_35
+  - first:
+      213: 6411019945386801237
+    second: monta-Photoroom_36
+  - first:
+      213: -6730873992908171640
+    second: monta-Photoroom_37
+  - first:
+      213: 7413723201542749237
+    second: monta-Photoroom_38
+  - first:
+      213: 8530430265610556171
+    second: monta-Photoroom_39
+  - first:
+      213: 6109311700567041851
+    second: monta-Photoroom_40
+  - first:
+      213: 4940151371925616018
+    second: monta-Photoroom_41
+  - first:
+      213: 3163022235056557578
+    second: monta-Photoroom_42
+  - first:
+      213: 3876256138523013178
+    second: monta-Photoroom_43
+  - first:
+      213: 2804143466222506118
+    second: monta-Photoroom_44
+  - first:
+      213: 9138901939536989220
+    second: monta-Photoroom_45
+  - first:
+      213: 8952047902312216245
+    second: monta-Photoroom_46
+  - first:
+      213: 8975417602990220655
+    second: monta-Photoroom_47
+  - first:
+      213: -830917714155211238
+    second: monta-Photoroom_48
+  - first:
+      213: -8984437670015597756
+    second: monta-Photoroom_49
+  - first:
+      213: -5912342133314560395
+    second: monta-Photoroom_50
+  - first:
+      213: -4402578787402525603
+    second: monta-Photoroom_51
+  - first:
+      213: 6974342825226979639
+    second: monta-Photoroom_52
+  - first:
+      213: -6874830880868059404
+    second: monta-Photoroom_53
+  - first:
+      213: 7730012056498237556
+    second: monta-Photoroom_54
+  - first:
+      213: -8575711208358293588
+    second: monta-Photoroom_55
+  - first:
+      213: 7741354531303771103
+    second: monta-Photoroom_56
+  - first:
+      213: -2583732180401947092
+    second: monta-Photoroom_57
+  - first:
+      213: 1747736704064112147
+    second: monta-Photoroom_58
+  - first:
+      213: 4644849059139437507
+    second: monta-Photoroom_59
+  - first:
+      213: -5769853729419922739
+    second: monta-Photoroom_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monta-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 945
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfb494397f2956a0800000000000000
+      internalID: -6460079992866553929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 944
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b67cf4cec857900800000000000000
+      internalID: 681605865195137949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 944
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1a71e83f3a76500800000000000000
+      internalID: 389460159247131047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 944
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c6dff5bd40360a0800000000000000
+      internalID: -6889657664691934167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 944
+        width: 312
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb5168c723cfa720800000000000000
+      internalID: 2859718864036518844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 867
+        width: 130
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fed0d63da56b080800000000000000
+      internalID: -9172043726979207287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 867
+        width: 129
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d317fcf752f83b0800000000000000
+      internalID: -5508142588379447978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 867
+        width: 150
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0585c4b198a10c0800000000000000
+      internalID: -4604216918694932279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 760
+        width: 172
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159e58a69603c4260800000000000000
+      internalID: 7083089543263807825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 768
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4224f5498b25fdf0800000000000000
+      internalID: -147163544235531699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 763
+        width: 232
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f376acaa3ed77ffc0800000000000000
+      internalID: -3461159371834497217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 717
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55731b13b86551260800000000000000
+      internalID: 7067650346062002005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 720
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cad4df02379e700800000000000000
+      internalID: 570113413364952164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 718
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1944afcfac0d72bb0800000000000000
+      internalID: -4960766894279080815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 664
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761ef782ca462a560800000000000000
+      internalID: 7323526634634469735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 668
+        width: 310
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15590c01bfc89cc0800000000000000
+      internalID: -3703982334194133733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 663
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d33466b57e5d980800000000000000
+      internalID: -8514645140730331849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 663
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92319bbaccd854d0800000000000000
+      internalID: -3145521576429931875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 663
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b905cc99b1713e0800000000000000
+      internalID: -2083165955263784148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 586
+        width: 130
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f2f8f47f34b59d0800000000000000
+      internalID: -2784557215127752808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 586
+        width: 129
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed248cd92a84e320800000000000000
+      internalID: 2586343998415449570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 585
+        width: 167
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e759a84d1866ce0800000000000000
+      internalID: -1412298683275968990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 513
+        width: 161
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab53a88751c8ce580800000000000000
+      internalID: -8796501948316895814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 515
+        width: 99
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33862e206d16c2ef0800000000000000
+      internalID: -131622717301299149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 515
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660e4454da5b3c720800000000000000
+      internalID: 2865333543733878886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 515
+        width: 78
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810511f11f86419a0800000000000000
+      internalID: -6263265796947881960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 435
+        width: 185
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65b0c56d82f9e690800000000000000
+      internalID: -7572254609335339667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 435
+        width: 187
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58dfc3e2d9836050800000000000000
+      internalID: 5792625084586776667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 435
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996b0228afb8b7a70800000000000000
+      internalID: 8825801802803885721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 343
+        width: 102
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9720fff8cd127e000800000000000000
+      internalID: 65057950812537465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 343
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f506e296744aa79e0800000000000000
+      internalID: -1622804089099362209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 343
+        width: 205
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb40b7a7757aebea0800000000000000
+      internalID: -5855058471376190277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 380
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772d50527e01b93f0800000000000000
+      internalID: -893101516158283145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 380
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec5a64a8a0f25d00800000000000000
+      internalID: 960094277686942958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 342
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92556126f47585160800000000000000
+      internalID: 7014452418089211177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 345
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b759259fcd4aea3a0800000000000000
+      internalID: -6652198330596944517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 345
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55879bc5ca488f850800000000000000
+      internalID: 6411019945386801237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 229
+        width: 185
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8861bc0e3c12792a0800000000000000
+      internalID: -6730873992908171640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 230
+        width: 205
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cf603e8f5d2e660800000000000000
+      internalID: 7413723201542749237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 107
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0355f2612d226670800000000000000
+      internalID: 8530430265610556171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 107
+        width: 85
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37af668f92a8c450800000000000000
+      internalID: 6109311700567041851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 107
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295f84caf71fe8440800000000000000
+      internalID: 4940151371925616018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 107
+        width: 121
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e4531e6ff45eb20800000000000000
+      internalID: 3163022235056557578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 153
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a307713bb6a3bc530800000000000000
+      internalID: 3876256138523013178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 155
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680dc6320a15ae620800000000000000
+      internalID: 2804143466222506118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 106
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c0b3fd4e6e3de70800000000000000
+      internalID: 9138901939536989220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 106
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6b99d13201c3c70800000000000000
+      internalID: 8952047902312216245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 13
+        width: 89
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65250191c61f8c70800000000000000
+      internalID: 8975417602990220655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 12
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16f23acdbcf774f0800000000000000
+      internalID: -830917714155211238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 51
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443051c6a8dd05380800000000000000
+      internalID: -8984437670015597756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 53
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ed539972423fda0800000000000000
+      internalID: -5912342133314560395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 50
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54d3313be5e6e2c0800000000000000
+      internalID: -4402578787402525603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 49
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739c27f09d7d9c060800000000000000
+      internalID: 6974342825226979639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 49
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f639fefcb1b790a0800000000000000
+      internalID: -6874830880868059404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 13
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47070119205864b60800000000000000
+      internalID: 7730012056498237556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 13
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafc7719714fcf880800000000000000
+      internalID: -8575711208358293588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 22
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbc8b64ee0de6b60800000000000000
+      internalID: 7741354531303771103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 12
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e7568654db42cd0800000000000000
+      internalID: -2583732180401947092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 11
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31647aeb545314810800000000000000
+      internalID: 1747736704064112147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 14
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3405d1c91d57040800000000000000
+      internalID: 4644849059139437507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monta-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 13
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc276f36a9c5defa0800000000000000
+      internalID: -5769853729419922739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      monta-Photoroom_0: -6460079992866553929
+      monta-Photoroom_1: 681605865195137949
+      monta-Photoroom_10: -3461159371834497217
+      monta-Photoroom_11: 7067650346062002005
+      monta-Photoroom_12: 570113413364952164
+      monta-Photoroom_13: -4960766894279080815
+      monta-Photoroom_14: 7323526634634469735
+      monta-Photoroom_15: -3703982334194133733
+      monta-Photoroom_16: -8514645140730331849
+      monta-Photoroom_17: -3145521576429931875
+      monta-Photoroom_18: -2083165955263784148
+      monta-Photoroom_19: -2784557215127752808
+      monta-Photoroom_2: 389460159247131047
+      monta-Photoroom_20: 2586343998415449570
+      monta-Photoroom_21: -1412298683275968990
+      monta-Photoroom_22: -8796501948316895814
+      monta-Photoroom_23: -131622717301299149
+      monta-Photoroom_24: 2865333543733878886
+      monta-Photoroom_25: -6263265796947881960
+      monta-Photoroom_26: -7572254609335339667
+      monta-Photoroom_27: 5792625084586776667
+      monta-Photoroom_28: 8825801802803885721
+      monta-Photoroom_29: 65057950812537465
+      monta-Photoroom_3: -6889657664691934167
+      monta-Photoroom_30: -1622804089099362209
+      monta-Photoroom_31: -5855058471376190277
+      monta-Photoroom_32: -893101516158283145
+      monta-Photoroom_33: 960094277686942958
+      monta-Photoroom_34: 7014452418089211177
+      monta-Photoroom_35: -6652198330596944517
+      monta-Photoroom_36: 6411019945386801237
+      monta-Photoroom_37: -6730873992908171640
+      monta-Photoroom_38: 7413723201542749237
+      monta-Photoroom_39: 8530430265610556171
+      monta-Photoroom_4: 2859718864036518844
+      monta-Photoroom_40: 6109311700567041851
+      monta-Photoroom_41: 4940151371925616018
+      monta-Photoroom_42: 3163022235056557578
+      monta-Photoroom_43: 3876256138523013178
+      monta-Photoroom_44: 2804143466222506118
+      monta-Photoroom_45: 9138901939536989220
+      monta-Photoroom_46: 8952047902312216245
+      monta-Photoroom_47: 8975417602990220655
+      monta-Photoroom_48: -830917714155211238
+      monta-Photoroom_49: -8984437670015597756
+      monta-Photoroom_5: -9172043726979207287
+      monta-Photoroom_50: -5912342133314560395
+      monta-Photoroom_51: -4402578787402525603
+      monta-Photoroom_52: 6974342825226979639
+      monta-Photoroom_53: -6874830880868059404
+      monta-Photoroom_54: 7730012056498237556
+      monta-Photoroom_55: -8575711208358293588
+      monta-Photoroom_56: 7741354531303771103
+      monta-Photoroom_57: -2583732180401947092
+      monta-Photoroom_58: 1747736704064112147
+      monta-Photoroom_59: 4644849059139437507
+      monta-Photoroom_6: -5508142588379447978
+      monta-Photoroom_60: -5769853729419922739
+      monta-Photoroom_7: -4604216918694932279
+      monta-Photoroom_8: 7083089543263807825
+      monta-Photoroom_9: -147163544235531699
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

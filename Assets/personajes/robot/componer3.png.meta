@@ -1,0 +1,5629 @@
+fileFormatVersion: 2
+guid: 12f5d4e3c9c2965f49bc5bf56df4a70b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2361409425342282724
+    second: componer3_0
+  - first:
+      213: -6237761678347131318
+    second: componer3_1
+  - first:
+      213: -3520645468106520267
+    second: componer3_2
+  - first:
+      213: -4308096496945485731
+    second: componer3_3
+  - first:
+      213: -7679984420117652678
+    second: componer3_4
+  - first:
+      213: 7710167978429177356
+    second: componer3_5
+  - first:
+      213: 1048878679088392622
+    second: componer3_6
+  - first:
+      213: 3635449067514495101
+    second: componer3_7
+  - first:
+      213: 5784148164045664735
+    second: componer3_8
+  - first:
+      213: -757471199096527417
+    second: componer3_9
+  - first:
+      213: -459843742559008521
+    second: componer3_10
+  - first:
+      213: 1618871689617708760
+    second: componer3_11
+  - first:
+      213: 7359447268435125061
+    second: componer3_12
+  - first:
+      213: -327903561079381867
+    second: componer3_13
+  - first:
+      213: -5159917671615000233
+    second: componer3_14
+  - first:
+      213: -4844138185443565290
+    second: componer3_15
+  - first:
+      213: -7411114064314327549
+    second: componer3_16
+  - first:
+      213: -4548176321913023887
+    second: componer3_17
+  - first:
+      213: 7352566864318046537
+    second: componer3_18
+  - first:
+      213: -3261577884209857385
+    second: componer3_19
+  - first:
+      213: -8355263758531010722
+    second: componer3_20
+  - first:
+      213: -7078743782547807528
+    second: componer3_21
+  - first:
+      213: 8081535142317512092
+    second: componer3_22
+  - first:
+      213: 2379918489824408914
+    second: componer3_23
+  - first:
+      213: -3880813832313955547
+    second: componer3_24
+  - first:
+      213: -940210530552429835
+    second: componer3_25
+  - first:
+      213: 4924068505718376145
+    second: componer3_26
+  - first:
+      213: -7716780712720680916
+    second: componer3_27
+  - first:
+      213: -3611398870812747744
+    second: componer3_28
+  - first:
+      213: 2774410759187793849
+    second: componer3_29
+  - first:
+      213: 6249221008369183792
+    second: componer3_30
+  - first:
+      213: -1785328117478469532
+    second: componer3_31
+  - first:
+      213: -7518024355009212793
+    second: componer3_32
+  - first:
+      213: 1687695490596131364
+    second: componer3_33
+  - first:
+      213: -5809104397728765745
+    second: componer3_34
+  - first:
+      213: 5311902197761496148
+    second: componer3_35
+  - first:
+      213: -5555882841291878493
+    second: componer3_36
+  - first:
+      213: -4843908367922994630
+    second: componer3_37
+  - first:
+      213: -6676180905031499154
+    second: componer3_38
+  - first:
+      213: 2603309487686854770
+    second: componer3_39
+  - first:
+      213: -3738175180266263942
+    second: componer3_40
+  - first:
+      213: -4997018050193680175
+    second: componer3_41
+  - first:
+      213: -3349983958099916397
+    second: componer3_42
+  - first:
+      213: 7938158199993238460
+    second: componer3_43
+  - first:
+      213: -1730014754385022013
+    second: componer3_44
+  - first:
+      213: -8374013560351799194
+    second: componer3_45
+  - first:
+      213: -5547683750103235570
+    second: componer3_46
+  - first:
+      213: 4254972163636724128
+    second: componer3_47
+  - first:
+      213: -1322950467136312557
+    second: componer3_48
+  - first:
+      213: -6755665106516358772
+    second: componer3_49
+  - first:
+      213: -4868693779912488497
+    second: componer3_50
+  - first:
+      213: -8267397199094820151
+    second: componer3_51
+  - first:
+      213: 5660515947201937881
+    second: componer3_52
+  - first:
+      213: -3844684472654700238
+    second: componer3_53
+  - first:
+      213: -6412853424967015779
+    second: componer3_54
+  - first:
+      213: -2841884117267426177
+    second: componer3_55
+  - first:
+      213: -415848553068718426
+    second: componer3_56
+  - first:
+      213: 3117442905145158057
+    second: componer3_57
+  - first:
+      213: -2885898133355427059
+    second: componer3_58
+  - first:
+      213: 4075839448939299528
+    second: componer3_59
+  - first:
+      213: 2184738895311803080
+    second: componer3_60
+  - first:
+      213: -8961635102838209230
+    second: componer3_61
+  - first:
+      213: 3908467911882532345
+    second: componer3_62
+  - first:
+      213: 3210449664396140767
+    second: componer3_63
+  - first:
+      213: -5102829463275219157
+    second: componer3_64
+  - first:
+      213: 8951084027814310061
+    second: componer3_65
+  - first:
+      213: 5153448546364451084
+    second: componer3_66
+  - first:
+      213: 7008815248386423868
+    second: componer3_67
+  - first:
+      213: 8732990158316969402
+    second: componer3_68
+  - first:
+      213: -2614336241574286413
+    second: componer3_69
+  - first:
+      213: -2520008993591904852
+    second: componer3_70
+  - first:
+      213: 1412803799931151966
+    second: componer3_71
+  - first:
+      213: 2786905985916533939
+    second: componer3_72
+  - first:
+      213: -3674451260140056298
+    second: componer3_73
+  - first:
+      213: 3545901284514518097
+    second: componer3_74
+  - first:
+      213: 7159249997564307320
+    second: componer3_75
+  - first:
+      213: -4679842816042439569
+    second: componer3_76
+  - first:
+      213: -7903756704208434959
+    second: componer3_77
+  - first:
+      213: -8624749896694300090
+    second: componer3_78
+  - first:
+      213: 579983983235404066
+    second: componer3_79
+  - first:
+      213: 2721978907055283121
+    second: componer3_80
+  - first:
+      213: 930105303940711240
+    second: componer3_81
+  - first:
+      213: 8521514336978640590
+    second: componer3_82
+  - first:
+      213: 4267051456704376886
+    second: componer3_83
+  - first:
+      213: -3167682767879426082
+    second: componer3_84
+  - first:
+      213: 3696572707670178161
+    second: componer3_85
+  - first:
+      213: 4089752325419679803
+    second: componer3_86
+  - first:
+      213: 7818736787370251725
+    second: componer3_87
+  - first:
+      213: 6938122500102093602
+    second: componer3_88
+  - first:
+      213: -1122616058696935940
+    second: componer3_89
+  - first:
+      213: -6819733432847010288
+    second: componer3_90
+  - first:
+      213: -5068458750518318606
+    second: componer3_91
+  - first:
+      213: 8078363539943999802
+    second: componer3_92
+  - first:
+      213: 4601100469274031471
+    second: componer3_93
+  - first:
+      213: 9193781116659344846
+    second: componer3_94
+  - first:
+      213: -4310706007892760148
+    second: componer3_95
+  - first:
+      213: -6585875000749992508
+    second: componer3_96
+  - first:
+      213: 2749909671124674847
+    second: componer3_97
+  - first:
+      213: -2464256237604212623
+    second: componer3_98
+  - first:
+      213: 4252386650744870482
+    second: componer3_99
+  - first:
+      213: -4524408840573784151
+    second: componer3_100
+  - first:
+      213: -3979374371167184713
+    second: componer3_101
+  - first:
+      213: -2757532483845344851
+    second: componer3_102
+  - first:
+      213: -366670925311353438
+    second: componer3_103
+  - first:
+      213: 4450106471205859397
+    second: componer3_104
+  - first:
+      213: -5852680808093528623
+    second: componer3_105
+  - first:
+      213: -8993846628929853753
+    second: componer3_106
+  - first:
+      213: -1049077012614345806
+    second: componer3_107
+  - first:
+      213: -7227745759451171295
+    second: componer3_108
+  - first:
+      213: -4771808523372333512
+    second: componer3_109
+  - first:
+      213: 1338751066183429888
+    second: componer3_110
+  - first:
+      213: -390193901761161742
+    second: componer3_111
+  - first:
+      213: 64725546467465433
+    second: componer3_112
+  - first:
+      213: 2616923666944892641
+    second: componer3_113
+  - first:
+      213: -4167523292322982454
+    second: componer3_114
+  - first:
+      213: 194974980312436364
+    second: componer3_115
+  - first:
+      213: -6111792386141971110
+    second: componer3_116
+  - first:
+      213: 3024630957909403834
+    second: componer3_117
+  - first:
+      213: -7877485753231456496
+    second: componer3_118
+  - first:
+      213: 5244044758036914952
+    second: componer3_119
+  - first:
+      213: -1639495334148975826
+    second: componer3_120
+  - first:
+      213: -8782386660726128682
+    second: componer3_121
+  - first:
+      213: -3865309787920267694
+    second: componer3_122
+  - first:
+      213: 1740582658982034651
+    second: componer3_123
+  - first:
+      213: -1379422412017664122
+    second: componer3_124
+  - first:
+      213: -7211139882698277004
+    second: componer3_125
+  - first:
+      213: -2823457183923582777
+    second: componer3_126
+  - first:
+      213: 241477201775960646
+    second: componer3_127
+  - first:
+      213: -2092491560716716690
+    second: componer3_128
+  - first:
+      213: 1748139785162623742
+    second: componer3_129
+  - first:
+      213: 687320569842316650
+    second: componer3_130
+  - first:
+      213: -6233666977781227325
+    second: componer3_131
+  - first:
+      213: 571766358801734411
+    second: componer3_132
+  - first:
+      213: -8646938618980270
+    second: componer3_133
+  - first:
+      213: 1930787142467123398
+    second: componer3_134
+  - first:
+      213: -3038288208990145464
+    second: componer3_135
+  - first:
+      213: 4936054432369566825
+    second: componer3_136
+  - first:
+      213: 4347006587456060093
+    second: componer3_137
+  - first:
+      213: -4888107597375741741
+    second: componer3_138
+  - first:
+      213: 2157438688210213878
+    second: componer3_139
+  - first:
+      213: 7148183330616338182
+    second: componer3_140
+  - first:
+      213: -2587620138944629407
+    second: componer3_141
+  - first:
+      213: 2670671450224402060
+    second: componer3_142
+  - first:
+      213: -1245042044426781042
+    second: componer3_143
+  - first:
+      213: 7062075778000882291
+    second: componer3_144
+  - first:
+      213: -5768101567337477365
+    second: componer3_145
+  - first:
+      213: 1106910729977118098
+    second: componer3_146
+  - first:
+      213: -5701296044518238308
+    second: componer3_147
+  - first:
+      213: 4292557537083399583
+    second: componer3_148
+  - first:
+      213: 3636434550312789493
+    second: componer3_149
+  - first:
+      213: 3490804877291670694
+    second: componer3_150
+  - first:
+      213: 7114538875260703198
+    second: componer3_151
+  - first:
+      213: 1927576215612581415
+    second: componer3_152
+  - first:
+      213: 4496845981153042679
+    second: componer3_153
+  - first:
+      213: 6818783108625541327
+    second: componer3_154
+  - first:
+      213: -7556730667939085347
+    second: componer3_155
+  - first:
+      213: -4737635838533252737
+    second: componer3_156
+  - first:
+      213: 5630813103752640668
+    second: componer3_157
+  - first:
+      213: 928118481442752915
+    second: componer3_158
+  - first:
+      213: -6411989578981898443
+    second: componer3_159
+  - first:
+      213: 2840662702370912462
+    second: componer3_160
+  - first:
+      213: -7094604978616068516
+    second: componer3_161
+  - first:
+      213: -3527859772187159430
+    second: componer3_162
+  - first:
+      213: 8783484945598849905
+    second: componer3_163
+  - first:
+      213: -1339889893279452604
+    second: componer3_164
+  - first:
+      213: -2861212820779174360
+    second: componer3_165
+  - first:
+      213: 3590780252156489809
+    second: componer3_166
+  - first:
+      213: 9016610784443471276
+    second: componer3_167
+  - first:
+      213: -6060385667972439443
+    second: componer3_168
+  - first:
+      213: -7033506070107236341
+    second: componer3_169
+  - first:
+      213: 6935613014963483728
+    second: componer3_170
+  - first:
+      213: 6116419793278003014
+    second: componer3_171
+  - first:
+      213: -5902461799658453252
+    second: componer3_172
+  - first:
+      213: 2921616643709661079
+    second: componer3_173
+  - first:
+      213: -3428324946666008608
+    second: componer3_174
+  - first:
+      213: -4684428748783324939
+    second: componer3_175
+  - first:
+      213: 658280774008378481
+    second: componer3_176
+  - first:
+      213: -8050923909260116468
+    second: componer3_177
+  - first:
+      213: 3708342211801440518
+    second: componer3_178
+  - first:
+      213: 2535384720714753024
+    second: componer3_179
+  - first:
+      213: -1018598191010646092
+    second: componer3_180
+  - first:
+      213: 440877870969371158
+    second: componer3_181
+  - first:
+      213: -1417529024782058745
+    second: componer3_182
+  - first:
+      213: -4123060923734088034
+    second: componer3_183
+  - first:
+      213: 8997664528218809
+    second: componer3_184
+  - first:
+      213: -1335059085112173453
+    second: componer3_185
+  - first:
+      213: 2308460667663009968
+    second: componer3_186
+  - first:
+      213: -7183893815983711082
+    second: componer3_187
+  - first:
+      213: 6199753346527042155
+    second: componer3_188
+  - first:
+      213: -7629735765541130672
+    second: componer3_189
+  - first:
+      213: 2514824929945181138
+    second: componer3_190
+  - first:
+      213: 2677557742719662501
+    second: componer3_191
+  - first:
+      213: -297182652040392377
+    second: componer3_192
+  - first:
+      213: 2866594115546737796
+    second: componer3_193
+  - first:
+      213: -1600573548914646272
+    second: componer3_194
+  - first:
+      213: -1856126193319185867
+    second: componer3_195
+  - first:
+      213: -7754631493087424865
+    second: componer3_196
+  - first:
+      213: 5765022171271303042
+    second: componer3_197
+  - first:
+      213: 7779844887308852684
+    second: componer3_198
+  - first:
+      213: -5985224787320107434
+    second: componer3_199
+  - first:
+      213: -3726649442561153695
+    second: componer3_200
+  - first:
+      213: 2969710230729962436
+    second: componer3_201
+  - first:
+      213: 4305111948269613024
+    second: componer3_202
+  - first:
+      213: -4179706966214147043
+    second: componer3_203
+  - first:
+      213: 919475705896696885
+    second: componer3_204
+  - first:
+      213: 8291720147798890707
+    second: componer3_205
+  - first:
+      213: -5982604466817567124
+    second: componer3_206
+  - first:
+      213: 5417619418946997318
+    second: componer3_207
+  - first:
+      213: -6302152354376870022
+    second: componer3_208
+  - first:
+      213: 8542486127730686951
+    second: componer3_209
+  - first:
+      213: -5841147701975764072
+    second: componer3_210
+  - first:
+      213: 3998860571883747200
+    second: componer3_211
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: componer3_0
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 14103
+        width: 234
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14c63193a69a3fd0800000000000000
+      internalID: -2361409425342282724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_1
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 14103
+        width: 238
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4623987dc40f69a0800000000000000
+      internalID: -6237761678347131318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_2
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 14103
+        width: 242
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5390c659997242fc0800000000000000
+      internalID: -3520645468106520267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_3
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 14103
+        width: 242
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58a571bf019634c0800000000000000
+      internalID: -4308096496945485731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 13583
+        width: 254
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b5a563cd63b6590800000000000000
+      internalID: -7679984420117652678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_5
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 13583
+        width: 262
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0edcd81de4000b60800000000000000
+      internalID: 7710167978429177356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_6
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 13583
+        width: 234
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea96b87f99d5e8e00800000000000000
+      internalID: 1048878679088392622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_7
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 13583
+        width: 238
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d700a3c5aa5b37230800000000000000
+      internalID: 3635449067514495101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 13063
+        width: 238
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd17b260c1c654050800000000000000
+      internalID: 5784148164045664735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_9
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 13063
+        width: 238
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5234a25fbec75f0800000000000000
+      internalID: -757471199096527417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_10
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 13063
+        width: 238
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f885907d8e4e99f0800000000000000
+      internalID: -459843742559008521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_11
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 13063
+        width: 238
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6999c7933677610800000000000000
+      internalID: 1618871689617708760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 12543
+        width: 238
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5436b427c42022660800000000000000
+      internalID: 7359447268435125061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_13
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 12543
+        width: 238
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5902741d27d037bf0800000000000000
+      internalID: -327903561079381867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_14
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 12543
+        width: 238
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7519021573a4468b0800000000000000
+      internalID: -5159917671615000233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_15
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 12543
+        width: 238
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6112bb55cf926ccb0800000000000000
+      internalID: -4844138185443565290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 12023
+        width: 234
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e94a6360f662990800000000000000
+      internalID: -7411114064314327549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_17
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 12023
+        width: 238
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17218848bb1a1e0c0800000000000000
+      internalID: -4548176321913023887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_18
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 12023
+        width: 242
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9412cf68b90990660800000000000000
+      internalID: 7352566864318046537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_19
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 12023
+        width: 242
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cb664e13c8cb2d0800000000000000
+      internalID: -3261577884209857385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_20
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 11503
+        width: 254
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f501431e32c0c80800000000000000
+      internalID: -8355263758531010722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_21
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 11503
+        width: 262
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2ab39d80043cd90800000000000000
+      internalID: -7078743782547807528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_22
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 11503
+        width: 234
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95dba5e461672070800000000000000
+      internalID: 8081535142317512092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_23
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 11503
+        width: 238
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2553e54d14b270120800000000000000
+      internalID: 2379918489824408914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 10983
+        width: 238
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b11858164942ac0800000000000000
+      internalID: -3880813832313955547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_25
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 10983
+        width: 238
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f247500183b3f2f0800000000000000
+      internalID: -940210530552429835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_26
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 10983
+        width: 238
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d64805973ec55440800000000000000
+      internalID: 4924068505718376145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_27
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 10983
+        width: 238
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28b2b8b3dc78e490800000000000000
+      internalID: -7716780712720680916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_28
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 10463
+        width: 238
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02895fa6cdbb1edc0800000000000000
+      internalID: -3611398870812747744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_29
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 10463
+        width: 238
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b70962d2efa08620800000000000000
+      internalID: 2774410759187793849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_30
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 10463
+        width: 238
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ce0c6b561b9b650800000000000000
+      internalID: 6249221008369183792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_31
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 10463
+        width: 238
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460dd26498d3937e0800000000000000
+      internalID: -1785328117478469532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_32
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 9943
+        width: 250
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ec0fa6eac9aa790800000000000000
+      internalID: -7518024355009212793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_33
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 9943
+        width: 242
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422d20e5b16eb6710800000000000000
+      internalID: 1687695490596131364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_34
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 9943
+        width: 226
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8a736045ae16fa0800000000000000
+      internalID: -5809104397728765745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_35
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 9943
+        width: 214
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454d03bb7eaa7b940800000000000000
+      internalID: 5311902197761496148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_36
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 9423
+        width: 206
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af0c1ffdf985e2b0800000000000000
+      internalID: -5555882841291878493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_37
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 9427
+        width: 214
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a326865e00bf6ccb0800000000000000
+      internalID: -4843908367922994630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_38
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 9427
+        width: 226
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e620a5bb6d07953a0800000000000000
+      internalID: -6676180905031499154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_39
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 9427
+        width: 234
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278aaf5af20d02420800000000000000
+      internalID: 2603309487686854770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_40
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 8907
+        width: 242
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a2c00ba755f1cc0800000000000000
+      internalID: -3738175180266263942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_41
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 8903
+        width: 254
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d89df50f8607aab0800000000000000
+      internalID: -4997018050193680175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_42
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 8903
+        width: 250
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399823ec6577281d0800000000000000
+      internalID: -3349983958099916397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_43
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 8903
+        width: 242
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3837123d00a2e60800000000000000
+      internalID: 7938158199993238460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_44
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 8383
+        width: 226
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c332b43fb0cdf7e0800000000000000
+      internalID: -1730014754385022013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_45
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 8383
+        width: 214
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6684de6c80789cb80800000000000000
+      internalID: -8374013560351799194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_46
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 8383
+        width: 206
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04c3eca50ba203b0800000000000000
+      internalID: -5547683750103235570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_47
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 8387
+        width: 214
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a10eb693a2bc0b30800000000000000
+      internalID: 4254972163636724128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_48
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 7867
+        width: 226
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b27e63f8fe3ade0800000000000000
+      internalID: -1322950467136312557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_49
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 7867
+        width: 234
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c894790f06e0f32a0800000000000000
+      internalID: -6755665106516358772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_50
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 7867
+        width: 242
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc989287dccee6cb0800000000000000
+      internalID: -4868693779912488497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_51
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 7863
+        width: 254
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2d4eacc0e444d80800000000000000
+      internalID: -8267397199094820151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_52
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 7343
+        width: 234
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1c76663413e8e40800000000000000
+      internalID: 5660515947201937881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_53
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 7343
+        width: 238
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231e4f597dfe4aac0800000000000000
+      internalID: -3844684472654700238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_54
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 7343
+        width: 238
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92a13869c7f007a0800000000000000
+      internalID: -6412853424967015779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_55
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 7343
+        width: 238
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f745379c3799f88d0800000000000000
+      internalID: -2841884117267426177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_56
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 6831
+        width: 222
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a69af9b1fb9a3af0800000000000000
+      internalID: -415848553068718426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_57
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 6847
+        width: 314
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a92db82ec1634b20800000000000000
+      internalID: 3117442905145158057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_58
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 6847
+        width: 310
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b036710fa33f7d0800000000000000
+      internalID: -2885898133355427059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_59
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 6851
+        width: 314
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c20d83526a409830800000000000000
+      internalID: 4075839448939299528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_60
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 6819
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c21a063370c15e10800000000000000
+      internalID: 2184738895311803080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_61
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 6835
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23548a0da50e1a380800000000000000
+      internalID: -8961635102838209230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_62
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 6819
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f565cf9bdaad3630800000000000000
+      internalID: 3908467911882532345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_63
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 6815
+        width: 74
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0aa97c5fecd8c20800000000000000
+      internalID: 3210449664396140767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_64
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 6831
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27551c93ab1f29b0800000000000000
+      internalID: -5102829463275219157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_65
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 6815
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da07b889f73a83c70800000000000000
+      internalID: 8951084027814310061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_66
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 6831
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c096e46162ab48740800000000000000
+      internalID: 5153448546364451084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_67
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 6823
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cf9688550544160800000000000000
+      internalID: 7008815248386423868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_68
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 6815
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd17759740d13970800000000000000
+      internalID: 8732990158316969402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_69
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 6815
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbe8852a0308bbd0800000000000000
+      internalID: -2614336241574286413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_70
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 6815
+        width: 62
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca53a220c21270dd0800000000000000
+      internalID: -2520008993591904852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_71
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 6815
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56e73812994b9310800000000000000
+      internalID: 1412803799931151966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_72
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 6335
+        width: 318
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcf6f08a341da620800000000000000
+      internalID: 2786905985916533939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_73
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 6339
+        width: 318
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6119dd60c0ab10dc0800000000000000
+      internalID: -3674451260140056298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_74
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 6343
+        width: 310
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154d6186e62953130800000000000000
+      internalID: 3545901284514518097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_75
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 6527
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877690301f3ca5360800000000000000
+      internalID: 7159249997564307320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_76
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 6347
+        width: 298
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c6021f0cbdd0fb0800000000000000
+      internalID: -4679842816042439569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_77
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 6495
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f84b864727305290800000000000000
+      internalID: -7903756704208434959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_78
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 6311
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64203f23aabbe4880800000000000000
+      internalID: -8624749896694300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_79
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 6303
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22199202c548c0800800000000000000
+      internalID: 579983983235404066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_80
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 6315
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbd221f46966c520800000000000000
+      internalID: 2721978907055283121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_81
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 6303
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843c71598d568ec00800000000000000
+      internalID: 930105303940711240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_82
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 6295
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece920cf320824670800000000000000
+      internalID: 8521514336978640590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_83
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 6315
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6307d2b21bc973b30800000000000000
+      internalID: 4267051456704376886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_84
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 6319
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfab634e412a04d0800000000000000
+      internalID: -3167682767879426082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_85
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 6315
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179b517da4ddc4330800000000000000
+      internalID: 3696572707670178161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_86
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 6311
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30c7ff4218b1c830800000000000000
+      internalID: 4089752325419679803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_87
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 6295
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc59b73ceabb18c60800000000000000
+      internalID: 7818736787370251725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_88
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 6311
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bfab277a9294060800000000000000
+      internalID: 6938122500102093602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_89
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 6303
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5583a74aaab60f0800000000000000
+      internalID: -1122616058696935940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_90
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 6295
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0167c4843907b51a0800000000000000
+      internalID: -6819733432847010288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_91
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 6291
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9a2a8ce9739a9b0800000000000000
+      internalID: -5068458750518318606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_92
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 6295
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3944dca6dc1c1070800000000000000
+      internalID: 8078363539943999802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_93
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 6299
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6536f6cf746adf30800000000000000
+      internalID: 4601100469274031471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_94
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 6295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5ac21073fd69f70800000000000000
+      internalID: 9193781116659344846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_95
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 6299
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9e86499bb4d24c0800000000000000
+      internalID: -4310706007892760148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_96
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 6295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5db2d84954a94a0800000000000000
+      internalID: -6585875000749992508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_97
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 6299
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f192cc7b644a92620800000000000000
+      internalID: 2749909671124674847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_98
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 6295
+        width: 74
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1707f0212043dcdd0800000000000000
+      internalID: -2464256237604212623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_99
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 6295
+        width: 62
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256d245f023830b30800000000000000
+      internalID: 4252386650744870482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_100
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 6295
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af66fe71221631c0800000000000000
+      internalID: -4524408840573784151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_101
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 6291
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b85942d71c66c8c0800000000000000
+      internalID: -3979374371167184713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_102
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 5827
+        width: 274
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da13cc3e0d64bb9d0800000000000000
+      internalID: -2757532483845344851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_103
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 5827
+        width: 266
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad5a537cb259eaf0800000000000000
+      internalID: -366670925311353438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_104
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 5827
+        width: 282
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54074e40244f1cd30800000000000000
+      internalID: 4450106471205859397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_105
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 5827
+        width: 274
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddc6d950d917cea0800000000000000
+      internalID: -5852680808093528623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_106
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 5791
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6aa4674207f2380800000000000000
+      internalID: -8993846628929853753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_107
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 5783
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb0819e30ee071f0800000000000000
+      internalID: -1049077012614345806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_108
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 5795
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126b319a683e1bb90800000000000000
+      internalID: -7227745759451171295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_109
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 5783
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836f53c1e6127cdb0800000000000000
+      internalID: -4771808523372333512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_110
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 5775
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fe98e6003349210800000000000000
+      internalID: 1338751066183429888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_111
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 5795
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f59004b6b0c59af0800000000000000
+      internalID: -390193901761161742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_112
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 5799
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d81615aa83f5e000800000000000000
+      internalID: 64725546467465433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_113
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 5795
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee1094c53e215420800000000000000
+      internalID: 2616923666944892641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_114
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 5791
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac51ce765abf926c0800000000000000
+      internalID: -4167523292322982454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_115
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 5775
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e8c9926b0b4b200800000000000000
+      internalID: 194974980312436364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_116
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 5771
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d121bd43d8e2ba0800000000000000
+      internalID: -6111792386141971110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_117
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 5775
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8e6deb4d5a9f920800000000000000
+      internalID: 3024630957909403834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_118
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 5779
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0174073b17c8da290800000000000000
+      internalID: -7877485753231456496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_119
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 5775
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8032a0d5ce696c840800000000000000
+      internalID: 5244044758036914952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_120
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 5779
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23d3251ea75f39e0800000000000000
+      internalID: -1639495334148975826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_121
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 5775
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df3a47fcd1be1680800000000000000
+      internalID: -8782386660726128682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_122
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 5779
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2560c282a39ab5ac0800000000000000
+      internalID: -3865309787920267694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_123
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 5775
+        width: 74
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc34d2d4bac72810800000000000000
+      internalID: 1740582658982034651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_124
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 5771
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f7970ff9e4bdce0800000000000000
+      internalID: -1379422412017664122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_125
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 5255
+        width: 474
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ffd12ab72eceb90800000000000000
+      internalID: -7211139882698277004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_126
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 5251
+        width: 450
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8c5b986a011d8d0800000000000000
+      internalID: -2823457183923582777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_127
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 5531
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64226315c36e95300800000000000000
+      internalID: 241477201775960646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_128
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 5251
+        width: 482
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e653af3130af5f2e0800000000000000
+      internalID: -2092491560716716690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_129
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 5251
+        width: 438
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa88506fd3a24810800000000000000
+      internalID: 1748139785162623742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_130
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 5483
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65354caa6ad98900800000000000000
+      internalID: 687320569842316650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_131
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 5483
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0644d39e09d79a0800000000000000
+      internalID: -6233666977781227325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_132
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 5455
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b55e659725fe700800000000000000
+      internalID: 571766358801734411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_133
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 5459
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2589837b7a741eff0800000000000000
+      internalID: -8646938618980270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_134
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 5403
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8f4a32da88bca10800000000000000
+      internalID: 1930787142467123398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_135
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 5363
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84472e1b8f4d5d5d0800000000000000
+      internalID: -3038288208990145464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_136
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 5355
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96461699a53608440800000000000000
+      internalID: 4936054432369566825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_137
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 5291
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbaf999b57ba35c30800000000000000
+      internalID: 4347006587456060093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_138
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 5271
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0e78ad904f92cb0800000000000000
+      internalID: -4888107597375741741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_139
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 5079
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb547b6e03c0fd10800000000000000
+      internalID: 2157438688210213878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_140
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 5095
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60761c2ddd2733360800000000000000
+      internalID: 7148183330616338182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_141
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 5095
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165fe84813de61cd0800000000000000
+      internalID: -2587620138944629407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_142
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 5099
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e176eb881201520800000000000000
+      internalID: 2670671450224402060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_143
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 4731
+        width: 422
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ef38b6bd8b8bee0800000000000000
+      internalID: -1245042044426781042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_144
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 5023
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a02ace088810260800000000000000
+      internalID: 7062075778000882291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_145
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 5039
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bc97a6f2693ffa0800000000000000
+      internalID: -5768101567337477365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_146
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 4731
+        width: 334
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dba5ab1798c5f00800000000000000
+      internalID: 1106910729977118098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_147
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 4731
+        width: 330
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97962b447de0e0b0800000000000000
+      internalID: -5701296044518238308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_148
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 5031
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d18c7465a329b30800000000000000
+      internalID: 4292557537083399583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_149
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 4739
+        width: 322
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5e954f4f5377230800000000000000
+      internalID: 3636434550312789493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_150
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 5031
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6accb237a84d17030800000000000000
+      internalID: 3490804877291670694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_151
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 5023
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed11f90a96bebb260800000000000000
+      internalID: 7114538875260703198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_152
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 4983
+        width: 54
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7266419fa5020ca10800000000000000
+      internalID: 1927576215612581415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_153
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 4983
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f025443891086e30800000000000000
+      internalID: 4496845981153042679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_154
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 4963
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc82f0e1c1f21ae50800000000000000
+      internalID: 6818783108625541327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_155
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 4931
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3c03aae79112790800000000000000
+      internalID: -7556730667939085347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_156
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 4955
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79c0115e49804eb0800000000000000
+      internalID: -4737635838533252737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_157
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 4959
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c987acd3faaa42e40800000000000000
+      internalID: 5630813103752640668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_158
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4935
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399cedb67d651ec00800000000000000
+      internalID: 928118481442752915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_159
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 4931
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537074933790407a0800000000000000
+      internalID: -6411989578981898443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_160
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4879
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8f4856daf0c6720800000000000000
+      internalID: 2840662702370912462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_161
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4839
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c561fdb5c56ea8d90800000000000000
+      internalID: -7094604978616068516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_162
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4835
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74d4658a368a0fc0800000000000000
+      internalID: -3527859772187159430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_163
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 4835
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1732968650535e970800000000000000
+      internalID: 8783484945598849905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_164
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 4835
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44231f8bd31c76de0800000000000000
+      internalID: -1339889893279452604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_165
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 4831
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826f9ae491eea48d0800000000000000
+      internalID: -2861212820779174360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_166
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 4835
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15076445d9305d130800000000000000
+      internalID: 3590780252156489809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_167
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 4831
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca595b48cbf612d70800000000000000
+      internalID: 9016610784443471276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_168
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 4759
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6262a2285f25eba0800000000000000
+      internalID: -6060385667972439443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_169
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 4759
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0854bd8e77f36e90800000000000000
+      internalID: -7033506070107236341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_170
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 4779
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05479786a4f304060800000000000000
+      internalID: 6935613014963483728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_171
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 4779
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647e0835563e1e450800000000000000
+      internalID: 6116419793278003014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_172
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 4759
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf68b0b044e361ea0800000000000000
+      internalID: -5902461799658453252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_173
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 4759
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fee2aabdaab8820800000000000000
+      internalID: 2921616643709661079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_174
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4735
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efcc5300a42c60d0800000000000000
+      internalID: -3428324946666008608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_175
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 4735
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f074254fd09dfeb0800000000000000
+      internalID: -4684428748783324939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_176
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 4735
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1741d3150eea22900800000000000000
+      internalID: 658280774008378481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_177
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 4223
+        width: 322
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ef9d23c5f554090800000000000000
+      internalID: -8050923909260116468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_178
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 4223
+        width: 322
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601e200189da67330800000000000000
+      internalID: 3708342211801440518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_179
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 4223
+        width: 254
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004e72f68fe7f2320800000000000000
+      internalID: 2535384720714753024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_180
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 4223
+        width: 238
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b774ff87563dd1f0800000000000000
+      internalID: -1018598191010646092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_181
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3703
+        width: 238
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ab57876105e1600800000000000000
+      internalID: 440877870969371158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_182
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 3703
+        width: 234
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b3f03ccdce35ce0800000000000000
+      internalID: -1417529024782058745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_183
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 3703
+        width: 238
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96298d4fe1f7c6c0800000000000000
+      internalID: -4123060923734088034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_184
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 3703
+        width: 230
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba33060457ff1000800000000000000
+      internalID: 8997664528218809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_185
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 3183
+        width: 230
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c1bb5e5dae87de0800000000000000
+      internalID: -1335059085112173453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_186
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 3183
+        width: 234
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8c30a1fbc490020800000000000000
+      internalID: 2308460667663009968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_187
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 3183
+        width: 234
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c5a22e2aead4c90800000000000000
+      internalID: -7183893815983711082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_188
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 3183
+        width: 234
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a98ca22d2f90650800000000000000
+      internalID: 6199753346527042155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_189
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2663
+        width: 230
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ee3dccebbbd1690800000000000000
+      internalID: -7629735765541130672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_190
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2659
+        width: 230
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbddad13f376e220800000000000000
+      internalID: 2514824929945181138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_191
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 2659
+        width: 238
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9f668a498982520800000000000000
+      internalID: 2677557742719662501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_192
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 2659
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74159b7d3f130ebf0800000000000000
+      internalID: -297182652040392377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_193
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2139
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c6364092038c720800000000000000
+      internalID: 2866594115546737796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_194
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2139
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0036e0466de99c9e0800000000000000
+      internalID: -1600573548914646272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_195
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 2139
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53279e4bf07bd36e0800000000000000
+      internalID: -1856126193319185867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_196
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 2139
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e877a2eb3026490800000000000000
+      internalID: -7754631493087424865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_197
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1619
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f80e0de19710050800000000000000
+      internalID: 5765022171271303042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_198
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1619
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccddea3a4bf87fb60800000000000000
+      internalID: 7779844887308852684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_199
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1619
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e0cea54c530fca0800000000000000
+      internalID: -5985224787320107434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_200
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1619
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1652cbd9318484cc0800000000000000
+      internalID: -3726649442561153695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_201
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1099
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3b08c78b7863920800000000000000
+      internalID: 2969710230729962436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_202
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1099
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef66eae184debb30800000000000000
+      internalID: 4305111948269613024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_203
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1099
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d148495c8a2bef5c0800000000000000
+      internalID: -4179706966214147043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_204
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1099
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cf29d6842a2cc00800000000000000
+      internalID: 919475705896696885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_205
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 579
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d890820b8b121370800000000000000
+      internalID: 8291720147798890707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_206
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 579
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c667ca34fe489fca0800000000000000
+      internalID: -5982604466817567124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_207
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 579
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c089268204f2b40800000000000000
+      internalID: 5417619418946997318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_208
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 579
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7799fce2d14a88a0800000000000000
+      internalID: -6302152354376870022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_209
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 59
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebf6168fd10d8670800000000000000
+      internalID: 8542486127730686951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_210
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 59
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893352fdc1310fea0800000000000000
+      internalID: -5841147701975764072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: componer3_211
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 59
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0873275d08ece7730800000000000000
+      internalID: 3998860571883747200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      componer3_0: -2361409425342282724
+      componer3_1: -6237761678347131318
+      componer3_10: -459843742559008521
+      componer3_100: -4524408840573784151
+      componer3_101: -3979374371167184713
+      componer3_102: -2757532483845344851
+      componer3_103: -366670925311353438
+      componer3_104: 4450106471205859397
+      componer3_105: -5852680808093528623
+      componer3_106: -8993846628929853753
+      componer3_107: -1049077012614345806
+      componer3_108: -7227745759451171295
+      componer3_109: -4771808523372333512
+      componer3_11: 1618871689617708760
+      componer3_110: 1338751066183429888
+      componer3_111: -390193901761161742
+      componer3_112: 64725546467465433
+      componer3_113: 2616923666944892641
+      componer3_114: -4167523292322982454
+      componer3_115: 194974980312436364
+      componer3_116: -6111792386141971110
+      componer3_117: 3024630957909403834
+      componer3_118: -7877485753231456496
+      componer3_119: 5244044758036914952
+      componer3_12: 7359447268435125061
+      componer3_120: -1639495334148975826
+      componer3_121: -8782386660726128682
+      componer3_122: -3865309787920267694
+      componer3_123: 1740582658982034651
+      componer3_124: -1379422412017664122
+      componer3_125: -7211139882698277004
+      componer3_126: -2823457183923582777
+      componer3_127: 241477201775960646
+      componer3_128: -2092491560716716690
+      componer3_129: 1748139785162623742
+      componer3_13: -327903561079381867
+      componer3_130: 687320569842316650
+      componer3_131: -6233666977781227325
+      componer3_132: 571766358801734411
+      componer3_133: -8646938618980270
+      componer3_134: 1930787142467123398
+      componer3_135: -3038288208990145464
+      componer3_136: 4936054432369566825
+      componer3_137: 4347006587456060093
+      componer3_138: -4888107597375741741
+      componer3_139: 2157438688210213878
+      componer3_14: -5159917671615000233
+      componer3_140: 7148183330616338182
+      componer3_141: -2587620138944629407
+      componer3_142: 2670671450224402060
+      componer3_143: -1245042044426781042
+      componer3_144: 7062075778000882291
+      componer3_145: -5768101567337477365
+      componer3_146: 1106910729977118098
+      componer3_147: -5701296044518238308
+      componer3_148: 4292557537083399583
+      componer3_149: 3636434550312789493
+      componer3_15: -4844138185443565290
+      componer3_150: 3490804877291670694
+      componer3_151: 7114538875260703198
+      componer3_152: 1927576215612581415
+      componer3_153: 4496845981153042679
+      componer3_154: 6818783108625541327
+      componer3_155: -7556730667939085347
+      componer3_156: -4737635838533252737
+      componer3_157: 5630813103752640668
+      componer3_158: 928118481442752915
+      componer3_159: -6411989578981898443
+      componer3_16: -7411114064314327549
+      componer3_160: 2840662702370912462
+      componer3_161: -7094604978616068516
+      componer3_162: -3527859772187159430
+      componer3_163: 8783484945598849905
+      componer3_164: -1339889893279452604
+      componer3_165: -2861212820779174360
+      componer3_166: 3590780252156489809
+      componer3_167: 9016610784443471276
+      componer3_168: -6060385667972439443
+      componer3_169: -7033506070107236341
+      componer3_17: -4548176321913023887
+      componer3_170: 6935613014963483728
+      componer3_171: 6116419793278003014
+      componer3_172: -5902461799658453252
+      componer3_173: 2921616643709661079
+      componer3_174: -3428324946666008608
+      componer3_175: -4684428748783324939
+      componer3_176: 658280774008378481
+      componer3_177: -8050923909260116468
+      componer3_178: 3708342211801440518
+      componer3_179: 2535384720714753024
+      componer3_18: 7352566864318046537
+      componer3_180: -1018598191010646092
+      componer3_181: 440877870969371158
+      componer3_182: -1417529024782058745
+      componer3_183: -4123060923734088034
+      componer3_184: 8997664528218809
+      componer3_185: -1335059085112173453
+      componer3_186: 2308460667663009968
+      componer3_187: -7183893815983711082
+      componer3_188: 6199753346527042155
+      componer3_189: -7629735765541130672
+      componer3_19: -3261577884209857385
+      componer3_190: 2514824929945181138
+      componer3_191: 2677557742719662501
+      componer3_192: -297182652040392377
+      componer3_193: 2866594115546737796
+      componer3_194: -1600573548914646272
+      componer3_195: -1856126193319185867
+      componer3_196: -7754631493087424865
+      componer3_197: 5765022171271303042
+      componer3_198: 7779844887308852684
+      componer3_199: -5985224787320107434
+      componer3_2: -3520645468106520267
+      componer3_20: -8355263758531010722
+      componer3_200: -3726649442561153695
+      componer3_201: 2969710230729962436
+      componer3_202: 4305111948269613024
+      componer3_203: -4179706966214147043
+      componer3_204: 919475705896696885
+      componer3_205: 8291720147798890707
+      componer3_206: -5982604466817567124
+      componer3_207: 5417619418946997318
+      componer3_208: -6302152354376870022
+      componer3_209: 8542486127730686951
+      componer3_21: -7078743782547807528
+      componer3_210: -5841147701975764072
+      componer3_211: 3998860571883747200
+      componer3_22: 8081535142317512092
+      componer3_23: 2379918489824408914
+      componer3_24: -3880813832313955547
+      componer3_25: -940210530552429835
+      componer3_26: 4924068505718376145
+      componer3_27: -7716780712720680916
+      componer3_28: -3611398870812747744
+      componer3_29: 2774410759187793849
+      componer3_3: -4308096496945485731
+      componer3_30: 6249221008369183792
+      componer3_31: -1785328117478469532
+      componer3_32: -7518024355009212793
+      componer3_33: 1687695490596131364
+      componer3_34: -5809104397728765745
+      componer3_35: 5311902197761496148
+      componer3_36: -5555882841291878493
+      componer3_37: -4843908367922994630
+      componer3_38: -6676180905031499154
+      componer3_39: 2603309487686854770
+      componer3_4: -7679984420117652678
+      componer3_40: -3738175180266263942
+      componer3_41: -4997018050193680175
+      componer3_42: -3349983958099916397
+      componer3_43: 7938158199993238460
+      componer3_44: -1730014754385022013
+      componer3_45: -8374013560351799194
+      componer3_46: -5547683750103235570
+      componer3_47: 4254972163636724128
+      componer3_48: -1322950467136312557
+      componer3_49: -6755665106516358772
+      componer3_5: 7710167978429177356
+      componer3_50: -4868693779912488497
+      componer3_51: -8267397199094820151
+      componer3_52: 5660515947201937881
+      componer3_53: -3844684472654700238
+      componer3_54: -6412853424967015779
+      componer3_55: -2841884117267426177
+      componer3_56: -415848553068718426
+      componer3_57: 3117442905145158057
+      componer3_58: -2885898133355427059
+      componer3_59: 4075839448939299528
+      componer3_6: 1048878679088392622
+      componer3_60: 2184738895311803080
+      componer3_61: -8961635102838209230
+      componer3_62: 3908467911882532345
+      componer3_63: 3210449664396140767
+      componer3_64: -5102829463275219157
+      componer3_65: 8951084027814310061
+      componer3_66: 5153448546364451084
+      componer3_67: 7008815248386423868
+      componer3_68: 8732990158316969402
+      componer3_69: -2614336241574286413
+      componer3_7: 3635449067514495101
+      componer3_70: -2520008993591904852
+      componer3_71: 1412803799931151966
+      componer3_72: 2786905985916533939
+      componer3_73: -3674451260140056298
+      componer3_74: 3545901284514518097
+      componer3_75: 7159249997564307320
+      componer3_76: -4679842816042439569
+      componer3_77: -7903756704208434959
+      componer3_78: -8624749896694300090
+      componer3_79: 579983983235404066
+      componer3_8: 5784148164045664735
+      componer3_80: 2721978907055283121
+      componer3_81: 930105303940711240
+      componer3_82: 8521514336978640590
+      componer3_83: 4267051456704376886
+      componer3_84: -3167682767879426082
+      componer3_85: 3696572707670178161
+      componer3_86: 4089752325419679803
+      componer3_87: 7818736787370251725
+      componer3_88: 6938122500102093602
+      componer3_89: -1122616058696935940
+      componer3_9: -757471199096527417
+      componer3_90: -6819733432847010288
+      componer3_91: -5068458750518318606
+      componer3_92: 8078363539943999802
+      componer3_93: 4601100469274031471
+      componer3_94: 9193781116659344846
+      componer3_95: -4310706007892760148
+      componer3_96: -6585875000749992508
+      componer3_97: 2749909671124674847
+      componer3_98: -2464256237604212623
+      componer3_99: 4252386650744870482
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
