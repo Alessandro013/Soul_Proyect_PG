@@ -47,11 +47,11 @@ public class AtaqueJugador : MonoBehaviour {
             GameObject especial = Instantiate(efectoEspecialPrefab, puntoAtaque.position, transform.rotation);
             
             // Configuramos la dirección del proyectil basado en hacia dónde mira Jhos
-            BalaJugador scriptEspecial = especial.GetComponent<BalaJugador>();
-            if (scriptEspecial != null) {
-                Vector2 direccion = transform.localScale.x > 0 ? Vector2.right : Vector2.left;
-                scriptEspecial.SetDireccion(direccion);
-            }
+            // BalaJugador scriptEspecial = especial.GetComponent<BalaJugador>();
+            // if (scriptEspecial != null) {
+            //     Vector2 direccion = transform.localScale.x > 0 ? Vector2.right : Vector2.left;
+            //     scriptEspecial.SetDireccion(direccion);
+            // }
         }
 
         // 3. Daño en área instantáneo cerca del jugador
@@ -107,10 +107,10 @@ public class AtaqueJugador : MonoBehaviour {
             Vector2 direccion = transform.localScale.x > 0 ? Vector2.right : Vector2.left;
             GameObject bala = Instantiate(proyectilArcoPrefab, puntoDisparoArco.position, Quaternion.identity);
             
-            BalaJugador balaScript = bala.GetComponent<BalaJugador>();
-            if (balaScript != null) {
-                balaScript.SetDireccion(direccion);
-            }
+            // BalaJugador balaScript = bala.GetComponent<BalaJugador>();
+            // if (balaScript != null) {
+            //     balaScript.SetDireccion(direccion);
+            // }
         }
     }
 

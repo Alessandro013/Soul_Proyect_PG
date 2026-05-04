@@ -5,10 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class MenuPrincipal : MonoBehaviour
 {
-        public void PlayGame()
+    public void PlayGame()
     {
         // Carga la siguiente escena en la lista (tu nivel 1)
-         SceneManager.LoadScene("mapa_decierto");
+        SceneManager.LoadScene("sala_espera");
     }
 
     public void QuitGame()
