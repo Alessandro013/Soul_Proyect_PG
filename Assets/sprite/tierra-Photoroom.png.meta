@@ -1,0 +1,2228 @@
+fileFormatVersion: 2
+guid: f564530e7ddfcb1d2b21827c904147f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8212174959570146286
+    second: tierra-Photoroom_0
+  - first:
+      213: -5054940400309474241
+    second: tierra-Photoroom_1
+  - first:
+      213: -4426761013197077793
+    second: tierra-Photoroom_2
+  - first:
+      213: 158922944732615488
+    second: tierra-Photoroom_3
+  - first:
+      213: 4606674764017249107
+    second: tierra-Photoroom_4
+  - first:
+      213: 6491164798307613766
+    second: tierra-Photoroom_5
+  - first:
+      213: 1961598124395845854
+    second: tierra-Photoroom_6
+  - first:
+      213: -4484076748440159336
+    second: tierra-Photoroom_7
+  - first:
+      213: -5957788405351831150
+    second: tierra-Photoroom_8
+  - first:
+      213: -3867343129361772308
+    second: tierra-Photoroom_9
+  - first:
+      213: -5064577538571526606
+    second: tierra-Photoroom_10
+  - first:
+      213: -3636742167470226834
+    second: tierra-Photoroom_11
+  - first:
+      213: -69028935551129258
+    second: tierra-Photoroom_12
+  - first:
+      213: -8515766458881688339
+    second: tierra-Photoroom_13
+  - first:
+      213: 5683523790085600170
+    second: tierra-Photoroom_14
+  - first:
+      213: 7699250964466655016
+    second: tierra-Photoroom_15
+  - first:
+      213: 3437414125319593648
+    second: tierra-Photoroom_16
+  - first:
+      213: 1355573835678153609
+    second: tierra-Photoroom_17
+  - first:
+      213: -7464000180988433718
+    second: tierra-Photoroom_18
+  - first:
+      213: -2484425974719092704
+    second: tierra-Photoroom_19
+  - first:
+      213: -3358666939981015249
+    second: tierra-Photoroom_20
+  - first:
+      213: -3462951877752610896
+    second: tierra-Photoroom_21
+  - first:
+      213: 5841934746868187753
+    second: tierra-Photoroom_22
+  - first:
+      213: 5943984919039005164
+    second: tierra-Photoroom_23
+  - first:
+      213: -4125497835254994321
+    second: tierra-Photoroom_24
+  - first:
+      213: -719180167325873000
+    second: tierra-Photoroom_25
+  - first:
+      213: 8774537081489321936
+    second: tierra-Photoroom_26
+  - first:
+      213: 6600552280699223590
+    second: tierra-Photoroom_27
+  - first:
+      213: 562042569534136471
+    second: tierra-Photoroom_28
+  - first:
+      213: 3247913932161452454
+    second: tierra-Photoroom_29
+  - first:
+      213: 9028002102277309464
+    second: tierra-Photoroom_30
+  - first:
+      213: -4610813152332584507
+    second: tierra-Photoroom_31
+  - first:
+      213: 6006323483487808713
+    second: tierra-Photoroom_32
+  - first:
+      213: 5397116407025166560
+    second: tierra-Photoroom_33
+  - first:
+      213: 8974114496030335686
+    second: tierra-Photoroom_34
+  - first:
+      213: -5279295643340809288
+    second: tierra-Photoroom_35
+  - first:
+      213: -2010545563448217494
+    second: tierra-Photoroom_36
+  - first:
+      213: -6352979679872417363
+    second: tierra-Photoroom_37
+  - first:
+      213: 3097262854963659314
+    second: tierra-Photoroom_38
+  - first:
+      213: -6690551942958033122
+    second: tierra-Photoroom_39
+  - first:
+      213: -7258513300618234891
+    second: tierra-Photoroom_40
+  - first:
+      213: 7779814236202539751
+    second: tierra-Photoroom_41
+  - first:
+      213: 150991359171458219
+    second: tierra-Photoroom_42
+  - first:
+      213: -6643956804951896962
+    second: tierra-Photoroom_43
+  - first:
+      213: 5270414837767650122
+    second: tierra-Photoroom_44
+  - first:
+      213: 855214901041834018
+    second: tierra-Photoroom_45
+  - first:
+      213: 3509647321752483542
+    second: tierra-Photoroom_46
+  - first:
+      213: -4222823507515278722
+    second: tierra-Photoroom_47
+  - first:
+      213: 359140436452954671
+    second: tierra-Photoroom_48
+  - first:
+      213: -2640694412677310365
+    second: tierra-Photoroom_49
+  - first:
+      213: 2351820897783854791
+    second: tierra-Photoroom_50
+  - first:
+      213: 643605068533925408
+    second: tierra-Photoroom_51
+  - first:
+      213: -2466719629406055516
+    second: tierra-Photoroom_52
+  - first:
+      213: 848233393774012243
+    second: tierra-Photoroom_53
+  - first:
+      213: 1048605365327904036
+    second: tierra-Photoroom_54
+  - first:
+      213: -1804517838974176089
+    second: tierra-Photoroom_55
+  - first:
+      213: 1219018768600925860
+    second: tierra-Photoroom_56
+  - first:
+      213: 799164860581386951
+    second: tierra-Photoroom_57
+  - first:
+      213: 425499664100554747
+    second: tierra-Photoroom_58
+  - first:
+      213: -5831656871527205014
+    second: tierra-Photoroom_59
+  - first:
+      213: -1954989653120082343
+    second: tierra-Photoroom_60
+  - first:
+      213: -5159459274786551587
+    second: tierra-Photoroom_61
+  - first:
+      213: -5901936493683786152
+    second: tierra-Photoroom_62
+  - first:
+      213: 3833031952826231704
+    second: tierra-Photoroom_63
+  - first:
+      213: -7870346482013004566
+    second: tierra-Photoroom_64
+  - first:
+      213: -7943724270766311156
+    second: tierra-Photoroom_65
+  - first:
+      213: 7939886181081521059
+    second: tierra-Photoroom_66
+  - first:
+      213: -2074653380489547478
+    second: tierra-Photoroom_67
+  - first:
+      213: 4971905951746254075
+    second: tierra-Photoroom_68
+  - first:
+      213: 458168680791764378
+    second: tierra-Photoroom_69
+  - first:
+      213: -2313039272031290791
+    second: tierra-Photoroom_70
+  - first:
+      213: 3079035799911403890
+    second: tierra-Photoroom_71
+  - first:
+      213: 4054645324030602354
+    second: tierra-Photoroom_72
+  - first:
+      213: -6521947341898184273
+    second: tierra-Photoroom_73
+  - first:
+      213: 3248465897152839789
+    second: tierra-Photoroom_74
+  - first:
+      213: -6326761785853823480
+    second: tierra-Photoroom_75
+  - first:
+      213: 4693419654601309225
+    second: tierra-Photoroom_76
+  - first:
+      213: 770938820571476514
+    second: tierra-Photoroom_77
+  - first:
+      213: -144545496872460171
+    second: tierra-Photoroom_78
+  - first:
+      213: -6886791760557319899
+    second: tierra-Photoroom_79
+  - first:
+      213: 5391747520223151167
+    second: tierra-Photoroom_80
+  - first:
+      213: 5574930292733823831
+    second: tierra-Photoroom_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tierra-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1258
+        width: 285
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ca67d526e780e80800000000000000
+      internalID: -8212174959570146286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 965
+        width: 646
+        height: 595
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c68c6fc7e39d9b0800000000000000
+      internalID: -5054940400309474241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1311
+        width: 363
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd207deff4cf092c0800000000000000
+      internalID: -4426761013197077793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1355
+        width: 180
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0435273839b943200800000000000000
+      internalID: 158922944732615488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1413
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b21096a423eef30800000000000000
+      internalID: 4606674764017249107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1370
+        width: 190
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c35ad0eff351a50800000000000000
+      internalID: 6491164798307613766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1390
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8dfa4e91ff83b10800000000000000
+      internalID: 1961598124395845854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1255
+        width: 141
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bb2a774fb55c1c0800000000000000
+      internalID: -4484076748440159336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 1255
+        width: 253
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2992014d20fa15da0800000000000000
+      internalID: -5957788405351831150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1372
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce018d5f9ef645ac0800000000000000
+      internalID: -3867343129361772308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1322
+        width: 85
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e950cdf8107b9b0800000000000000
+      internalID: -5064577538571526606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1293
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62c0485442b78dc0800000000000000
+      internalID: -3636742167470226834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1257
+        width: 87
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65960418c82ca0ff0800000000000000
+      internalID: -69028935551129258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 726
+        width: 209
+        height: 494
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decbb2c268be1d980800000000000000
+      internalID: -8515766458881688339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 724
+        width: 204
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3b88446ceefde40800000000000000
+      internalID: 5683523790085600170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 973
+        width: 175
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f5e95b5fb39da60800000000000000
+      internalID: 7699250964466655016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 971
+        width: 160
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be959d4fe524bf20800000000000000
+      internalID: 3437414125319593648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 960
+        width: 158
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bf86ea837ffc210800000000000000
+      internalID: 1355573835678153609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 496
+        width: 504
+        height: 721
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaabb0a16b8a6890800000000000000
+      internalID: -7464000180988433718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1081
+        width: 83
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0286d123dbb858dd0800000000000000
+      internalID: -2484425974719092704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1082
+        width: 96
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27559b863e9361d0800000000000000
+      internalID: -3358666939981015249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 1086
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf984c5d9f11ffc0800000000000000
+      internalID: -3462951877752610896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 1086
+        width: 82
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962071c43b8b21150800000000000000
+      internalID: 5841934746868187753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 1087
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce159919ac64d7250800000000000000
+      internalID: 5943984919039005164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 730
+        width: 158
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6aabff93994fb6c0800000000000000
+      internalID: -4125497835254994321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 950
+        width: 82
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c090db275f406f0800000000000000
+      internalID: -719180167325873000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 950
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfe9a27cfa65c970800000000000000
+      internalID: 8774537081489321936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 953
+        width: 82
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62eb87cf35fd99b50800000000000000
+      internalID: 6600552280699223590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 959
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790eab93db6ccc700800000000000000
+      internalID: 562042569534136471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 957
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9868b5388e21d20800000000000000
+      internalID: 3247913932161452454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 713
+        width: 183
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81408b16418e94d70800000000000000
+      internalID: 9028002102277309464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 728
+        width: 155
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c96489fdd91300c0800000000000000
+      internalID: -4610813152332584507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 735
+        width: 139
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cca067a26fba5350800000000000000
+      internalID: 6006323483487808713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 783
+        width: 152
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8ea2ce6c866ea40800000000000000
+      internalID: 5397116407025166560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 787
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2629556957a8c70800000000000000
+      internalID: 8974114496030335686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 787
+        width: 133
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb5762559c2cb6b0800000000000000
+      internalID: -5279295643340809288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 783
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a607eed567b1914e0800000000000000
+      internalID: -2010545563448217494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 857
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da10ee304aea5d7a0800000000000000
+      internalID: -6352979679872417363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 856
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2320f161820bbfa20800000000000000
+      internalID: 3097262854963659314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 787
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17dfa8b4726623a0800000000000000
+      internalID: -6690551942958033122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 784
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3b33f3c94944b90800000000000000
+      internalID: -7258513300618234891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 511
+        width: 273
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea116f14d377fb60800000000000000
+      internalID: 7779814236202539751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 600
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4719757dd681200800000000000000
+      internalID: 150991359171458219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 608
+        width: 125
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c8dc1bc7cebc3a0800000000000000
+      internalID: -6643956804951896962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 512
+        width: 211
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bb6100f56442940800000000000000
+      internalID: 5270414837767650122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 617
+        width: 290
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228283fdb655edb00800000000000000
+      internalID: 855214901041834018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 617
+        width: 145
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d635fbe4a5c4b030800000000000000
+      internalID: 3509647321752483542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 498
+        width: 168
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7af165b4648565c0800000000000000
+      internalID: -4222823507515278722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 495
+        width: 106
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22d14bf25cebf400800000000000000
+      internalID: 359140436452954671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 498
+        width: 193
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36892043c6e5a5bd0800000000000000
+      internalID: -2640694412677310365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 491
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c63fb365a853a020800000000000000
+      internalID: 2351820897783854791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 497
+        width: 112
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0260b9d566b8ee800800000000000000
+      internalID: 643605068533925408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 499
+        width: 116
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3d4c8f09374cdd0800000000000000
+      internalID: -2466719629406055516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 497
+        width: 283
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357268a07c785cb00800000000000000
+      internalID: 848233393774012243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 498
+        width: 144
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d30f526056d8e00800000000000000
+      internalID: 1048605365327904036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 335
+        width: 221
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4b611169015f6e0800000000000000
+      internalID: -1804517838974176089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 273
+        width: 179
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a60ef48c13dae010800000000000000
+      internalID: 1219018768600925860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 273
+        width: 196
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca9defd434371b00800000000000000
+      internalID: 799164860581386951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 273
+        width: 195
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7f2caa0bda7e500800000000000000
+      internalID: 425499664100554747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 273
+        width: 169
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67b7a809fac11fa0800000000000000
+      internalID: -5831656871527205014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 294
+        width: 133
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e963ab44b7ed4e0800000000000000
+      internalID: -1954989653120082343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 294
+        width: 133
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8c045202be568b0800000000000000
+      internalID: -5159459274786551587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 281
+        width: 103
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e301f570c181ea0800000000000000
+      internalID: -5901936493683786152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 277
+        width: 64
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bede8b04aa13530800000000000000
+      internalID: 3833031952826231704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 286
+        width: 231
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec9e50d299e6c290800000000000000
+      internalID: -7870346482013004566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 0
+        width: 225
+        height: 464
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0933570dd832c190800000000000000
+      internalID: -7943724270766311156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 273
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab95641a64203e60800000000000000
+      internalID: 7939886181081521059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 23
+        width: 194
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a217bdf0eb95533e0800000000000000
+      internalID: -2074653380489547478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 23
+        width: 195
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf46c7eee12cff440800000000000000
+      internalID: 4971905951746254075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 173
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d6dc9dcfdbb5600800000000000000
+      internalID: 458168680791764378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 173
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95afb0f790f66efd0800000000000000
+      internalID: -2313039272031290791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 181
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2711e602fbeeaba20800000000000000
+      internalID: 3079035799911403890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 186
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cea05907ef44830800000000000000
+      internalID: 4054645324030602354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 15
+        width: 174
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa90b5282736d75a0800000000000000
+      internalID: -6521947341898184273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 38
+        width: 153
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6004c8b58ed41d20800000000000000
+      internalID: 3248465897152839789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 59
+        width: 195
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806baa72da3d238a0800000000000000
+      internalID: -6326761785853823480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 81
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cf85e1f40622140800000000000000
+      internalID: 4693419654601309225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 83
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222b8bfc5cce2ba00800000000000000
+      internalID: 770938820571476514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 115
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570e80de2a87efdf0800000000000000
+      internalID: -144545496872460171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_79
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 98
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529d4eda1633d60a0800000000000000
+      internalID: -6886791760557319899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tierra-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 86
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f348e7d8dc553da40800000000000000
+      internalID: 5391747520223151167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1de850083fec532e083b5a62cae6d865
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      tierra-Photoroom_0: -8212174959570146286
+      tierra-Photoroom_1: -5054940400309474241
+      tierra-Photoroom_10: -5064577538571526606
+      tierra-Photoroom_11: -3636742167470226834
+      tierra-Photoroom_12: -69028935551129258
+      tierra-Photoroom_13: -8515766458881688339
+      tierra-Photoroom_14: 5683523790085600170
+      tierra-Photoroom_15: 7699250964466655016
+      tierra-Photoroom_16: 3437414125319593648
+      tierra-Photoroom_17: 1355573835678153609
+      tierra-Photoroom_18: -7464000180988433718
+      tierra-Photoroom_19: -2484425974719092704
+      tierra-Photoroom_2: -4426761013197077793
+      tierra-Photoroom_20: -3358666939981015249
+      tierra-Photoroom_21: -3462951877752610896
+      tierra-Photoroom_22: 5841934746868187753
+      tierra-Photoroom_23: 5943984919039005164
+      tierra-Photoroom_24: -4125497835254994321
+      tierra-Photoroom_25: -719180167325873000
+      tierra-Photoroom_26: 8774537081489321936
+      tierra-Photoroom_27: 6600552280699223590
+      tierra-Photoroom_28: 562042569534136471
+      tierra-Photoroom_29: 3247913932161452454
+      tierra-Photoroom_3: 158922944732615488
+      tierra-Photoroom_30: 9028002102277309464
+      tierra-Photoroom_31: -4610813152332584507
+      tierra-Photoroom_32: 6006323483487808713
+      tierra-Photoroom_33: 5397116407025166560
+      tierra-Photoroom_34: 8974114496030335686
+      tierra-Photoroom_35: -5279295643340809288
+      tierra-Photoroom_36: -2010545563448217494
+      tierra-Photoroom_37: -6352979679872417363
+      tierra-Photoroom_38: 3097262854963659314
+      tierra-Photoroom_39: -6690551942958033122
+      tierra-Photoroom_4: 4606674764017249107
+      tierra-Photoroom_40: -7258513300618234891
+      tierra-Photoroom_41: 7779814236202539751
+      tierra-Photoroom_42: 150991359171458219
+      tierra-Photoroom_43: -6643956804951896962
+      tierra-Photoroom_44: 5270414837767650122
+      tierra-Photoroom_45: 855214901041834018
+      tierra-Photoroom_46: 3509647321752483542
+      tierra-Photoroom_47: -4222823507515278722
+      tierra-Photoroom_48: 359140436452954671
+      tierra-Photoroom_49: -2640694412677310365
+      tierra-Photoroom_5: 6491164798307613766
+      tierra-Photoroom_50: 2351820897783854791
+      tierra-Photoroom_51: 643605068533925408
+      tierra-Photoroom_52: -2466719629406055516
+      tierra-Photoroom_53: 848233393774012243
+      tierra-Photoroom_54: 1048605365327904036
+      tierra-Photoroom_55: -1804517838974176089
+      tierra-Photoroom_56: 1219018768600925860
+      tierra-Photoroom_57: 799164860581386951
+      tierra-Photoroom_58: 425499664100554747
+      tierra-Photoroom_59: -5831656871527205014
+      tierra-Photoroom_6: 1961598124395845854
+      tierra-Photoroom_60: -1954989653120082343
+      tierra-Photoroom_61: -5159459274786551587
+      tierra-Photoroom_62: -5901936493683786152
+      tierra-Photoroom_63: 3833031952826231704
+      tierra-Photoroom_64: -7870346482013004566
+      tierra-Photoroom_65: -7943724270766311156
+      tierra-Photoroom_66: 7939886181081521059
+      tierra-Photoroom_67: -2074653380489547478
+      tierra-Photoroom_68: 4971905951746254075
+      tierra-Photoroom_69: 458168680791764378
+      tierra-Photoroom_7: -4484076748440159336
+      tierra-Photoroom_70: -2313039272031290791
+      tierra-Photoroom_71: 3079035799911403890
+      tierra-Photoroom_72: 4054645324030602354
+      tierra-Photoroom_73: -6521947341898184273
+      tierra-Photoroom_74: 3248465897152839789
+      tierra-Photoroom_75: -6326761785853823480
+      tierra-Photoroom_76: 4693419654601309225
+      tierra-Photoroom_77: 770938820571476514
+      tierra-Photoroom_78: -144545496872460171
+      tierra-Photoroom_79: -6886791760557319899
+      tierra-Photoroom_8: -5957788405351831150
+      tierra-Photoroom_80: 5391747520223151167
+      tierra-Photoroom_9: -3867343129361772308
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
