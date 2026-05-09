@@ -1,0 +1,3861 @@
+fileFormatVersion: 2
+guid: 0e354d7498a8e202e80a64a5d090c73d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3701915155188488927
+    second: insectolarva_0
+  - first:
+      213: 3549542625619769665
+    second: insectolarva_1
+  - first:
+      213: -8447635514369441830
+    second: insectolarva_2
+  - first:
+      213: 7927139480076496345
+    second: insectolarva_3
+  - first:
+      213: 3875763149891505923
+    second: insectolarva_4
+  - first:
+      213: 6813180250542976061
+    second: insectolarva_5
+  - first:
+      213: 2757737249159756467
+    second: insectolarva_6
+  - first:
+      213: -1710492392126978367
+    second: insectolarva_7
+  - first:
+      213: -3391696772074060041
+    second: insectolarva_8
+  - first:
+      213: -4366676599190176743
+    second: insectolarva_9
+  - first:
+      213: -6031685090721537381
+    second: insectolarva_10
+  - first:
+      213: 7930841371392912128
+    second: insectolarva_11
+  - first:
+      213: 8550898925989589562
+    second: insectolarva_12
+  - first:
+      213: -2139844280750548902
+    second: insectolarva_13
+  - first:
+      213: 5341522544803951209
+    second: insectolarva_14
+  - first:
+      213: 1181755803698002439
+    second: insectolarva_15
+  - first:
+      213: 8517305917691270635
+    second: insectolarva_16
+  - first:
+      213: -8704678780360208033
+    second: insectolarva_17
+  - first:
+      213: -7292987573319785845
+    second: insectolarva_18
+  - first:
+      213: 3452524015533852050
+    second: insectolarva_19
+  - first:
+      213: -899891284244318602
+    second: insectolarva_20
+  - first:
+      213: -2608415849065553522
+    second: insectolarva_21
+  - first:
+      213: 3116854986388765931
+    second: insectolarva_22
+  - first:
+      213: -2103560102141262848
+    second: insectolarva_23
+  - first:
+      213: -3430919456587328248
+    second: insectolarva_24
+  - first:
+      213: 6501936155804045374
+    second: insectolarva_25
+  - first:
+      213: 1094050371191741864
+    second: insectolarva_26
+  - first:
+      213: -8361255245685314864
+    second: insectolarva_27
+  - first:
+      213: -8138090047429351987
+    second: insectolarva_28
+  - first:
+      213: -545111575421875092
+    second: insectolarva_29
+  - first:
+      213: 965335344646990068
+    second: insectolarva_30
+  - first:
+      213: 8626433590302051627
+    second: insectolarva_31
+  - first:
+      213: 5923147704338935358
+    second: insectolarva_32
+  - first:
+      213: -1530880805082160575
+    second: insectolarva_33
+  - first:
+      213: -708753157234568752
+    second: insectolarva_34
+  - first:
+      213: -5739850826475095966
+    second: insectolarva_35
+  - first:
+      213: 7933606691198384516
+    second: insectolarva_36
+  - first:
+      213: 3355175297317796880
+    second: insectolarva_37
+  - first:
+      213: 6097564526524486333
+    second: insectolarva_38
+  - first:
+      213: 4875205343482957464
+    second: insectolarva_39
+  - first:
+      213: 1346373844616295024
+    second: insectolarva_40
+  - first:
+      213: -7105850450663568165
+    second: insectolarva_41
+  - first:
+      213: 6204391635409315955
+    second: insectolarva_42
+  - first:
+      213: -3101230653152086232
+    second: insectolarva_43
+  - first:
+      213: -4227396727126875568
+    second: insectolarva_44
+  - first:
+      213: 8623424750405762439
+    second: insectolarva_45
+  - first:
+      213: 567802155895343391
+    second: insectolarva_46
+  - first:
+      213: 3308252182419671209
+    second: insectolarva_47
+  - first:
+      213: -6390045976443553758
+    second: insectolarva_48
+  - first:
+      213: -4557379256573546336
+    second: insectolarva_49
+  - first:
+      213: 1862801248060686959
+    second: insectolarva_50
+  - first:
+      213: 152784024540996025
+    second: insectolarva_51
+  - first:
+      213: 7959355653609858474
+    second: insectolarva_52
+  - first:
+      213: 6196658252218847152
+    second: insectolarva_53
+  - first:
+      213: 2390746083163656984
+    second: insectolarva_54
+  - first:
+      213: 4993723464093275517
+    second: insectolarva_55
+  - first:
+      213: -8608735849128158229
+    second: insectolarva_56
+  - first:
+      213: 8941660917788111211
+    second: insectolarva_57
+  - first:
+      213: 7116448994701497901
+    second: insectolarva_58
+  - first:
+      213: 4315644808694493380
+    second: insectolarva_59
+  - first:
+      213: 7925045670510335839
+    second: insectolarva_60
+  - first:
+      213: 3302317820787611151
+    second: insectolarva_61
+  - first:
+      213: -4041991792889771874
+    second: insectolarva_62
+  - first:
+      213: 2571805147573814814
+    second: insectolarva_63
+  - first:
+      213: -9018285438962959575
+    second: insectolarva_64
+  - first:
+      213: -8748264637521193296
+    second: insectolarva_65
+  - first:
+      213: -3406570236823425539
+    second: insectolarva_66
+  - first:
+      213: 7318567239306951077
+    second: insectolarva_67
+  - first:
+      213: -965073848945009639
+    second: insectolarva_68
+  - first:
+      213: 6231018323230736914
+    second: insectolarva_69
+  - first:
+      213: -4072046006782972206
+    second: insectolarva_70
+  - first:
+      213: -4183186772526116317
+    second: insectolarva_71
+  - first:
+      213: 4688741085705822324
+    second: insectolarva_72
+  - first:
+      213: -7116797859864226303
+    second: insectolarva_73
+  - first:
+      213: -5277774299262445767
+    second: insectolarva_74
+  - first:
+      213: 8375151493698531946
+    second: insectolarva_75
+  - first:
+      213: 3788832779705921762
+    second: insectolarva_76
+  - first:
+      213: -6275406317938286954
+    second: insectolarva_77
+  - first:
+      213: -7563266309743858339
+    second: insectolarva_78
+  - first:
+      213: 5898503507027880313
+    second: insectolarva_79
+  - first:
+      213: 4373490927065207407
+    second: insectolarva_80
+  - first:
+      213: 6682915574680130090
+    second: insectolarva_81
+  - first:
+      213: 4058989746859870758
+    second: insectolarva_82
+  - first:
+      213: 8780279351891289350
+    second: insectolarva_83
+  - first:
+      213: -3674832709280748546
+    second: insectolarva_84
+  - first:
+      213: -2763722076033471738
+    second: insectolarva_85
+  - first:
+      213: -4394091278783744989
+    second: insectolarva_86
+  - first:
+      213: 1953340002699722519
+    second: insectolarva_87
+  - first:
+      213: 6543020799656536607
+    second: insectolarva_88
+  - first:
+      213: -6529030089836359397
+    second: insectolarva_89
+  - first:
+      213: -1345023556902752277
+    second: insectolarva_90
+  - first:
+      213: -872532694711977107
+    second: insectolarva_91
+  - first:
+      213: -1119645491259181725
+    second: insectolarva_92
+  - first:
+      213: 6749977176353534483
+    second: insectolarva_93
+  - first:
+      213: 136837001312453362
+    second: insectolarva_94
+  - first:
+      213: -1518516859712660889
+    second: insectolarva_95
+  - first:
+      213: 3113237523781698941
+    second: insectolarva_96
+  - first:
+      213: -6565481561427045371
+    second: insectolarva_97
+  - first:
+      213: 5949538975619372477
+    second: insectolarva_98
+  - first:
+      213: 6430707784271051540
+    second: insectolarva_99
+  - first:
+      213: -7710671332114758214
+    second: insectolarva_100
+  - first:
+      213: -1968372340129678527
+    second: insectolarva_101
+  - first:
+      213: -3590600456413392356
+    second: insectolarva_102
+  - first:
+      213: -2221883130141727178
+    second: insectolarva_103
+  - first:
+      213: -474833976695603681
+    second: insectolarva_104
+  - first:
+      213: -5108477413166396545
+    second: insectolarva_105
+  - first:
+      213: -5208660310460249121
+    second: insectolarva_106
+  - first:
+      213: -9139791733437173373
+    second: insectolarva_107
+  - first:
+      213: -2380193416882756016
+    second: insectolarva_108
+  - first:
+      213: -4567021014026963635
+    second: insectolarva_109
+  - first:
+      213: 5417309420141039427
+    second: insectolarva_110
+  - first:
+      213: -9188784460813709998
+    second: insectolarva_111
+  - first:
+      213: 5101283416527437384
+    second: insectolarva_112
+  - first:
+      213: 1441781058427711234
+    second: insectolarva_113
+  - first:
+      213: 9219733528738405993
+    second: insectolarva_114
+  - first:
+      213: -8240457125608827716
+    second: insectolarva_115
+  - first:
+      213: -5597208264913215192
+    second: insectolarva_116
+  - first:
+      213: -8770020033984003675
+    second: insectolarva_117
+  - first:
+      213: -8013103871437360294
+    second: insectolarva_118
+  - first:
+      213: -1038068745398568295
+    second: insectolarva_119
+  - first:
+      213: -6294016434578934442
+    second: insectolarva_120
+  - first:
+      213: -4733771982292424613
+    second: insectolarva_121
+  - first:
+      213: -6434751626602518496
+    second: insectolarva_122
+  - first:
+      213: 980541839201420494
+    second: insectolarva_123
+  - first:
+      213: -789088542872197469
+    second: insectolarva_124
+  - first:
+      213: 581301283287529210
+    second: insectolarva_125
+  - first:
+      213: -4946083884818813525
+    second: insectolarva_126
+  - first:
+      213: -1035597622434949538
+    second: insectolarva_127
+  - first:
+      213: -3488455061487550684
+    second: insectolarva_128
+  - first:
+      213: 2625667186423839293
+    second: insectolarva_129
+  - first:
+      213: -5694225065237954420
+    second: insectolarva_130
+  - first:
+      213: 1487459495438284753
+    second: insectolarva_131
+  - first:
+      213: -2842147516558829674
+    second: insectolarva_132
+  - first:
+      213: 3332359502154138484
+    second: insectolarva_133
+  - first:
+      213: -4734536668982974652
+    second: insectolarva_134
+  - first:
+      213: -7980165702364857572
+    second: insectolarva_135
+  - first:
+      213: 5704413888298322708
+    second: insectolarva_136
+  - first:
+      213: -1455948869433336808
+    second: insectolarva_137
+  - first:
+      213: 5651748667128513865
+    second: insectolarva_138
+  - first:
+      213: 2767906056377871958
+    second: insectolarva_139
+  - first:
+      213: 5389784151795198795
+    second: insectolarva_140
+  - first:
+      213: -7809301050000970622
+    second: insectolarva_141
+  - first:
+      213: -5048656314066826931
+    second: insectolarva_142
+  - first:
+      213: -4707786391961203289
+    second: insectolarva_143
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: insectolarva_0
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2130
+        width: 160
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125ea5aa7c720acc0800000000000000
+      internalID: -3701915155188488927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2161
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1497c233632824130800000000000000
+      internalID: 3549542625619769665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_2
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2115
+        width: 171
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adff806d148f3ca80800000000000000
+      internalID: -8447635514369441830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_3
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 2161
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd2fea7b5bd20e60800000000000000
+      internalID: 7927139480076496345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_4
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 2161
+        width: 146
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f05d6dc0a79c530800000000000000
+      internalID: 3875763149891505923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_5
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 2161
+        width: 149
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c225017574d8e50800000000000000
+      internalID: 6813180250542976061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_6
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 2137
+        width: 166
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bab700ca63754620800000000000000
+      internalID: 2757737249159756467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_7
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 2161
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c663406b3c1348e0800000000000000
+      internalID: -1710492392126978367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_8
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 2127
+        width: 207
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6cfaa71c54ee0d0800000000000000
+      internalID: -3391696772074060041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_9
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 2161
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c3248c4c27663c0800000000000000
+      internalID: -4366676599190176743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_10
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 2117
+        width: 191
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92e5820e562b4ca0800000000000000
+      internalID: -6031685090721537381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_11
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 2161
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ba8d73532001e60800000000000000
+      internalID: 7930841371392912128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_12
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 2136
+        width: 197
+        height: 205
+      alignment: 9
+      pivot: {x: 0.401765, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32f0e1c445eaa670800000000000000
+      internalID: 8550898925989589562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_13
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 2161
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58563bc6febd42e0800000000000000
+      internalID: -2139844280750548902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_14
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 2221
+        width: 146
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962b7c23476e02a40800000000000000
+      internalID: 5341522544803951209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_15
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 2161
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70afcaa64a0766010800000000000000
+      internalID: 1181755803698002439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_16
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 2221
+        width: 149
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be512530b9c833670800000000000000
+      internalID: 8517305917691270635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_17
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 2161
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51dfb4c4c4c23780800000000000000
+      internalID: -8704678780360208033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1843
+        width: 159
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82afe4217a1aca90800000000000000
+      internalID: -7292987573319785845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1850
+        width: 200
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2958664cc44d9ef20800000000000000
+      internalID: 3452524015533852050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_20
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1832
+        width: 207
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676b52215a1f283f0800000000000000
+      internalID: -899891284244318602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_21
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1848
+        width: 190
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81e2f1fa9b0dcbd0800000000000000
+      internalID: -2608415849065553522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_22
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1845
+        width: 199
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec7b18a81b414b20800000000000000
+      internalID: 3116854986388765931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_23
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 1830
+        width: 185
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0048f247b37aec2e0800000000000000
+      internalID: -2103560102141262848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_24
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 1823
+        width: 207
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805d2299eece260d0800000000000000
+      internalID: -3430919456587328248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_25
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 1833
+        width: 191
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3018f62c748b3a50800000000000000
+      internalID: 6501936155804045374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_26
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 1924
+        width: 146
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad944d1409de2f00800000000000000
+      internalID: 1094050371191741864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_27
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 1924
+        width: 149
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da2e8467aad6fb80800000000000000
+      internalID: -8361255245685314864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_28
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1861
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5e4d42832bf0f80800000000000000
+      internalID: -8138090047429351987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_29
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1861
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c860809ef5f68f0800000000000000
+      internalID: -545111575421875092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_30
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1861
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f820d2a16f856d00800000000000000
+      internalID: 965335344646990068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_31
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1861
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d837445af37b770800000000000000
+      internalID: 8626433590302051627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_32
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 1861
+        width: 119
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3eea45747f333250800000000000000
+      internalID: 5923147704338935358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_33
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 1861
+        width: 119
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1422d9bc40831cae0800000000000000
+      internalID: -1530880805082160575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_34
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 1861
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1d89532c00a26f0800000000000000
+      internalID: -708753157234568752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_35
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 1861
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26838389514f750b0800000000000000
+      internalID: -5739850826475095966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_36
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 1861
+        width: 131
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489ba886045d91e60800000000000000
+      internalID: 7933606691198384516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_37
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 1861
+        width: 131
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cfacb082aff8e20800000000000000
+      internalID: 3355175297317796880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_38
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1561
+        width: 146
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2d38e61a6ee9450800000000000000
+      internalID: 6097564526524486333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_39
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1561
+        width: 149
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e43611e6538a340800000000000000
+      internalID: 4875205343482957464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_40
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1550
+        width: 165
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0723b37d0e74fa210800000000000000
+      internalID: 1346373844616295024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_41
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1561
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc062dd9a2f26d90800000000000000
+      internalID: -7105850450663568165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_42
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1537
+        width: 183
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3782af3f15d6a1650800000000000000
+      internalID: 6204391635409315955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_43
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1561
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8273158e62736f4d0800000000000000
+      internalID: -3101230653152086232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_44
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1561
+        width: 146
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05224fa03154555c0800000000000000
+      internalID: -4227396727126875568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_45
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 1561
+        width: 149
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d3f332f1f8ca770800000000000000
+      internalID: 8623424750405762439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_46
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 1543
+        width: 233
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19c7dc6d0d31e700800000000000000
+      internalID: 567802155895343391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_47
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 1561
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8098005d549ed20800000000000000
+      internalID: 3308252182419671209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_48
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 1540
+        width: 207
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228faa35a0ff157a0800000000000000
+      internalID: -6390045976443553758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_49
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 1561
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0333156bfe0c0c0800000000000000
+      internalID: -4557379256573546336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_50
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 1532
+        width: 236
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62cfc59ddff9d910800000000000000
+      internalID: 1862801248060686959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_51
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 1561
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1ee16c24cce1200800000000000000
+      internalID: 152784024540996025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_52
+      rect:
+        serializedVersion: 2
+        x: 3701
+        y: 1511
+        width: 220
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5a966ebcf457e60800000000000000
+      internalID: 7959355653609858474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_53
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 1561
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf4ffd59d3fef550800000000000000
+      internalID: 6196658252218847152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_54
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1321
+        width: 146
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813502b55e2ad2120800000000000000
+      internalID: 2390746083163656984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_55
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1321
+        width: 149
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7510df58054d4540800000000000000
+      internalID: 4993723464093275517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_56
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1327
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb9b833b50a78880800000000000000
+      internalID: -8608735849128158229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_57
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1248
+        width: 232
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61f0c2da39271c70800000000000000
+      internalID: 8941660917788111211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_58
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1261
+        width: 237
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d265e57f7a4b2c260800000000000000
+      internalID: 7116448994701497901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_59
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 1235
+        width: 243
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c07ef6961044eb30800000000000000
+      internalID: 4315644808694493380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_60
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 1248
+        width: 267
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5714837c0b6bfd60800000000000000
+      internalID: 7925045670510335839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_61
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 1248
+        width: 235
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06dc73cf8034dd20800000000000000
+      internalID: 3302317820787611151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_62
+      rect:
+        serializedVersion: 2
+        x: 3284
+        y: 1257
+        width: 228
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98c2c731e5f7e7c0800000000000000
+      internalID: -4041991792889771874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_63
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 1214
+        width: 237
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1688acd723e0b320800000000000000
+      internalID: 2571805147573814814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_64
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1261
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bf8879c2d98d280800000000000000
+      internalID: -9018285438962959575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_65
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1261
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6107799abe79680800000000000000
+      internalID: -8748264637521193296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_66
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1261
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfda8bb1b6e69b0d0800000000000000
+      internalID: -3406570236823425539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_67
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1261
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9b3b3f026c09560800000000000000
+      internalID: 7318567239306951077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_68
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1261
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c1d93927e5b92f0800000000000000
+      internalID: -965073848945009639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_69
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 1261
+        width: 113
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2124e11d626097650800000000000000
+      internalID: 6231018323230736914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_70
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 1261
+        width: 119
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de27a04bbf2d77c0800000000000000
+      internalID: -4072046006782972206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_71
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 1261
+        width: 119
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322d77a3bc552f5c0800000000000000
+      internalID: -4183186772526116317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_72
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 1261
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4706649ec21c11140800000000000000
+      internalID: 4688741085705822324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_73
+      rect:
+        serializedVersion: 2
+        x: 3737
+        y: 1261
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10658888d0e0c3d90800000000000000
+      internalID: -7116797859864226303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_74
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1024
+        width: 146
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93796c7dc3491c6b0800000000000000
+      internalID: -5277774299262445767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_75
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1024
+        width: 149
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62bbf9f8e38a3470800000000000000
+      internalID: 8375151493698531946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_76
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 961
+        width: 146
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e03abbc653a49430800000000000000
+      internalID: 3788832779705921762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_77
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 961
+        width: 149
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69edb0ec33749e8a0800000000000000
+      internalID: -6275406317938286954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_78
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 943
+        width: 246
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5da90afc51e90790800000000000000
+      internalID: -7563266309743858339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_79
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 943
+        width: 238
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979eac220b1bbd150800000000000000
+      internalID: 5898503507027880313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_80
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 943
+        width: 288
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f629d1093d2c1bc30800000000000000
+      internalID: 4373490927065207407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_81
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 947
+        width: 260
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a221cbcbe4c7ebc50800000000000000
+      internalID: 6682915574680130090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_82
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 952
+        width: 297
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a09885bad645830800000000000000
+      internalID: 4058989746859870758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_83
+      rect:
+        serializedVersion: 2
+        x: 3716
+        y: 926
+        width: 232
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6056d26fc81d9d970800000000000000
+      internalID: 8780279351891289350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_84
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 961
+        width: 131
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efba55afe1f500dc0800000000000000
+      internalID: -3674832709280748546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_85
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 961
+        width: 131
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bae182a6945a9d0800000000000000
+      internalID: -2763722076033471738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_86
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 961
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324f379434d0503c0800000000000000
+      internalID: -4394091278783744989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_87
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 961
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f3a7a1268ab1b10800000000000000
+      internalID: 1953340002699722519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_88
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 961
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a258930ca7dca50800000000000000
+      internalID: 6543020799656536607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_89
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 961
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11977fb9b93465a0800000000000000
+      internalID: -6529030089836359397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_90
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 961
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef67448334855de0800000000000000
+      internalID: -1345023556902752277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_91
+      rect:
+        serializedVersion: 2
+        x: 3737
+        y: 961
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b37c4132424e3f0800000000000000
+      internalID: -872532694711977107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_92
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 730
+        width: 140
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365f02b9b583670f0800000000000000
+      internalID: -1119645491259181725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_93
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 730
+        width: 143
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312fb8e9a7cbcad50800000000000000
+      internalID: 6749977176353534483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_94
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 640
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2cb57178426e100800000000000000
+      internalID: 136837001312453362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_95
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 640
+        width: 224
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a926726f42deae0800000000000000
+      internalID: -1518516859712660889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_96
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 643
+        width: 185
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75cc628801743b20800000000000000
+      internalID: 3113237523781698941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_97
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 643
+        width: 194
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50493c72e49b2e4a0800000000000000
+      internalID: -6565481561427045371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_98
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 643
+        width: 212
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db552232d22019250800000000000000
+      internalID: 5949538975619372477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_99
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 643
+        width: 221
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bb0df88a67e3950800000000000000
+      internalID: 6430707784271051540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_100
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 646
+        width: 173
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5038db6413ef490800000000000000
+      internalID: -7710671332114758214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_101
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 646
+        width: 176
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bbdd819cfeea4e0800000000000000
+      internalID: -1968372340129678527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_102
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 661
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12df11a8ef9b2ec0800000000000000
+      internalID: -3590600456413392356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_103
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 661
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636287fa0194a21e0800000000000000
+      internalID: -2221883130141727178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_104
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 661
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1eb5c3930d0969f0800000000000000
+      internalID: -474833976695603681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_105
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 664
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b4c1dcbda0b19b0800000000000000
+      internalID: -5108477413166396545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_106
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 661
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb47575b0f17b7b0800000000000000
+      internalID: -5208660310460249121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_107
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 664
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381fc67d7dfe82180800000000000000
+      internalID: -9139791733437173373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_108
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 424
+        width: 149
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056eaf9b2bad7fed0800000000000000
+      internalID: -2380193416882756016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_109
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 424
+        width: 149
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45bd29b59eae90c0800000000000000
+      internalID: -4567021014026963635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_110
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 424
+        width: 146
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f42e927362e2b40800000000000000
+      internalID: 5417309420141039427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_111
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 424
+        width: 149
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dc1979731ea7080800000000000000
+      internalID: -9188784460813709998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_112
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 427
+        width: 143
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e75b45d366bc640800000000000000
+      internalID: 5101283416527437384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_113
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 427
+        width: 146
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f6877db3c320410800000000000000
+      internalID: 1441781058427711234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_114
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 430
+        width: 143
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e1630dbc213ff70800000000000000
+      internalID: 9219733528738405993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_115
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 430
+        width: 146
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4df3177e304ad80800000000000000
+      internalID: -8240457125608827716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_116
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 430
+        width: 140
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821a7f30db8b252b0800000000000000
+      internalID: -5597208264913215192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_117
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 430
+        width: 143
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a10351ae31aa4680800000000000000
+      internalID: -8770020033984003675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_118
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 361
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a533ba2fb7cbbc090800000000000000
+      internalID: -8013103871437360294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_119
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 361
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a351ad9f90891f0800000000000000
+      internalID: -1038068745398568295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_120
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 361
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655b37e566927a8a0800000000000000
+      internalID: -6294016434578934442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_121
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 361
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5863c376734e4eb0800000000000000
+      internalID: -4733771982292424613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_122
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 361
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0286d760d7b23b6a0800000000000000
+      internalID: -6434751626602518496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_123
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 361
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4420d8b959b9d00800000000000000
+      internalID: 980541839201420494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_124
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 361
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6a5c9a6289c05f0800000000000000
+      internalID: -789088542872197469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_125
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 361
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6f4d1ff62311800800000000000000
+      internalID: 581301283287529210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_126
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 361
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad271889eafb5bb0800000000000000
+      internalID: -4946083884818813525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_127
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 361
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5696800371d0a1f0800000000000000
+      internalID: -1035597622434949538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_128
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 40
+        width: 215
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ffe1daa94869fc0800000000000000
+      internalID: -3488455061487550684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_129
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 40
+        width: 224
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a3139056e307420800000000000000
+      internalID: 2625667186423839293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_130
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 43
+        width: 185
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80cd53f87c0af0b0800000000000000
+      internalID: -5694225065237954420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_131
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 43
+        width: 194
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7716bb78484a410800000000000000
+      internalID: 1487459495438284753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_132
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 43
+        width: 212
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697904c54e9ae88d0800000000000000
+      internalID: -2842147516558829674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_133
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 43
+        width: 221
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4738bc5cf4bee3e20800000000000000
+      internalID: 3332359502154138484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_134
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 46
+        width: 173
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4476535fbfb8b4eb0800000000000000
+      internalID: -4734536668982974652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_135
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 46
+        width: 176
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b79cd0391c04190800000000000000
+      internalID: -7980165702364857572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_136
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 124
+        width: 149
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b83d745362a2f40800000000000000
+      internalID: 5704413888298322708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_137
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 124
+        width: 149
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c5b4a973e6bcbe0800000000000000
+      internalID: -1455948869433336808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_138
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9458bffe77b0f6e40800000000000000
+      internalID: 5651748667128513865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_139
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 64
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e2e0ea4e3996620800000000000000
+      internalID: 2767906056377871958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_140
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b68c7312c5cca40800000000000000
+      internalID: 5389784151795198795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_141
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 64
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c6b9a021acf9390800000000000000
+      internalID: -7809301050000970622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_142
+      rect:
+        serializedVersion: 2
+        x: 3334
+        y: 61
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49830fc4d19fe9b0800000000000000
+      internalID: -5048656314066826931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: insectolarva_143
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 61
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad0cbc28359aaeb0800000000000000
+      internalID: -4707786391961203289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e79f5a8f35c8a3a0dbae8ceeb79b4d69
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      insectolarva_0: -3701915155188488927
+      insectolarva_1: 3549542625619769665
+      insectolarva_10: -6031685090721537381
+      insectolarva_100: -7710671332114758214
+      insectolarva_101: -1968372340129678527
+      insectolarva_102: -3590600456413392356
+      insectolarva_103: -2221883130141727178
+      insectolarva_104: -474833976695603681
+      insectolarva_105: -5108477413166396545
+      insectolarva_106: -5208660310460249121
+      insectolarva_107: -9139791733437173373
+      insectolarva_108: -2380193416882756016
+      insectolarva_109: -4567021014026963635
+      insectolarva_11: 7930841371392912128
+      insectolarva_110: 5417309420141039427
+      insectolarva_111: -9188784460813709998
+      insectolarva_112: 5101283416527437384
+      insectolarva_113: 1441781058427711234
+      insectolarva_114: 9219733528738405993
+      insectolarva_115: -8240457125608827716
+      insectolarva_116: -5597208264913215192
+      insectolarva_117: -8770020033984003675
+      insectolarva_118: -8013103871437360294
+      insectolarva_119: -1038068745398568295
+      insectolarva_12: 8550898925989589562
+      insectolarva_120: -6294016434578934442
+      insectolarva_121: -4733771982292424613
+      insectolarva_122: -6434751626602518496
+      insectolarva_123: 980541839201420494
+      insectolarva_124: -789088542872197469
+      insectolarva_125: 581301283287529210
+      insectolarva_126: -4946083884818813525
+      insectolarva_127: -1035597622434949538
+      insectolarva_128: -3488455061487550684
+      insectolarva_129: 2625667186423839293
+      insectolarva_13: -2139844280750548902
+      insectolarva_130: -5694225065237954420
+      insectolarva_131: 1487459495438284753
+      insectolarva_132: -2842147516558829674
+      insectolarva_133: 3332359502154138484
+      insectolarva_134: -4734536668982974652
+      insectolarva_135: -7980165702364857572
+      insectolarva_136: 5704413888298322708
+      insectolarva_137: -1455948869433336808
+      insectolarva_138: 5651748667128513865
+      insectolarva_139: 2767906056377871958
+      insectolarva_14: 5341522544803951209
+      insectolarva_140: 5389784151795198795
+      insectolarva_141: -7809301050000970622
+      insectolarva_142: -5048656314066826931
+      insectolarva_143: -4707786391961203289
+      insectolarva_15: 1181755803698002439
+      insectolarva_16: 8517305917691270635
+      insectolarva_17: -8704678780360208033
+      insectolarva_18: -7292987573319785845
+      insectolarva_19: 3452524015533852050
+      insectolarva_2: -8447635514369441830
+      insectolarva_20: -899891284244318602
+      insectolarva_21: -2608415849065553522
+      insectolarva_22: 3116854986388765931
+      insectolarva_23: -2103560102141262848
+      insectolarva_24: -3430919456587328248
+      insectolarva_25: 6501936155804045374
+      insectolarva_26: 1094050371191741864
+      insectolarva_27: -8361255245685314864
+      insectolarva_28: -8138090047429351987
+      insectolarva_29: -545111575421875092
+      insectolarva_3: 7927139480076496345
+      insectolarva_30: 965335344646990068
+      insectolarva_31: 8626433590302051627
+      insectolarva_32: 5923147704338935358
+      insectolarva_33: -1530880805082160575
+      insectolarva_34: -708753157234568752
+      insectolarva_35: -5739850826475095966
+      insectolarva_36: 7933606691198384516
+      insectolarva_37: 3355175297317796880
+      insectolarva_38: 6097564526524486333
+      insectolarva_39: 4875205343482957464
+      insectolarva_4: 3875763149891505923
+      insectolarva_40: 1346373844616295024
+      insectolarva_41: -7105850450663568165
+      insectolarva_42: 6204391635409315955
+      insectolarva_43: -3101230653152086232
+      insectolarva_44: -4227396727126875568
+      insectolarva_45: 8623424750405762439
+      insectolarva_46: 567802155895343391
+      insectolarva_47: 3308252182419671209
+      insectolarva_48: -6390045976443553758
+      insectolarva_49: -4557379256573546336
+      insectolarva_5: 6813180250542976061
+      insectolarva_50: 1862801248060686959
+      insectolarva_51: 152784024540996025
+      insectolarva_52: 7959355653609858474
+      insectolarva_53: 6196658252218847152
+      insectolarva_54: 2390746083163656984
+      insectolarva_55: 4993723464093275517
+      insectolarva_56: -8608735849128158229
+      insectolarva_57: 8941660917788111211
+      insectolarva_58: 7116448994701497901
+      insectolarva_59: 4315644808694493380
+      insectolarva_6: 2757737249159756467
+      insectolarva_60: 7925045670510335839
+      insectolarva_61: 3302317820787611151
+      insectolarva_62: -4041991792889771874
+      insectolarva_63: 2571805147573814814
+      insectolarva_64: -9018285438962959575
+      insectolarva_65: -8748264637521193296
+      insectolarva_66: -3406570236823425539
+      insectolarva_67: 7318567239306951077
+      insectolarva_68: -965073848945009639
+      insectolarva_69: 6231018323230736914
+      insectolarva_7: -1710492392126978367
+      insectolarva_70: -4072046006782972206
+      insectolarva_71: -4183186772526116317
+      insectolarva_72: 4688741085705822324
+      insectolarva_73: -7116797859864226303
+      insectolarva_74: -5277774299262445767
+      insectolarva_75: 8375151493698531946
+      insectolarva_76: 3788832779705921762
+      insectolarva_77: -6275406317938286954
+      insectolarva_78: -7563266309743858339
+      insectolarva_79: 5898503507027880313
+      insectolarva_8: -3391696772074060041
+      insectolarva_80: 4373490927065207407
+      insectolarva_81: 6682915574680130090
+      insectolarva_82: 4058989746859870758
+      insectolarva_83: 8780279351891289350
+      insectolarva_84: -3674832709280748546
+      insectolarva_85: -2763722076033471738
+      insectolarva_86: -4394091278783744989
+      insectolarva_87: 1953340002699722519
+      insectolarva_88: 6543020799656536607
+      insectolarva_89: -6529030089836359397
+      insectolarva_9: -4366676599190176743
+      insectolarva_90: -1345023556902752277
+      insectolarva_91: -872532694711977107
+      insectolarva_92: -1119645491259181725
+      insectolarva_93: 6749977176353534483
+      insectolarva_94: 136837001312453362
+      insectolarva_95: -1518516859712660889
+      insectolarva_96: 3113237523781698941
+      insectolarva_97: -6565481561427045371
+      insectolarva_98: 5949538975619372477
+      insectolarva_99: 6430707784271051540
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

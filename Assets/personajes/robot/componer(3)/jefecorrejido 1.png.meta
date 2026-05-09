@@ -1,0 +1,5629 @@
+fileFormatVersion: 2
+guid: dd320835c59bbabc9b74dcb20b49e616
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6578683849156547510
+    second: jefecorrejido_0
+  - first:
+      213: 8686774438722856311
+    second: jefecorrejido_1
+  - first:
+      213: 2119136844184046698
+    second: jefecorrejido_2
+  - first:
+      213: 1878600154551322536
+    second: jefecorrejido_3
+  - first:
+      213: 1420761913814666221
+    second: jefecorrejido_4
+  - first:
+      213: -8962016256252863
+    second: jefecorrejido_5
+  - first:
+      213: 7848366401854573304
+    second: jefecorrejido_6
+  - first:
+      213: -8343021073431627057
+    second: jefecorrejido_7
+  - first:
+      213: -7483978622681802933
+    second: jefecorrejido_8
+  - first:
+      213: -8473621828248424590
+    second: jefecorrejido_9
+  - first:
+      213: -4901187385569315761
+    second: jefecorrejido_10
+  - first:
+      213: 7155270625935800293
+    second: jefecorrejido_11
+  - first:
+      213: 5300139739610591119
+    second: jefecorrejido_12
+  - first:
+      213: -6504349918031964256
+    second: jefecorrejido_13
+  - first:
+      213: 5768194106217250136
+    second: jefecorrejido_14
+  - first:
+      213: -7231901840049244898
+    second: jefecorrejido_15
+  - first:
+      213: 7510397026820728161
+    second: jefecorrejido_16
+  - first:
+      213: 1214954285660523709
+    second: jefecorrejido_17
+  - first:
+      213: 6825235155689070497
+    second: jefecorrejido_18
+  - first:
+      213: 7086034498912712704
+    second: jefecorrejido_19
+  - first:
+      213: 7380540205756648136
+    second: jefecorrejido_20
+  - first:
+      213: 2217180495890658523
+    second: jefecorrejido_21
+  - first:
+      213: 8647043920856345279
+    second: jefecorrejido_22
+  - first:
+      213: -2833524829637394013
+    second: jefecorrejido_23
+  - first:
+      213: -2889849683980943315
+    second: jefecorrejido_24
+  - first:
+      213: 1732621514383024551
+    second: jefecorrejido_25
+  - first:
+      213: 7735572777229470452
+    second: jefecorrejido_26
+  - first:
+      213: -5809988736518293806
+    second: jefecorrejido_27
+  - first:
+      213: 6778012605546061936
+    second: jefecorrejido_28
+  - first:
+      213: -8988686032990732321
+    second: jefecorrejido_29
+  - first:
+      213: 7675935528781430439
+    second: jefecorrejido_30
+  - first:
+      213: 5560631850050041180
+    second: jefecorrejido_31
+  - first:
+      213: 8888048573452392559
+    second: jefecorrejido_32
+  - first:
+      213: -7261832417244586453
+    second: jefecorrejido_33
+  - first:
+      213: -4706354575882674713
+    second: jefecorrejido_34
+  - first:
+      213: 8992541437321062271
+    second: jefecorrejido_35
+  - first:
+      213: -3460324614652812533
+    second: jefecorrejido_36
+  - first:
+      213: -3237319602885044030
+    second: jefecorrejido_37
+  - first:
+      213: -5244167146097343977
+    second: jefecorrejido_38
+  - first:
+      213: 6480769803326243296
+    second: jefecorrejido_39
+  - first:
+      213: -5513682591923707607
+    second: jefecorrejido_40
+  - first:
+      213: 4678136250681628708
+    second: jefecorrejido_41
+  - first:
+      213: -228428665811084296
+    second: jefecorrejido_42
+  - first:
+      213: -6988914676652831038
+    second: jefecorrejido_43
+  - first:
+      213: 5913663571318762853
+    second: jefecorrejido_44
+  - first:
+      213: -5429409870941706390
+    second: jefecorrejido_45
+  - first:
+      213: 96289543112834114
+    second: jefecorrejido_46
+  - first:
+      213: -6363588265982579501
+    second: jefecorrejido_47
+  - first:
+      213: -4957020503092724964
+    second: jefecorrejido_48
+  - first:
+      213: -433757679083289138
+    second: jefecorrejido_49
+  - first:
+      213: 6552489777299007629
+    second: jefecorrejido_50
+  - first:
+      213: 8213877009125763030
+    second: jefecorrejido_51
+  - first:
+      213: -7388149357193415026
+    second: jefecorrejido_52
+  - first:
+      213: -8439042865102376981
+    second: jefecorrejido_53
+  - first:
+      213: 7257028341774505439
+    second: jefecorrejido_54
+  - first:
+      213: 1664346243362900072
+    second: jefecorrejido_55
+  - first:
+      213: 1636158285604041730
+    second: jefecorrejido_56
+  - first:
+      213: 7932390673288036706
+    second: jefecorrejido_57
+  - first:
+      213: 7642780649308576036
+    second: jefecorrejido_58
+  - first:
+      213: -1818807063395634189
+    second: jefecorrejido_59
+  - first:
+      213: -173389421998093684
+    second: jefecorrejido_60
+  - first:
+      213: 53077607635927703
+    second: jefecorrejido_61
+  - first:
+      213: -6980811144741301521
+    second: jefecorrejido_62
+  - first:
+      213: -7607385100004111606
+    second: jefecorrejido_63
+  - first:
+      213: 768600539022165191
+    second: jefecorrejido_64
+  - first:
+      213: 4668526592201014896
+    second: jefecorrejido_65
+  - first:
+      213: 5848918186877257315
+    second: jefecorrejido_66
+  - first:
+      213: 9213891060217562528
+    second: jefecorrejido_67
+  - first:
+      213: 4773905329684516175
+    second: jefecorrejido_68
+  - first:
+      213: -7592381639528494551
+    second: jefecorrejido_69
+  - first:
+      213: 1114350734435742259
+    second: jefecorrejido_70
+  - first:
+      213: 3288965072659254292
+    second: jefecorrejido_71
+  - first:
+      213: -5126534167514038124
+    second: jefecorrejido_72
+  - first:
+      213: -5199637602698516270
+    second: jefecorrejido_73
+  - first:
+      213: 3376186366564879275
+    second: jefecorrejido_74
+  - first:
+      213: 4387998817199764980
+    second: jefecorrejido_75
+  - first:
+      213: 2859576666313942733
+    second: jefecorrejido_76
+  - first:
+      213: 1468420704753596854
+    second: jefecorrejido_77
+  - first:
+      213: 692713446869848406
+    second: jefecorrejido_78
+  - first:
+      213: 3017831652930254101
+    second: jefecorrejido_79
+  - first:
+      213: -4799717218076544806
+    second: jefecorrejido_80
+  - first:
+      213: 6972358690039115658
+    second: jefecorrejido_81
+  - first:
+      213: 4859358799299005906
+    second: jefecorrejido_82
+  - first:
+      213: -6439488079763944219
+    second: jefecorrejido_83
+  - first:
+      213: -1961563072761789599
+    second: jefecorrejido_84
+  - first:
+      213: -1356049578437164076
+    second: jefecorrejido_85
+  - first:
+      213: -6535161981346119040
+    second: jefecorrejido_86
+  - first:
+      213: -6312957149899376994
+    second: jefecorrejido_87
+  - first:
+      213: 1466439309799910503
+    second: jefecorrejido_88
+  - first:
+      213: 1512254738994364076
+    second: jefecorrejido_89
+  - first:
+      213: 1368154397947411085
+    second: jefecorrejido_90
+  - first:
+      213: 8235704467487567390
+    second: jefecorrejido_91
+  - first:
+      213: -5279876774802475504
+    second: jefecorrejido_92
+  - first:
+      213: 2767293056087821450
+    second: jefecorrejido_93
+  - first:
+      213: 4485481243115558652
+    second: jefecorrejido_94
+  - first:
+      213: 1902361555060971987
+    second: jefecorrejido_95
+  - first:
+      213: 7971256938781164797
+    second: jefecorrejido_96
+  - first:
+      213: -822513918730405439
+    second: jefecorrejido_97
+  - first:
+      213: -9156028179205793446
+    second: jefecorrejido_98
+  - first:
+      213: 530915226075697334
+    second: jefecorrejido_99
+  - first:
+      213: 6285781710224731246
+    second: jefecorrejido_100
+  - first:
+      213: -3131827587031979877
+    second: jefecorrejido_101
+  - first:
+      213: -1582570753232240451
+    second: jefecorrejido_102
+  - first:
+      213: -6421797493290612213
+    second: jefecorrejido_103
+  - first:
+      213: 8615314266431468386
+    second: jefecorrejido_104
+  - first:
+      213: 109336317978461128
+    second: jefecorrejido_105
+  - first:
+      213: 3208083069704929089
+    second: jefecorrejido_106
+  - first:
+      213: 4547760519076130875
+    second: jefecorrejido_107
+  - first:
+      213: 677217103459327647
+    second: jefecorrejido_108
+  - first:
+      213: 1813103173670625179
+    second: jefecorrejido_109
+  - first:
+      213: -3774829523914352981
+    second: jefecorrejido_110
+  - first:
+      213: -2740925000527646206
+    second: jefecorrejido_111
+  - first:
+      213: 6759181096063880580
+    second: jefecorrejido_112
+  - first:
+      213: -9057440868898087131
+    second: jefecorrejido_113
+  - first:
+      213: 5653699107704296501
+    second: jefecorrejido_114
+  - first:
+      213: 5870777012161356204
+    second: jefecorrejido_115
+  - first:
+      213: 4841779282929833739
+    second: jefecorrejido_116
+  - first:
+      213: -530534071648099358
+    second: jefecorrejido_117
+  - first:
+      213: -1552939870556934464
+    second: jefecorrejido_118
+  - first:
+      213: 1215370818842314466
+    second: jefecorrejido_119
+  - first:
+      213: -2176688065121349039
+    second: jefecorrejido_120
+  - first:
+      213: 3399567382537658720
+    second: jefecorrejido_121
+  - first:
+      213: -1133494620306846850
+    second: jefecorrejido_122
+  - first:
+      213: -7144040941804404929
+    second: jefecorrejido_123
+  - first:
+      213: -9033891436234118306
+    second: jefecorrejido_124
+  - first:
+      213: 274727388620119679
+    second: jefecorrejido_125
+  - first:
+      213: 8694927544681992203
+    second: jefecorrejido_126
+  - first:
+      213: -2045086123512029235
+    second: jefecorrejido_127
+  - first:
+      213: 4397935007963398062
+    second: jefecorrejido_128
+  - first:
+      213: 3597108489927158104
+    second: jefecorrejido_129
+  - first:
+      213: -4495699045096509625
+    second: jefecorrejido_130
+  - first:
+      213: -4154375436675725364
+    second: jefecorrejido_131
+  - first:
+      213: 8258270035577661473
+    second: jefecorrejido_132
+  - first:
+      213: 9032329592454924749
+    second: jefecorrejido_133
+  - first:
+      213: -2202233526272755155
+    second: jefecorrejido_134
+  - first:
+      213: 8483217028207107422
+    second: jefecorrejido_135
+  - first:
+      213: -2060185000641850616
+    second: jefecorrejido_136
+  - first:
+      213: 7992055039851808275
+    second: jefecorrejido_137
+  - first:
+      213: -334472252412686198
+    second: jefecorrejido_138
+  - first:
+      213: -3344852241149303621
+    second: jefecorrejido_139
+  - first:
+      213: 4082638036858431007
+    second: jefecorrejido_140
+  - first:
+      213: 3695014891548448737
+    second: jefecorrejido_141
+  - first:
+      213: -4535324272140131297
+    second: jefecorrejido_142
+  - first:
+      213: 1686710312405581376
+    second: jefecorrejido_143
+  - first:
+      213: 1159765841220453624
+    second: jefecorrejido_144
+  - first:
+      213: 6133204159248363926
+    second: jefecorrejido_145
+  - first:
+      213: 6221471922664873295
+    second: jefecorrejido_146
+  - first:
+      213: -4203857736148801828
+    second: jefecorrejido_147
+  - first:
+      213: -5847231968434827740
+    second: jefecorrejido_148
+  - first:
+      213: -75544775291833838
+    second: jefecorrejido_149
+  - first:
+      213: -701573487907306342
+    second: jefecorrejido_150
+  - first:
+      213: -7901513451789490193
+    second: jefecorrejido_151
+  - first:
+      213: -3033440918581426790
+    second: jefecorrejido_152
+  - first:
+      213: 6921598461070471615
+    second: jefecorrejido_153
+  - first:
+      213: -1478140013011682745
+    second: jefecorrejido_154
+  - first:
+      213: 2349269454734934813
+    second: jefecorrejido_155
+  - first:
+      213: 5856489166518201629
+    second: jefecorrejido_156
+  - first:
+      213: 7144555908657330680
+    second: jefecorrejido_157
+  - first:
+      213: -2949214062317463324
+    second: jefecorrejido_158
+  - first:
+      213: 7185754195791323081
+    second: jefecorrejido_159
+  - first:
+      213: 2502431312363320149
+    second: jefecorrejido_160
+  - first:
+      213: 4249286668675056239
+    second: jefecorrejido_161
+  - first:
+      213: 448071071032428958
+    second: jefecorrejido_162
+  - first:
+      213: -4038818379343708631
+    second: jefecorrejido_163
+  - first:
+      213: 69399778341267293
+    second: jefecorrejido_164
+  - first:
+      213: 6885473520968760047
+    second: jefecorrejido_165
+  - first:
+      213: 8943346234536045296
+    second: jefecorrejido_166
+  - first:
+      213: -4829947143790370919
+    second: jefecorrejido_167
+  - first:
+      213: -3775467595836038069
+    second: jefecorrejido_168
+  - first:
+      213: -924628830324060197
+    second: jefecorrejido_169
+  - first:
+      213: 3570470090930671747
+    second: jefecorrejido_170
+  - first:
+      213: 7856396586954937047
+    second: jefecorrejido_171
+  - first:
+      213: 155185905498621158
+    second: jefecorrejido_172
+  - first:
+      213: -6844821305807950092
+    second: jefecorrejido_173
+  - first:
+      213: -8277367225277393301
+    second: jefecorrejido_174
+  - first:
+      213: 6756438283118860056
+    second: jefecorrejido_175
+  - first:
+      213: -1796645393608758718
+    second: jefecorrejido_176
+  - first:
+      213: -5330027486303202858
+    second: jefecorrejido_177
+  - first:
+      213: -7372777457039119387
+    second: jefecorrejido_178
+  - first:
+      213: 2394089356976287969
+    second: jefecorrejido_179
+  - first:
+      213: -5773841361850234433
+    second: jefecorrejido_180
+  - first:
+      213: -747841571905101673
+    second: jefecorrejido_181
+  - first:
+      213: -6687076400915525946
+    second: jefecorrejido_182
+  - first:
+      213: 2046876355407719439
+    second: jefecorrejido_183
+  - first:
+      213: 3434074636948500453
+    second: jefecorrejido_184
+  - first:
+      213: -8389768401392880489
+    second: jefecorrejido_185
+  - first:
+      213: 3429132737490911922
+    second: jefecorrejido_186
+  - first:
+      213: 8960079107243418631
+    second: jefecorrejido_187
+  - first:
+      213: -46107261079586091
+    second: jefecorrejido_188
+  - first:
+      213: -371803285496722260
+    second: jefecorrejido_189
+  - first:
+      213: 3446787979079353634
+    second: jefecorrejido_190
+  - first:
+      213: 1971981830372099409
+    second: jefecorrejido_191
+  - first:
+      213: -122383243905250446
+    second: jefecorrejido_192
+  - first:
+      213: -4814611934211142095
+    second: jefecorrejido_193
+  - first:
+      213: 7762434615965385522
+    second: jefecorrejido_194
+  - first:
+      213: -2399860929187417476
+    second: jefecorrejido_195
+  - first:
+      213: -8533619236786173866
+    second: jefecorrejido_196
+  - first:
+      213: -6744191191343231788
+    second: jefecorrejido_197
+  - first:
+      213: 6007986433259391773
+    second: jefecorrejido_198
+  - first:
+      213: -3951731505915473104
+    second: jefecorrejido_199
+  - first:
+      213: -5805399044696777588
+    second: jefecorrejido_200
+  - first:
+      213: -4124257367320952986
+    second: jefecorrejido_201
+  - first:
+      213: 2846577165086023556
+    second: jefecorrejido_202
+  - first:
+      213: 4571950014256978627
+    second: jefecorrejido_203
+  - first:
+      213: 4462277004638772466
+    second: jefecorrejido_204
+  - first:
+      213: -4163771442757350577
+    second: jefecorrejido_205
+  - first:
+      213: -658553684847770809
+    second: jefecorrejido_206
+  - first:
+      213: 1777077313649523707
+    second: jefecorrejido_207
+  - first:
+      213: -5191496960853653070
+    second: jefecorrejido_208
+  - first:
+      213: -4995951133479291968
+    second: jefecorrejido_209
+  - first:
+      213: 7508102652566833209
+    second: jefecorrejido_210
+  - first:
+      213: -2661169360895426474
+    second: jefecorrejido_211
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jefecorrejido_0
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 14103
+        width: 234
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3539efa1e2c4b50800000000000000
+      internalID: 6578683849156547510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_1
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 14103
+        width: 238
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775e408d35f9d8870800000000000000
+      internalID: 8686774438722856311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_2
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 14103
+        width: 242
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c480c6bbfa86d10800000000000000
+      internalID: 2119136844184046698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_3
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 14103
+        width: 242
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7860723e0221a10800000000000000
+      internalID: 1878600154551322536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 13583
+        width: 254
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debc35fde6f87b310800000000000000
+      internalID: 1420761913814666221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_5
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 13583
+        width: 262
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144239cf71920eff0800000000000000
+      internalID: -8962016256252863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_6
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 13583
+        width: 234
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa07a9f8affaec60800000000000000
+      internalID: 7848366401854573304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_7
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 13583
+        width: 238
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca72847982a73c80800000000000000
+      internalID: -8343021073431627057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 13063
+        width: 238
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b471f603811932890800000000000000
+      internalID: -7483978622681802933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_9
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 13063
+        width: 238
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fa146a7d5a76a80800000000000000
+      internalID: -8473621828248424590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_10
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 13063
+        width: 238
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44f3895a0c7bfbb0800000000000000
+      internalID: -4901187385569315761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_11
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 13063
+        width: 238
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7b0ba59b0ac4360800000000000000
+      internalID: 7155270625935800293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 12543
+        width: 238
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fab670301ed8940800000000000000
+      internalID: 5300139739610591119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_13
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 12543
+        width: 238
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a71dd80638ebb5a0800000000000000
+      internalID: -6504349918031964256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_14
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 12543
+        width: 238
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85db4987afdbc0050800000000000000
+      internalID: 5768194106217250136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_15
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 12543
+        width: 238
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15fe5db79f13ab90800000000000000
+      internalID: -7231901840049244898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 12023
+        width: 234
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165acc9dd4a4a3860800000000000000
+      internalID: 7510397026820728161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_17
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 12023
+        width: 238
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc42275c726cd010800000000000000
+      internalID: 1214954285660523709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_18
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 12023
+        width: 242
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afda53663b18be50800000000000000
+      internalID: 6825235155689070497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_19
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 12023
+        width: 242
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008fad555d6a65260800000000000000
+      internalID: 7086034498912712704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_20
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 11503
+        width: 254
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca0d9e9632fc6660800000000000000
+      internalID: 7380540205756648136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_21
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 11503
+        width: 262
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4bc74f9e105ce10800000000000000
+      internalID: 2217180495890658523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_22
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 11503
+        width: 234
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbae7dbc1a8700870800000000000000
+      internalID: 8647043920856345279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_23
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 11503
+        width: 238
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1c63b1e2c4da8d0800000000000000
+      internalID: -2833524829637394013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 10983
+        width: 238
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d208a04060135e7d0800000000000000
+      internalID: -2889849683980943315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_25
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 10983
+        width: 238
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1eff666128b0810800000000000000
+      internalID: 1732621514383024551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_26
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 10983
+        width: 238
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fac1f0c4764a5b60800000000000000
+      internalID: 7735572777229470452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_27
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 10983
+        width: 238
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d67ecad606ce5fa0800000000000000
+      internalID: -5809988736518293806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_28
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 10463
+        width: 238
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07061b4ad86501e50800000000000000
+      internalID: 6778012605546061936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_29
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 10463
+        width: 238
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf72165da5c14380800000000000000
+      internalID: -8988686032990732321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_30
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 10463
+        width: 238
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae31dfc1b6668a60800000000000000
+      internalID: 7675935528781430439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_31
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 10463
+        width: 238
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55b4f4c4355b2d40800000000000000
+      internalID: 5560631850050041180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_32
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 9943
+        width: 250
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f681c0f2611b85b70800000000000000
+      internalID: 8888048573452392559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_33
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 9943
+        width: 242
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e58bf24e9c83b90800000000000000
+      internalID: -7261832417244586453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_34
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 9943
+        width: 226
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed9a75d27bafaeb0800000000000000
+      internalID: -4706354575882674713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_35
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 9943
+        width: 214
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77a08feaccebcc70800000000000000
+      internalID: 8992541437321062271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_36
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 9423
+        width: 206
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b032418b8157affc0800000000000000
+      internalID: -3460324614652812533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_37
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 9427
+        width: 214
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8d0a529fab213d0800000000000000
+      internalID: -3237319602885044030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_38
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 9427
+        width: 226
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7120812f3c9f837b0800000000000000
+      internalID: -5244167146097343977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_39
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 9427
+        width: 234
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1c65eacc150f950800000000000000
+      internalID: 6480769803326243296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_40
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 8907
+        width: 242
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921e12835e67b73b0800000000000000
+      internalID: -5513682591923707607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_41
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 8903
+        width: 254
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42891c852241ce040800000000000000
+      internalID: 4678136250681628708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_42
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 8903
+        width: 250
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb50d5b65574dcf0800000000000000
+      internalID: -228428665811084296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_43
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 8903
+        width: 242
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce08946123620f90800000000000000
+      internalID: -6988914676652831038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_44
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 8383
+        width: 226
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d6f99afad811250800000000000000
+      internalID: 5913663571318762853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_45
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 8383
+        width: 214
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6725861d7cd6a4b0800000000000000
+      internalID: -5429409870941706390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_46
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 8383
+        width: 206
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c33dc44d6165100800000000000000
+      internalID: 96289543112834114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_47
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 8387
+        width: 214
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dca345103effa7a0800000000000000
+      internalID: -6363588265982579501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_48
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 7867
+        width: 226
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b74d8ad10253bb0800000000000000
+      internalID: -4957020503092724964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_49
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 7867
+        width: 234
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec584a360bbfaf9f0800000000000000
+      internalID: -433757679083289138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_50
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 7867
+        width: 242
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8829426cbe1fea50800000000000000
+      internalID: 6552489777299007629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_51
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 7863
+        width: 254
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d760bdee9d8df170800000000000000
+      internalID: 8213877009125763030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_52
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 7343
+        width: 234
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86b4f0cd45087990800000000000000
+      internalID: -7388149357193415026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_53
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 7343
+        width: 238
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef2745e93f72ea80800000000000000
+      internalID: -8439042865102376981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_54
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 7343
+        width: 238
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd55964d3d426b460800000000000000
+      internalID: 7257028341774505439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_55
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 7343
+        width: 238
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868c6ea1712f81710800000000000000
+      internalID: 1664346243362900072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_56
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 6831
+        width: 222
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204bdb1ca4dc4b610800000000000000
+      internalID: 1636158285604041730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_57
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 6789
+        width: 366
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26184fc2a43851e60800000000000000
+      internalID: 7932390673288036706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_58
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 6777
+        width: 330
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4295442e18c901a60800000000000000
+      internalID: 7642780649308576036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_59
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 6789
+        width: 358
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3f45fbc9c42c6e0800000000000000
+      internalID: -1818807063395634189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_60
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 6819
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a4ef54d3ff79df0800000000000000
+      internalID: -173389421998093684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_61
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 6835
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792caac8dc19cb000800000000000000
+      internalID: 53077607635927703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_62
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 6819
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe25b91ff3d2f1f90800000000000000
+      internalID: -6980811144741301521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_63
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 6815
+        width: 74
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bc7a4ae832d6690800000000000000
+      internalID: -7607385100004111606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_64
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 6831
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c407963e1e9aaa00800000000000000
+      internalID: 768600539022165191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_65
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 6815
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e3b906330f9c040800000000000000
+      internalID: 4668526592201014896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_66
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 6831
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36604212a188b2150800000000000000
+      internalID: 5848918186877257315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_67
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 6823
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a54a6b1a115edf70800000000000000
+      internalID: 9213891060217562528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_68
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 6815
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d8037aa91504240800000000000000
+      internalID: 4773905329684516175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_69
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 6815
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ac4b0002172a690800000000000000
+      internalID: -7592381639528494551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_70
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 6815
+        width: 62
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332fc31c618f67f00800000000000000
+      internalID: 1114350734435742259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_71
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 6815
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c8582de40c4ad20800000000000000
+      internalID: 3288965072659254292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_72
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 6249
+        width: 390
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4904c601654ead8b0800000000000000
+      internalID: -5126534167514038124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_73
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 6233
+        width: 358
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d82462362d27d7b0800000000000000
+      internalID: -5199637602698516270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_74
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 6252
+        width: 409
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babcd92dc9f9ade20800000000000000
+      internalID: 3376186366564879275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_75
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 6527
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5b606fcad45ec30800000000000000
+      internalID: 4387998817199764980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_76
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 6249
+        width: 342
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc663abc3d14fa720800000000000000
+      internalID: 2859576666313942733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_77
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 6495
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9baa7d9d0e06410800000000000000
+      internalID: 1468420704753596854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_78
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 6311
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65150d3b5330d9900800000000000000
+      internalID: 692713446869848406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_79
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 6303
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51576d036ed71e920800000000000000
+      internalID: 3017831652930254101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_80
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 6315
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0b832ce9af36db0800000000000000
+      internalID: -4799717218076544806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_81
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 6303
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fa366994bc2c060800000000000000
+      internalID: 6972358690039115658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_82
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 6295
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddc26cf419ef6340800000000000000
+      internalID: 4859358799299005906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_83
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 6315
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecce4695b752a6a0800000000000000
+      internalID: -6439488079763944219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_84
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 6319
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163828337c027c4e0800000000000000
+      internalID: -1961563072761789599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_85
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 6315
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d34f63d7185e2de0800000000000000
+      internalID: -1356049578437164076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_86
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 6311
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0820a308dc07e45a0800000000000000
+      internalID: -6535161981346119040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_87
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 6295
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e963cfd6beed368a0800000000000000
+      internalID: -6312957149899376994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_88
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 6311
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cea4168c6d95410800000000000000
+      internalID: 1466439309799910503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_89
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 6303
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caef8af3cab9cf410800000000000000
+      internalID: 1512254738994364076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_90
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 6295
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a3b871d29acf210800000000000000
+      internalID: 1368154397947411085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_91
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 6291
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ea1bb14991b4270800000000000000
+      internalID: 8235704467487567390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_92
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 6295
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016301c1c0c1ab6b0800000000000000
+      internalID: -5279876774802475504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_93
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 6299
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c058d6f56676620800000000000000
+      internalID: 2767293056087821450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_94
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 6295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6949eec61af3e30800000000000000
+      internalID: 4485481243115558652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_95
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 6299
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9d4c351cb866a10800000000000000
+      internalID: 1902361555060971987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_96
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 6295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df44b69c3f79f9e60800000000000000
+      internalID: 7971256938781164797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_97
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 6299
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c97243e2f7d594f0800000000000000
+      internalID: -822513918730405439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_98
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 6295
+        width: 74
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59d8f8b1e04fe080800000000000000
+      internalID: -9156028179205793446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_99
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 6295
+        width: 62
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b09610d5903e5700800000000000000
+      internalID: 530915226075697334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_100
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 6295
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ca79579259b3750800000000000000
+      internalID: 6285781710224731246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_101
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 6291
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98a03917638984d0800000000000000
+      internalID: -3131827587031979877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_102
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 5749
+        width: 302
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db08ba5e844990ae0800000000000000
+      internalID: -1582570753232240451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_103
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 5752
+        width: 333
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a4be8343131e6a0800000000000000
+      internalID: -6421797493290612213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_104
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 5745
+        width: 343
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263b00fedaebf8770800000000000000
+      internalID: 8615314266431468386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_105
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 5827
+        width: 274
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3c72a4dc0748100800000000000000
+      internalID: 109336317978461128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_106
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 5791
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ff4b30e86658c20800000000000000
+      internalID: 3208083069704929089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_107
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 5783
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b303417d814ec1f30800000000000000
+      internalID: 4547760519076130875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_108
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 5795
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e13871e55f56900800000000000000
+      internalID: 677217103459327647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_109
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 5783
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f55cfeabf692910800000000000000
+      internalID: 1813103173670625179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_110
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 5775
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba69d634c8c1d9bc0800000000000000
+      internalID: -3774829523914352981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_111
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 5795
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202ff8beb3746f9d0800000000000000
+      internalID: -2740925000527646206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_112
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 5799
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d4c6b256f6dcd50800000000000000
+      internalID: 6759181096063880580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_113
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 5795
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f5933a4818d4280800000000000000
+      internalID: -9057440868898087131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_114
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 5791
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53458a54269f57e40800000000000000
+      internalID: 5653699107704296501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_115
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 5775
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1286d7690397150800000000000000
+      internalID: 5870777012161356204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_116
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 5771
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07d0efda94713340800000000000000
+      internalID: 4841779282929833739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_117
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 5775
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e36c2e921a23a8f0800000000000000
+      internalID: -530534071648099358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_118
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 5779
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cea9e16a69d27ae0800000000000000
+      internalID: -1552939870556934464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_119
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 5775
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6c877025dddd010800000000000000
+      internalID: 1215370818842314466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_120
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 5779
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1521c93ccb9dac1e0800000000000000
+      internalID: -2176688065121349039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_121
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 5775
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0616922d580bd2f20800000000000000
+      internalID: 3399567382537658720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_122
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 5779
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b4bc9f5a40540f0800000000000000
+      internalID: -1133494620306846850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_123
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 5775
+        width: 74
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fb6ea3d944bdc90800000000000000
+      internalID: -7144040941804404929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_124
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 5771
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b62d33a9b21a280800000000000000
+      internalID: -9033891436234118306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_125
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 5255
+        width: 474
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ed5c8ba1700d300800000000000000
+      internalID: 274727388620119679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_126
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 5241
+        width: 497
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b009780c8869aa870800000000000000
+      internalID: 8694927544681992203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_127
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 5531
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf1cf881056e93e0800000000000000
+      internalID: -2045086123512029235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_128
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 5251
+        width: 482
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafb9e6a69a980d30800000000000000
+      internalID: 4397935007963398062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_129
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 5230
+        width: 496
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85966a00d1f7be130800000000000000
+      internalID: 3597108489927158104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_130
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 5483
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fa5f7a9811c91c0800000000000000
+      internalID: -4495699045096509625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_131
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 5483
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7c5591d81b856c0800000000000000
+      internalID: -4154375436675725364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_132
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 5455
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128ebd9d7d44b9270800000000000000
+      internalID: 8258270035577661473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_133
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 5459
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc94684b8e7495d70800000000000000
+      internalID: 9032329592454924749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_134
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 5403
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a7e0a96481071e0800000000000000
+      internalID: -2202233526272755155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_135
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 5363
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d54dee0f07ab570800000000000000
+      internalID: 8483217028207107422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_136
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 5355
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803972148a0c863e0800000000000000
+      internalID: -2060185000641850616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_137
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 5291
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316ccbb07bb79ee60800000000000000
+      internalID: 7992055039851808275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_138
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 5271
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8097bf2247bb5bf0800000000000000
+      internalID: -334472252412686198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_139
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 5079
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb46024cb92b491d0800000000000000
+      internalID: -3344852241149303621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_140
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 5095
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16e17de9a178a830800000000000000
+      internalID: 4082638036858431007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_141
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 5095
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e716828774574330800000000000000
+      internalID: 3695014891548448737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_142
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 5099
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1461e98a9a4f01c0800000000000000
+      internalID: -4535324272140131297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4731
+        width: 517
+        height: 383
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e3ce1b716686710800000000000000
+      internalID: 1686710312405581376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_144
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 5023
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4c39c43e0581010800000000000000
+      internalID: 1159765841220453624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_145
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 5039
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69172fe00b48d1550800000000000000
+      internalID: 6133204159248363926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_146
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 4653
+        width: 507
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d918a30cb175650800000000000000
+      internalID: 6221471922664873295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_147
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 4683
+        width: 508
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6a29679a5e8a5c0800000000000000
+      internalID: -4203857736148801828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_148
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 5031
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e422231857adea0800000000000000
+      internalID: -5847231968434827740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_149
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 4683
+        width: 436
+        height: 475
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212f7185d6c93fef0800000000000000
+      internalID: -75544775291833838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_150
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 5031
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94047d31a28346f0800000000000000
+      internalID: -701573487907306342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_151
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 5023
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7ed1e216f285290800000000000000
+      internalID: -7901513451789490193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_152
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 4983
+        width: 54
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95c1d07e8d07e5d0800000000000000
+      internalID: -3033440918581426790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_153
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 4983
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1fefdc0257e0060800000000000000
+      internalID: 6921598461070471615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_154
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 4963
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ab52c5d779c7be0800000000000000
+      internalID: -1478140013011682745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_155
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 4931
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13c6234f184a9020800000000000000
+      internalID: 2349269454734934813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_156
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 4955
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dad313edd664150800000000000000
+      internalID: 5856489166518201629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_157
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 4959
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f93075debf862360800000000000000
+      internalID: 7144555908657330680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_158
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4935
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e81bf89f694217d0800000000000000
+      internalID: -2949214062317463324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_159
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 4931
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf1a6b8e5de8b360800000000000000
+      internalID: 7185754195791323081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_160
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4879
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553fa38250c6ab220800000000000000
+      internalID: 2502431312363320149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_161
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4839
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f620e2326bf78fa30800000000000000
+      internalID: 4249286668675056239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_162
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4835
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99440fd34ed73600800000000000000
+      internalID: 448071071032428958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_163
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 4835
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e36e2251c33f7c0800000000000000
+      internalID: -4038818379343708631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_164
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 4835
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57a58f0bbe86f000800000000000000
+      internalID: 69399778341267293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_165
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 4831
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea73bfbfad1e8f50800000000000000
+      internalID: 6885473520968760047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_166
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 4835
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa29d434062d1c70800000000000000
+      internalID: 8943346234536045296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_167
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 4831
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f5672b9a498fcb0800000000000000
+      internalID: -4829947143790370919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_168
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 4759
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44e1319938da9bc0800000000000000
+      internalID: -3775467595836038069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_169
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 4759
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf037b4afe0b23f0800000000000000
+      internalID: -924628830324060197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_170
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 4779
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380541b61abdc8130800000000000000
+      internalID: 3570470090930671747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_171
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 4779
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d25a042217870d60800000000000000
+      internalID: 7856396586954937047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_172
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 4759
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4846342c4572200800000000000000
+      internalID: 155185905498621158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_173
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 4759
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4feaa4ca94f4201a0800000000000000
+      internalID: -6844821305807950092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_174
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 4735
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6651ed2d52e02d80800000000000000
+      internalID: -8277367225277393301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_175
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 4735
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817562442d0b3cd50800000000000000
+      internalID: 6756438283118860056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_176
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 4735
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24aab9698880117e0800000000000000
+      internalID: -1796645393608758718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_177
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 4223
+        width: 322
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d154dbad30f706b0800000000000000
+      internalID: -5330027486303202858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_178
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 4223
+        width: 322
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebec2927f1aea990800000000000000
+      internalID: -7372777457039119387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_179
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 4223
+        width: 254
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e07d13f593893120800000000000000
+      internalID: 2394089356976287969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_180
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 4223
+        width: 238
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9857d5fd13fdfa0800000000000000
+      internalID: -5773841361850234433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_181
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3703
+        width: 238
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790a3567d022f95f0800000000000000
+      internalID: -747841571905101673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_182
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 3703
+        width: 234
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce4889617bb233a0800000000000000
+      internalID: -6687076400915525946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_183
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 3703
+        width: 238
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c293f4337f76c10800000000000000
+      internalID: 2046876355407719439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_184
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 3703
+        width: 230
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef6e7310b848af20800000000000000
+      internalID: 3434074636948500453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_185
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 3183
+        width: 230
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7943e2ff61e819b80800000000000000
+      internalID: -8389768401392880489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_186
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 3183
+        width: 234
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b20fc17e0ab69f20800000000000000
+      internalID: 3429132737490911922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_187
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 3183
+        width: 234
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704a4aab978985c70800000000000000
+      internalID: 8960079107243418631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_188
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 3183
+        width: 234
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5daf8c9b0b13c5ff0800000000000000
+      internalID: -46107261079586091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_189
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2663
+        width: 230
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac05a9b1e617daf0800000000000000
+      internalID: -371803285496722260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_190
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2659
+        width: 230
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2258c15b76375df20800000000000000
+      internalID: 3446787979079353634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_191
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 2659
+        width: 238
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1558ad6d603ed5b10800000000000000
+      internalID: 1971981830372099409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_192
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 2659
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b419c86153d4ef0800000000000000
+      internalID: -122383243905250446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_193
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2139
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e0df964ff0f2db0800000000000000
+      internalID: -4814611934211142095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_194
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2139
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23300d4f725b9bb60800000000000000
+      internalID: 7762434615965385522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_195
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 2139
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72f17d233bf1bed0800000000000000
+      internalID: -2399860929187417476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_196
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 2139
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6588be6648e729980800000000000000
+      internalID: -8533619236786173866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_197
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1619
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc0baef7d1d762a0800000000000000
+      internalID: -6744191191343231788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_198
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1619
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bcac154d7a06350800000000000000
+      internalID: 6007986433259391773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_199
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1619
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033503ee121a829c0800000000000000
+      internalID: -3951731505915473104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_200
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1619
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cd471c3541f6fa0800000000000000
+      internalID: -5805399044696777588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_201
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1099
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ffb8296c1b3c6c0800000000000000
+      internalID: -4124257367320952986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_202
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1099
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fd0be89d2118720800000000000000
+      internalID: 2846577165086023556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_203
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1099
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca11a29054d27f30800000000000000
+      internalID: 4571950014256978627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_204
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1099
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc53e62b413ded30800000000000000
+      internalID: 4462277004638772466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_205
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 579
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b4884feef4736c0800000000000000
+      internalID: -4163771442757350577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_206
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 579
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743cf1da9e85cd6f0800000000000000
+      internalID: -658553684847770809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_207
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 579
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb3c72c66279a810800000000000000
+      internalID: 1777077313649523707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_208
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 579
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b94cc3150914f7b0800000000000000
+      internalID: -5191496960853653070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_209
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 59
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3b1cde9e0daaab0800000000000000
+      internalID: -4995951133479291968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_210
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 59
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9380a673593223860800000000000000
+      internalID: 7508102652566833209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefecorrejido_211
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 59
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650cca4d090a11bd0800000000000000
+      internalID: -2661169360895426474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ea69c6e401ef3b11289adac9e13c6bac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jefecorrejido_0: 6578683849156547510
+      jefecorrejido_1: 8686774438722856311
+      jefecorrejido_10: -4901187385569315761
+      jefecorrejido_100: 6285781710224731246
+      jefecorrejido_101: -3131827587031979877
+      jefecorrejido_102: -1582570753232240451
+      jefecorrejido_103: -6421797493290612213
+      jefecorrejido_104: 8615314266431468386
+      jefecorrejido_105: 109336317978461128
+      jefecorrejido_106: 3208083069704929089
+      jefecorrejido_107: 4547760519076130875
+      jefecorrejido_108: 677217103459327647
+      jefecorrejido_109: 1813103173670625179
+      jefecorrejido_11: 7155270625935800293
+      jefecorrejido_110: -3774829523914352981
+      jefecorrejido_111: -2740925000527646206
+      jefecorrejido_112: 6759181096063880580
+      jefecorrejido_113: -9057440868898087131
+      jefecorrejido_114: 5653699107704296501
+      jefecorrejido_115: 5870777012161356204
+      jefecorrejido_116: 4841779282929833739
+      jefecorrejido_117: -530534071648099358
+      jefecorrejido_118: -1552939870556934464
+      jefecorrejido_119: 1215370818842314466
+      jefecorrejido_12: 5300139739610591119
+      jefecorrejido_120: -2176688065121349039
+      jefecorrejido_121: 3399567382537658720
+      jefecorrejido_122: -1133494620306846850
+      jefecorrejido_123: -7144040941804404929
+      jefecorrejido_124: -9033891436234118306
+      jefecorrejido_125: 274727388620119679
+      jefecorrejido_126: 8694927544681992203
+      jefecorrejido_127: -2045086123512029235
+      jefecorrejido_128: 4397935007963398062
+      jefecorrejido_129: 3597108489927158104
+      jefecorrejido_13: -6504349918031964256
+      jefecorrejido_130: -4495699045096509625
+      jefecorrejido_131: -4154375436675725364
+      jefecorrejido_132: 8258270035577661473
+      jefecorrejido_133: 9032329592454924749
+      jefecorrejido_134: -2202233526272755155
+      jefecorrejido_135: 8483217028207107422
+      jefecorrejido_136: -2060185000641850616
+      jefecorrejido_137: 7992055039851808275
+      jefecorrejido_138: -334472252412686198
+      jefecorrejido_139: -3344852241149303621
+      jefecorrejido_14: 5768194106217250136
+      jefecorrejido_140: 4082638036858431007
+      jefecorrejido_141: 3695014891548448737
+      jefecorrejido_142: -4535324272140131297
+      jefecorrejido_143: 1686710312405581376
+      jefecorrejido_144: 1159765841220453624
+      jefecorrejido_145: 6133204159248363926
+      jefecorrejido_146: 6221471922664873295
+      jefecorrejido_147: -4203857736148801828
+      jefecorrejido_148: -5847231968434827740
+      jefecorrejido_149: -75544775291833838
+      jefecorrejido_15: -7231901840049244898
+      jefecorrejido_150: -701573487907306342
+      jefecorrejido_151: -7901513451789490193
+      jefecorrejido_152: -3033440918581426790
+      jefecorrejido_153: 6921598461070471615
+      jefecorrejido_154: -1478140013011682745
+      jefecorrejido_155: 2349269454734934813
+      jefecorrejido_156: 5856489166518201629
+      jefecorrejido_157: 7144555908657330680
+      jefecorrejido_158: -2949214062317463324
+      jefecorrejido_159: 7185754195791323081
+      jefecorrejido_16: 7510397026820728161
+      jefecorrejido_160: 2502431312363320149
+      jefecorrejido_161: 4249286668675056239
+      jefecorrejido_162: 448071071032428958
+      jefecorrejido_163: -4038818379343708631
+      jefecorrejido_164: 69399778341267293
+      jefecorrejido_165: 6885473520968760047
+      jefecorrejido_166: 8943346234536045296
+      jefecorrejido_167: -4829947143790370919
+      jefecorrejido_168: -3775467595836038069
+      jefecorrejido_169: -924628830324060197
+      jefecorrejido_17: 1214954285660523709
+      jefecorrejido_170: 3570470090930671747
+      jefecorrejido_171: 7856396586954937047
+      jefecorrejido_172: 155185905498621158
+      jefecorrejido_173: -6844821305807950092
+      jefecorrejido_174: -8277367225277393301
+      jefecorrejido_175: 6756438283118860056
+      jefecorrejido_176: -1796645393608758718
+      jefecorrejido_177: -5330027486303202858
+      jefecorrejido_178: -7372777457039119387
+      jefecorrejido_179: 2394089356976287969
+      jefecorrejido_18: 6825235155689070497
+      jefecorrejido_180: -5773841361850234433
+      jefecorrejido_181: -747841571905101673
+      jefecorrejido_182: -6687076400915525946
+      jefecorrejido_183: 2046876355407719439
+      jefecorrejido_184: 3434074636948500453
+      jefecorrejido_185: -8389768401392880489
+      jefecorrejido_186: 3429132737490911922
+      jefecorrejido_187: 8960079107243418631
+      jefecorrejido_188: -46107261079586091
+      jefecorrejido_189: -371803285496722260
+      jefecorrejido_19: 7086034498912712704
+      jefecorrejido_190: 3446787979079353634
+      jefecorrejido_191: 1971981830372099409
+      jefecorrejido_192: -122383243905250446
+      jefecorrejido_193: -4814611934211142095
+      jefecorrejido_194: 7762434615965385522
+      jefecorrejido_195: -2399860929187417476
+      jefecorrejido_196: -8533619236786173866
+      jefecorrejido_197: -6744191191343231788
+      jefecorrejido_198: 6007986433259391773
+      jefecorrejido_199: -3951731505915473104
+      jefecorrejido_2: 2119136844184046698
+      jefecorrejido_20: 7380540205756648136
+      jefecorrejido_200: -5805399044696777588
+      jefecorrejido_201: -4124257367320952986
+      jefecorrejido_202: 2846577165086023556
+      jefecorrejido_203: 4571950014256978627
+      jefecorrejido_204: 4462277004638772466
+      jefecorrejido_205: -4163771442757350577
+      jefecorrejido_206: -658553684847770809
+      jefecorrejido_207: 1777077313649523707
+      jefecorrejido_208: -5191496960853653070
+      jefecorrejido_209: -4995951133479291968
+      jefecorrejido_21: 2217180495890658523
+      jefecorrejido_210: 7508102652566833209
+      jefecorrejido_211: -2661169360895426474
+      jefecorrejido_22: 8647043920856345279
+      jefecorrejido_23: -2833524829637394013
+      jefecorrejido_24: -2889849683980943315
+      jefecorrejido_25: 1732621514383024551
+      jefecorrejido_26: 7735572777229470452
+      jefecorrejido_27: -5809988736518293806
+      jefecorrejido_28: 6778012605546061936
+      jefecorrejido_29: -8988686032990732321
+      jefecorrejido_3: 1878600154551322536
+      jefecorrejido_30: 7675935528781430439
+      jefecorrejido_31: 5560631850050041180
+      jefecorrejido_32: 8888048573452392559
+      jefecorrejido_33: -7261832417244586453
+      jefecorrejido_34: -4706354575882674713
+      jefecorrejido_35: 8992541437321062271
+      jefecorrejido_36: -3460324614652812533
+      jefecorrejido_37: -3237319602885044030
+      jefecorrejido_38: -5244167146097343977
+      jefecorrejido_39: 6480769803326243296
+      jefecorrejido_4: 1420761913814666221
+      jefecorrejido_40: -5513682591923707607
+      jefecorrejido_41: 4678136250681628708
+      jefecorrejido_42: -228428665811084296
+      jefecorrejido_43: -6988914676652831038
+      jefecorrejido_44: 5913663571318762853
+      jefecorrejido_45: -5429409870941706390
+      jefecorrejido_46: 96289543112834114
+      jefecorrejido_47: -6363588265982579501
+      jefecorrejido_48: -4957020503092724964
+      jefecorrejido_49: -433757679083289138
+      jefecorrejido_5: -8962016256252863
+      jefecorrejido_50: 6552489777299007629
+      jefecorrejido_51: 8213877009125763030
+      jefecorrejido_52: -7388149357193415026
+      jefecorrejido_53: -8439042865102376981
+      jefecorrejido_54: 7257028341774505439
+      jefecorrejido_55: 1664346243362900072
+      jefecorrejido_56: 1636158285604041730
+      jefecorrejido_57: 7932390673288036706
+      jefecorrejido_58: 7642780649308576036
+      jefecorrejido_59: -1818807063395634189
+      jefecorrejido_6: 7848366401854573304
+      jefecorrejido_60: -173389421998093684
+      jefecorrejido_61: 53077607635927703
+      jefecorrejido_62: -6980811144741301521
+      jefecorrejido_63: -7607385100004111606
+      jefecorrejido_64: 768600539022165191
+      jefecorrejido_65: 4668526592201014896
+      jefecorrejido_66: 5848918186877257315
+      jefecorrejido_67: 9213891060217562528
+      jefecorrejido_68: 4773905329684516175
+      jefecorrejido_69: -7592381639528494551
+      jefecorrejido_7: -8343021073431627057
+      jefecorrejido_70: 1114350734435742259
+      jefecorrejido_71: 3288965072659254292
+      jefecorrejido_72: -5126534167514038124
+      jefecorrejido_73: -5199637602698516270
+      jefecorrejido_74: 3376186366564879275
+      jefecorrejido_75: 4387998817199764980
+      jefecorrejido_76: 2859576666313942733
+      jefecorrejido_77: 1468420704753596854
+      jefecorrejido_78: 692713446869848406
+      jefecorrejido_79: 3017831652930254101
+      jefecorrejido_8: -7483978622681802933
+      jefecorrejido_80: -4799717218076544806
+      jefecorrejido_81: 6972358690039115658
+      jefecorrejido_82: 4859358799299005906
+      jefecorrejido_83: -6439488079763944219
+      jefecorrejido_84: -1961563072761789599
+      jefecorrejido_85: -1356049578437164076
+      jefecorrejido_86: -6535161981346119040
+      jefecorrejido_87: -6312957149899376994
+      jefecorrejido_88: 1466439309799910503
+      jefecorrejido_89: 1512254738994364076
+      jefecorrejido_9: -8473621828248424590
+      jefecorrejido_90: 1368154397947411085
+      jefecorrejido_91: 8235704467487567390
+      jefecorrejido_92: -5279876774802475504
+      jefecorrejido_93: 2767293056087821450
+      jefecorrejido_94: 4485481243115558652
+      jefecorrejido_95: 1902361555060971987
+      jefecorrejido_96: 7971256938781164797
+      jefecorrejido_97: -822513918730405439
+      jefecorrejido_98: -9156028179205793446
+      jefecorrejido_99: 530915226075697334
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

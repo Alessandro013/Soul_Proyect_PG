@@ -1,0 +1,4927 @@
+fileFormatVersion: 2
+guid: b38078eb8029e2484b1015deb9f8ae74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8776737751784969805
+    second: cajaataque1_0
+  - first:
+      213: -6057267076800287275
+    second: cajaataque1_1
+  - first:
+      213: -7561032489283984510
+    second: cajaataque1_2
+  - first:
+      213: -7302792969239616391
+    second: cajaataque1_3
+  - first:
+      213: -931908279832323855
+    second: cajaataque1_4
+  - first:
+      213: 1606423748585937485
+    second: cajaataque1_5
+  - first:
+      213: -3648465225204503116
+    second: cajaataque1_6
+  - first:
+      213: -6118265817293661492
+    second: cajaataque1_7
+  - first:
+      213: 7360939363477323544
+    second: cajaataque1_8
+  - first:
+      213: 1896606133345198339
+    second: cajaataque1_9
+  - first:
+      213: 6922373065351220705
+    second: cajaataque1_10
+  - first:
+      213: 497068492917329045
+    second: cajaataque1_11
+  - first:
+      213: 6979401273557506058
+    second: cajaataque1_12
+  - first:
+      213: -5526123358687301432
+    second: cajaataque1_13
+  - first:
+      213: 7655962504982578434
+    second: cajaataque1_14
+  - first:
+      213: 1092680086725741577
+    second: cajaataque1_15
+  - first:
+      213: 6474177199696061316
+    second: cajaataque1_16
+  - first:
+      213: 8269932755821594688
+    second: cajaataque1_17
+  - first:
+      213: -3377476202595588955
+    second: cajaataque1_18
+  - first:
+      213: -2964014458868973833
+    second: cajaataque1_19
+  - first:
+      213: -6534690490610879443
+    second: cajaataque1_20
+  - first:
+      213: 3991672028254935064
+    second: cajaataque1_21
+  - first:
+      213: 6929533696852797938
+    second: cajaataque1_22
+  - first:
+      213: -5571038623653043822
+    second: cajaataque1_23
+  - first:
+      213: -6161502088634461136
+    second: cajaataque1_24
+  - first:
+      213: 9024594478962901870
+    second: cajaataque1_25
+  - first:
+      213: -731933465754870163
+    second: cajaataque1_26
+  - first:
+      213: 5154767913279850924
+    second: cajaataque1_27
+  - first:
+      213: 9205275007379483870
+    second: cajaataque1_28
+  - first:
+      213: -5354598956849380407
+    second: cajaataque1_29
+  - first:
+      213: -1497179624184639626
+    second: cajaataque1_30
+  - first:
+      213: -5797397187765703853
+    second: cajaataque1_31
+  - first:
+      213: -5282835929272917440
+    second: cajaataque1_32
+  - first:
+      213: -1219465193015891677
+    second: cajaataque1_33
+  - first:
+      213: 3722527795858190426
+    second: cajaataque1_34
+  - first:
+      213: -5607163806875587010
+    second: cajaataque1_35
+  - first:
+      213: -644768279225729056
+    second: cajaataque1_36
+  - first:
+      213: -2747248374145937641
+    second: cajaataque1_37
+  - first:
+      213: -6031080598808273233
+    second: cajaataque1_38
+  - first:
+      213: -2858767877045101794
+    second: cajaataque1_39
+  - first:
+      213: -1775740622968340182
+    second: cajaataque1_40
+  - first:
+      213: -383838028437100725
+    second: cajaataque1_41
+  - first:
+      213: -8861336878269967990
+    second: cajaataque1_42
+  - first:
+      213: -6191234515501083914
+    second: cajaataque1_43
+  - first:
+      213: -5272543815801045017
+    second: cajaataque1_44
+  - first:
+      213: -6590413425784669047
+    second: cajaataque1_45
+  - first:
+      213: -3789099275412939768
+    second: cajaataque1_46
+  - first:
+      213: -108943320178882315
+    second: cajaataque1_47
+  - first:
+      213: -8438789433630855864
+    second: cajaataque1_48
+  - first:
+      213: -2132017205928363064
+    second: cajaataque1_49
+  - first:
+      213: -6110867934843588883
+    second: cajaataque1_50
+  - first:
+      213: 4429250378096033906
+    second: cajaataque1_51
+  - first:
+      213: 1591069510839886375
+    second: cajaataque1_52
+  - first:
+      213: 927523466393358690
+    second: cajaataque1_53
+  - first:
+      213: -6561486657081988717
+    second: cajaataque1_54
+  - first:
+      213: -228978483830789904
+    second: cajaataque1_55
+  - first:
+      213: 4263139421054893550
+    second: cajaataque1_56
+  - first:
+      213: -1441465108258089611
+    second: cajaataque1_57
+  - first:
+      213: -918239586943436933
+    second: cajaataque1_58
+  - first:
+      213: 7708734143465953702
+    second: cajaataque1_59
+  - first:
+      213: -5800229409720197088
+    second: cajaataque1_60
+  - first:
+      213: 5641311244896397208
+    second: cajaataque1_61
+  - first:
+      213: -8729806494418120924
+    second: cajaataque1_62
+  - first:
+      213: 8442687648648271247
+    second: cajaataque1_63
+  - first:
+      213: 8915189984148195651
+    second: cajaataque1_64
+  - first:
+      213: 5258985291328546217
+    second: cajaataque1_65
+  - first:
+      213: 4713907625663863612
+    second: cajaataque1_66
+  - first:
+      213: 2629585871373213149
+    second: cajaataque1_67
+  - first:
+      213: 8904177981330959399
+    second: cajaataque1_68
+  - first:
+      213: -8094409350301091365
+    second: cajaataque1_69
+  - first:
+      213: -1226387436097998941
+    second: cajaataque1_70
+  - first:
+      213: -2263482080709957784
+    second: cajaataque1_71
+  - first:
+      213: 1387173983769075709
+    second: cajaataque1_72
+  - first:
+      213: 481281583119159370
+    second: cajaataque1_73
+  - first:
+      213: 1083618403451478808
+    second: cajaataque1_74
+  - first:
+      213: 1440337283884902665
+    second: cajaataque1_75
+  - first:
+      213: -5971336670620370659
+    second: cajaataque1_76
+  - first:
+      213: 3291055123032362935
+    second: cajaataque1_77
+  - first:
+      213: 863520839349510741
+    second: cajaataque1_78
+  - first:
+      213: 3844797099857294476
+    second: cajaataque1_79
+  - first:
+      213: 3719279732167655299
+    second: cajaataque1_80
+  - first:
+      213: 359913770830539774
+    second: cajaataque1_81
+  - first:
+      213: -3154247449868261923
+    second: cajaataque1_82
+  - first:
+      213: -7353294499769272443
+    second: cajaataque1_83
+  - first:
+      213: 6010779769622898227
+    second: cajaataque1_84
+  - first:
+      213: 1663748125966511686
+    second: cajaataque1_85
+  - first:
+      213: 1209373369688466384
+    second: cajaataque1_86
+  - first:
+      213: -1907593884246063596
+    second: cajaataque1_87
+  - first:
+      213: -6442400301753544424
+    second: cajaataque1_88
+  - first:
+      213: 3851930892931186142
+    second: cajaataque1_89
+  - first:
+      213: 8160656240059820352
+    second: cajaataque1_90
+  - first:
+      213: -4367433896727479233
+    second: cajaataque1_91
+  - first:
+      213: 4742223378213573034
+    second: cajaataque1_92
+  - first:
+      213: -2487779046941751358
+    second: cajaataque1_93
+  - first:
+      213: -1147441453444942053
+    second: cajaataque1_94
+  - first:
+      213: 8268483428880360016
+    second: cajaataque1_95
+  - first:
+      213: -2280813632437883320
+    second: cajaataque1_96
+  - first:
+      213: -5685132366409557108
+    second: cajaataque1_97
+  - first:
+      213: 1835779314614009250
+    second: cajaataque1_98
+  - first:
+      213: -8317216530078845417
+    second: cajaataque1_99
+  - first:
+      213: 6090306756082385886
+    second: cajaataque1_100
+  - first:
+      213: -6787525808822278920
+    second: cajaataque1_101
+  - first:
+      213: 7222582110471273458
+    second: cajaataque1_102
+  - first:
+      213: 7283480411689432106
+    second: cajaataque1_103
+  - first:
+      213: -585698821512341167
+    second: cajaataque1_104
+  - first:
+      213: -63358446607296874
+    second: cajaataque1_105
+  - first:
+      213: -2217551512442230807
+    second: cajaataque1_106
+  - first:
+      213: -3680060255698585805
+    second: cajaataque1_107
+  - first:
+      213: 7057276450179516034
+    second: cajaataque1_108
+  - first:
+      213: -3015161759626719584
+    second: cajaataque1_109
+  - first:
+      213: 5974865347697961135
+    second: cajaataque1_110
+  - first:
+      213: -2523447536332691610
+    second: cajaataque1_111
+  - first:
+      213: 1514485755292235270
+    second: cajaataque1_112
+  - first:
+      213: 3152859798681865774
+    second: cajaataque1_113
+  - first:
+      213: 1745820311939133455
+    second: cajaataque1_114
+  - first:
+      213: 8157330802280645973
+    second: cajaataque1_115
+  - first:
+      213: -6117771929187046239
+    second: cajaataque1_116
+  - first:
+      213: 2356530999964564147
+    second: cajaataque1_117
+  - first:
+      213: -8321195278100187594
+    second: cajaataque1_118
+  - first:
+      213: 5693900169082275835
+    second: cajaataque1_119
+  - first:
+      213: 4697297250169136638
+    second: cajaataque1_120
+  - first:
+      213: -1621111264234780247
+    second: cajaataque1_121
+  - first:
+      213: -8865906171142781058
+    second: cajaataque1_122
+  - first:
+      213: -6452946279369771603
+    second: cajaataque1_123
+  - first:
+      213: 8784468824725920676
+    second: cajaataque1_124
+  - first:
+      213: -94337881950045547
+    second: cajaataque1_125
+  - first:
+      213: 3177399557734814796
+    second: cajaataque1_126
+  - first:
+      213: -3804524455913572858
+    second: cajaataque1_127
+  - first:
+      213: 93733728036237909
+    second: cajaataque1_128
+  - first:
+      213: 930146097502877554
+    second: cajaataque1_129
+  - first:
+      213: -160095851158655401
+    second: cajaataque1_130
+  - first:
+      213: -7039096663912527058
+    second: cajaataque1_131
+  - first:
+      213: 2577873559067679599
+    second: cajaataque1_132
+  - first:
+      213: -3573747217195661570
+    second: cajaataque1_133
+  - first:
+      213: -7259056608243514287
+    second: cajaataque1_134
+  - first:
+      213: -369732636650207990
+    second: cajaataque1_135
+  - first:
+      213: 4245067027088306302
+    second: cajaataque1_136
+  - first:
+      213: 9204118900736664501
+    second: cajaataque1_137
+  - first:
+      213: -4824800454301218634
+    second: cajaataque1_138
+  - first:
+      213: 5019472433339743487
+    second: cajaataque1_139
+  - first:
+      213: 4682699442046806176
+    second: cajaataque1_140
+  - first:
+      213: 514855601261458262
+    second: cajaataque1_141
+  - first:
+      213: 1260498969046660026
+    second: cajaataque1_142
+  - first:
+      213: 8771481974420313522
+    second: cajaataque1_143
+  - first:
+      213: -7114437800492997656
+    second: cajaataque1_144
+  - first:
+      213: 5455504922633388258
+    second: cajaataque1_145
+  - first:
+      213: 2808411698386653959
+    second: cajaataque1_146
+  - first:
+      213: 2668889112111566324
+    second: cajaataque1_147
+  - first:
+      213: -6707602367994587406
+    second: cajaataque1_148
+  - first:
+      213: 2801156764035740467
+    second: cajaataque1_149
+  - first:
+      213: -4964491453390483233
+    second: cajaataque1_150
+  - first:
+      213: -2699807366822922547
+    second: cajaataque1_151
+  - first:
+      213: -7513176896702258569
+    second: cajaataque1_152
+  - first:
+      213: -6787575805805653097
+    second: cajaataque1_153
+  - first:
+      213: -4894763530067018662
+    second: cajaataque1_154
+  - first:
+      213: 2756752561333770420
+    second: cajaataque1_155
+  - first:
+      213: -6246938270360860220
+    second: cajaataque1_156
+  - first:
+      213: 5332837974615985310
+    second: cajaataque1_157
+  - first:
+      213: -994438935678280333
+    second: cajaataque1_158
+  - first:
+      213: 2559027066176529462
+    second: cajaataque1_159
+  - first:
+      213: -2027342358517329763
+    second: cajaataque1_160
+  - first:
+      213: 3006666432211391453
+    second: cajaataque1_161
+  - first:
+      213: -7799637295949541618
+    second: cajaataque1_162
+  - first:
+      213: -5035729780363851821
+    second: cajaataque1_163
+  - first:
+      213: -7568460803358820847
+    second: cajaataque1_164
+  - first:
+      213: -4050766444076357079
+    second: cajaataque1_165
+  - first:
+      213: -3135522511367432106
+    second: cajaataque1_166
+  - first:
+      213: -807688852373033162
+    second: cajaataque1_167
+  - first:
+      213: -1369711954268131054
+    second: cajaataque1_168
+  - first:
+      213: 5466244856299896694
+    second: cajaataque1_169
+  - first:
+      213: 8864421175873477294
+    second: cajaataque1_170
+  - first:
+      213: -6049354682448947696
+    second: cajaataque1_171
+  - first:
+      213: 1689249656016184460
+    second: cajaataque1_172
+  - first:
+      213: -104984229428596180
+    second: cajaataque1_173
+  - first:
+      213: 4428202941174462811
+    second: cajaataque1_174
+  - first:
+      213: -4176879158600513340
+    second: cajaataque1_175
+  - first:
+      213: 6481969766654225334
+    second: cajaataque1_176
+  - first:
+      213: -5941339483358655211
+    second: cajaataque1_177
+  - first:
+      213: 5681639561820097571
+    second: cajaataque1_178
+  - first:
+      213: 2397512722094762406
+    second: cajaataque1_179
+  - first:
+      213: 3318385957912553303
+    second: cajaataque1_180
+  - first:
+      213: -300582107164978772
+    second: cajaataque1_181
+  - first:
+      213: 3937113574636105893
+    second: cajaataque1_182
+  - first:
+      213: 2550087500755480798
+    second: cajaataque1_183
+  - first:
+      213: -2528630510101345071
+    second: cajaataque1_184
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cajaataque1_0
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2765
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4657edeb7c3dc970800000000000000
+      internalID: 8776737751784969805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_1
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2765
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd66a9bfa340fba0800000000000000
+      internalID: -6057267076800287275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_2
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 2765
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2836a05d201d11790800000000000000
+      internalID: -7561032489283984510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_3
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 2765
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974a0408c7447aa90800000000000000
+      internalID: -7302792969239616391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_4
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 2765
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f859516b523113f0800000000000000
+      internalID: -931908279832323855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_5
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 2765
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a573d53e92b4610800000000000000
+      internalID: 1606423748585937485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_6
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 2765
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bde154453c0e5dc0800000000000000
+      internalID: -3648465225204503116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_7
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 2765
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccadbc6b7ad871ba0800000000000000
+      internalID: -6118265817293661492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_8
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 2765
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f7145e95f472660800000000000000
+      internalID: 7360939363477323544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_9
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 2765
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3012ed8ca39125a10800000000000000
+      internalID: 1896606133345198339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_10
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 2765
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edcdfa60a5311060800000000000000
+      internalID: 6922373065351220705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_11
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2469
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c40652921f5e600800000000000000
+      internalID: 497068492917329045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_12
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2469
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08dd47da70dbd060800000000000000
+      internalID: 6979401273557506058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_13
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 2469
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0747c75144f43b0800000000000000
+      internalID: -5526123358687301432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_14
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 2469
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2054233d5517f3a60800000000000000
+      internalID: 7655962504982578434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_15
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 2469
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c4e66efbaf92f00800000000000000
+      internalID: 1092680086725741577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_16
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 2469
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48321d88cd5e8d950800000000000000
+      internalID: 6474177199696061316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_17
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 2469
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0480d138604b4c270800000000000000
+      internalID: 8269932755821594688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_18
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 2469
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a464f2d94bc021d0800000000000000
+      internalID: -3377476202595588955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_19
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 2469
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe3efdbd84bdd6d0800000000000000
+      internalID: -2964014458868973833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_20
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 2469
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24f30efe9d1055a0800000000000000
+      internalID: -6534690490610879443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_21
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 2469
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8189ff79f84456730800000000000000
+      internalID: 3991672028254935064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_22
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2173
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9a20cde26aa2060800000000000000
+      internalID: 6929533696852797938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_23
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2173
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291ed2f63e1bfa2b0800000000000000
+      internalID: -5571038623653043822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_24
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2173
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0349d14de72fd7aa0800000000000000
+      internalID: -6161502088634461136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_25
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 2173
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6309804ddccd3d70800000000000000
+      internalID: 9024594478962901870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_26
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 2173
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ed57e0466a7d5f0800000000000000
+      internalID: -731933465754870163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_27
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 2173
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca980a22b1a698740800000000000000
+      internalID: 5154767913279850924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_28
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 2173
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edca2aaf8d4bfbf70800000000000000
+      internalID: 9205275007379483870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_29
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 2173
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3c05e5e94a0b5b0800000000000000
+      internalID: -5354598956849380407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_30
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 2173
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f858f6013f83be0800000000000000
+      internalID: -1497179624184639626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_31
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 2173
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b606149f18b8fa0800000000000000
+      internalID: -5797397187765703853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_32
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 2159
+        width: 70
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042640546b89fa6b0800000000000000
+      internalID: -5282835929272917440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_33
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 2175
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329a5523ed6931fe0800000000000000
+      internalID: -1219465193015891677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_34
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1864
+        width: 83
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5035aabe4319a330800000000000000
+      internalID: 3722527795858190426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_35
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1870
+        width: 73
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ee0c5c93a5f22b0800000000000000
+      internalID: -5607163806875587010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_36
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1861
+        width: 85
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef7f4a8aa25d07f0800000000000000
+      internalID: -644768279225729056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_37
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1867
+        width: 70
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f0345c820dfd9d0800000000000000
+      internalID: -2747248374145937641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_38
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1851
+        width: 86
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae5840462c4d4ca0800000000000000
+      internalID: -6031080598808273233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_39
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1943
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bdd6123cd9358d0800000000000000
+      internalID: -2858767877045101794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_40
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1901
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21cdbacf4d4b57e0800000000000000
+      internalID: -1775740622968340182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_41
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 1877
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4768b7c8555caaf0800000000000000
+      internalID: -383838028437100725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_42
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 1877
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8156affe05360580800000000000000
+      internalID: -8861336878269967990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_43
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1881
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f29b6eb201541aa0800000000000000
+      internalID: -6191234515501083914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_44
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1883
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7effe7ca55924d6b0800000000000000
+      internalID: -5272543815801045017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_45
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1883
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cb32128e52a84a0800000000000000
+      internalID: -6590413425784669047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_46
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1883
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c5256d84a6a6bc0800000000000000
+      internalID: -3789099275412939768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_47
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1881
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f80614a0a4fc7ef0800000000000000
+      internalID: -108943320178882315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_48
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1879
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84dec1288b563ea80800000000000000
+      internalID: -8438789433630855864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_49
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1877
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb7e99a5ad8962e0800000000000000
+      internalID: -2132017205928363064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_50
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 1877
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deea2527df5d13ba0800000000000000
+      internalID: -6110867934843588883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_51
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 1877
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270cdaf60cbd77d30800000000000000
+      internalID: 4429250378096033906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_52
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1567
+        width: 60
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722e09e4a4d941610800000000000000
+      internalID: 1591069510839886375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_53
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1556
+        width: 64
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261173fada93fdc00800000000000000
+      internalID: 927523466393358690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_54
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1566
+        width: 75
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399a92e46aae0f4a0800000000000000
+      internalID: -6561486657081988717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_55
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1570
+        width: 72
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8ee0a384182dcf0800000000000000
+      internalID: -228978483830789904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_56
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 1568
+        width: 64
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedf0f367b6b92b30800000000000000
+      internalID: 4263139421054893550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_57
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 1568
+        width: 78
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575182a0f13eefbe0800000000000000
+      internalID: -1441465108258089611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_58
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 1568
+        width: 87
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77f881f5f1c143f0800000000000000
+      internalID: -918239586943436933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_59
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 1544
+        width: 84
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a996316cdceafa60800000000000000
+      internalID: 7708734143465953702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_60
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1581
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020aad13512718fa0800000000000000
+      internalID: -5800229409720197088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_61
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1561
+        width: 79
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897677330b6f94e40800000000000000
+      internalID: 5641311244896397208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_62
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1564
+        width: 69
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f4f4eee3f79d680800000000000000
+      internalID: -8729806494418120924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_63
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1583
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8512476fa37a2570800000000000000
+      internalID: 8442687648648271247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_64
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 1585
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349064e4e0e19bb70800000000000000
+      internalID: 8915189984148195651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_65
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 1587
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a564a8524babf840800000000000000
+      internalID: 5258985291328546217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_66
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 1587
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b13bb920a2b6140800000000000000
+      internalID: 4713907625663863612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_67
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 1587
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd1699fa6a2e7420800000000000000
+      internalID: 2629585871373213149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_68
+      rect:
+        serializedVersion: 2
+        x: 3405
+        y: 1585
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c261a92bef19b70800000000000000
+      internalID: 8904177981330959399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_69
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 1583
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9f3b8f491eaaf80800000000000000
+      internalID: -8094409350301091365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_70
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1270
+        width: 62
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af6062ef1ffafee0800000000000000
+      internalID: -1226387436097998941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_71
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1285
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86722df3a0f7690e0800000000000000
+      internalID: -2263482080709957784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_72
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1285
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff1830836b304310800000000000000
+      internalID: 1387173983769075709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_73
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1285
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4051c6cc0bdda600800000000000000
+      internalID: 481281583119159370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_74
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1285
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8132dc95239c90f00800000000000000
+      internalID: 1083618403451478808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_75
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1285
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909e5b2e02b1df310800000000000000
+      internalID: 1440337283884902665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_76
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1285
+        width: 54
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19b8618fec812da0800000000000000
+      internalID: -5971336670620370659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_77
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 1285
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfc298923d2cad20800000000000000
+      internalID: 3291055123032362935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_78
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 1285
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5522395d0a7dbfb00800000000000000
+      internalID: 863520839349510741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_79
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 1285
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84327a77967b5530800000000000000
+      internalID: 3844797099857294476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_80
+      rect:
+        serializedVersion: 2
+        x: 3391
+        y: 1285
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fb928f5398d9330800000000000000
+      internalID: 3719279732167655299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_81
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 1285
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb202ceaabaef400800000000000000
+      internalID: 359913770830539774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_82
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 962
+        width: 68
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5abe008acd934d0800000000000000
+      internalID: -3154247449868261923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_83
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 972
+        width: 78
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5873b64ac99d3f990800000000000000
+      internalID: -7353294499769272443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_84
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 985
+        width: 120
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3362a7f9a549a6350800000000000000
+      internalID: 6010779769622898227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_85
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 989
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ea4fb0b12d61710800000000000000
+      internalID: 1663748125966511686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_86
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 989
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d329151cae88c010800000000000000
+      internalID: 1209373369688466384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_87
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 989
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4164ec9187dd685e0800000000000000
+      internalID: -1907593884246063596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_88
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 989
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8115c111f0ff796a0800000000000000
+      internalID: -6442400301753544424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_89
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 989
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd348c1dbec47530800000000000000
+      internalID: 3851930892931186142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_90
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 989
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04927d20d99704170800000000000000
+      internalID: 8160656240059820352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_91
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 989
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cfe85b202c363c0800000000000000
+      internalID: -4367433896727479233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_92
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 989
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa119ff7903cfc140800000000000000
+      internalID: 4742223378213573034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_93
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 989
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7806b3322a97dd0800000000000000
+      internalID: -2487779046941751358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_94
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 991
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b173bd6d3187310f0800000000000000
+      internalID: -1147441453444942053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_95
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 993
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0522e99cedd8fb270800000000000000
+      internalID: 8268483428880360016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_96
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 686
+        width: 75
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84eeba7e51ce850e0800000000000000
+      internalID: -2280813632437883320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_97
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 679
+        width: 85
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b151fdb3a5a11b0800000000000000
+      internalID: -5685132366409557108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_98
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 668
+        width: 92
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adf39d6f8ff97910800000000000000
+      internalID: 1835779314614009250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_99
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 689
+        width: 88
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716b4a4e1af439c80800000000000000
+      internalID: -8317216530078845417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_100
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 688
+        width: 102
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3c3711abd158450800000000000000
+      internalID: 6090306756082385886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_101
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 678
+        width: 87
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f42a5d1d3dddc1a0800000000000000
+      internalID: -6787525808822278920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_102
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 687
+        width: 76
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb3bbf9924cb3460800000000000000
+      internalID: 7222582110471273458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_103
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 571
+        width: 432
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24b34b48de141560800000000000000
+      internalID: 7283480411689432106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_104
+      rect:
+        serializedVersion: 2
+        x: 3772
+        y: 806
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1595466660e2fd7f0800000000000000
+      internalID: -585698821512341167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_105
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 626
+        width: 240
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696937814d7ee1ff0800000000000000
+      internalID: -63358446607296874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_106
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 593
+        width: 301
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e720c506aca931e0800000000000000
+      internalID: -2217551512442230807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_107
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 699
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3377d0bf1bccdecc0800000000000000
+      internalID: -3680060255698585805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_108
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 699
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2860ea65a8b70f160800000000000000
+      internalID: 7057276450179516034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_109
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 699
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae8b19ca5ef726d0800000000000000
+      internalID: -3015161759626719584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_110
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 737
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8e356a06cfae250800000000000000
+      internalID: 5974865347697961135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_111
+      rect:
+        serializedVersion: 2
+        x: 3695
+        y: 747
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6672e83e5d9eafcd0800000000000000
+      internalID: -2523447536332691610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_112
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 585
+        width: 272
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606359535c8840510800000000000000
+      internalID: 1514485755292235270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_113
+      rect:
+        serializedVersion: 2
+        x: 3895
+        y: 737
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2eca07484531cb20800000000000000
+      internalID: 3152859798681865774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_114
+      rect:
+        serializedVersion: 2
+        x: 3927
+        y: 699
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f003bcee2566a3810800000000000000
+      internalID: 1745820311939133455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_115
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 699
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5554a413529a43170800000000000000
+      internalID: 8157330802280645973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_116
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 699
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac23fff7de491ba0800000000000000
+      internalID: -6117771929187046239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_117
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 699
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba7513857414b020800000000000000
+      internalID: 2356530999964564147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_118
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 699
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6363e2e6bfc258c80800000000000000
+      internalID: -8321195278100187594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_119
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 699
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf78fa4490cc40f40800000000000000
+      internalID: 5693900169082275835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_120
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 695
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef520c036f6203140800000000000000
+      internalID: 4697297250169136638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_121
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 693
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9c6e9e4e7a089e0800000000000000
+      internalID: -1621111264234780247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_122
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 699
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7747199f49f5f480800000000000000
+      internalID: -8865906171142781058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_123
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 699
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da57c7f4c878276a0800000000000000
+      internalID: -6452946279369771603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_124
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 699
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab184e9ad3b8e970800000000000000
+      internalID: 8784468824725920676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_125
+      rect:
+        serializedVersion: 2
+        x: 3241
+        y: 699
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a31893238d0bef0800000000000000
+      internalID: -94337881950045547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_126
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 699
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44544c2014681c20800000000000000
+      internalID: 3177399557734814796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_127
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 699
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6063cf12a2d933bc0800000000000000
+      internalID: -3804524455913572858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_128
+      rect:
+        serializedVersion: 2
+        x: 3693
+        y: 699
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552b21b34520d4100800000000000000
+      internalID: 93733728036237909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_129
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 699
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277ffd292fa88ec00800000000000000
+      internalID: 930146097502877554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_130
+      rect:
+        serializedVersion: 2
+        x: 3895
+        y: 699
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75eacadeba937cdf0800000000000000
+      internalID: -160095851158655401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_131
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 635
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b4bdff0ea105e90800000000000000
+      internalID: -7039096663912527058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_132
+      rect:
+        serializedVersion: 2
+        x: 3769
+        y: 593
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bd914085276c320800000000000000
+      internalID: 2577873559067679599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_133
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 593
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6030a27df776ec0800000000000000
+      internalID: -3573747217195661570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_134
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 491
+        width: 12
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15481359976a24b90800000000000000
+      internalID: -7259056608243514287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_135
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 513
+        width: 8
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05889a30227edaf0800000000000000
+      internalID: -369732636650207990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_136
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 419
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70725548f189ea30800000000000000
+      internalID: 4245067027088306302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_137
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 239
+        width: 383
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b32edcef599bbf70800000000000000
+      internalID: 9204118900736664501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_138
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 443
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b88b39bc8dda0db0800000000000000
+      internalID: -4824800454301218634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_139
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 419
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcb415759fb8a540800000000000000
+      internalID: 5019472433339743487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_140
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 284
+        width: 263
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8ae11255a4cf040800000000000000
+      internalID: 4682699442046806176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_141
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 449
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6533fc70172252700800000000000000
+      internalID: 514855601261458262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_142
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 451
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3b5c942213e7110800000000000000
+      internalID: 1260498969046660026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_143
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 403
+        width: 8
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b59017e1609ab970800000000000000
+      internalID: 8771481974420313522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_144
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 397
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3e00da380744d90800000000000000
+      internalID: -7114437800492997656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_145
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 397
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e045f792d8d5bb40800000000000000
+      internalID: 5455504922633388258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_146
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 397
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70353616f8b79f620800000000000000
+      internalID: 2808411698386653959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_147
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 397
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd4150d18cc90520800000000000000
+      internalID: 2668889112111566324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_148
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 397
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f61d194f2fc9e2a0800000000000000
+      internalID: -6707602367994587406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_149
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 397
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33378885c35bfd620800000000000000
+      internalID: 2801156764035740467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_150
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 397
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0923e73559a1bb0800000000000000
+      internalID: -4964491453390483233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_151
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 397
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6798a018b588ad0800000000000000
+      internalID: -2699807366822922547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_152
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 397
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772e3614b65dbb790800000000000000
+      internalID: -7513176896702258569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_153
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 403
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7931be844cfadc1a0800000000000000
+      internalID: -6787575805805653097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_154
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 427
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c71d2c08e421cb0800000000000000
+      internalID: -4894763530067018662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_155
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 419
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b892ff39d3f14620800000000000000
+      internalID: 2756752561333770420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_156
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 407
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c90955adba6e49a0800000000000000
+      internalID: -6246938270360860220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_157
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 401
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c03b122eb020a40800000000000000
+      internalID: 5332837974615985310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_158
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 423
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d14188e0b0332f0800000000000000
+      internalID: -994438935678280333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_159
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 403
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634ef02fe8d738320800000000000000
+      internalID: 2559027066176529462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_160
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 423
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90d872cdde6dd3e0800000000000000
+      internalID: -2027342358517329763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_161
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 407
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd31d0aa033d9b920800000000000000
+      internalID: 3006666432211391453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_162
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 417
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f0a0e143f12c390800000000000000
+      internalID: -7799637295949541618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_163
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 425
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d78e88f17e7d1ab0800000000000000
+      internalID: -5035729780363851821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_164
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 415
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116745faffc67f690800000000000000
+      internalID: -7568460803358820847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_165
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 415
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92aa1c88169c8c7c0800000000000000
+      internalID: -4050766444076357079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_166
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 415
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65814bc73e26c74d0800000000000000
+      internalID: -3135522511367432106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_167
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 417
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f2341a4438ac4f0800000000000000
+      internalID: -807688852373033162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_168
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 401
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211fd311c3ecdfce0800000000000000
+      internalID: -1369711954268131054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_169
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 417
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fbf034cb00cdb40800000000000000
+      internalID: 5466244856299896694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_170
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 403
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa936ff710c40b70800000000000000
+      internalID: 8864421175873477294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_171
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 407
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016d84897ff5c0ca0800000000000000
+      internalID: -6049354682448947696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_172
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 401
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84abc3bc9b617710800000000000000
+      internalID: 1689249656016184460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_173
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 403
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22f3e946650b8ef0800000000000000
+      internalID: -104984229428596180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_174
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 403
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b593b060d13247d30800000000000000
+      internalID: 4428202941174462811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_175
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 409
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c842e9098eb806c0800000000000000
+      internalID: -4176879158600513340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_176
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 403
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb2f3ae82594f950800000000000000
+      internalID: 6481969766654225334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_177
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 335
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d876ce73f1c8da0800000000000000
+      internalID: -5941339483358655211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_178
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 297
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cc710341d39de40800000000000000
+      internalID: 5681639561820097571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_179
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 297
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a920f04e1da54120800000000000000
+      internalID: 2397512722094762406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_180
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 101
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757a50972764d0e20800000000000000
+      internalID: 3318385957912553303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_181
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 101
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1d7948a2e14dbf0800000000000000
+      internalID: -300582107164978772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_182
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 101
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0bd88bfef63a630800000000000000
+      internalID: 3937113574636105893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_183
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 101
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0b1bc221bb36320800000000000000
+      internalID: 2550087500755480798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cajaataque1_184
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 101
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcc135c2ff78ecd0800000000000000
+      internalID: -2528630510101345071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: abb915380f9b74cb898f42713166ac54
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cajaataque1_0: 8776737751784969805
+      cajaataque1_1: -6057267076800287275
+      cajaataque1_10: 6922373065351220705
+      cajaataque1_100: 6090306756082385886
+      cajaataque1_101: -6787525808822278920
+      cajaataque1_102: 7222582110471273458
+      cajaataque1_103: 7283480411689432106
+      cajaataque1_104: -585698821512341167
+      cajaataque1_105: -63358446607296874
+      cajaataque1_106: -2217551512442230807
+      cajaataque1_107: -3680060255698585805
+      cajaataque1_108: 7057276450179516034
+      cajaataque1_109: -3015161759626719584
+      cajaataque1_11: 497068492917329045
+      cajaataque1_110: 5974865347697961135
+      cajaataque1_111: -2523447536332691610
+      cajaataque1_112: 1514485755292235270
+      cajaataque1_113: 3152859798681865774
+      cajaataque1_114: 1745820311939133455
+      cajaataque1_115: 8157330802280645973
+      cajaataque1_116: -6117771929187046239
+      cajaataque1_117: 2356530999964564147
+      cajaataque1_118: -8321195278100187594
+      cajaataque1_119: 5693900169082275835
+      cajaataque1_12: 6979401273557506058
+      cajaataque1_120: 4697297250169136638
+      cajaataque1_121: -1621111264234780247
+      cajaataque1_122: -8865906171142781058
+      cajaataque1_123: -6452946279369771603
+      cajaataque1_124: 8784468824725920676
+      cajaataque1_125: -94337881950045547
+      cajaataque1_126: 3177399557734814796
+      cajaataque1_127: -3804524455913572858
+      cajaataque1_128: 93733728036237909
+      cajaataque1_129: 930146097502877554
+      cajaataque1_13: -5526123358687301432
+      cajaataque1_130: -160095851158655401
+      cajaataque1_131: -7039096663912527058
+      cajaataque1_132: 2577873559067679599
+      cajaataque1_133: -3573747217195661570
+      cajaataque1_134: -7259056608243514287
+      cajaataque1_135: -369732636650207990
+      cajaataque1_136: 4245067027088306302
+      cajaataque1_137: 9204118900736664501
+      cajaataque1_138: -4824800454301218634
+      cajaataque1_139: 5019472433339743487
+      cajaataque1_14: 7655962504982578434
+      cajaataque1_140: 4682699442046806176
+      cajaataque1_141: 514855601261458262
+      cajaataque1_142: 1260498969046660026
+      cajaataque1_143: 8771481974420313522
+      cajaataque1_144: -7114437800492997656
+      cajaataque1_145: 5455504922633388258
+      cajaataque1_146: 2808411698386653959
+      cajaataque1_147: 2668889112111566324
+      cajaataque1_148: -6707602367994587406
+      cajaataque1_149: 2801156764035740467
+      cajaataque1_15: 1092680086725741577
+      cajaataque1_150: -4964491453390483233
+      cajaataque1_151: -2699807366822922547
+      cajaataque1_152: -7513176896702258569
+      cajaataque1_153: -6787575805805653097
+      cajaataque1_154: -4894763530067018662
+      cajaataque1_155: 2756752561333770420
+      cajaataque1_156: -6246938270360860220
+      cajaataque1_157: 5332837974615985310
+      cajaataque1_158: -994438935678280333
+      cajaataque1_159: 2559027066176529462
+      cajaataque1_16: 6474177199696061316
+      cajaataque1_160: -2027342358517329763
+      cajaataque1_161: 3006666432211391453
+      cajaataque1_162: -7799637295949541618
+      cajaataque1_163: -5035729780363851821
+      cajaataque1_164: -7568460803358820847
+      cajaataque1_165: -4050766444076357079
+      cajaataque1_166: -3135522511367432106
+      cajaataque1_167: -807688852373033162
+      cajaataque1_168: -1369711954268131054
+      cajaataque1_169: 5466244856299896694
+      cajaataque1_17: 8269932755821594688
+      cajaataque1_170: 8864421175873477294
+      cajaataque1_171: -6049354682448947696
+      cajaataque1_172: 1689249656016184460
+      cajaataque1_173: -104984229428596180
+      cajaataque1_174: 4428202941174462811
+      cajaataque1_175: -4176879158600513340
+      cajaataque1_176: 6481969766654225334
+      cajaataque1_177: -5941339483358655211
+      cajaataque1_178: 5681639561820097571
+      cajaataque1_179: 2397512722094762406
+      cajaataque1_18: -3377476202595588955
+      cajaataque1_180: 3318385957912553303
+      cajaataque1_181: -300582107164978772
+      cajaataque1_182: 3937113574636105893
+      cajaataque1_183: 2550087500755480798
+      cajaataque1_184: -2528630510101345071
+      cajaataque1_19: -2964014458868973833
+      cajaataque1_2: -7561032489283984510
+      cajaataque1_20: -6534690490610879443
+      cajaataque1_21: 3991672028254935064
+      cajaataque1_22: 6929533696852797938
+      cajaataque1_23: -5571038623653043822
+      cajaataque1_24: -6161502088634461136
+      cajaataque1_25: 9024594478962901870
+      cajaataque1_26: -731933465754870163
+      cajaataque1_27: 5154767913279850924
+      cajaataque1_28: 9205275007379483870
+      cajaataque1_29: -5354598956849380407
+      cajaataque1_3: -7302792969239616391
+      cajaataque1_30: -1497179624184639626
+      cajaataque1_31: -5797397187765703853
+      cajaataque1_32: -5282835929272917440
+      cajaataque1_33: -1219465193015891677
+      cajaataque1_34: 3722527795858190426
+      cajaataque1_35: -5607163806875587010
+      cajaataque1_36: -644768279225729056
+      cajaataque1_37: -2747248374145937641
+      cajaataque1_38: -6031080598808273233
+      cajaataque1_39: -2858767877045101794
+      cajaataque1_4: -931908279832323855
+      cajaataque1_40: -1775740622968340182
+      cajaataque1_41: -383838028437100725
+      cajaataque1_42: -8861336878269967990
+      cajaataque1_43: -6191234515501083914
+      cajaataque1_44: -5272543815801045017
+      cajaataque1_45: -6590413425784669047
+      cajaataque1_46: -3789099275412939768
+      cajaataque1_47: -108943320178882315
+      cajaataque1_48: -8438789433630855864
+      cajaataque1_49: -2132017205928363064
+      cajaataque1_5: 1606423748585937485
+      cajaataque1_50: -6110867934843588883
+      cajaataque1_51: 4429250378096033906
+      cajaataque1_52: 1591069510839886375
+      cajaataque1_53: 927523466393358690
+      cajaataque1_54: -6561486657081988717
+      cajaataque1_55: -228978483830789904
+      cajaataque1_56: 4263139421054893550
+      cajaataque1_57: -1441465108258089611
+      cajaataque1_58: -918239586943436933
+      cajaataque1_59: 7708734143465953702
+      cajaataque1_6: -3648465225204503116
+      cajaataque1_60: -5800229409720197088
+      cajaataque1_61: 5641311244896397208
+      cajaataque1_62: -8729806494418120924
+      cajaataque1_63: 8442687648648271247
+      cajaataque1_64: 8915189984148195651
+      cajaataque1_65: 5258985291328546217
+      cajaataque1_66: 4713907625663863612
+      cajaataque1_67: 2629585871373213149
+      cajaataque1_68: 8904177981330959399
+      cajaataque1_69: -8094409350301091365
+      cajaataque1_7: -6118265817293661492
+      cajaataque1_70: -1226387436097998941
+      cajaataque1_71: -2263482080709957784
+      cajaataque1_72: 1387173983769075709
+      cajaataque1_73: 481281583119159370
+      cajaataque1_74: 1083618403451478808
+      cajaataque1_75: 1440337283884902665
+      cajaataque1_76: -5971336670620370659
+      cajaataque1_77: 3291055123032362935
+      cajaataque1_78: 863520839349510741
+      cajaataque1_79: 3844797099857294476
+      cajaataque1_8: 7360939363477323544
+      cajaataque1_80: 3719279732167655299
+      cajaataque1_81: 359913770830539774
+      cajaataque1_82: -3154247449868261923
+      cajaataque1_83: -7353294499769272443
+      cajaataque1_84: 6010779769622898227
+      cajaataque1_85: 1663748125966511686
+      cajaataque1_86: 1209373369688466384
+      cajaataque1_87: -1907593884246063596
+      cajaataque1_88: -6442400301753544424
+      cajaataque1_89: 3851930892931186142
+      cajaataque1_9: 1896606133345198339
+      cajaataque1_90: 8160656240059820352
+      cajaataque1_91: -4367433896727479233
+      cajaataque1_92: 4742223378213573034
+      cajaataque1_93: -2487779046941751358
+      cajaataque1_94: -1147441453444942053
+      cajaataque1_95: 8268483428880360016
+      cajaataque1_96: -2280813632437883320
+      cajaataque1_97: -5685132366409557108
+      cajaataque1_98: 1835779314614009250
+      cajaataque1_99: -8317216530078845417
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

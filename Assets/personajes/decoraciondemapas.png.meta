@@ -1,0 +1,1539 @@
+fileFormatVersion: 2
+guid: 22d8317a5a46336a484f4e9b997a5bf4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4020956091034066747
+    second: decoraciondemapas_0
+  - first:
+      213: 1807212202108842952
+    second: decoraciondemapas_1
+  - first:
+      213: 7114004139294775340
+    second: decoraciondemapas_2
+  - first:
+      213: 1677563814734754407
+    second: decoraciondemapas_3
+  - first:
+      213: 5530944241435765803
+    second: decoraciondemapas_4
+  - first:
+      213: -2413184336924121216
+    second: decoraciondemapas_5
+  - first:
+      213: 7823952806422208263
+    second: decoraciondemapas_6
+  - first:
+      213: 942103267593093864
+    second: decoraciondemapas_7
+  - first:
+      213: -8322202471666805527
+    second: decoraciondemapas_8
+  - first:
+      213: -2809840361511525301
+    second: decoraciondemapas_9
+  - first:
+      213: 6931318084804674043
+    second: decoraciondemapas_10
+  - first:
+      213: -152280450582892000
+    second: decoraciondemapas_11
+  - first:
+      213: -3454416663056994336
+    second: decoraciondemapas_12
+  - first:
+      213: -3201757898336411531
+    second: decoraciondemapas_13
+  - first:
+      213: -2078392153846585765
+    second: decoraciondemapas_14
+  - first:
+      213: -9025618684881953816
+    second: decoraciondemapas_15
+  - first:
+      213: 4310468583546773249
+    second: decoraciondemapas_16
+  - first:
+      213: 8664762477444541641
+    second: decoraciondemapas_17
+  - first:
+      213: 242325080745520958
+    second: decoraciondemapas_18
+  - first:
+      213: -1231506679588720056
+    second: decoraciondemapas_19
+  - first:
+      213: -5880725317686745491
+    second: decoraciondemapas_20
+  - first:
+      213: 1905628411707730250
+    second: decoraciondemapas_21
+  - first:
+      213: -2103158108490416129
+    second: decoraciondemapas_22
+  - first:
+      213: 8442675736730843851
+    second: decoraciondemapas_23
+  - first:
+      213: 4253523727078979447
+    second: decoraciondemapas_24
+  - first:
+      213: -8574689274335521368
+    second: decoraciondemapas_25
+  - first:
+      213: 5482660890323125449
+    second: decoraciondemapas_26
+  - first:
+      213: 2474215648038473751
+    second: decoraciondemapas_27
+  - first:
+      213: -8914717352866140882
+    second: decoraciondemapas_28
+  - first:
+      213: 3121831011115888656
+    second: decoraciondemapas_29
+  - first:
+      213: -8347243892105549710
+    second: decoraciondemapas_30
+  - first:
+      213: 1315198176864597892
+    second: decoraciondemapas_31
+  - first:
+      213: 5064527368416404061
+    second: decoraciondemapas_32
+  - first:
+      213: 3842533699981196719
+    second: decoraciondemapas_33
+  - first:
+      213: -1996873885993655513
+    second: decoraciondemapas_34
+  - first:
+      213: -6472559896346235498
+    second: decoraciondemapas_35
+  - first:
+      213: 1688373455879762270
+    second: decoraciondemapas_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: decoraciondemapas_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 667
+        width: 206
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f5787c24e4dc730800000000000000
+      internalID: 4020956091034066747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 699
+        width: 115
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3f27c3ce1841910800000000000000
+      internalID: 1807212202108842952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 619
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28d255b2150ab260800000000000000
+      internalID: 7114004139294775340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 633
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7627051c667e74710800000000000000
+      internalID: 1677563814734754407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 632
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c654fbb7cd1cc40800000000000000
+      internalID: 5530944241435765803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 599
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087e91491a5a28ed0800000000000000
+      internalID: -2413184336924121216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_6
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 639
+        width: 85
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f5736df93449c60800000000000000
+      internalID: 7823952806422208263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_7
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 637
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e20f9e2ee5031d00800000000000000
+      internalID: 942103267593093864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 549
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e41c67e1f8918c80800000000000000
+      internalID: -8322202471666805527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 544
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44ec8014117109d0800000000000000
+      internalID: -2809840361511525301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 548
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1060e031df03060800000000000000
+      internalID: 6931318084804674043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 549
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02235ccacbdf2edf0800000000000000
+      internalID: -152280450582892000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 549
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef2c44e8527f00d0800000000000000
+      internalID: -3454416663056994336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 544
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5706bd4b7221193d0800000000000000
+      internalID: -3201757898336411531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_14
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 550
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56e30e09511823e0800000000000000
+      internalID: -2078392153846585765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_15
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 548
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb9b7930af8eb280800000000000000
+      internalID: -9025618684881953816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_16
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 646
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f59c1c65cd1db30800000000000000
+      internalID: 4310468583546773249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_17
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 545
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc273bb09b6f3870800000000000000
+      internalID: 8664762477444541641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_18
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 549
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f21068069ec5300800000000000000
+      internalID: 242325080745520958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_19
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 549
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842f790233fc8eee0800000000000000
+      internalID: -1231506679588720056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 637
+        width: 74
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66a2a12b77736ea0800000000000000
+      internalID: -5880725317686745491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 507
+        width: 101
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a492bb9a1f6227a10800000000000000
+      internalID: 1905628411707730250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_22
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 610
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 13.056931, y: 1.795105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff32f4e7d410d2e0800000000000000
+      internalID: -2103158108490416129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 434
+        width: 73
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcab6a1f9d86a2570800000000000000
+      internalID: 8442675736730843851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 416
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777fc3c2b4d870b30800000000000000
+      internalID: 4253523727078979447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_25
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 630
+        width: 75
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a511ef1985900980800000000000000
+      internalID: -8574689274335521368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_26
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 376
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c403a70803561c40800000000000000
+      internalID: 5482660890323125449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_27
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 324
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710db0fd50e265220800000000000000
+      internalID: 2474215648038473751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_28
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 638
+        width: 91
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d276dbccf884480800000000000000
+      internalID: -8914717352866140882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_29
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 303
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0107c52b3c8f25b20800000000000000
+      internalID: 3121831011115888656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_30
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 320
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278ef7dd7e1a82c80800000000000000
+      internalID: -8347243892105549710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_31
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 634
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487714d06c5804210800000000000000
+      internalID: 1315198176864597892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 248
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5224bdfec0d84640800000000000000
+      internalID: 5064527368416404061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_33
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 252
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadb8d0aa0c635530800000000000000
+      internalID: 3842533699981196719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_34
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 204
+        width: 108
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7232814d7cda944e0800000000000000
+      internalID: -1996873885993655513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_35
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 70
+        width: 185
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69de7de3119dc26a0800000000000000
+      internalID: -6472559896346235498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_36
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 85
+        width: 116
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5179e576be4e6710800000000000000
+      internalID: 1688373455879762270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_37
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 439
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7363569cf7a3ce94c87e34c6cf23ba6f
+      internalID: 1941269236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_38
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 438
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0967f961ef9888e34a4768d4af39512e
+      internalID: -758349264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_39
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 441
+        width: 59
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed253df03adee657eb2953b01ea51f54
+      internalID: 1208721522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_40
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 378
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325b120d1795022d9a583257e7ffacab
+      internalID: 1654558933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_41
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 378
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adcf976afbf4a7baa825ced30d09133
+      internalID: 969727734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_42
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 383
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c727aa3d9399a3296ceedc9fbb4663
+      internalID: 2064491236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_43
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 383
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5613dcf0ee6c96cf7a35e074c0396a45
+      internalID: 2069147352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_44
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 383
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6c6823ce82a608da6cac5bbad1495d
+      internalID: 1694405146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_45
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 548
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b105121db9f2dd0038c73c3e55c5fc69
+      internalID: 952689246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_46
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 548
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1765bd45c83df4adbd602c58dfb1e0b
+      internalID: -1106148513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_47
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 554
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bba86504a9cfb17835ce44d7b3e49f
+      internalID: -1089417158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_48
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 551
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fed1af2144cc507895c932a5b118ba
+      internalID: -1260596548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_49
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 591
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618d5febe07fe79d78ddfe81b4e471bb
+      internalID: 2011536544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_50
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 591
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754023ba8b05ad581a4adb3eb0bc9d2e
+      internalID: -262472939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_51
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 598
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb72f9ddafaafe8fbe88608a6c85cca
+      internalID: -972451973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_52
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 599
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae510a6e4594c7db2b737a970f24189f
+      internalID: -795733268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_53
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 599
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67186f1f3bc1004aa87d5003dc2833f
+      internalID: -668763427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_54
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 156
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be84bcae20f2a2e8be53d905e5bfbb3
+      internalID: 1473634839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_55
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 204
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d567338c8f0a6cab8551550efd3c39
+      internalID: 1468333106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoraciondemapas_56
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 157
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e4cd216a29b73dbb4d05c2ec231e1a
+      internalID: 1043092310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cbc7889ab77ef1aa4a5ea2e93da6bef1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      decoraciondemapas_0: 4020956091034066747
+      decoraciondemapas_1: 1807212202108842952
+      decoraciondemapas_10: 6931318084804674043
+      decoraciondemapas_11: -152280450582892000
+      decoraciondemapas_12: -3454416663056994336
+      decoraciondemapas_13: -3201757898336411531
+      decoraciondemapas_14: -2078392153846585765
+      decoraciondemapas_15: -9025618684881953816
+      decoraciondemapas_16: 4310468583546773249
+      decoraciondemapas_17: 8664762477444541641
+      decoraciondemapas_18: 242325080745520958
+      decoraciondemapas_19: -1231506679588720056
+      decoraciondemapas_2: 7114004139294775340
+      decoraciondemapas_20: -5880725317686745491
+      decoraciondemapas_21: 1905628411707730250
+      decoraciondemapas_22: -2103158108490416129
+      decoraciondemapas_23: 8442675736730843851
+      decoraciondemapas_24: 4253523727078979447
+      decoraciondemapas_25: -8574689274335521368
+      decoraciondemapas_26: 5482660890323125449
+      decoraciondemapas_27: 2474215648038473751
+      decoraciondemapas_28: -8914717352866140882
+      decoraciondemapas_29: 3121831011115888656
+      decoraciondemapas_3: 1677563814734754407
+      decoraciondemapas_30: -8347243892105549710
+      decoraciondemapas_31: 1315198176864597892
+      decoraciondemapas_32: 5064527368416404061
+      decoraciondemapas_33: 3842533699981196719
+      decoraciondemapas_34: -1996873885993655513
+      decoraciondemapas_35: -6472559896346235498
+      decoraciondemapas_36: 1688373455879762270
+      decoraciondemapas_37: 1941269236
+      decoraciondemapas_38: -758349264
+      decoraciondemapas_39: 1208721522
+      decoraciondemapas_4: 5530944241435765803
+      decoraciondemapas_40: 1654558933
+      decoraciondemapas_41: 969727734
+      decoraciondemapas_42: 2064491236
+      decoraciondemapas_43: 2069147352
+      decoraciondemapas_44: 1694405146
+      decoraciondemapas_45: 952689246
+      decoraciondemapas_46: -1106148513
+      decoraciondemapas_47: -1089417158
+      decoraciondemapas_48: -1260596548
+      decoraciondemapas_49: 2011536544
+      decoraciondemapas_5: -2413184336924121216
+      decoraciondemapas_50: -262472939
+      decoraciondemapas_51: -972451973
+      decoraciondemapas_52: -795733268
+      decoraciondemapas_53: -668763427
+      decoraciondemapas_54: 1473634839
+      decoraciondemapas_55: 1468333106
+      decoraciondemapas_56: 1043092310
+      decoraciondemapas_6: 7823952806422208263
+      decoraciondemapas_7: 942103267593093864
+      decoraciondemapas_8: -8322202471666805527
+      decoraciondemapas_9: -2809840361511525301
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

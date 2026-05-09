@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: bd762477f3ea01b77a7235f7359f0ab9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2088930644192238387
+    second: mordeka_0
+  - first:
+      213: 7704827908554549455
+    second: mordeka_1
+  - first:
+      213: 3081783855500673612
+    second: mordeka_2
+  - first:
+      213: -7380100200035456750
+    second: mordeka_3
+  - first:
+      213: 5396067614537628979
+    second: mordeka_4
+  - first:
+      213: -7745983926778846721
+    second: mordeka_5
+  - first:
+      213: 3184953526673815931
+    second: mordeka_6
+  - first:
+      213: 3701609839000817203
+    second: mordeka_7
+  - first:
+      213: 3522815421957861722
+    second: mordeka_8
+  - first:
+      213: -7583459722481968137
+    second: mordeka_9
+  - first:
+      213: -1109146128498197815
+    second: mordeka_10
+  - first:
+      213: -1317088064950546389
+    second: mordeka_11
+  - first:
+      213: -5916617677642625856
+    second: mordeka_12
+  - first:
+      213: -2837496234425907234
+    second: mordeka_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mordeka_0
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1172
+        width: 906
+        height: 726
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc46e7095a0a203e0800000000000000
+      internalID: -2088930644192238387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mordeka_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1175
+        width: 338
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8e8e0392c0dea60800000000000000
+      internalID: 7704827908554549455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mordeka_2
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1171
+        width: 926
+        height: 727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42c6ada612b4ca20800000000000000
+      internalID: 3081783855500673612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mordeka_3
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1175
+        width: 338
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219e81238fd949990800000000000000
+      internalID: -7380100200035456750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mordeka_4
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 1171
+        width: 895
+        height: 734
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d3184e7eea2ea40800000000000000
+      internalID: 5396067614537628979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mordeka_5
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 1175
+        width: 338
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1267898acb08490800000000000000
+      internalID: -7745983926778846721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mordeka_6
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 1172
+        width: 874
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79358f9b5a333c20800000000000000
+      internalID: 3184953526673815931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mordeka_7
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1175
+        width: 324
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e0cbe5982ce5330800000000000000
+      internalID: 3701609839000817203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mordeka_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 123
+        width: 869
+        height: 732
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51f01b26fd83e030800000000000000
+      internalID: 3522815421957861722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mordeka_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 132
+        width: 310
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbdaf0bf8322c690800000000000000
+      internalID: -7583459722481968137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mordeka_10
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 123
+        width: 905
+        height: 718
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca7ddef8758b90f0800000000000000
+      internalID: -1109146128498197815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mordeka_11
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 132
+        width: 310
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2057b61263c8bde0800000000000000
+      internalID: -1317088064950546389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mordeka_12
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 120
+        width: 873
+        height: 728
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc805cd193f3eda0800000000000000
+      internalID: -5916617677642625856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mordeka_13
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 125
+        width: 324
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7098f55303f98d0800000000000000
+      internalID: -2837496234425907234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 70c8e5bee002fb5488bbca87389c3135
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mordeka_0: -2088930644192238387
+      mordeka_1: 7704827908554549455
+      mordeka_10: -1109146128498197815
+      mordeka_11: -1317088064950546389
+      mordeka_12: -5916617677642625856
+      mordeka_13: -2837496234425907234
+      mordeka_2: 3081783855500673612
+      mordeka_3: -7380100200035456750
+      mordeka_4: 5396067614537628979
+      mordeka_5: -7745983926778846721
+      mordeka_6: 3184953526673815931
+      mordeka_7: 3701609839000817203
+      mordeka_8: 3522815421957861722
+      mordeka_9: -7583459722481968137
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

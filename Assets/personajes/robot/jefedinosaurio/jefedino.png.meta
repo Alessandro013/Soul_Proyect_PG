@@ -1,0 +1,4771 @@
+fileFormatVersion: 2
+guid: 087d36dd2731b933eba504bc052a525b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1655531334352574528
+    second: jefedino_0
+  - first:
+      213: -5089770362965345689
+    second: jefedino_1
+  - first:
+      213: -4952965961235205511
+    second: jefedino_2
+  - first:
+      213: -855481717524501912
+    second: jefedino_3
+  - first:
+      213: -1627326850883250712
+    second: jefedino_4
+  - first:
+      213: -1687782015532415579
+    second: jefedino_5
+  - first:
+      213: 2316059444308744192
+    second: jefedino_6
+  - first:
+      213: 2779328674427527085
+    second: jefedino_7
+  - first:
+      213: 5840590095636613694
+    second: jefedino_8
+  - first:
+      213: -4948996170851305203
+    second: jefedino_9
+  - first:
+      213: -6749344833094636010
+    second: jefedino_10
+  - first:
+      213: -6415953267324095897
+    second: jefedino_11
+  - first:
+      213: -6221438787347456014
+    second: jefedino_12
+  - first:
+      213: 3747385940288523039
+    second: jefedino_13
+  - first:
+      213: -3892298945217367717
+    second: jefedino_14
+  - first:
+      213: 837727568107397250
+    second: jefedino_15
+  - first:
+      213: 805061630616137370
+    second: jefedino_16
+  - first:
+      213: 7829082756127519986
+    second: jefedino_17
+  - first:
+      213: 8056293084722569654
+    second: jefedino_18
+  - first:
+      213: 4499245177556234634
+    second: jefedino_19
+  - first:
+      213: 6226815687661740741
+    second: jefedino_20
+  - first:
+      213: 8019628800352734490
+    second: jefedino_21
+  - first:
+      213: -6944098366450372750
+    second: jefedino_22
+  - first:
+      213: -5431230082417777768
+    second: jefedino_23
+  - first:
+      213: -885653187737077171
+    second: jefedino_24
+  - first:
+      213: 7919603924504984176
+    second: jefedino_25
+  - first:
+      213: 438591791980912010
+    second: jefedino_26
+  - first:
+      213: -7683386932934440647
+    second: jefedino_27
+  - first:
+      213: 6360958948292967536
+    second: jefedino_28
+  - first:
+      213: 8667318461207116681
+    second: jefedino_29
+  - first:
+      213: 7381307425388305802
+    second: jefedino_30
+  - first:
+      213: -2393272643339183487
+    second: jefedino_31
+  - first:
+      213: 768788760964580122
+    second: jefedino_32
+  - first:
+      213: -6119174715328474896
+    second: jefedino_33
+  - first:
+      213: 4551667102755073734
+    second: jefedino_34
+  - first:
+      213: -2382494748742659534
+    second: jefedino_35
+  - first:
+      213: -8660706848616407062
+    second: jefedino_36
+  - first:
+      213: 2265340656343217528
+    second: jefedino_37
+  - first:
+      213: -1463110838579214107
+    second: jefedino_38
+  - first:
+      213: 3947760673015874908
+    second: jefedino_39
+  - first:
+      213: 2712874738579068044
+    second: jefedino_40
+  - first:
+      213: 7993979747410444072
+    second: jefedino_41
+  - first:
+      213: 6041910481336885366
+    second: jefedino_42
+  - first:
+      213: -2668002462514631896
+    second: jefedino_43
+  - first:
+      213: 7443228928443500905
+    second: jefedino_44
+  - first:
+      213: -7264223966902468994
+    second: jefedino_45
+  - first:
+      213: 2199263157948517602
+    second: jefedino_46
+  - first:
+      213: 7213569758209064291
+    second: jefedino_47
+  - first:
+      213: -2968607777342073612
+    second: jefedino_48
+  - first:
+      213: 7262634702899472847
+    second: jefedino_49
+  - first:
+      213: -1135811819741631448
+    second: jefedino_50
+  - first:
+      213: 5816209477742962677
+    second: jefedino_51
+  - first:
+      213: 5469473993612581302
+    second: jefedino_52
+  - first:
+      213: 4603002955604342602
+    second: jefedino_53
+  - first:
+      213: 1364979864374279673
+    second: jefedino_54
+  - first:
+      213: -465734415578308098
+    second: jefedino_55
+  - first:
+      213: 7718513248875162199
+    second: jefedino_56
+  - first:
+      213: -1689086988170265937
+    second: jefedino_57
+  - first:
+      213: -1203442142681910056
+    second: jefedino_58
+  - first:
+      213: 1652811197338953613
+    second: jefedino_59
+  - first:
+      213: -2386283985609109255
+    second: jefedino_60
+  - first:
+      213: 7668372382733297996
+    second: jefedino_61
+  - first:
+      213: -4637487833038653920
+    second: jefedino_62
+  - first:
+      213: -6717568252655116256
+    second: jefedino_63
+  - first:
+      213: 4391935321307624195
+    second: jefedino_64
+  - first:
+      213: -3420736947619523735
+    second: jefedino_65
+  - first:
+      213: -3737456815566205570
+    second: jefedino_66
+  - first:
+      213: -4372074031362637576
+    second: jefedino_67
+  - first:
+      213: 4191606706477996144
+    second: jefedino_68
+  - first:
+      213: -5820320496534959437
+    second: jefedino_69
+  - first:
+      213: 7630095294653342705
+    second: jefedino_70
+  - first:
+      213: -6876337229044467782
+    second: jefedino_71
+  - first:
+      213: -8310471009485405538
+    second: jefedino_72
+  - first:
+      213: -2570867420411059772
+    second: jefedino_73
+  - first:
+      213: -6270015457873768617
+    second: jefedino_74
+  - first:
+      213: -8154091083399374740
+    second: jefedino_75
+  - first:
+      213: -5487960241813208400
+    second: jefedino_76
+  - first:
+      213: -815530380309290505
+    second: jefedino_77
+  - first:
+      213: 7310564433532282210
+    second: jefedino_78
+  - first:
+      213: -764166796480008505
+    second: jefedino_79
+  - first:
+      213: 1619598919804222382
+    second: jefedino_80
+  - first:
+      213: -4936349295780130076
+    second: jefedino_81
+  - first:
+      213: 30727011139673347
+    second: jefedino_82
+  - first:
+      213: 4240565722612751060
+    second: jefedino_83
+  - first:
+      213: -4898780737543848663
+    second: jefedino_84
+  - first:
+      213: -625305243922193121
+    second: jefedino_85
+  - first:
+      213: 4531762380556054504
+    second: jefedino_86
+  - first:
+      213: -250666952325394563
+    second: jefedino_87
+  - first:
+      213: 3083206908172935337
+    second: jefedino_88
+  - first:
+      213: -5791789912063178913
+    second: jefedino_89
+  - first:
+      213: 4429521059666953819
+    second: jefedino_90
+  - first:
+      213: 760870424952464822
+    second: jefedino_91
+  - first:
+      213: -4237654307597208739
+    second: jefedino_92
+  - first:
+      213: 2357400950742037170
+    second: jefedino_93
+  - first:
+      213: -5083813777216402090
+    second: jefedino_94
+  - first:
+      213: -7189321129281418910
+    second: jefedino_95
+  - first:
+      213: 1585183124676085205
+    second: jefedino_96
+  - first:
+      213: -2683959696352625326
+    second: jefedino_97
+  - first:
+      213: -441766648038829920
+    second: jefedino_98
+  - first:
+      213: -1355083461360157969
+    second: jefedino_99
+  - first:
+      213: -7333588974578971087
+    second: jefedino_100
+  - first:
+      213: -8515322406506518571
+    second: jefedino_101
+  - first:
+      213: 2600133052435587917
+    second: jefedino_102
+  - first:
+      213: 3367495190655730637
+    second: jefedino_103
+  - first:
+      213: 5935056800514638295
+    second: jefedino_104
+  - first:
+      213: -7873798896873966439
+    second: jefedino_105
+  - first:
+      213: -93045632811886884
+    second: jefedino_106
+  - first:
+      213: 1296441957511029276
+    second: jefedino_107
+  - first:
+      213: -3154864382527497911
+    second: jefedino_108
+  - first:
+      213: 8172891471795567108
+    second: jefedino_109
+  - first:
+      213: -3256039251169513446
+    second: jefedino_110
+  - first:
+      213: 3253656023806734794
+    second: jefedino_111
+  - first:
+      213: 8817185632801950499
+    second: jefedino_112
+  - first:
+      213: 6993408809969813903
+    second: jefedino_113
+  - first:
+      213: 9221056955028523687
+    second: jefedino_114
+  - first:
+      213: -4116149750913020406
+    second: jefedino_115
+  - first:
+      213: 2824641840422429969
+    second: jefedino_116
+  - first:
+      213: 1190271236372276690
+    second: jefedino_117
+  - first:
+      213: 6220797632734955248
+    second: jefedino_118
+  - first:
+      213: 3894365705791529035
+    second: jefedino_119
+  - first:
+      213: -759277057312967162
+    second: jefedino_120
+  - first:
+      213: -3890189734670607872
+    second: jefedino_121
+  - first:
+      213: -71746256713917158
+    second: jefedino_122
+  - first:
+      213: 6609356547448843538
+    second: jefedino_123
+  - first:
+      213: -1542168850357210802
+    second: jefedino_124
+  - first:
+      213: -6097120242161361259
+    second: jefedino_125
+  - first:
+      213: -5193253133794294783
+    second: jefedino_126
+  - first:
+      213: -8573350715947932917
+    second: jefedino_127
+  - first:
+      213: -5691992625047440440
+    second: jefedino_128
+  - first:
+      213: -8863056237440484273
+    second: jefedino_129
+  - first:
+      213: -5196720075480176683
+    second: jefedino_130
+  - first:
+      213: -8281312586323277123
+    second: jefedino_131
+  - first:
+      213: 2886151357910206073
+    second: jefedino_132
+  - first:
+      213: 7428749645684885770
+    second: jefedino_133
+  - first:
+      213: 2198593912030123370
+    second: jefedino_134
+  - first:
+      213: -1322006878098772322
+    second: jefedino_135
+  - first:
+      213: -806086454997894428
+    second: jefedino_136
+  - first:
+      213: 1817444891217465192
+    second: jefedino_137
+  - first:
+      213: -5781015656201205406
+    second: jefedino_138
+  - first:
+      213: 1130050953777137523
+    second: jefedino_139
+  - first:
+      213: 1493471656773992665
+    second: jefedino_140
+  - first:
+      213: -5005166295782722693
+    second: jefedino_141
+  - first:
+      213: -1359721967864697229
+    second: jefedino_142
+  - first:
+      213: 8899074851425826855
+    second: jefedino_143
+  - first:
+      213: -712332542324024383
+    second: jefedino_144
+  - first:
+      213: -9042542695556051141
+    second: jefedino_145
+  - first:
+      213: 3419517317165468252
+    second: jefedino_146
+  - first:
+      213: 8706925948027302930
+    second: jefedino_147
+  - first:
+      213: -4113990365556896230
+    second: jefedino_148
+  - first:
+      213: -2941385560227354853
+    second: jefedino_149
+  - first:
+      213: -3773779962213719975
+    second: jefedino_150
+  - first:
+      213: -1870938862615242681
+    second: jefedino_151
+  - first:
+      213: -3824152868687482736
+    second: jefedino_152
+  - first:
+      213: 8040909235271194443
+    second: jefedino_153
+  - first:
+      213: 8693975899153027524
+    second: jefedino_154
+  - first:
+      213: -6302032928967555799
+    second: jefedino_155
+  - first:
+      213: -1632686485641845856
+    second: jefedino_156
+  - first:
+      213: -4883722320400128182
+    second: jefedino_157
+  - first:
+      213: -792193107453839218
+    second: jefedino_158
+  - first:
+      213: 4862039791469400767
+    second: jefedino_159
+  - first:
+      213: -8247323195025869605
+    second: jefedino_160
+  - first:
+      213: -4989356933520805978
+    second: jefedino_161
+  - first:
+      213: 8692468762711119924
+    second: jefedino_162
+  - first:
+      213: 5359410571916218854
+    second: jefedino_163
+  - first:
+      213: 6080783872141085233
+    second: jefedino_164
+  - first:
+      213: 1401691195881272074
+    second: jefedino_165
+  - first:
+      213: -9174321002952799445
+    second: jefedino_166
+  - first:
+      213: -753708384443839795
+    second: jefedino_167
+  - first:
+      213: -8078737451636381682
+    second: jefedino_168
+  - first:
+      213: 5507074131741594613
+    second: jefedino_169
+  - first:
+      213: -5642979983128806087
+    second: jefedino_170
+  - first:
+      213: 3497854038108807972
+    second: jefedino_171
+  - first:
+      213: -3204730121176448165
+    second: jefedino_172
+  - first:
+      213: 6149176759931452495
+    second: jefedino_173
+  - first:
+      213: 5985096028636404775
+    second: jefedino_174
+  - first:
+      213: -6488455834804837249
+    second: jefedino_175
+  - first:
+      213: -6792256718778485616
+    second: jefedino_176
+  - first:
+      213: -1281075002453767289
+    second: jefedino_177
+  - first:
+      213: -5385857895873335153
+    second: jefedino_178
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jefedino_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 5659
+        width: 270
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7e265d50f5609e0800000000000000
+      internalID: -1655531334352574528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_1
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 5659
+        width: 282
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ab32752d08d59b0800000000000000
+      internalID: -5089770362965345689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_2
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 5659
+        width: 278
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97279ff33b7834bb0800000000000000
+      internalID: -4952965961235205511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_3
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 5659
+        width: 258
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a6c1319e7b024f0800000000000000
+      internalID: -855481717524501912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_4
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 5659
+        width: 266
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e516afd9d29a69e0800000000000000
+      internalID: -1627326850883250712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_5
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 5659
+        width: 278
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5c5e9f23bc398e0800000000000000
+      internalID: -1687782015532415579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 5259
+        width: 274
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00816b82bcb442020800000000000000
+      internalID: 2316059444308744192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_7
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 5259
+        width: 226
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf5f4134b8229620800000000000000
+      internalID: 2779328674427527085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_8
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 5259
+        width: 234
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ac5194fb1fd0150800000000000000
+      internalID: 5840590095636613694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_9
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 5259
+        width: 242
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09b3a91432a15bb0800000000000000
+      internalID: -4948996170851305203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_10
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 5259
+        width: 254
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ea6c442a28552a0800000000000000
+      internalID: -6749344833094636010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_11
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 5259
+        width: 270
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762f3ad1f74f5f6a0800000000000000
+      internalID: -6415953267324095897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 4859
+        width: 282
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff5150b26209a9a0800000000000000
+      internalID: -6221438787347456014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_13
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 4859
+        width: 278
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bc03f78a3610430800000000000000
+      internalID: 3747385940288523039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_14
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 4859
+        width: 258
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51f0ba4bb6cbf9c0800000000000000
+      internalID: -3892298945217367717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_15
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 4859
+        width: 266
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280e793e8c430ab00800000000000000
+      internalID: 837727568107397250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_16
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 4859
+        width: 278
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9eeb23a9472c2b00800000000000000
+      internalID: 805061630616137370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_17
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 4859
+        width: 274
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4fd14594d76ac60800000000000000
+      internalID: 7829082756127519986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 4459
+        width: 226
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1235160e3bdcf60800000000000000
+      internalID: 8056293084722569654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_19
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 4459
+        width: 234
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81f0a5a6a7807e30800000000000000
+      internalID: 4499245177556234634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_20
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 4459
+        width: 242
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c268e870e71a6650800000000000000
+      internalID: 6226815687661740741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_21
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 4459
+        width: 254
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d448377e17b4f60800000000000000
+      internalID: 8019628800352734490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_22
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 4459
+        width: 254
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fea5eb35b91af90800000000000000
+      internalID: -6944098366450372750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_23
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 4475
+        width: 294
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893a214140560a4b0800000000000000
+      internalID: -5431230082417777768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 4071
+        width: 294
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a3dbe3e1785b3f0800000000000000
+      internalID: -885653187737077171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_25
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 4071
+        width: 282
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ab8e93fc518ed60800000000000000
+      internalID: 7919603924504984176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_26
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 4063
+        width: 270
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d9c6a39e0361600800000000000000
+      internalID: 438591791980912010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_27
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 4067
+        width: 294
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9398096fa402f5590800000000000000
+      internalID: -7683386932934440647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_28
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 4063
+        width: 294
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c38df267aa64850800000000000000
+      internalID: 6360958948292967536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_29
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 4063
+        width: 282
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b7f631830884870800000000000000
+      internalID: 8667318461207116681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_30
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 3663
+        width: 270
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d193cdefbaf6660800000000000000
+      internalID: 7381307425388305802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_31
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 3675
+        width: 294
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a9b13063369ced0800000000000000
+      internalID: -2393272643339183487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_32
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 3671
+        width: 294
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a134b9c0e494baa00800000000000000
+      internalID: 768788760964580122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_33
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 3671
+        width: 282
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f05b466403541ba0800000000000000
+      internalID: -6119174715328474896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_34
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 3663
+        width: 270
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce2c8b3d15ca2f30800000000000000
+      internalID: 4551667102755073734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_35
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 3667
+        width: 294
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232d5f526adafeed0800000000000000
+      internalID: -2382494748742659534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_36
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3263
+        width: 294
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef1d60f10dfec780800000000000000
+      internalID: -8660706848616407062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_37
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 3263
+        width: 282
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875769c135b107f10800000000000000
+      internalID: 2265340656343217528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_38
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 3263
+        width: 270
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e84677b17cf1bbe0800000000000000
+      internalID: -1463110838579214107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_39
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 3259
+        width: 250
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c554e5d7a6349c630800000000000000
+      internalID: 3947760673015874908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_40
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 3259
+        width: 230
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84d229833116a520800000000000000
+      internalID: 2712874738579068044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_41
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 3259
+        width: 338
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ff012f93250fe60800000000000000
+      internalID: 7993979747410444072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2859
+        width: 362
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6706bc4429d29d350800000000000000
+      internalID: 6041910481336885366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_43
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2859
+        width: 347
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ba2f165e959fad0800000000000000
+      internalID: -2668002462514631896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_44
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2859
+        width: 311
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96949c54649ab4760800000000000000
+      internalID: 7443228928443500905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_45
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 2859
+        width: 334
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e36e32aca403b90800000000000000
+      internalID: -7264223966902468994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_46
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 2859
+        width: 336
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec0021a03a558e10800000000000000
+      internalID: 2199263157948517602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_47
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 3035
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d3d88d97fbb1460800000000000000
+      internalID: 7213569758209064291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_48
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 3035
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4501274f26dc6d0800000000000000
+      internalID: -2968607777342073612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_49
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2959
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc96fbf78cf0ac460800000000000000
+      internalID: 7262634702899472847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_50
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 2995
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c2c90fa29cc30f0800000000000000
+      internalID: -1135811819741631448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_51
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 2979
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7212454b357b050800000000000000
+      internalID: 5816209477742962677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_52
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 2859
+        width: 313
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9d3816e9977eb40800000000000000
+      internalID: 5469473993612581302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_53
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 2967
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47bed4ecc621ef30800000000000000
+      internalID: 4603002955604342602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_54
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 2967
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdf69564f161f210800000000000000
+      internalID: 1364979864374279673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_55
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 2959
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1e7cf34016989f0800000000000000
+      internalID: -465734415578308098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_56
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 2927
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75aa959c7eaad1b60800000000000000
+      internalID: 7718513248875162199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_57
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2459
+        width: 303
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa706b55582f88e0800000000000000
+      internalID: -1689086988170265937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_58
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2583
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4b5b15fb38c4fe0800000000000000
+      internalID: -1203442142681910056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_59
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 2459
+        width: 298
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d872d2ae607ffe610800000000000000
+      internalID: 1652811197338953613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_60
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2623
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0d090bb5732eed0800000000000000
+      internalID: -2386283985609109255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_61
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 2615
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49eb36ad088b6a60800000000000000
+      internalID: 7668372382733297996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_62
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 2627
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026f885e26554afb0800000000000000
+      internalID: -4637487833038653920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_63
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 2627
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020ec02f34766c2a0800000000000000
+      internalID: -6717568252655116256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_64
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 2423
+        width: 226
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303380fb7e943fc30800000000000000
+      internalID: 4391935321307624195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_65
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 2423
+        width: 238
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9639517bed91780d0800000000000000
+      internalID: -3420736947619523735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_66
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 2611
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d40d004d2e12cc0800000000000000
+      internalID: -3737456815566205570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_67
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 2455
+        width: 298
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f08bec25d54353c0800000000000000
+      internalID: -4372074031362637576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_68
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 2435
+        width: 206
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07814c967149b2a30800000000000000
+      internalID: 4191606706477996144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_69
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 2595
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bacb1588511a3fa0800000000000000
+      internalID: -5820320496534959437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_70
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 2591
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f321389e3b83e960800000000000000
+      internalID: 7630095294653342705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_71
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2595
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7b20bf8b75290a0800000000000000
+      internalID: -6876337229044467782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_72
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2571
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92c07bc5a64bac80800000000000000
+      internalID: -8310471009485405538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_73
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 2575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c126c1c3b1725cd0800000000000000
+      internalID: -2570867420411059772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_74
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fc939392e6cf8a0800000000000000
+      internalID: -6270015457873768617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_75
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2543
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68dcc3ac59d6de80800000000000000
+      internalID: -8154091083399374740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_76
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 2543
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2c14d8c39d6d3b0800000000000000
+      internalID: -5487960241813208400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_77
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 2547
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f12022a077aea4f0800000000000000
+      internalID: -815530380309290505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_78
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2515
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265eb488e97547560800000000000000
+      internalID: 7310564433532282210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_79
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2515
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce29aae8522565f0800000000000000
+      internalID: -764166796480008505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_80
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 2523
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab7985f2a8f97610800000000000000
+      internalID: 1619598919804222382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_81
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 2020
+        width: 331
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e296c928709e7bb0800000000000000
+      internalID: -4936349295780130076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_82
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 2027
+        width: 334
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d5df7cd0a2d6000800000000000000
+      internalID: 30727011139673347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_83
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 2351
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dad707ae0489da30800000000000000
+      internalID: 4240565722612751060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_84
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 2375
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d3c22cfd8040cb0800000000000000
+      internalID: -4898780737543848663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_85
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 2355
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1524d391387257f0800000000000000
+      internalID: -625305243922193121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_86
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 2375
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efa583ffdd04ee30800000000000000
+      internalID: 4531762380556054504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_87
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 2359
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f07b52cb3758cf0800000000000000
+      internalID: -250666952325394563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_88
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 2375
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0ada2f850c9ca20800000000000000
+      internalID: 3083206908172935337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_89
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 2371
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5788cdd2cd6f9fa0800000000000000
+      internalID: -5791789912063178913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_90
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 2367
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b568f866fe1d87d30800000000000000
+      internalID: 4429521059666953819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_91
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 2367
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b56467ce972f8a00800000000000000
+      internalID: 760870424952464822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_92
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 2367
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53b3cafbd3d035c0800000000000000
+      internalID: -4237654307597208739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_93
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 2367
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2b526bcab27b020800000000000000
+      internalID: 2357400950742037170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_94
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 2363
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d87c80e4aa279b0800000000000000
+      internalID: -5083813777216402090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_95
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 2367
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26988f806866a3c90800000000000000
+      internalID: -7189321129281418910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_96
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 2339
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5034a37a3bff510800000000000000
+      internalID: 1585183124676085205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_97
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 2351
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dbf6b50e8a0cad0800000000000000
+      internalID: -2683959696352625326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_98
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 2359
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0d70ef2978ed9f0800000000000000
+      internalID: -441766648038829920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_99
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 2347
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feafe9c75c6c13de0800000000000000
+      internalID: -1355083461360157969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_100
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 2355
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ecf71ceabd93a90800000000000000
+      internalID: -7333588974578971087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_101
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 2347
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7214c236f73d980800000000000000
+      internalID: -8515322406506518571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_102
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 2343
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43ec2f2c37851420800000000000000
+      internalID: 2600133052435587917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_103
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 2339
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc30fddb80fbbbe20800000000000000
+      internalID: 3367495190655730637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_104
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 2343
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1017cf6be8d5250800000000000000
+      internalID: 5935056800514638295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_105
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 2347
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994f6f6de95aab290800000000000000
+      internalID: -7873798896873966439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_106
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 2025
+        width: 310
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6985c6d7f65bef0800000000000000
+      internalID: -93045632811886884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_107
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 2175
+        width: 42
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c126b5d6713edf110800000000000000
+      internalID: 1296441957511029276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_108
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 2323
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9499aec2f8ba734d0800000000000000
+      internalID: -3154864382527497911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_109
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2015
+        width: 314
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ab134ed71fb6170800000000000000
+      internalID: 8172891471795567108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_110
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 2191
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10ff436d8930d2d0800000000000000
+      internalID: -3256039251169513446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_111
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 2219
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac17f404aee472d20800000000000000
+      internalID: 3253656023806734794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_112
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 2028
+        width: 263
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b86d91e9fec5a70800000000000000
+      internalID: 8817185632801950499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_113
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 2227
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89865f82449d0160800000000000000
+      internalID: 6993408809969813903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_114
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 2028
+        width: 276
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aace120276c7ff70800000000000000
+      internalID: 9221056955028523687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_115
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 2235
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e448e1c9f70e6c0800000000000000
+      internalID: -4116149750913020406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_116
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 2179
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115a51cc9c4233720800000000000000
+      internalID: 2824641840422429969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_117
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 2183
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5a5561261b48010800000000000000
+      internalID: 1190271236372276690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_118
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 2167
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f602cedc76b45650800000000000000
+      internalID: 6220797632734955248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_119
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 2159
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40ea27e9f09b0630800000000000000
+      internalID: 3894365705791529035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_120
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 2147
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606b1c80a818675f0800000000000000
+      internalID: -759277057312967162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_121
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 2131
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a56142c05430ac0800000000000000
+      internalID: -3890189734670607872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_122
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 2131
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d5a9ed82b110ff0800000000000000
+      internalID: -71746256713917158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_123
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 2135
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d279413c629bb50800000000000000
+      internalID: 6609356547448843538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_124
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2107
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4139c2f99d199ae0800000000000000
+      internalID: -1542168850357210802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_125
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 2127
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ed025917da26ba0800000000000000
+      internalID: -6097120242161361259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_126
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 2115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104c1833acbdde7b0800000000000000
+      internalID: -5193253133794294783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_127
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 2119
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03251982f6550980800000000000000
+      internalID: -8573350715947932917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_128
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 2087
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c377ef6ddaf101b0800000000000000
+      internalID: -5691992625047440440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_129
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 2091
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cbc0f7f49100580800000000000000
+      internalID: -8863056237440484273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_130
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 2091
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7ecdfef9a81e7b0800000000000000
+      internalID: -5196720075480176683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_131
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 2083
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbaca3a341ed21d80800000000000000
+      internalID: -8281312586323277123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_132
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 2075
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976cf385e5bad0820800000000000000
+      internalID: 2886151357910206073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_133
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 2071
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a094b5c8178381760800000000000000
+      internalID: 7428749645684885770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_134
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 2071
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6554eba389f28e10800000000000000
+      internalID: 2198593912030123370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_135
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 2075
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9eac48afb947ade0800000000000000
+      internalID: -1322006878098772322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_136
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 2051
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eab897d3a430d4f0800000000000000
+      internalID: -806086454997894428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_137
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 2051
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f8dd3df7cd83910800000000000000
+      internalID: 1817444891217465192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_138
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 2055
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269c72bc3e4b5cfa0800000000000000
+      internalID: -5781015656201205406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_139
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 2047
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3774afdea5fbeaf00800000000000000
+      internalID: 1130050953777137523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_140
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 2051
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0c0202f80e9b410800000000000000
+      internalID: 1493471656773992665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_141
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 2051
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73fc12c5c31a8ab0800000000000000
+      internalID: -5005166295782722693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_142
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 2051
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e2128031c412de0800000000000000
+      internalID: -1359721967864697229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_143
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 2051
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72839d49d6ddf7b70800000000000000
+      internalID: 8899074851425826855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_144
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 2031
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb53dca3594d16f0800000000000000
+      internalID: -712332542324024383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_145
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 2047
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f041de35f628280800000000000000
+      internalID: -9042542695556051141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_146
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 2031
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ac1f0f1e0947f20800000000000000
+      internalID: 3419517317165468252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_147
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 2031
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2147cc9b40735d870800000000000000
+      internalID: 8706925948027302930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_148
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1979
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e0a933f8b28e6c0800000000000000
+      internalID: -4113990365556896230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_149
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1983
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b176f27ca691e27d0800000000000000
+      internalID: -2941385560227354853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_150
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1983
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950a3c36e17d0abc0800000000000000
+      internalID: -3773779962213719975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_151
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1963
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748585164071906e0800000000000000
+      internalID: -1870938862615242681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_152
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1955
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09077172a31edeac0800000000000000
+      internalID: -3824152868687482736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_153
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1659
+        width: 258
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b475f7fc85c079f60800000000000000
+      internalID: 8040909235271194443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_154
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1659
+        width: 246
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1d2d2840537a870800000000000000
+      internalID: 8693975899153027524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_155
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1659
+        width: 254
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9250312d07eaa88a0800000000000000
+      internalID: -6302032928967555799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_156
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1659
+        width: 266
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3acb9aa488759e0800000000000000
+      internalID: -1632686485641845856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_157
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1659
+        width: 262
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4767e6bc68893cb0800000000000000
+      internalID: -4883722320400128182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_158
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 1659
+        width: 250
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8873b4e0909105f0800000000000000
+      internalID: -792193107453839218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_159
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1259
+        width: 250
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2195e1e6f697340800000000000000
+      internalID: 4862039791469400767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_160
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1259
+        width: 222
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4b4a4104f9b8d80800000000000000
+      internalID: -8247323195025869605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_161
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1239
+        width: 198
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af2cdfbd4e32cab0800000000000000
+      internalID: -4989356933520805978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_162
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1239
+        width: 190
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4385396f84ad1a870800000000000000
+      internalID: 8692468762711119924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_163
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1239
+        width: 190
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e11a801583706a40800000000000000
+      internalID: 5359410571916218854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_164
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 1239
+        width: 202
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ac4eed6b8436450800000000000000
+      internalID: 6080783872141085233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_165
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 839
+        width: 214
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03bb4757bec37310800000000000000
+      internalID: 1401691195881272074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_166
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 839
+        width: 226
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bc79bc7a34ea080800000000000000
+      internalID: -9174321002952799445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_167
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 839
+        width: 226
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcacdf8b73a4a85f0800000000000000
+      internalID: -753708384443839795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_168
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 839
+        width: 230
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08a199371f82ef80800000000000000
+      internalID: -8078737451636381682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_169
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 839
+        width: 230
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3533ebebe0d6c40800000000000000
+      internalID: 5507074131741594613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_170
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 839
+        width: 230
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93db7f66a9b10b1b0800000000000000
+      internalID: -5642979983128806087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_171
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 439
+        width: 230
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42324a917bfda8030800000000000000
+      internalID: 3497854038108807972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_172
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 439
+        width: 230
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5388462fe28683d0800000000000000
+      internalID: -3204730121176448165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_173
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 439
+        width: 230
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c3dc4fea3465550800000000000000
+      internalID: 6149176759931452495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_174
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 439
+        width: 230
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c597da0255f0350800000000000000
+      internalID: 5985096028636404775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_175
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 439
+        width: 230
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74a5a9abcf54f5a0800000000000000
+      internalID: -6488455834804837249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_176
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 439
+        width: 230
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094b2fd408e0db1a0800000000000000
+      internalID: -6792256718778485616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_177
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 39
+        width: 230
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b4c1c9215b83ee0800000000000000
+      internalID: -1281075002453767289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jefedino_178
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 39
+        width: 230
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80bcb977c69145b0800000000000000
+      internalID: -5385857895873335153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5136bbe823a163c4f877747703017504
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jefedino_0: -1655531334352574528
+      jefedino_1: -5089770362965345689
+      jefedino_10: -6749344833094636010
+      jefedino_100: -7333588974578971087
+      jefedino_101: -8515322406506518571
+      jefedino_102: 2600133052435587917
+      jefedino_103: 3367495190655730637
+      jefedino_104: 5935056800514638295
+      jefedino_105: -7873798896873966439
+      jefedino_106: -93045632811886884
+      jefedino_107: 1296441957511029276
+      jefedino_108: -3154864382527497911
+      jefedino_109: 8172891471795567108
+      jefedino_11: -6415953267324095897
+      jefedino_110: -3256039251169513446
+      jefedino_111: 3253656023806734794
+      jefedino_112: 8817185632801950499
+      jefedino_113: 6993408809969813903
+      jefedino_114: 9221056955028523687
+      jefedino_115: -4116149750913020406
+      jefedino_116: 2824641840422429969
+      jefedino_117: 1190271236372276690
+      jefedino_118: 6220797632734955248
+      jefedino_119: 3894365705791529035
+      jefedino_12: -6221438787347456014
+      jefedino_120: -759277057312967162
+      jefedino_121: -3890189734670607872
+      jefedino_122: -71746256713917158
+      jefedino_123: 6609356547448843538
+      jefedino_124: -1542168850357210802
+      jefedino_125: -6097120242161361259
+      jefedino_126: -5193253133794294783
+      jefedino_127: -8573350715947932917
+      jefedino_128: -5691992625047440440
+      jefedino_129: -8863056237440484273
+      jefedino_13: 3747385940288523039
+      jefedino_130: -5196720075480176683
+      jefedino_131: -8281312586323277123
+      jefedino_132: 2886151357910206073
+      jefedino_133: 7428749645684885770
+      jefedino_134: 2198593912030123370
+      jefedino_135: -1322006878098772322
+      jefedino_136: -806086454997894428
+      jefedino_137: 1817444891217465192
+      jefedino_138: -5781015656201205406
+      jefedino_139: 1130050953777137523
+      jefedino_14: -3892298945217367717
+      jefedino_140: 1493471656773992665
+      jefedino_141: -5005166295782722693
+      jefedino_142: -1359721967864697229
+      jefedino_143: 8899074851425826855
+      jefedino_144: -712332542324024383
+      jefedino_145: -9042542695556051141
+      jefedino_146: 3419517317165468252
+      jefedino_147: 8706925948027302930
+      jefedino_148: -4113990365556896230
+      jefedino_149: -2941385560227354853
+      jefedino_15: 837727568107397250
+      jefedino_150: -3773779962213719975
+      jefedino_151: -1870938862615242681
+      jefedino_152: -3824152868687482736
+      jefedino_153: 8040909235271194443
+      jefedino_154: 8693975899153027524
+      jefedino_155: -6302032928967555799
+      jefedino_156: -1632686485641845856
+      jefedino_157: -4883722320400128182
+      jefedino_158: -792193107453839218
+      jefedino_159: 4862039791469400767
+      jefedino_16: 805061630616137370
+      jefedino_160: -8247323195025869605
+      jefedino_161: -4989356933520805978
+      jefedino_162: 8692468762711119924
+      jefedino_163: 5359410571916218854
+      jefedino_164: 6080783872141085233
+      jefedino_165: 1401691195881272074
+      jefedino_166: -9174321002952799445
+      jefedino_167: -753708384443839795
+      jefedino_168: -8078737451636381682
+      jefedino_169: 5507074131741594613
+      jefedino_17: 7829082756127519986
+      jefedino_170: -5642979983128806087
+      jefedino_171: 3497854038108807972
+      jefedino_172: -3204730121176448165
+      jefedino_173: 6149176759931452495
+      jefedino_174: 5985096028636404775
+      jefedino_175: -6488455834804837249
+      jefedino_176: -6792256718778485616
+      jefedino_177: -1281075002453767289
+      jefedino_178: -5385857895873335153
+      jefedino_18: 8056293084722569654
+      jefedino_19: 4499245177556234634
+      jefedino_2: -4952965961235205511
+      jefedino_20: 6226815687661740741
+      jefedino_21: 8019628800352734490
+      jefedino_22: -6944098366450372750
+      jefedino_23: -5431230082417777768
+      jefedino_24: -885653187737077171
+      jefedino_25: 7919603924504984176
+      jefedino_26: 438591791980912010
+      jefedino_27: -7683386932934440647
+      jefedino_28: 6360958948292967536
+      jefedino_29: 8667318461207116681
+      jefedino_3: -855481717524501912
+      jefedino_30: 7381307425388305802
+      jefedino_31: -2393272643339183487
+      jefedino_32: 768788760964580122
+      jefedino_33: -6119174715328474896
+      jefedino_34: 4551667102755073734
+      jefedino_35: -2382494748742659534
+      jefedino_36: -8660706848616407062
+      jefedino_37: 2265340656343217528
+      jefedino_38: -1463110838579214107
+      jefedino_39: 3947760673015874908
+      jefedino_4: -1627326850883250712
+      jefedino_40: 2712874738579068044
+      jefedino_41: 7993979747410444072
+      jefedino_42: 6041910481336885366
+      jefedino_43: -2668002462514631896
+      jefedino_44: 7443228928443500905
+      jefedino_45: -7264223966902468994
+      jefedino_46: 2199263157948517602
+      jefedino_47: 7213569758209064291
+      jefedino_48: -2968607777342073612
+      jefedino_49: 7262634702899472847
+      jefedino_5: -1687782015532415579
+      jefedino_50: -1135811819741631448
+      jefedino_51: 5816209477742962677
+      jefedino_52: 5469473993612581302
+      jefedino_53: 4603002955604342602
+      jefedino_54: 1364979864374279673
+      jefedino_55: -465734415578308098
+      jefedino_56: 7718513248875162199
+      jefedino_57: -1689086988170265937
+      jefedino_58: -1203442142681910056
+      jefedino_59: 1652811197338953613
+      jefedino_6: 2316059444308744192
+      jefedino_60: -2386283985609109255
+      jefedino_61: 7668372382733297996
+      jefedino_62: -4637487833038653920
+      jefedino_63: -6717568252655116256
+      jefedino_64: 4391935321307624195
+      jefedino_65: -3420736947619523735
+      jefedino_66: -3737456815566205570
+      jefedino_67: -4372074031362637576
+      jefedino_68: 4191606706477996144
+      jefedino_69: -5820320496534959437
+      jefedino_7: 2779328674427527085
+      jefedino_70: 7630095294653342705
+      jefedino_71: -6876337229044467782
+      jefedino_72: -8310471009485405538
+      jefedino_73: -2570867420411059772
+      jefedino_74: -6270015457873768617
+      jefedino_75: -8154091083399374740
+      jefedino_76: -5487960241813208400
+      jefedino_77: -815530380309290505
+      jefedino_78: 7310564433532282210
+      jefedino_79: -764166796480008505
+      jefedino_8: 5840590095636613694
+      jefedino_80: 1619598919804222382
+      jefedino_81: -4936349295780130076
+      jefedino_82: 30727011139673347
+      jefedino_83: 4240565722612751060
+      jefedino_84: -4898780737543848663
+      jefedino_85: -625305243922193121
+      jefedino_86: 4531762380556054504
+      jefedino_87: -250666952325394563
+      jefedino_88: 3083206908172935337
+      jefedino_89: -5791789912063178913
+      jefedino_9: -4948996170851305203
+      jefedino_90: 4429521059666953819
+      jefedino_91: 760870424952464822
+      jefedino_92: -4237654307597208739
+      jefedino_93: 2357400950742037170
+      jefedino_94: -5083813777216402090
+      jefedino_95: -7189321129281418910
+      jefedino_96: 1585183124676085205
+      jefedino_97: -2683959696352625326
+      jefedino_98: -441766648038829920
+      jefedino_99: -1355083461360157969
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
