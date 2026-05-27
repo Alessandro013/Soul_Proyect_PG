@@ -1,22 +1,49 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-public class EnemigoSalud : MonoBehaviour {
-    public float vidaMax = 10;
-    private float vidaActual;
-    public Image barraRoja; // Arrastra el componente Image aquí
+public class EnemigoSalud : MonoBehaviour
+{
+    [Header("Configuración de Vida")]
+    public float vidaMax = 10f;
+    public float vidaActual;
 
-    void Start() {
+    [Header("Interfaz de Usuario")]
+    public Image barraRoja; // Arrastra la imagen con Fill Method: Horizontal
+
+    void Start()
+    {
         vidaActual = vidaMax;
+        ActualizarBarra();
     }
 
-    public void RecibirDaño(float daño) {
-        vidaActual -= daño;
-        barraRoja.fillAmount = vidaActual / vidaMax; // Baja la barrita
-        if (vidaActual <= 0) Morir();
+    public void TomarDano(float cantidad)
+    {
+        vidaActual -= cantidad;
+        
+        // Aseguramos que la vida no baje de 0
+        vidaActual = Mathf.Clamp(vidaActual, 0, vidaMax);
+        
+        ActualizarBarra();
+
+        if (vidaActual <= 0)
+        {
+            Morir();
+        }
     }
 
-    void Morir() {
+    void ActualizarBarra()
+    {
+        if (barraRoja != null)
+        {
+            // Calcula el porcentaje (de 0 a 1) para el Fill Amount
+            barraRoja.fillAmount = vidaActual / vidaMax;
+        }
+    }
+
+    void Morir()
+    {
+        // Aquí podrías activar una animación de muerte antes del Destroy
+        Debug.Log(gameObject.name + " ha muerto.");
         Destroy(gameObject);
     }
 }

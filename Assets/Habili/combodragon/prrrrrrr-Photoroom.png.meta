@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 084ae761a2794e820b6641a5e3d2be80
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7836908421503116619
+    second: prrrrrrr-Photoroom_0
+  - first:
+      213: -1425220955986517027
+    second: prrrrrrr-Photoroom_1
+  - first:
+      213: 2715988258685416739
+    second: prrrrrrr-Photoroom_2
+  - first:
+      213: -6059869725694907516
+    second: prrrrrrr-Photoroom_3
+  - first:
+      213: -3275336652746164116
+    second: prrrrrrr-Photoroom_4
+  - first:
+      213: 1495693669963269540
+    second: prrrrrrr-Photoroom_5
+  - first:
+      213: 4113664750614458759
+    second: prrrrrrr-Photoroom_6
+  - first:
+      213: -1849846443657744393
+    second: prrrrrrr-Photoroom_7
+  - first:
+      213: 5212954231174362991
+    second: prrrrrrr-Photoroom_8
+  - first:
+      213: 5278657917445954060
+    second: prrrrrrr-Photoroom_9
+  - first:
+      213: 4700807868432121030
+    second: prrrrrrr-Photoroom_10
+  - first:
+      213: 5184608930007474864
+    second: prrrrrrr-Photoroom_11
+  - first:
+      213: -8393444096808174821
+    second: prrrrrrr-Photoroom_12
+  - first:
+      213: -5710248691853665823
+    second: prrrrrrr-Photoroom_13
+  - first:
+      213: 4156531889205719854
+    second: prrrrrrr-Photoroom_14
+  - first:
+      213: 8499513069465703871
+    second: prrrrrrr-Photoroom_15
+  - first:
+      213: -6490004770391737262
+    second: prrrrrrr-Photoroom_16
+  - first:
+      213: 8719587406549561645
+    second: prrrrrrr-Photoroom_17
+  - first:
+      213: 6306279485259282617
+    second: prrrrrrr-Photoroom_18
+  - first:
+      213: 3790792375573157670
+    second: prrrrrrr-Photoroom_19
+  - first:
+      213: -2534527728981956794
+    second: prrrrrrr-Photoroom_20
+  - first:
+      213: 1083814754943730939
+    second: prrrrrrr-Photoroom_21
+  - first:
+      213: 2309612853019884578
+    second: prrrrrrr-Photoroom_22
+  - first:
+      213: 7016993149033675849
+    second: prrrrrrr-Photoroom_23
+  - first:
+      213: -291995003833168438
+    second: prrrrrrr-Photoroom_24
+  - first:
+      213: -6355976509536725416
+    second: prrrrrrr-Photoroom_25
+  - first:
+      213: 4350076067970536493
+    second: prrrrrrr-Photoroom_26
+  - first:
+      213: -7901347608773420591
+    second: prrrrrrr-Photoroom_27
+  - first:
+      213: -3293304042238615093
+    second: prrrrrrr-Photoroom_28
+  - first:
+      213: -3297313840394179106
+    second: prrrrrrr-Photoroom_29
+  - first:
+      213: -7866065172812222197
+    second: prrrrrrr-Photoroom_30
+  - first:
+      213: -6994212105517646072
+    second: prrrrrrr-Photoroom_31
+  - first:
+      213: 3501452102704050378
+    second: prrrrrrr-Photoroom_32
+  - first:
+      213: -101201208848599447
+    second: prrrrrrr-Photoroom_33
+  - first:
+      213: 8013848637858212563
+    second: prrrrrrr-Photoroom_34
+  - first:
+      213: -2912237719186628477
+    second: prrrrrrr-Photoroom_35
+  - first:
+      213: 8658435649286327222
+    second: prrrrrrr-Photoroom_36
+  - first:
+      213: -4274456423194401941
+    second: prrrrrrr-Photoroom_37
+  - first:
+      213: 6351434773844051014
+    second: prrrrrrr-Photoroom_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 327
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45e5f800ba42cc60800000000000000
+      internalID: 7836908421503116619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 304
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd32bf77719983ce0800000000000000
+      internalID: -1425220955986517027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 332
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325731d6ee021b520800000000000000
+      internalID: 2715988258685416739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 337
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bafce479407eba0800000000000000
+      internalID: -6059869725694907516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 332
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c687f35faaaab82d0800000000000000
+      internalID: -3275336652746164116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 302
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a506f2e775c1c410800000000000000
+      internalID: 1495693669963269540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 333
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781bb69ab4ca61930800000000000000
+      internalID: 4113664750614458759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 288
+        width: 111
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffa2ccd5760456e0800000000000000
+      internalID: -1849846443657744393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 272
+        width: 218
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67748bf042285840800000000000000
+      internalID: 5212954231174362991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 323
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a5b2c886f814940800000000000000
+      internalID: 5278657917445954060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 131
+        width: 232
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccf143b9df9c3140800000000000000
+      internalID: 4700807868432121030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 246
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2e9644a5e63f740800000000000000
+      internalID: 5184608930007474864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 133
+        width: 238
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b36a7701f748b80800000000000000
+      internalID: -8393444096808174821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 135
+        width: 231
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e95ce6a11f11c0b0800000000000000
+      internalID: -5710248691853665823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 241
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23b0b12bb7fea930800000000000000
+      internalID: 4156531889205719854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 140
+        width: 249
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb51b45ba1654f570800000000000000
+      internalID: 8499513069465703871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 212
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cb53efb0fdee5a0800000000000000
+      internalID: -6490004770391737262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 193
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d213b534c82320970800000000000000
+      internalID: 8719587406549561645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 190
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8763d97c7648750800000000000000
+      internalID: 6306279485259282617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 137
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6271c43c4999b9430800000000000000
+      internalID: 3790792375573157670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 136
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64727a0857c83dcd0800000000000000
+      internalID: -2534527728981956794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 226
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf48fbef6cb7a0f00800000000000000
+      internalID: 1083814754943730939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 9
+        width: 215
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c3de827a46d0020800000000000000
+      internalID: 2309612853019884578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 91
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c7087671e516160800000000000000
+      internalID: 7016993149033675849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 71
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdc5505710a2fbf0800000000000000
+      internalID: -291995003833168438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 65
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856165c3a090bc7a0800000000000000
+      internalID: -6355976509536725416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 76
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24df49d2239e5c30800000000000000
+      internalID: 4350076067970536493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 75
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d99d248636c85290800000000000000
+      internalID: -7901347608773420591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 69
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc162091c65db42d0800000000000000
+      internalID: -3293304042238615093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 63
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd635638869d32d0800000000000000
+      internalID: -3297313840394179106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 53
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01b47ac66f16d290800000000000000
+      internalID: -7866065172812222197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 41
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f32ee95219fee90800000000000000
+      internalID: -6994212105517646072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 10
+        width: 176
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac038bbc228a79030800000000000000
+      internalID: 3501452102704050378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 55
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9663db76906789ef0800000000000000
+      internalID: -101201208848599447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 54
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da694f70e8e63f60800000000000000
+      internalID: 8013848637858212563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 41
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380236e5937a597d0800000000000000
+      internalID: -2912237719186628477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb4a424951f82870800000000000000
+      internalID: 8658435649286327222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 34
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b636c97b7841ea4c0800000000000000
+      internalID: -4274456423194401941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prrrrrrr-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 14
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644c9058644d42850800000000000000
+      internalID: 6351434773844051014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c47a082b737a90f78bfcf4ceb119a625
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      prrrrrrr-Photoroom_0: 7836908421503116619
+      prrrrrrr-Photoroom_1: -1425220955986517027
+      prrrrrrr-Photoroom_10: 4700807868432121030
+      prrrrrrr-Photoroom_11: 5184608930007474864
+      prrrrrrr-Photoroom_12: -8393444096808174821
+      prrrrrrr-Photoroom_13: -5710248691853665823
+      prrrrrrr-Photoroom_14: 4156531889205719854
+      prrrrrrr-Photoroom_15: 8499513069465703871
+      prrrrrrr-Photoroom_16: -6490004770391737262
+      prrrrrrr-Photoroom_17: 8719587406549561645
+      prrrrrrr-Photoroom_18: 6306279485259282617
+      prrrrrrr-Photoroom_19: 3790792375573157670
+      prrrrrrr-Photoroom_2: 2715988258685416739
+      prrrrrrr-Photoroom_20: -2534527728981956794
+      prrrrrrr-Photoroom_21: 1083814754943730939
+      prrrrrrr-Photoroom_22: 2309612853019884578
+      prrrrrrr-Photoroom_23: 7016993149033675849
+      prrrrrrr-Photoroom_24: -291995003833168438
+      prrrrrrr-Photoroom_25: -6355976509536725416
+      prrrrrrr-Photoroom_26: 4350076067970536493
+      prrrrrrr-Photoroom_27: -7901347608773420591
+      prrrrrrr-Photoroom_28: -3293304042238615093
+      prrrrrrr-Photoroom_29: -3297313840394179106
+      prrrrrrr-Photoroom_3: -6059869725694907516
+      prrrrrrr-Photoroom_30: -7866065172812222197
+      prrrrrrr-Photoroom_31: -6994212105517646072
+      prrrrrrr-Photoroom_32: 3501452102704050378
+      prrrrrrr-Photoroom_33: -101201208848599447
+      prrrrrrr-Photoroom_34: 8013848637858212563
+      prrrrrrr-Photoroom_35: -2912237719186628477
+      prrrrrrr-Photoroom_36: 8658435649286327222
+      prrrrrrr-Photoroom_37: -4274456423194401941
+      prrrrrrr-Photoroom_38: 6351434773844051014
+      prrrrrrr-Photoroom_4: -3275336652746164116
+      prrrrrrr-Photoroom_5: 1495693669963269540
+      prrrrrrr-Photoroom_6: 4113664750614458759
+      prrrrrrr-Photoroom_7: -1849846443657744393
+      prrrrrrr-Photoroom_8: 5212954231174362991
+      prrrrrrr-Photoroom_9: 5278657917445954060
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

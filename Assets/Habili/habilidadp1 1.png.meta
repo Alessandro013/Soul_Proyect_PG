@@ -1,0 +1,3471 @@
+fileFormatVersion: 2
+guid: cf6d170a875475fceac835e7e20ee314
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7404802611996141513
+    second: habilidadp1_0
+  - first:
+      213: 613370709870509233
+    second: habilidadp1_1
+  - first:
+      213: -8513028883141529654
+    second: habilidadp1_2
+  - first:
+      213: 6926230184018427884
+    second: habilidadp1_3
+  - first:
+      213: -3984113562579747054
+    second: habilidadp1_4
+  - first:
+      213: 8106463131040752259
+    second: habilidadp1_5
+  - first:
+      213: 1753190273349552351
+    second: habilidadp1_6
+  - first:
+      213: -6647179791450478502
+    second: habilidadp1_7
+  - first:
+      213: 2389575981467521325
+    second: habilidadp1_8
+  - first:
+      213: -2598537312992882204
+    second: habilidadp1_9
+  - first:
+      213: -5212466852926008930
+    second: habilidadp1_10
+  - first:
+      213: -3987266457189069753
+    second: habilidadp1_11
+  - first:
+      213: -3660630074966335303
+    second: habilidadp1_12
+  - first:
+      213: -7244237567737559256
+    second: habilidadp1_13
+  - first:
+      213: 5858063463988175827
+    second: habilidadp1_14
+  - first:
+      213: 7467557905429253187
+    second: habilidadp1_15
+  - first:
+      213: 6963655605594062993
+    second: habilidadp1_16
+  - first:
+      213: 1248746227662466426
+    second: habilidadp1_17
+  - first:
+      213: 6380249831007490143
+    second: habilidadp1_18
+  - first:
+      213: -658112199140453134
+    second: habilidadp1_19
+  - first:
+      213: -5678569124927942087
+    second: habilidadp1_20
+  - first:
+      213: -8736482205264220472
+    second: habilidadp1_21
+  - first:
+      213: 2530315940117483334
+    second: habilidadp1_22
+  - first:
+      213: -2118028008537449317
+    second: habilidadp1_23
+  - first:
+      213: -2128497414166709862
+    second: habilidadp1_24
+  - first:
+      213: -8959917079311796478
+    second: habilidadp1_25
+  - first:
+      213: 3162397325846405827
+    second: habilidadp1_26
+  - first:
+      213: -5603584459790711831
+    second: habilidadp1_27
+  - first:
+      213: -5287326392901458195
+    second: habilidadp1_28
+  - first:
+      213: -1960993531403644007
+    second: habilidadp1_29
+  - first:
+      213: -3444177501463451651
+    second: habilidadp1_30
+  - first:
+      213: -1847021657663170469
+    second: habilidadp1_31
+  - first:
+      213: 8069323716366319949
+    second: habilidadp1_32
+  - first:
+      213: -4870578942789488769
+    second: habilidadp1_33
+  - first:
+      213: -1640509520681140814
+    second: habilidadp1_34
+  - first:
+      213: 202835345636616549
+    second: habilidadp1_35
+  - first:
+      213: 1041663299331505124
+    second: habilidadp1_36
+  - first:
+      213: -381825392406346927
+    second: habilidadp1_37
+  - first:
+      213: -6358637514601871337
+    second: habilidadp1_38
+  - first:
+      213: 22526396641924363
+    second: habilidadp1_39
+  - first:
+      213: -2352376963716371254
+    second: habilidadp1_40
+  - first:
+      213: -4706762466698714144
+    second: habilidadp1_41
+  - first:
+      213: -6050891458049398251
+    second: habilidadp1_42
+  - first:
+      213: -8680143908752664985
+    second: habilidadp1_43
+  - first:
+      213: -5503005846231908888
+    second: habilidadp1_44
+  - first:
+      213: -925319022241983589
+    second: habilidadp1_45
+  - first:
+      213: 2394444197360469298
+    second: habilidadp1_46
+  - first:
+      213: -2451533704611655988
+    second: habilidadp1_47
+  - first:
+      213: 2145978126464787242
+    second: habilidadp1_48
+  - first:
+      213: 949533619488514504
+    second: habilidadp1_49
+  - first:
+      213: 5676357633563659571
+    second: habilidadp1_50
+  - first:
+      213: 7652705103351270626
+    second: habilidadp1_51
+  - first:
+      213: 4928919371737986999
+    second: habilidadp1_52
+  - first:
+      213: 8447100301182276197
+    second: habilidadp1_53
+  - first:
+      213: -6524985468151552786
+    second: habilidadp1_54
+  - first:
+      213: -239821750854879996
+    second: habilidadp1_55
+  - first:
+      213: 1501585594275268166
+    second: habilidadp1_56
+  - first:
+      213: 6825119010021271722
+    second: habilidadp1_57
+  - first:
+      213: 2171833184614230600
+    second: habilidadp1_58
+  - first:
+      213: 5583010291434806817
+    second: habilidadp1_59
+  - first:
+      213: 2859680498878841855
+    second: habilidadp1_60
+  - first:
+      213: 2805799093929077434
+    second: habilidadp1_61
+  - first:
+      213: -7495395569607545534
+    second: habilidadp1_62
+  - first:
+      213: -620235739807080257
+    second: habilidadp1_63
+  - first:
+      213: 1488881005348016306
+    second: habilidadp1_64
+  - first:
+      213: -8413585436200468097
+    second: habilidadp1_65
+  - first:
+      213: -5895118314509634401
+    second: habilidadp1_66
+  - first:
+      213: -3630437740420359520
+    second: habilidadp1_67
+  - first:
+      213: -8163150895459102602
+    second: habilidadp1_68
+  - first:
+      213: 5205890416679575270
+    second: habilidadp1_69
+  - first:
+      213: 278357745044321245
+    second: habilidadp1_70
+  - first:
+      213: -6895329228493095808
+    second: habilidadp1_71
+  - first:
+      213: -8079742077510596032
+    second: habilidadp1_72
+  - first:
+      213: -1890373973296461500
+    second: habilidadp1_73
+  - first:
+      213: 4232739464324703148
+    second: habilidadp1_74
+  - first:
+      213: 3934094378132157071
+    second: habilidadp1_75
+  - first:
+      213: -6687512478655918798
+    second: habilidadp1_76
+  - first:
+      213: 1833374698212073695
+    second: habilidadp1_77
+  - first:
+      213: -1350632518103632375
+    second: habilidadp1_78
+  - first:
+      213: 1755373484338509546
+    second: habilidadp1_79
+  - first:
+      213: 8528218443934325293
+    second: habilidadp1_80
+  - first:
+      213: 7891064679974393980
+    second: habilidadp1_81
+  - first:
+      213: 8587669128778092395
+    second: habilidadp1_82
+  - first:
+      213: 5901070460911543702
+    second: habilidadp1_83
+  - first:
+      213: -6249544748831425435
+    second: habilidadp1_84
+  - first:
+      213: -3664862961896746512
+    second: habilidadp1_85
+  - first:
+      213: 87849809545739344
+    second: habilidadp1_86
+  - first:
+      213: -3263898276850480130
+    second: habilidadp1_87
+  - first:
+      213: -2042723172865824547
+    second: habilidadp1_88
+  - first:
+      213: 1951027518730620588
+    second: habilidadp1_89
+  - first:
+      213: 1666629565795359782
+    second: habilidadp1_90
+  - first:
+      213: 4296456725586225330
+    second: habilidadp1_91
+  - first:
+      213: -2819065413955603635
+    second: habilidadp1_92
+  - first:
+      213: -6218075523139292478
+    second: habilidadp1_93
+  - first:
+      213: 4483243025566758082
+    second: habilidadp1_94
+  - first:
+      213: 4785344466234572119
+    second: habilidadp1_95
+  - first:
+      213: 4235949873312617131
+    second: habilidadp1_96
+  - first:
+      213: 2258760611476477219
+    second: habilidadp1_97
+  - first:
+      213: -4991365517469516581
+    second: habilidadp1_98
+  - first:
+      213: 32848280650813790
+    second: habilidadp1_99
+  - first:
+      213: 8261111179869397317
+    second: habilidadp1_100
+  - first:
+      213: -2477180109760385140
+    second: habilidadp1_101
+  - first:
+      213: 2020443902655113085
+    second: habilidadp1_102
+  - first:
+      213: -8555611964698299840
+    second: habilidadp1_103
+  - first:
+      213: 7691838595462806544
+    second: habilidadp1_104
+  - first:
+      213: 6677598961305512775
+    second: habilidadp1_105
+  - first:
+      213: 6576259177268320344
+    second: habilidadp1_106
+  - first:
+      213: -6780167607208438314
+    second: habilidadp1_107
+  - first:
+      213: -4886794946103083179
+    second: habilidadp1_108
+  - first:
+      213: 6293303712043461546
+    second: habilidadp1_109
+  - first:
+      213: -8192624889426359178
+    second: habilidadp1_110
+  - first:
+      213: -855577185974977816
+    second: habilidadp1_111
+  - first:
+      213: -2664906264855314305
+    second: habilidadp1_112
+  - first:
+      213: 5584735624223933066
+    second: habilidadp1_113
+  - first:
+      213: -6887307094228001987
+    second: habilidadp1_114
+  - first:
+      213: 4166521006839863367
+    second: habilidadp1_115
+  - first:
+      213: 8134056851096262289
+    second: habilidadp1_116
+  - first:
+      213: 6946838869382917012
+    second: habilidadp1_117
+  - first:
+      213: 3599248559945581629
+    second: habilidadp1_118
+  - first:
+      213: -3467945968574051689
+    second: habilidadp1_119
+  - first:
+      213: 2789961018337654940
+    second: habilidadp1_120
+  - first:
+      213: 7364112995775816211
+    second: habilidadp1_121
+  - first:
+      213: 5082802377947222955
+    second: habilidadp1_122
+  - first:
+      213: -1074579748619686618
+    second: habilidadp1_123
+  - first:
+      213: -4986059040910563124
+    second: habilidadp1_124
+  - first:
+      213: 7968016588509141258
+    second: habilidadp1_125
+  - first:
+      213: 1804991339803914493
+    second: habilidadp1_126
+  - first:
+      213: 4732688907015030464
+    second: habilidadp1_127
+  - first:
+      213: -4377517948900777955
+    second: habilidadp1_128
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: habilidadp1_0
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 2335
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c72ae74eb423c660800000000000000
+      internalID: 7404802611996141513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_1
+      rect:
+        serializedVersion: 2
+        x: 3363
+        y: 2355
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcf57d2961238800800000000000000
+      internalID: 613370709870509233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_2
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 2314
+        width: 201
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf65b1b555abd980800000000000000
+      internalID: -8513028883141529654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_3
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 2207
+        width: 190
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefb107d7a9ee1060800000000000000
+      internalID: 6926230184018427884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_4
+      rect:
+        serializedVersion: 2
+        x: 4409
+        y: 2182
+        width: 148
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f3e95d2d595b8c0800000000000000
+      internalID: -3984113562579747054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_5
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 2321
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3822c7e8441ff7070800000000000000
+      internalID: 8106463131040752259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_6
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 2282
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd88baac345945810800000000000000
+      internalID: 1753190273349552351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_7
+      rect:
+        serializedVersion: 2
+        x: 3889
+        y: 2226
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58607ca23970c3a0800000000000000
+      internalID: -6647179791450478502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_8
+      rect:
+        serializedVersion: 2
+        x: 4427
+        y: 2201
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d215d23d1ba792120800000000000000
+      internalID: 2389575981467521325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_9
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1687
+        width: 123
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1167bd41420fbd0800000000000000
+      internalID: -2598537312992882204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_10
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1683
+        width: 118
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91d8db930999a7b0800000000000000
+      internalID: -5212466852926008930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_11
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1687
+        width: 123
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c4a6a58426aa8c0800000000000000
+      internalID: -3987266457189069753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_12
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1695
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b025877754d23dc0800000000000000
+      internalID: -3660630074966335303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_13
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 1687
+        width: 118
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8278672505c477b90800000000000000
+      internalID: -7244237567737559256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_14
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 1683
+        width: 118
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3a5b2eea50c4150800000000000000
+      internalID: 5858063463988175827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_15
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 1687
+        width: 118
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c45c4a95812a760800000000000000
+      internalID: 7467557905429253187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_16
+      rect:
+        serializedVersion: 2
+        x: 3935
+        y: 1683
+        width: 122
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1908795d0efd3a060800000000000000
+      internalID: 6963655605594062993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_17
+      rect:
+        serializedVersion: 2
+        x: 4451
+        y: 1667
+        width: 130
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d2e62f310745110800000000000000
+      internalID: 1248746227662466426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_18
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1139
+        width: 270
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f509273da633b8850800000000000000
+      internalID: 6380249831007490143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_19
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1127
+        width: 165
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4d1e3117aedd6f0800000000000000
+      internalID: -658112199140453134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_20
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1124
+        width: 254
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9325b2c977ba131b0800000000000000
+      internalID: -5678569124927942087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_21
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1343
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce64b0e8b7c1c680800000000000000
+      internalID: -8736482205264220472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_22
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1311
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f063cf0fc7d1320800000000000000
+      internalID: 2530315940117483334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_23
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1323
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c1cce7fb04b92e0800000000000000
+      internalID: -2118028008537449317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_24
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1311
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99714b01ee0672e0800000000000000
+      internalID: -2128497414166709862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_25
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1273
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2073aa653eaf7a380800000000000000
+      internalID: -8959917079311796478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_26
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1291
+        width: 66
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c268bddc9713eb20800000000000000
+      internalID: 3162397325846405827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_27
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1299
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e386457f911c32b0800000000000000
+      internalID: -5603584459790711831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_28
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 1295
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6af8bb8a4af96b0800000000000000
+      internalID: -5287326392901458195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_29
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 1299
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993d8d1e5c629c4e0800000000000000
+      internalID: -1960993531403644007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_30
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 1129
+        width: 246
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7e0e97fc2d330d0800000000000000
+      internalID: -3444177501463451651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_31
+      rect:
+        serializedVersion: 2
+        x: 4031
+        y: 1299
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58988a969f0e56e0800000000000000
+      internalID: -1847021657663170469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_32
+      rect:
+        serializedVersion: 2
+        x: 4079
+        y: 1295
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4146abba2ffbff60800000000000000
+      internalID: 8069323716366319949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_33
+      rect:
+        serializedVersion: 2
+        x: 4575
+        y: 1299
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fe888c14a386cb0800000000000000
+      internalID: -4870578942789488769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_34
+      rect:
+        serializedVersion: 2
+        x: 4611
+        y: 1299
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd7721684dbb39e0800000000000000
+      internalID: -1640509520681140814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_35
+      rect:
+        serializedVersion: 2
+        x: 4623
+        y: 1299
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56960941cad90d200800000000000000
+      internalID: 202835345636616549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_36
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1238
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb3734704bb47e00800000000000000
+      internalID: 1041663299331505124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_37
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1073
+        width: 290
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153456f14db73baf0800000000000000
+      internalID: -381825392406346927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_38
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 1279
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718cea6bed491c7a0800000000000000
+      internalID: -6358637514601871337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_39
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 1279
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0559ed63a7005000800000000000000
+      internalID: 22526396641924363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_40
+      rect:
+        serializedVersion: 2
+        x: 4007
+        y: 1283
+        width: 50
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accafdb6d9daa5fd0800000000000000
+      internalID: -2352376963716371254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_41
+      rect:
+        serializedVersion: 2
+        x: 4071
+        y: 1275
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3284a59783eaeb0800000000000000
+      internalID: -4706762466698714144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_42
+      rect:
+        serializedVersion: 2
+        x: 4547
+        y: 1287
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a2584274ae60ca0800000000000000
+      internalID: -6050891458049398251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_43
+      rect:
+        serializedVersion: 2
+        x: 4607
+        y: 1279
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766d687ba1fe98780800000000000000
+      internalID: -8680143908752664985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_44
+      rect:
+        serializedVersion: 2
+        x: 4619
+        y: 1275
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edf27ac65561a3b0800000000000000
+      internalID: -5503005846231908888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_45
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1218
+        width: 8
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93da57704b9823f0800000000000000
+      internalID: -925319022241983589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_46
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 1213
+        width: 13
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2358a2aaf46ca3120800000000000000
+      internalID: 2394444197360469298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_47
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1247
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce89bd95176afdd0800000000000000
+      internalID: -2451533704611655988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_48
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 1243
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2321b37cbb08cd10800000000000000
+      internalID: 2145978126464787242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_49
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 1243
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c167ebcbcb6d2d00800000000000000
+      internalID: 949533619488514504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_50
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 1243
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d83ae613976ce40800000000000000
+      internalID: 5676357633563659571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_51
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 1247
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec4218eebed33a60800000000000000
+      internalID: 7652705103351270626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_52
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 1235
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7fbf6dd0a076440800000000000000
+      internalID: 4928919371737986999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_53
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 1223
+        width: 54
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562901228f02a3570800000000000000
+      internalID: 8447100301182276197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_54
+      rect:
+        serializedVersion: 2
+        x: 2917
+        y: 1110
+        width: 191
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4ad3e99489275a0800000000000000
+      internalID: -6524985468151552786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_55
+      rect:
+        serializedVersion: 2
+        x: 3511
+        y: 1219
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405f1e2636bfbacf0800000000000000
+      internalID: -239821750854879996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_56
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 1211
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6460f9a6424b6d410800000000000000
+      internalID: 1501585594275268166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_57
+      rect:
+        serializedVersion: 2
+        x: 3988
+        y: 1167
+        width: 163
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8651e1491b7be50800000000000000
+      internalID: 6825119010021271722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_58
+      rect:
+        serializedVersion: 2
+        x: 4603
+        y: 1211
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a265846c6e32e10800000000000000
+      internalID: 2171833184614230600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_59
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1169
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e525ea746da7d40800000000000000
+      internalID: 5583010291434806817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_60
+      rect:
+        serializedVersion: 2
+        x: 2935
+        y: 1199
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff309c23340afa720800000000000000
+      internalID: 2859680498878841855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_61
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 1199
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba61c0096330f620800000000000000
+      internalID: 2805799093929077434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_62
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 1191
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d618611710bf790800000000000000
+      internalID: -7495395569607545534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_63
+      rect:
+        serializedVersion: 2
+        x: 4501
+        y: 1121
+        width: 169
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb02ccb71ea7467f0800000000000000
+      internalID: -620235739807080257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_64
+      rect:
+        serializedVersion: 2
+        x: 4539
+        y: 1203
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0589cc26199a410800000000000000
+      internalID: 1488881005348016306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_65
+      rect:
+        serializedVersion: 2
+        x: 4619
+        y: 1191
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f710fd37f90fc3b80800000000000000
+      internalID: -8413585436200468097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_66
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1167
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94f0ca6025503ea0800000000000000
+      internalID: -5895118314509634401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_67
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 1129
+        width: 207
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa92172c181e9dc0800000000000000
+      internalID: -3630437740420359520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_68
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 1195
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6709f34c289a6be80800000000000000
+      internalID: -8163150895459102602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_69
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1167
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eedbc180c90f3840800000000000000
+      internalID: 5205890416679575270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_70
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1163
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd378d1f4ececd300800000000000000
+      internalID: 278357745044321245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_71
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 1175
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cfc46899ede40a0800000000000000
+      internalID: -6895329228493095808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_72
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1155
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a4439836dfedf80800000000000000
+      internalID: -8079742077510596032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_73
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 1163
+        width: 54
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449450d03ea04c5e0800000000000000
+      internalID: -1890373973296461500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_74
+      rect:
+        serializedVersion: 2
+        x: 3031
+        y: 1155
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3e9d5ed16bdba30800000000000000
+      internalID: 4232739464324703148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_75
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 1163
+        width: 38
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82bd614ef5b89630800000000000000
+      internalID: 3934094378132157071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_76
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 1159
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23dc8b625de2133a0800000000000000
+      internalID: -6687512478655918798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_77
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0ae1b0394717910800000000000000
+      internalID: 1833374698212073695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_78
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1143
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906775871e6914de0800000000000000
+      internalID: -1350632518103632375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_79
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 1147
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6f22632e65c5810800000000000000
+      internalID: 1755373484338509546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_80
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 1147
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ad3a58d715a5670800000000000000
+      internalID: 8528218443934325293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_81
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1131
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78518d8481b28d60800000000000000
+      internalID: 7891064679974393980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_82
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1131
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f086db2978d2770800000000000000
+      internalID: 8587669128778092395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_83
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 601
+        width: 175
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695ee29a150d4e150800000000000000
+      internalID: 5901070460911543702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_84
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 751
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cbef599282549a0800000000000000
+      internalID: -6249544748831425435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_85
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 759
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f198adad8ac32dc0800000000000000
+      internalID: -3664862961896746512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_86
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 755
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c3f83bfea183100800000000000000
+      internalID: 87849809545739344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_87
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 743
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb41516fcd44b2d0800000000000000
+      internalID: -3263898276850480130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_88
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 743
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8afdad81ac6a3e0800000000000000
+      internalID: -2042723172865824547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_89
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 747
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae43f8f031731b10800000000000000
+      internalID: 1951027518730620588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_90
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 747
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c556982ce012710800000000000000
+      internalID: 1666629565795359782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_91
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 731
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8a769d0a410ab30800000000000000
+      internalID: 4296456725586225330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_92
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 739
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43369a21faa0e8d0800000000000000
+      internalID: -2819065413955603635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_93
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 731
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c23bb8a145f4b9a0800000000000000
+      internalID: -6218075523139292478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_94
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 609
+        width: 172
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c477ac47cda73e30800000000000000
+      internalID: 4483243025566758082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_95
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 711
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dfacd2075f86240800000000000000
+      internalID: 4785344466234572119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_96
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 711
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2d82d77fd19ca30800000000000000
+      internalID: 4235949873312617131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_97
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 597
+        width: 171
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32513b70fcab85f10800000000000000
+      internalID: 2258760611476477219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_98
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 711
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc781bd18b1bbab0800000000000000
+      internalID: -4991365517469516581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_99
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 711
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e519ca35653b47000800000000000000
+      internalID: 32848280650813790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_100
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 711
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541af1e49dc55a270800000000000000
+      internalID: 8261111179869397317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_101
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 683
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fa11990d94f9dd0800000000000000
+      internalID: -2477180109760385140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_102
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 695
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77ac52560f0a0c10800000000000000
+      internalID: 2020443902655113085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_103
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 695
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04273186f3c544980800000000000000
+      internalID: -8555611964698299840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_104
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 687
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c33301376eeba60800000000000000
+      internalID: 7691838595462806544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_105
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 683
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74be12930e89bac50800000000000000
+      internalID: 6677598961305512775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_106
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 691
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8581bf311e0934b50800000000000000
+      internalID: 6576259177268320344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_107
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 691
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d51bbeeb7108e1a0800000000000000
+      internalID: -6780167607208438314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_108
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 687
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ff95b43ed9e2cb0800000000000000
+      internalID: -4886794946103083179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_109
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 683
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab6ffbf16e465750800000000000000
+      internalID: 6293303712043461546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_110
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 675
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cc7b7c113fd4e80800000000000000
+      internalID: -8192624889426359178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_111
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 675
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea780815116024f0800000000000000
+      internalID: -855577185974977816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_112
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 651
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7006931fd9540bd0800000000000000
+      internalID: -2664906264855314305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_113
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 651
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8246560677f08d40800000000000000
+      internalID: 5584735624223933066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_114
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 651
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b138530be5b60a0800000000000000
+      internalID: -6887307094228001987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_115
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 599
+        width: 176
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74894e1d7c472d930800000000000000
+      internalID: 4166521006839863367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_116
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 651
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196dc682c99f1e070800000000000000
+      internalID: 8134056851096262289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_117
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 643
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49be1715521286060800000000000000
+      internalID: 6946838869382917012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_118
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 635
+        width: 50
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3484e1ee7913f130800000000000000
+      internalID: 3599248559945581629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_119
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 631
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a45eaf3816fdfc0800000000000000
+      internalID: -3467945968574051689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_120
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 639
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98f33ba3cee7b620800000000000000
+      internalID: 2789961018337654940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_121
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 635
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3122e0fb0c5923660800000000000000
+      internalID: 7364112995775816211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_122
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 635
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba31e0935ddb98640800000000000000
+      internalID: 5082802377947222955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_123
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 635
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62de1b879635611f0800000000000000
+      internalID: -1074579748619686618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_124
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 623
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8a66538b5fdcab0800000000000000
+      internalID: -4986059040910563124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_125
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 615
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09d182fed4149e60800000000000000
+      internalID: 7968016588509141258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_126
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 623
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df03baf6f0e9c0910800000000000000
+      internalID: 1804991339803914493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_127
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 619
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6001f6c73eda140800000000000000
+      internalID: 4732688907015030464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadp1_128
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 615
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d106fd95e9eef33c0800000000000000
+      internalID: -4377517948900777955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 29d8be00f17d057e4bcfc1c179910856
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      habilidadp1_0: 7404802611996141513
+      habilidadp1_1: 613370709870509233
+      habilidadp1_10: -5212466852926008930
+      habilidadp1_100: 8261111179869397317
+      habilidadp1_101: -2477180109760385140
+      habilidadp1_102: 2020443902655113085
+      habilidadp1_103: -8555611964698299840
+      habilidadp1_104: 7691838595462806544
+      habilidadp1_105: 6677598961305512775
+      habilidadp1_106: 6576259177268320344
+      habilidadp1_107: -6780167607208438314
+      habilidadp1_108: -4886794946103083179
+      habilidadp1_109: 6293303712043461546
+      habilidadp1_11: -3987266457189069753
+      habilidadp1_110: -8192624889426359178
+      habilidadp1_111: -855577185974977816
+      habilidadp1_112: -2664906264855314305
+      habilidadp1_113: 5584735624223933066
+      habilidadp1_114: -6887307094228001987
+      habilidadp1_115: 4166521006839863367
+      habilidadp1_116: 8134056851096262289
+      habilidadp1_117: 6946838869382917012
+      habilidadp1_118: 3599248559945581629
+      habilidadp1_119: -3467945968574051689
+      habilidadp1_12: -3660630074966335303
+      habilidadp1_120: 2789961018337654940
+      habilidadp1_121: 7364112995775816211
+      habilidadp1_122: 5082802377947222955
+      habilidadp1_123: -1074579748619686618
+      habilidadp1_124: -4986059040910563124
+      habilidadp1_125: 7968016588509141258
+      habilidadp1_126: 1804991339803914493
+      habilidadp1_127: 4732688907015030464
+      habilidadp1_128: -4377517948900777955
+      habilidadp1_13: -7244237567737559256
+      habilidadp1_14: 5858063463988175827
+      habilidadp1_15: 7467557905429253187
+      habilidadp1_16: 6963655605594062993
+      habilidadp1_17: 1248746227662466426
+      habilidadp1_18: 6380249831007490143
+      habilidadp1_19: -658112199140453134
+      habilidadp1_2: -8513028883141529654
+      habilidadp1_20: -5678569124927942087
+      habilidadp1_21: -8736482205264220472
+      habilidadp1_22: 2530315940117483334
+      habilidadp1_23: -2118028008537449317
+      habilidadp1_24: -2128497414166709862
+      habilidadp1_25: -8959917079311796478
+      habilidadp1_26: 3162397325846405827
+      habilidadp1_27: -5603584459790711831
+      habilidadp1_28: -5287326392901458195
+      habilidadp1_29: -1960993531403644007
+      habilidadp1_3: 6926230184018427884
+      habilidadp1_30: -3444177501463451651
+      habilidadp1_31: -1847021657663170469
+      habilidadp1_32: 8069323716366319949
+      habilidadp1_33: -4870578942789488769
+      habilidadp1_34: -1640509520681140814
+      habilidadp1_35: 202835345636616549
+      habilidadp1_36: 1041663299331505124
+      habilidadp1_37: -381825392406346927
+      habilidadp1_38: -6358637514601871337
+      habilidadp1_39: 22526396641924363
+      habilidadp1_4: -3984113562579747054
+      habilidadp1_40: -2352376963716371254
+      habilidadp1_41: -4706762466698714144
+      habilidadp1_42: -6050891458049398251
+      habilidadp1_43: -8680143908752664985
+      habilidadp1_44: -5503005846231908888
+      habilidadp1_45: -925319022241983589
+      habilidadp1_46: 2394444197360469298
+      habilidadp1_47: -2451533704611655988
+      habilidadp1_48: 2145978126464787242
+      habilidadp1_49: 949533619488514504
+      habilidadp1_5: 8106463131040752259
+      habilidadp1_50: 5676357633563659571
+      habilidadp1_51: 7652705103351270626
+      habilidadp1_52: 4928919371737986999
+      habilidadp1_53: 8447100301182276197
+      habilidadp1_54: -6524985468151552786
+      habilidadp1_55: -239821750854879996
+      habilidadp1_56: 1501585594275268166
+      habilidadp1_57: 6825119010021271722
+      habilidadp1_58: 2171833184614230600
+      habilidadp1_59: 5583010291434806817
+      habilidadp1_6: 1753190273349552351
+      habilidadp1_60: 2859680498878841855
+      habilidadp1_61: 2805799093929077434
+      habilidadp1_62: -7495395569607545534
+      habilidadp1_63: -620235739807080257
+      habilidadp1_64: 1488881005348016306
+      habilidadp1_65: -8413585436200468097
+      habilidadp1_66: -5895118314509634401
+      habilidadp1_67: -3630437740420359520
+      habilidadp1_68: -8163150895459102602
+      habilidadp1_69: 5205890416679575270
+      habilidadp1_7: -6647179791450478502
+      habilidadp1_70: 278357745044321245
+      habilidadp1_71: -6895329228493095808
+      habilidadp1_72: -8079742077510596032
+      habilidadp1_73: -1890373973296461500
+      habilidadp1_74: 4232739464324703148
+      habilidadp1_75: 3934094378132157071
+      habilidadp1_76: -6687512478655918798
+      habilidadp1_77: 1833374698212073695
+      habilidadp1_78: -1350632518103632375
+      habilidadp1_79: 1755373484338509546
+      habilidadp1_8: 2389575981467521325
+      habilidadp1_80: 8528218443934325293
+      habilidadp1_81: 7891064679974393980
+      habilidadp1_82: 8587669128778092395
+      habilidadp1_83: 5901070460911543702
+      habilidadp1_84: -6249544748831425435
+      habilidadp1_85: -3664862961896746512
+      habilidadp1_86: 87849809545739344
+      habilidadp1_87: -3263898276850480130
+      habilidadp1_88: -2042723172865824547
+      habilidadp1_89: 1951027518730620588
+      habilidadp1_9: -2598537312992882204
+      habilidadp1_90: 1666629565795359782
+      habilidadp1_91: 4296456725586225330
+      habilidadp1_92: -2819065413955603635
+      habilidadp1_93: -6218075523139292478
+      habilidadp1_94: 4483243025566758082
+      habilidadp1_95: 4785344466234572119
+      habilidadp1_96: 4235949873312617131
+      habilidadp1_97: 2258760611476477219
+      habilidadp1_98: -4991365517469516581
+      habilidadp1_99: 32848280650813790
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

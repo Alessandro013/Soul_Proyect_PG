@@ -1,0 +1,2561 @@
+fileFormatVersion: 2
+guid: 349360413b546a2b082e28b87d9eee86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -117500304568765946
+    second: habilidadescudo_0
+  - first:
+      213: -1092053582601753039
+    second: habilidadescudo_1
+  - first:
+      213: -2830310093258482303
+    second: habilidadescudo_2
+  - first:
+      213: -3675011121616877327
+    second: habilidadescudo_3
+  - first:
+      213: 5584400404213225080
+    second: habilidadescudo_4
+  - first:
+      213: 5402613644156747992
+    second: habilidadescudo_5
+  - first:
+      213: -3111093343190642851
+    second: habilidadescudo_6
+  - first:
+      213: 6267509374620717534
+    second: habilidadescudo_7
+  - first:
+      213: 8249755764173437859
+    second: habilidadescudo_8
+  - first:
+      213: 1233788338152870415
+    second: habilidadescudo_9
+  - first:
+      213: -5713884084420092692
+    second: habilidadescudo_10
+  - first:
+      213: 5175594995952848132
+    second: habilidadescudo_11
+  - first:
+      213: -3997255098554678508
+    second: habilidadescudo_12
+  - first:
+      213: -7144431023028734651
+    second: habilidadescudo_13
+  - first:
+      213: -1133101946508644834
+    second: habilidadescudo_14
+  - first:
+      213: -6369834357490695048
+    second: habilidadescudo_15
+  - first:
+      213: 8351094708902327872
+    second: habilidadescudo_16
+  - first:
+      213: 3396782319861761605
+    second: habilidadescudo_17
+  - first:
+      213: 1221323991351445779
+    second: habilidadescudo_18
+  - first:
+      213: 6336898919953054865
+    second: habilidadescudo_19
+  - first:
+      213: 7639815566978444525
+    second: habilidadescudo_20
+  - first:
+      213: 1632412845596431277
+    second: habilidadescudo_21
+  - first:
+      213: -3576652407567511655
+    second: habilidadescudo_22
+  - first:
+      213: -8431487595994492767
+    second: habilidadescudo_23
+  - first:
+      213: 892247313137659806
+    second: habilidadescudo_24
+  - first:
+      213: 1797202242487039171
+    second: habilidadescudo_25
+  - first:
+      213: -6435297107850640434
+    second: habilidadescudo_26
+  - first:
+      213: -7330326161141102408
+    second: habilidadescudo_27
+  - first:
+      213: -4750879863979277974
+    second: habilidadescudo_28
+  - first:
+      213: 6288197894927021076
+    second: habilidadescudo_29
+  - first:
+      213: -8767643583875997281
+    second: habilidadescudo_30
+  - first:
+      213: -7944714469912270280
+    second: habilidadescudo_31
+  - first:
+      213: -5407267800992192045
+    second: habilidadescudo_32
+  - first:
+      213: 7192973853477031900
+    second: habilidadescudo_33
+  - first:
+      213: -6007441569307287001
+    second: habilidadescudo_34
+  - first:
+      213: 5600626253953962436
+    second: habilidadescudo_35
+  - first:
+      213: 6084543142963365405
+    second: habilidadescudo_36
+  - first:
+      213: 1486281329946409420
+    second: habilidadescudo_37
+  - first:
+      213: -8307559222206524332
+    second: habilidadescudo_38
+  - first:
+      213: -6720907160577961499
+    second: habilidadescudo_39
+  - first:
+      213: 7653145257051127302
+    second: habilidadescudo_40
+  - first:
+      213: -2105303344235355891
+    second: habilidadescudo_41
+  - first:
+      213: -1687299281998552369
+    second: habilidadescudo_42
+  - first:
+      213: 2638231883983578438
+    second: habilidadescudo_43
+  - first:
+      213: 227328918177590250
+    second: habilidadescudo_44
+  - first:
+      213: -2070087574697949643
+    second: habilidadescudo_45
+  - first:
+      213: 7426545977168665911
+    second: habilidadescudo_46
+  - first:
+      213: -5224447942915849439
+    second: habilidadescudo_47
+  - first:
+      213: -8886647052850203724
+    second: habilidadescudo_48
+  - first:
+      213: -2655578535672378981
+    second: habilidadescudo_49
+  - first:
+      213: 4438888201717526488
+    second: habilidadescudo_50
+  - first:
+      213: 8132142712350827321
+    second: habilidadescudo_51
+  - first:
+      213: -669507403556231238
+    second: habilidadescudo_52
+  - first:
+      213: 5995789837579471425
+    second: habilidadescudo_53
+  - first:
+      213: -4066593404606264106
+    second: habilidadescudo_54
+  - first:
+      213: 8812033072330629115
+    second: habilidadescudo_55
+  - first:
+      213: 604107151772239225
+    second: habilidadescudo_56
+  - first:
+      213: -6332998455863677145
+    second: habilidadescudo_57
+  - first:
+      213: -6779952145740527623
+    second: habilidadescudo_58
+  - first:
+      213: -7618897586193594738
+    second: habilidadescudo_59
+  - first:
+      213: 1057920738359896340
+    second: habilidadescudo_60
+  - first:
+      213: 6964398101765810185
+    second: habilidadescudo_61
+  - first:
+      213: -6738157809075383257
+    second: habilidadescudo_62
+  - first:
+      213: -9184730311949839543
+    second: habilidadescudo_63
+  - first:
+      213: -5828429573182397659
+    second: habilidadescudo_64
+  - first:
+      213: -592454099326628765
+    second: habilidadescudo_65
+  - first:
+      213: 7165564359609785211
+    second: habilidadescudo_66
+  - first:
+      213: 1518732905029768937
+    second: habilidadescudo_67
+  - first:
+      213: -7149495098371161767
+    second: habilidadescudo_68
+  - first:
+      213: -4222390090240523076
+    second: habilidadescudo_69
+  - first:
+      213: 2555270629133230951
+    second: habilidadescudo_70
+  - first:
+      213: 3883545638283579002
+    second: habilidadescudo_71
+  - first:
+      213: 2881446866691335822
+    second: habilidadescudo_72
+  - first:
+      213: 916704926511642086
+    second: habilidadescudo_73
+  - first:
+      213: 6225157591799392474
+    second: habilidadescudo_74
+  - first:
+      213: 1240440457742094978
+    second: habilidadescudo_75
+  - first:
+      213: -8604774720828884337
+    second: habilidadescudo_76
+  - first:
+      213: -5480164818001001274
+    second: habilidadescudo_77
+  - first:
+      213: -7551428295948696337
+    second: habilidadescudo_78
+  - first:
+      213: -5722595454044780976
+    second: habilidadescudo_79
+  - first:
+      213: 6627292506978785932
+    second: habilidadescudo_80
+  - first:
+      213: -4610380314682013994
+    second: habilidadescudo_81
+  - first:
+      213: 5896764242888388637
+    second: habilidadescudo_82
+  - first:
+      213: 1043860724531084989
+    second: habilidadescudo_83
+  - first:
+      213: 4604219428837788114
+    second: habilidadescudo_84
+  - first:
+      213: 614862766564354992
+    second: habilidadescudo_85
+  - first:
+      213: -1442265000633964268
+    second: habilidadescudo_86
+  - first:
+      213: -6180161067841025217
+    second: habilidadescudo_87
+  - first:
+      213: -4287147093989171298
+    second: habilidadescudo_88
+  - first:
+      213: 6577473094757910050
+    second: habilidadescudo_89
+  - first:
+      213: 1008652234583696701
+    second: habilidadescudo_90
+  - first:
+      213: 6394519366879409579
+    second: habilidadescudo_91
+  - first:
+      213: 7664753843500867455
+    second: habilidadescudo_92
+  - first:
+      213: -1636909089040959251
+    second: habilidadescudo_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: habilidadescudo_0
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 2576
+        width: 523
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602bd25781e8e5ef0800000000000000
+      internalID: -117500304568765946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_1
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 2895
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e64557d0f38d0f0800000000000000
+      internalID: -1092053582601753039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_2
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 2579
+        width: 494
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d102f37f7b8b8d0800000000000000
+      internalID: -2830310093258482303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_3
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 2577
+        width: 536
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f88a6e1bdcbffcc0800000000000000
+      internalID: -3675011121616877327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_4
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 2583
+        width: 554
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8765da88496cf7d40800000000000000
+      internalID: 5584400404213225080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_5
+      rect:
+        serializedVersion: 2
+        x: 4405
+        y: 2583
+        width: 494
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d044ae2c70f9fa40800000000000000
+      internalID: 5402613644156747992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_6
+      rect:
+        serializedVersion: 2
+        x: 5119
+        y: 2583
+        width: 506
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f0a00761d23d4d0800000000000000
+      internalID: -3111093343190642851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_7
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 2731
+        width: 106
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1d2bcc19aaaf650800000000000000
+      internalID: 6267509374620717534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_8
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 2819
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abf94f88250d7270800000000000000
+      internalID: 8249755764173437859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_9
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 2817
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f021f97e4fb4f1110800000000000000
+      internalID: 1233788338152870415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_10
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 2781
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecd16cd2b434b0b0800000000000000
+      internalID: -5713884084420092692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_11
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 2715
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d0f033a3863d740800000000000000
+      internalID: 5175594995952848132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_12
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 2619
+        width: 134
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413870e8aa5e688c0800000000000000
+      internalID: -3997255098554678508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_13
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 2688
+        width: 132
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545771e56d1e9dc90800000000000000
+      internalID: -7144431023028734651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_14
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 2637
+        width: 80
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e6c0878c96640f0800000000000000
+      internalID: -1133101946508644834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_15
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 2607
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87440b3966dc997a0800000000000000
+      internalID: -6369834357490695048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_16
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 2241
+        width: 98
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04674c9446c05e370800000000000000
+      internalID: 8351094708902327872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_17
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 2313
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54600b2e58bc32f20800000000000000
+      internalID: 3396782319861761605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_18
+      rect:
+        serializedVersion: 2
+        x: 3889
+        y: 2301
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3194a2403b303f010800000000000000
+      internalID: 1221323991351445779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_19
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 2211
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cbb5d4eff21f750800000000000000
+      internalID: 6336898919953054865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_20
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 2295
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decef3bd7c3160a60800000000000000
+      internalID: 7639815566978444525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_21
+      rect:
+        serializedVersion: 2
+        x: 4081
+        y: 2289
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da35f8c85de77a610800000000000000
+      internalID: 1632412845596431277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_22
+      rect:
+        serializedVersion: 2
+        x: 4105
+        y: 2277
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f84e1d59d2d5ec0800000000000000
+      internalID: -3576652407567511655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_23
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 2063
+        width: 122
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0d2a014b65dfa80800000000000000
+      internalID: -8431487595994492767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_24
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1996
+        width: 104
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fed573436e16c00800000000000000
+      internalID: 892247313137659806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_25
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2117
+        width: 135
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4b9f4eae1f0f810800000000000000
+      internalID: 1797202242487039171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_26
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 2229
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3c676406b31b6a0800000000000000
+      internalID: -6435297107850640434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_27
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 2241
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b88e65b133754a90800000000000000
+      internalID: -7330326161141102408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_28
+      rect:
+        serializedVersion: 2
+        x: 3823
+        y: 2271
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6185f85feb711eb0800000000000000
+      internalID: -4750879863979277974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_29
+      rect:
+        serializedVersion: 2
+        x: 4123
+        y: 2265
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414fb7c4baa244750800000000000000
+      internalID: 6288197894927021076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_30
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 2091
+        width: 123
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91a6d90d92135680800000000000000
+      internalID: -8767643583875997281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_31
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 2241
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a29f25844beb190800000000000000
+      internalID: -7944714469912270280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_32
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 2223
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9e37c759685f4b0800000000000000
+      internalID: -5407267800992192045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_33
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 2157
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfcb271c9392d360800000000000000
+      internalID: 7192973853477031900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_34
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 2205
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7222684b8b741aca0800000000000000
+      internalID: -6007441569307287001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_35
+      rect:
+        serializedVersion: 2
+        x: 4111
+        y: 2223
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c117a297eb69bd40800000000000000
+      internalID: 5600626253953962436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_36
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1863
+        width: 500
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16ced050c3a07450800000000000000
+      internalID: 6084543142963365405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_37
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 2097
+        width: 134
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc930c3bef450a410800000000000000
+      internalID: 1486281329946409420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_38
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 2103
+        width: 92
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4541cd917ee95bc80800000000000000
+      internalID: -8307559222206524332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_39
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 2133
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e11f5ddb8a8ab2a0800000000000000
+      internalID: -6720907160577961499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_40
+      rect:
+        serializedVersion: 2
+        x: 3673
+        y: 2181
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e7ffc201f653a60800000000000000
+      internalID: 7653145257051127302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_41
+      rect:
+        serializedVersion: 2
+        x: 3697
+        y: 2205
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01e86643c578c2e0800000000000000
+      internalID: -2105303344235355891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_42
+      rect:
+        serializedVersion: 2
+        x: 4093
+        y: 2199
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc264b22e328598e0800000000000000
+      internalID: -1687299281998552369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_43
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2073
+        width: 146
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64563f7abe1ec9420800000000000000
+      internalID: 2638231883983578438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_44
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 2169
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb26275272a72300800000000000000
+      internalID: 227328918177590250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_45
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 2181
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536cd2091529543e0800000000000000
+      internalID: -2070087574697949643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_46
+      rect:
+        serializedVersion: 2
+        x: 3823
+        y: 2187
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d9e3df734601760800000000000000
+      internalID: 7426545977168665911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_47
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 2151
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1230bf6b6480f77b0800000000000000
+      internalID: -5224447942915849439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_48
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 2163
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b37792c6994ca480800000000000000
+      internalID: -8886647052850203724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_49
+      rect:
+        serializedVersion: 2
+        x: 3667
+        y: 2145
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b998814446d752bd0800000000000000
+      internalID: -2655578535672378981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_50
+      rect:
+        serializedVersion: 2
+        x: 4177
+        y: 2157
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfab0d1d491a9d30800000000000000
+      internalID: 4438888201717526488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_51
+      rect:
+        serializedVersion: 2
+        x: 4195
+        y: 2151
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933e37006bc2bd070800000000000000
+      internalID: 8132142712350827321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_52
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 2019
+        width: 158
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7698c409e65b6f0800000000000000
+      internalID: -669507403556231238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_53
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 2049
+        width: 116
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a42d81713553350800000000000000
+      internalID: 5995789837579471425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_54
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 2127
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc4f7028de8097c0800000000000000
+      internalID: -4066593404606264106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_55
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 2125
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffd2412461aa4a70800000000000000
+      internalID: 8812033072330629115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_56
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 2067
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97548abf048326800800000000000000
+      internalID: 604107151772239225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_57
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 2091
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fe523457bac18a0800000000000000
+      internalID: -6332998455863677145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_58
+      rect:
+        serializedVersion: 2
+        x: 4213
+        y: 2115
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f70df6f175c8e1a0800000000000000
+      internalID: -6779952145740527623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_59
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 2096
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8689d2130d344690800000000000000
+      internalID: -7618897586193594738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_60
+      rect:
+        serializedVersion: 2
+        x: 4201
+        y: 2097
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419e5727e4d7eae00800000000000000
+      internalID: 1057920738359896340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_61
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1977
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908e722bc2386a060800000000000000
+      internalID: 6964398101765810185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_62
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 2079
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72499854c214d72a0800000000000000
+      internalID: -6738157809075383257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_63
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 1989
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943977ea178498080800000000000000
+      internalID: -9184730311949839543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_64
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 2073
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523e41cfe224d1fa0800000000000000
+      internalID: -5828429573182397659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_65
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 1995
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c89e7b22e27c7f0800000000000000
+      internalID: -592454099326628765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_66
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 2067
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b9dbdf1d2317360800000000000000
+      internalID: 7165564359609785211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_67
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1977
+        width: 188
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e61ff0d78f931510800000000000000
+      internalID: 1518732905029768937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_68
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 2067
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951c0327614e7cc90800000000000000
+      internalID: -7149495098371161767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_69
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 2043
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb48518859e0765c0800000000000000
+      internalID: -4222390090240523076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_70
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 2049
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763a97a4915267320800000000000000
+      internalID: 2555270629133230951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_71
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 2037
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e09ee9e2025e530800000000000000
+      internalID: 3883545638283579002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_72
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 2025
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86ac40a8a4fcf720800000000000000
+      internalID: 2881446866691335822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_73
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 1995
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5b394164ac8bc00800000000000000
+      internalID: 916704926511642086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_74
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1881
+        width: 206
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad86702f8d3346650800000000000000
+      internalID: 6225157591799392474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_75
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1881
+        width: 173
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2829db0360ee63110800000000000000
+      internalID: 1240440457742094978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_76
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 1983
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8abbb04bf2b59880800000000000000
+      internalID: -8604774720828884337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_77
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 1881
+        width: 122
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c40578122b82f3b0800000000000000
+      internalID: -5480164818001001274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_78
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1861
+        width: 693
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4052959ffe33790800000000000000
+      internalID: -7551428295948696337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_79
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1832
+        width: 664
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056456011c14590b0800000000000000
+      internalID: -5722595454044780976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_80
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 1831
+        width: 692
+        height: 509
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a14151c6fd8fb50800000000000000
+      internalID: 6627292506978785932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_81
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 1848
+        width: 683
+        height: 501
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6cce7d783a400c0800000000000000
+      internalID: -4610380314682013994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_82
+      rect:
+        serializedVersion: 2
+        x: 3499
+        y: 1881
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10769526d385d150800000000000000
+      internalID: 5896764242888388637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_83
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 1929
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe38a06cc98c7e00800000000000000
+      internalID: 1043860724531084989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_84
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 1929
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d904d32d2975ef30800000000000000
+      internalID: 4604219428837788114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_85
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 1887
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbaea2bd6e688800800000000000000
+      internalID: 614862766564354992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_86
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 1899
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419eb359f9b0cfbe0800000000000000
+      internalID: -1442265000633964268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_87
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 1869
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b03a0b048ab3aa0800000000000000
+      internalID: -6180161067841025217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_88
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 1849
+        width: 741
+        height: 496
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f5deaae6ef084c0800000000000000
+      internalID: -4287147093989171298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_89
+      rect:
+        serializedVersion: 2
+        x: 4243
+        y: 1881
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2260cb44ee0e74b50800000000000000
+      internalID: 6577473094757910050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_90
+      rect:
+        serializedVersion: 2
+        x: 4297
+        y: 1875
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35e3400dd37ffd00800000000000000
+      internalID: 1008652234583696701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_91
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1869
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5f33c0c75edb850800000000000000
+      internalID: 6394519366879409579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_92
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 1869
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fdda4d20dae5a60800000000000000
+      internalID: 7664753843500867455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habilidadescudo_93
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 1869
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8fa123bd78849e0800000000000000
+      internalID: -1636909089040959251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3e84cf095a4ae9482b7a6d2828275480
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      habilidadescudo_0: -117500304568765946
+      habilidadescudo_1: -1092053582601753039
+      habilidadescudo_10: -5713884084420092692
+      habilidadescudo_11: 5175594995952848132
+      habilidadescudo_12: -3997255098554678508
+      habilidadescudo_13: -7144431023028734651
+      habilidadescudo_14: -1133101946508644834
+      habilidadescudo_15: -6369834357490695048
+      habilidadescudo_16: 8351094708902327872
+      habilidadescudo_17: 3396782319861761605
+      habilidadescudo_18: 1221323991351445779
+      habilidadescudo_19: 6336898919953054865
+      habilidadescudo_2: -2830310093258482303
+      habilidadescudo_20: 7639815566978444525
+      habilidadescudo_21: 1632412845596431277
+      habilidadescudo_22: -3576652407567511655
+      habilidadescudo_23: -8431487595994492767
+      habilidadescudo_24: 892247313137659806
+      habilidadescudo_25: 1797202242487039171
+      habilidadescudo_26: -6435297107850640434
+      habilidadescudo_27: -7330326161141102408
+      habilidadescudo_28: -4750879863979277974
+      habilidadescudo_29: 6288197894927021076
+      habilidadescudo_3: -3675011121616877327
+      habilidadescudo_30: -8767643583875997281
+      habilidadescudo_31: -7944714469912270280
+      habilidadescudo_32: -5407267800992192045
+      habilidadescudo_33: 7192973853477031900
+      habilidadescudo_34: -6007441569307287001
+      habilidadescudo_35: 5600626253953962436
+      habilidadescudo_36: 6084543142963365405
+      habilidadescudo_37: 1486281329946409420
+      habilidadescudo_38: -8307559222206524332
+      habilidadescudo_39: -6720907160577961499
+      habilidadescudo_4: 5584400404213225080
+      habilidadescudo_40: 7653145257051127302
+      habilidadescudo_41: -2105303344235355891
+      habilidadescudo_42: -1687299281998552369
+      habilidadescudo_43: 2638231883983578438
+      habilidadescudo_44: 227328918177590250
+      habilidadescudo_45: -2070087574697949643
+      habilidadescudo_46: 7426545977168665911
+      habilidadescudo_47: -5224447942915849439
+      habilidadescudo_48: -8886647052850203724
+      habilidadescudo_49: -2655578535672378981
+      habilidadescudo_5: 5402613644156747992
+      habilidadescudo_50: 4438888201717526488
+      habilidadescudo_51: 8132142712350827321
+      habilidadescudo_52: -669507403556231238
+      habilidadescudo_53: 5995789837579471425
+      habilidadescudo_54: -4066593404606264106
+      habilidadescudo_55: 8812033072330629115
+      habilidadescudo_56: 604107151772239225
+      habilidadescudo_57: -6332998455863677145
+      habilidadescudo_58: -6779952145740527623
+      habilidadescudo_59: -7618897586193594738
+      habilidadescudo_6: -3111093343190642851
+      habilidadescudo_60: 1057920738359896340
+      habilidadescudo_61: 6964398101765810185
+      habilidadescudo_62: -6738157809075383257
+      habilidadescudo_63: -9184730311949839543
+      habilidadescudo_64: -5828429573182397659
+      habilidadescudo_65: -592454099326628765
+      habilidadescudo_66: 7165564359609785211
+      habilidadescudo_67: 1518732905029768937
+      habilidadescudo_68: -7149495098371161767
+      habilidadescudo_69: -4222390090240523076
+      habilidadescudo_7: 6267509374620717534
+      habilidadescudo_70: 2555270629133230951
+      habilidadescudo_71: 3883545638283579002
+      habilidadescudo_72: 2881446866691335822
+      habilidadescudo_73: 916704926511642086
+      habilidadescudo_74: 6225157591799392474
+      habilidadescudo_75: 1240440457742094978
+      habilidadescudo_76: -8604774720828884337
+      habilidadescudo_77: -5480164818001001274
+      habilidadescudo_78: -7551428295948696337
+      habilidadescudo_79: -5722595454044780976
+      habilidadescudo_8: 8249755764173437859
+      habilidadescudo_80: 6627292506978785932
+      habilidadescudo_81: -4610380314682013994
+      habilidadescudo_82: 5896764242888388637
+      habilidadescudo_83: 1043860724531084989
+      habilidadescudo_84: 4604219428837788114
+      habilidadescudo_85: 614862766564354992
+      habilidadescudo_86: -1442265000633964268
+      habilidadescudo_87: -6180161067841025217
+      habilidadescudo_88: -4287147093989171298
+      habilidadescudo_89: 6577473094757910050
+      habilidadescudo_9: 1233788338152870415
+      habilidadescudo_90: 1008652234583696701
+      habilidadescudo_91: 6394519366879409579
+      habilidadescudo_92: 7664753843500867455
+      habilidadescudo_93: -1636909089040959251
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

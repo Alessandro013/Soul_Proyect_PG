@@ -6,11 +6,13 @@ TagManager:
   tags:
   - Enemigo
   - Obstaculo
+  - Pared
+  - ObjetoSolido
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Enemigo
   - Water
   - UI
   - 
@@ -45,6 +47,9 @@ TagManager:
     locked: 0
   - name: Objetos
     uniqueID: 3368877031
+    locked: 0
+  - name: ui
+    uniqueID: 3255081081
     locked: 0
   m_RenderingLayers:
   - Default
