@@ -1,0 +1,6773 @@
+fileFormatVersion: 2
+guid: 6b4746eb2f26d854ab4f1e382ffe134a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -519481937007017833
+    second: hongo_0
+  - first:
+      213: -5798611384215172624
+    second: hongo_1
+  - first:
+      213: -7645910717294073490
+    second: hongo_2
+  - first:
+      213: -6093047562541110886
+    second: hongo_3
+  - first:
+      213: 924155599547051189
+    second: hongo_4
+  - first:
+      213: 2612995838018838203
+    second: hongo_5
+  - first:
+      213: -3299928202237951173
+    second: hongo_6
+  - first:
+      213: 3139111642829420712
+    second: hongo_7
+  - first:
+      213: 5728035070457389272
+    second: hongo_8
+  - first:
+      213: -4599423064999550478
+    second: hongo_9
+  - first:
+      213: -8833001612805630295
+    second: hongo_10
+  - first:
+      213: -5277071266190672688
+    second: hongo_11
+  - first:
+      213: 4671462356749076457
+    second: hongo_12
+  - first:
+      213: 7803060105402651091
+    second: hongo_13
+  - first:
+      213: 3869015840814149947
+    second: hongo_14
+  - first:
+      213: -2997495980831633364
+    second: hongo_15
+  - first:
+      213: 3887650565167938296
+    second: hongo_16
+  - first:
+      213: -9084287458284760001
+    second: hongo_17
+  - first:
+      213: -3455216913976192158
+    second: hongo_18
+  - first:
+      213: 7348605079062132497
+    second: hongo_19
+  - first:
+      213: 2457608721582449686
+    second: hongo_20
+  - first:
+      213: -3259977126359718257
+    second: hongo_21
+  - first:
+      213: -3341979179563912425
+    second: hongo_22
+  - first:
+      213: -1358763523248163609
+    second: hongo_23
+  - first:
+      213: -7944429062423018875
+    second: hongo_24
+  - first:
+      213: 8532802266063648722
+    second: hongo_25
+  - first:
+      213: -5714970370832880262
+    second: hongo_26
+  - first:
+      213: -6551019313440668161
+    second: hongo_27
+  - first:
+      213: -6658182139846520681
+    second: hongo_28
+  - first:
+      213: -8436788646888042571
+    second: hongo_29
+  - first:
+      213: -464629047827465258
+    second: hongo_30
+  - first:
+      213: 7380408572074237529
+    second: hongo_31
+  - first:
+      213: 6913141058881772799
+    second: hongo_32
+  - first:
+      213: 768696599020675341
+    second: hongo_33
+  - first:
+      213: -3890656901409257369
+    second: hongo_34
+  - first:
+      213: -3830042100032585171
+    second: hongo_35
+  - first:
+      213: -6005668936062415059
+    second: hongo_36
+  - first:
+      213: 8755295527379162592
+    second: hongo_37
+  - first:
+      213: 6298998289990902119
+    second: hongo_38
+  - first:
+      213: -7954308019825559348
+    second: hongo_39
+  - first:
+      213: -2763015252320891373
+    second: hongo_40
+  - first:
+      213: -2099888706023937509
+    second: hongo_41
+  - first:
+      213: -5264585841089868235
+    second: hongo_42
+  - first:
+      213: 217957426254746200
+    second: hongo_43
+  - first:
+      213: 8407524765095155346
+    second: hongo_44
+  - first:
+      213: 4371389924155165840
+    second: hongo_45
+  - first:
+      213: -7804724951634091881
+    second: hongo_46
+  - first:
+      213: -6153376675807873741
+    second: hongo_47
+  - first:
+      213: -8954827472817590861
+    second: hongo_48
+  - first:
+      213: 7442014757805631302
+    second: hongo_49
+  - first:
+      213: -51517939256300539
+    second: hongo_50
+  - first:
+      213: -7806422269606998768
+    second: hongo_51
+  - first:
+      213: -2047338596794030006
+    second: hongo_52
+  - first:
+      213: 8769813802111920290
+    second: hongo_53
+  - first:
+      213: -8016319631027135422
+    second: hongo_54
+  - first:
+      213: -1623308365556778215
+    second: hongo_55
+  - first:
+      213: 3856901787448412418
+    second: hongo_56
+  - first:
+      213: 3042473758616426673
+    second: hongo_57
+  - first:
+      213: -1141013149696166717
+    second: hongo_58
+  - first:
+      213: 442400521723425766
+    second: hongo_59
+  - first:
+      213: -8660489639959847544
+    second: hongo_60
+  - first:
+      213: -2587067380673166851
+    second: hongo_61
+  - first:
+      213: -3921312079554102765
+    second: hongo_62
+  - first:
+      213: 1585101675504794596
+    second: hongo_63
+  - first:
+      213: 7776976745008499263
+    second: hongo_64
+  - first:
+      213: -1140315926073687816
+    second: hongo_65
+  - first:
+      213: -8064010194637631985
+    second: hongo_66
+  - first:
+      213: 402981031718566479
+    second: hongo_67
+  - first:
+      213: -6327499534846749826
+    second: hongo_68
+  - first:
+      213: 6032977757189676081
+    second: hongo_69
+  - first:
+      213: -195102423445392604
+    second: hongo_70
+  - first:
+      213: 1152786959237301173
+    second: hongo_71
+  - first:
+      213: -4484453085198791717
+    second: hongo_72
+  - first:
+      213: -1360902377243530223
+    second: hongo_73
+  - first:
+      213: 3036200652431075680
+    second: hongo_74
+  - first:
+      213: -9010317387180001251
+    second: hongo_75
+  - first:
+      213: 1184456132000142318
+    second: hongo_76
+  - first:
+      213: 2569405579709872242
+    second: hongo_77
+  - first:
+      213: -1372553728729155917
+    second: hongo_78
+  - first:
+      213: 37656176916487203
+    second: hongo_79
+  - first:
+      213: -4878329600911064605
+    second: hongo_80
+  - first:
+      213: 1647491430879141011
+    second: hongo_81
+  - first:
+      213: 3227202384149402657
+    second: hongo_82
+  - first:
+      213: -1108526177992647277
+    second: hongo_83
+  - first:
+      213: -2954568904449762326
+    second: hongo_84
+  - first:
+      213: 7012141014288004627
+    second: hongo_85
+  - first:
+      213: 3285160205249929021
+    second: hongo_86
+  - first:
+      213: 1205474826186737417
+    second: hongo_87
+  - first:
+      213: 6504703497408384764
+    second: hongo_88
+  - first:
+      213: -7684834969971118430
+    second: hongo_89
+  - first:
+      213: -346268548477847238
+    second: hongo_90
+  - first:
+      213: 2498806238414802063
+    second: hongo_91
+  - first:
+      213: 626568384189231631
+    second: hongo_92
+  - first:
+      213: -5899386103209427877
+    second: hongo_93
+  - first:
+      213: 764724124633702608
+    second: hongo_94
+  - first:
+      213: 4784507492326045026
+    second: hongo_95
+  - first:
+      213: 5956407936280429053
+    second: hongo_96
+  - first:
+      213: -4619895925019587604
+    second: hongo_97
+  - first:
+      213: -418959982323425863
+    second: hongo_98
+  - first:
+      213: -3549383665314848527
+    second: hongo_99
+  - first:
+      213: -850964786569636299
+    second: hongo_100
+  - first:
+      213: -1936952086409622856
+    second: hongo_101
+  - first:
+      213: -1958646287786148431
+    second: hongo_102
+  - first:
+      213: -5353308649643161316
+    second: hongo_103
+  - first:
+      213: 7595449709560281043
+    second: hongo_104
+  - first:
+      213: -6980330354567675922
+    second: hongo_105
+  - first:
+      213: -1066656057889004045
+    second: hongo_106
+  - first:
+      213: 8354018177369445196
+    second: hongo_107
+  - first:
+      213: 3625779024843203939
+    second: hongo_108
+  - first:
+      213: -2787048377325926275
+    second: hongo_109
+  - first:
+      213: -8807510393605112046
+    second: hongo_110
+  - first:
+      213: -5391072039561102003
+    second: hongo_111
+  - first:
+      213: 5672003109595491487
+    second: hongo_112
+  - first:
+      213: -3549280373085215257
+    second: hongo_113
+  - first:
+      213: -15281461304469139
+    second: hongo_114
+  - first:
+      213: 3661997003127855778
+    second: hongo_115
+  - first:
+      213: 3155217162553335799
+    second: hongo_116
+  - first:
+      213: 3501681029957964793
+    second: hongo_117
+  - first:
+      213: 7208912266024360962
+    second: hongo_118
+  - first:
+      213: -3630878438037482279
+    second: hongo_119
+  - first:
+      213: -3544221102885842259
+    second: hongo_120
+  - first:
+      213: 9172499987369709245
+    second: hongo_121
+  - first:
+      213: 346193121671916205
+    second: hongo_122
+  - first:
+      213: -7317726593466646281
+    second: hongo_123
+  - first:
+      213: -771826118531213377
+    second: hongo_124
+  - first:
+      213: -8111360514461952362
+    second: hongo_125
+  - first:
+      213: -3998885019464559917
+    second: hongo_126
+  - first:
+      213: -903351799232069116
+    second: hongo_127
+  - first:
+      213: 2748342696203213763
+    second: hongo_128
+  - first:
+      213: 1187181534112873335
+    second: hongo_129
+  - first:
+      213: -1673816105794225973
+    second: hongo_130
+  - first:
+      213: 6219800656782749912
+    second: hongo_131
+  - first:
+      213: -742755436126014307
+    second: hongo_132
+  - first:
+      213: 2324696373389761182
+    second: hongo_133
+  - first:
+      213: -4728890221660623909
+    second: hongo_134
+  - first:
+      213: -3412664168910706100
+    second: hongo_135
+  - first:
+      213: 7690845532256544458
+    second: hongo_136
+  - first:
+      213: -24690095922342712
+    second: hongo_137
+  - first:
+      213: -7076165858999485814
+    second: hongo_138
+  - first:
+      213: -5330212645745794989
+    second: hongo_139
+  - first:
+      213: 679664132600119900
+    second: hongo_140
+  - first:
+      213: -7690694336738256361
+    second: hongo_141
+  - first:
+      213: 6162098360730156822
+    second: hongo_142
+  - first:
+      213: 7948543429905761946
+    second: hongo_143
+  - first:
+      213: -3759722525808263623
+    second: hongo_144
+  - first:
+      213: -5572900532847534637
+    second: hongo_145
+  - first:
+      213: 5769272659563441470
+    second: hongo_146
+  - first:
+      213: -7885030400714559583
+    second: hongo_147
+  - first:
+      213: -8627270155069931115
+    second: hongo_148
+  - first:
+      213: -6880728217728926448
+    second: hongo_149
+  - first:
+      213: -7209362597543416434
+    second: hongo_150
+  - first:
+      213: -8316754390468804620
+    second: hongo_151
+  - first:
+      213: -8191633073569620229
+    second: hongo_152
+  - first:
+      213: -3055436786402024963
+    second: hongo_153
+  - first:
+      213: 6600007786410242224
+    second: hongo_154
+  - first:
+      213: 2209180539079186207
+    second: hongo_155
+  - first:
+      213: -2671386126017982875
+    second: hongo_156
+  - first:
+      213: 2395794505121989596
+    second: hongo_157
+  - first:
+      213: 4136164606200410654
+    second: hongo_158
+  - first:
+      213: 3113431022607641023
+    second: hongo_159
+  - first:
+      213: 1592080758570456764
+    second: hongo_160
+  - first:
+      213: -4888725061435635927
+    second: hongo_161
+  - first:
+      213: -7748464594651223826
+    second: hongo_162
+  - first:
+      213: 1748601659944257511
+    second: hongo_163
+  - first:
+      213: -8044721582827962176
+    second: hongo_164
+  - first:
+      213: 1039174718147825049
+    second: hongo_165
+  - first:
+      213: -7483300466348420700
+    second: hongo_166
+  - first:
+      213: -6248207644946859541
+    second: hongo_167
+  - first:
+      213: 7754008219475200991
+    second: hongo_168
+  - first:
+      213: 2452120043919867304
+    second: hongo_169
+  - first:
+      213: -8040107283795403694
+    second: hongo_170
+  - first:
+      213: -2540435160768698463
+    second: hongo_171
+  - first:
+      213: -5745291825647342467
+    second: hongo_172
+  - first:
+      213: -3666964055324127146
+    second: hongo_173
+  - first:
+      213: -4715600722525128584
+    second: hongo_174
+  - first:
+      213: -4262313343564580399
+    second: hongo_175
+  - first:
+      213: -9099153122413116920
+    second: hongo_176
+  - first:
+      213: 7810340675007049937
+    second: hongo_177
+  - first:
+      213: 9044261608483911806
+    second: hongo_178
+  - first:
+      213: 5929107599803521511
+    second: hongo_179
+  - first:
+      213: 7299990665464343193
+    second: hongo_180
+  - first:
+      213: 7325562882686065971
+    second: hongo_181
+  - first:
+      213: 5647122943727064100
+    second: hongo_182
+  - first:
+      213: 6583630926579483781
+    second: hongo_183
+  - first:
+      213: -2729022552731634188
+    second: hongo_184
+  - first:
+      213: 3440180758812291721
+    second: hongo_185
+  - first:
+      213: 409720909543213854
+    second: hongo_186
+  - first:
+      213: 5459061907652062207
+    second: hongo_187
+  - first:
+      213: 5383122959535765958
+    second: hongo_188
+  - first:
+      213: -6799100291727712244
+    second: hongo_189
+  - first:
+      213: 7534347607879395234
+    second: hongo_190
+  - first:
+      213: -2652776113035111360
+    second: hongo_191
+  - first:
+      213: 3871198377540258659
+    second: hongo_192
+  - first:
+      213: -2186527732370945774
+    second: hongo_193
+  - first:
+      213: 4225618309981498042
+    second: hongo_194
+  - first:
+      213: -3465734167537252181
+    second: hongo_195
+  - first:
+      213: 7660578701922033647
+    second: hongo_196
+  - first:
+      213: 8610736941679797440
+    second: hongo_197
+  - first:
+      213: -1340083622335923060
+    second: hongo_198
+  - first:
+      213: -2496795386073301022
+    second: hongo_199
+  - first:
+      213: -2492139329990319412
+    second: hongo_200
+  - first:
+      213: -2732402049461155285
+    second: hongo_201
+  - first:
+      213: -8653115308002938509
+    second: hongo_202
+  - first:
+      213: -7699150064905624413
+    second: hongo_203
+  - first:
+      213: 3414672417855818013
+    second: hongo_204
+  - first:
+      213: -3560335248029122150
+    second: hongo_205
+  - first:
+      213: -853628742367575172
+    second: hongo_206
+  - first:
+      213: 6659989329501647551
+    second: hongo_207
+  - first:
+      213: 90806328391923444
+    second: hongo_208
+  - first:
+      213: 6158567204917990711
+    second: hongo_209
+  - first:
+      213: -6238703271271088658
+    second: hongo_210
+  - first:
+      213: -6101565065231243964
+    second: hongo_211
+  - first:
+      213: -6403371952597124779
+    second: hongo_212
+  - first:
+      213: -1495743769115481926
+    second: hongo_213
+  - first:
+      213: 2022255674902704355
+    second: hongo_214
+  - first:
+      213: 2300604735289537003
+    second: hongo_215
+  - first:
+      213: 2636715126568930290
+    second: hongo_216
+  - first:
+      213: 1739427140607702854
+    second: hongo_217
+  - first:
+      213: -3298146580397605688
+    second: hongo_218
+  - first:
+      213: -9094232619598637535
+    second: hongo_219
+  - first:
+      213: 4578139416634213546
+    second: hongo_220
+  - first:
+      213: 5306851394066501107
+    second: hongo_221
+  - first:
+      213: 5474684550348719823
+    second: hongo_222
+  - first:
+      213: 8705997056294116803
+    second: hongo_223
+  - first:
+      213: 8820454352619903107
+    second: hongo_224
+  - first:
+      213: -6804375132138118992
+    second: hongo_225
+  - first:
+      213: -3787894388520619156
+    second: hongo_226
+  - first:
+      213: -5046330704569723233
+    second: hongo_227
+  - first:
+      213: -3613692352630298446
+    second: hongo_228
+  - first:
+      213: 7059838227501001301
+    second: hongo_229
+  - first:
+      213: -7715553062482821210
+    second: hongo_230
+  - first:
+      213: -2021906907794664013
+    second: hongo_231
+  - first:
+      213: -5205595366067988075
+    second: hongo_232
+  - first:
+      213: 7458956850883627285
+    second: hongo_233
+  - first:
+      213: -3319845140146948110
+    second: hongo_234
+  - first:
+      213: -5447831816888287600
+    second: hongo_235
+  - first:
+      213: -5294141742572418086
+    second: hongo_236
+  - first:
+      213: 3919127358576060165
+    second: hongo_237
+  - first:
+      213: -897981310900155915
+    second: hongo_238
+  - first:
+      213: -476428019566642295
+    second: hongo_239
+  - first:
+      213: 5006819519097872031
+    second: hongo_240
+  - first:
+      213: -1518542516939291813
+    second: hongo_241
+  - first:
+      213: 545036568981736546
+    second: hongo_242
+  - first:
+      213: 5301958283378829453
+    second: hongo_243
+  - first:
+      213: 9023318754611580432
+    second: hongo_244
+  - first:
+      213: -7084549538625976791
+    second: hongo_245
+  - first:
+      213: -1283716004820096514
+    second: hongo_246
+  - first:
+      213: 7296868932797882926
+    second: hongo_247
+  - first:
+      213: -5928189331299418385
+    second: hongo_248
+  - first:
+      213: 2454591600894669569
+    second: hongo_249
+  - first:
+      213: 401103728331208616
+    second: hongo_250
+  - first:
+      213: 4981255233475710386
+    second: hongo_251
+  - first:
+      213: 4076233724041552340
+    second: hongo_252
+  - first:
+      213: -3645168730517176644
+    second: hongo_253
+  - first:
+      213: -4248378303390312963
+    second: hongo_254
+  - first:
+      213: -6609009911298367433
+    second: hongo_255
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hongo_0
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 5225
+        width: 116
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790077d3eed6ac8f0800000000000000
+      internalID: -519481937007017833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_1
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 5225
+        width: 116
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9815d1ba1378fa0800000000000000
+      internalID: -5798611384215172624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_2
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 5225
+        width: 116
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69a55f56b444e590800000000000000
+      internalID: -7645910717294073490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_3
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 5225
+        width: 116
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a996d233685217ba0800000000000000
+      internalID: -6093047562541110886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_4
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 5225
+        width: 116
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bca0341f9243dc00800000000000000
+      internalID: 924155599547051189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 4825
+        width: 116
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbedfa4ded9334420800000000000000
+      internalID: 2612995838018838203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_6
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 4825
+        width: 116
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b334059a8cc4432d0800000000000000
+      internalID: -3299928202237951173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_7
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 4825
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8f32d486d509b20800000000000000
+      internalID: 3139111642829420712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_8
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 4825
+        width: 116
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0a7935c811e7f40800000000000000
+      internalID: 5728035070457389272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_9
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 4825
+        width: 116
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1a6f657119b20c0800000000000000
+      internalID: -4599423064999550478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_10
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 4825
+        width: 128
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6944815dfda6580800000000000000
+      internalID: -8833001612805630295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_11
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 4425
+        width: 116
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcb84c74a314c6b0800000000000000
+      internalID: -5277071266190672688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_12
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 4425
+        width: 116
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e743a3534e54d040800000000000000
+      internalID: 4671462356749076457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_13
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 4425
+        width: 116
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d11c8fc2d90a4c60800000000000000
+      internalID: 7803060105402651091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_14
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 4425
+        width: 116
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b313616886181b530800000000000000
+      internalID: 3869015840814149947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_15
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 4425
+        width: 116
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c209ede6941c666d0800000000000000
+      internalID: -2997495980831633364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_16
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 4043
+        width: 116
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa7ea36795b3f530800000000000000
+      internalID: 3887650565167938296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_17
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 4025
+        width: 116
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f349663ffa02ee180800000000000000
+      internalID: -9084287458284760001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_18
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 4025
+        width: 116
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2631784f58a9c00d0800000000000000
+      internalID: -3455216913976192158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_19
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 4025
+        width: 116
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1173124826d7bf560800000000000000
+      internalID: 7348605079062132497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_20
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 4043
+        width: 116
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614e2de7c1e2b1220800000000000000
+      internalID: 2457608721582449686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_21
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 3625
+        width: 116
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f862e6f531c32c2d0800000000000000
+      internalID: -3259977126359718257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_22
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 3625
+        width: 116
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713775b84a7ee91d0800000000000000
+      internalID: -3341979179563912425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_23
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 3625
+        width: 116
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4f80f46c3b42de0800000000000000
+      internalID: -1358763523248163609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_24
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 3643
+        width: 116
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5828cfeebd7bfb190800000000000000
+      internalID: -7944429062423018875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_25
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 3625
+        width: 116
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d73f57c37a9a6670800000000000000
+      internalID: 8532802266063648722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 3225
+        width: 116
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7daf981ab850b0b0800000000000000
+      internalID: -5714970370832880262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_27
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 3225
+        width: 116
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff545a9a4aa1615a0800000000000000
+      internalID: -6551019313440668161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_28
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 3243
+        width: 116
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7901990de926993a0800000000000000
+      internalID: -6658182139846520681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_29
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 3225
+        width: 116
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf8039fc618aea80800000000000000
+      internalID: -8436788646888042571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_30
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 3225
+        width: 116
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db7aebb75e4d89f0800000000000000
+      internalID: -464629047827465258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_31
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2825
+        width: 116
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e9bb34e7a7c6660800000000000000
+      internalID: 7380408572074237529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_32
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 2843
+        width: 116
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcd0d86a2960ff50800000000000000
+      internalID: 6913141058881772799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_33
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 2825
+        width: 116
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01adaceb75faaa00800000000000000
+      internalID: 768696599020675341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_34
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 2825
+        width: 116
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7684498692c910ac0800000000000000
+      internalID: -3890656901409257369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_35
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 2825
+        width: 116
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2244c0a005f8dac0800000000000000
+      internalID: -3830042100032585171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_36
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2443
+        width: 116
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fc66b0ce397aca0800000000000000
+      internalID: -6005668936062415059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_37
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 2425
+        width: 116
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5500505ee018970800000000000000
+      internalID: 8755295527379162592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_38
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 2425
+        width: 116
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76163bb32998a6750800000000000000
+      internalID: 6298998289990902119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_39
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2425
+        width: 129
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8b14ceffe9c9190800000000000000
+      internalID: -7954308019825559348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_40
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 2425
+        width: 116
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e4d60644cc7a9d0800000000000000
+      internalID: -2763015252320891373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_41
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 2025
+        width: 380
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1aa699f852bbd2e0800000000000000
+      internalID: -2099888706023937509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_42
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 2319
+        width: 8
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e894c021f60f6b0800000000000000
+      internalID: -5264585841089868235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_43
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 2301
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8529218df17560300800000000000000
+      internalID: 217957426254746200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_44
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 2349
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296dbc79a378da470800000000000000
+      internalID: 8407524765095155346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_45
+      rect:
+        serializedVersion: 2
+        x: 3671
+        y: 2349
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c8df3b9fb4aac30800000000000000
+      internalID: 4371389924155165840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_46
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 2337
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790e838f10c00b390800000000000000
+      internalID: -7804724951634091881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_47
+      rect:
+        serializedVersion: 2
+        x: 3665
+        y: 2337
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3353c4de380da9aa0800000000000000
+      internalID: -6153376675807873741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_48
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 2025
+        width: 308
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd6cc1bbdf0ab380800000000000000
+      internalID: -8954827472817590861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_49
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 2313
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64728342ef8574760800000000000000
+      internalID: 7442014757805631302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_50
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 2319
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c611b05b8f84ff0800000000000000
+      internalID: -51517939256300539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_51
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 2265
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d40655e440aa390800000000000000
+      internalID: -7806422269606998768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_52
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 2295
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48252bb4646693e0800000000000000
+      internalID: -2047338596794030006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_53
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 2277
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8e2354033a4b970800000000000000
+      internalID: 8769813802111920290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_54
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 2283
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c13a294cf40c090800000000000000
+      internalID: -8016319631027135422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_55
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 2289
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b711664a9d879e0800000000000000
+      internalID: -1623308365556778215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_56
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 2025
+        width: 503
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2098e6eadb7768530800000000000000
+      internalID: 3856901787448412418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_57
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 2295
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b897c483c9093a20800000000000000
+      internalID: 3042473758616426673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_58
+      rect:
+        serializedVersion: 2
+        x: 3749
+        y: 2283
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c47f40f59e4a20f0800000000000000
+      internalID: -1141013149696166717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_59
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2025
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3b5c93ee8b32600800000000000000
+      internalID: 442400521723425766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_60
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 2217
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d1e35ce82cfc780800000000000000
+      internalID: -8660489639959847544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_61
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 2025
+        width: 480
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1c9f49ce3e81cd0800000000000000
+      internalID: -2587067380673166851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_62
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 2223
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ababc8073b499c0800000000000000
+      internalID: -3921312079554102765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_63
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 2211
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebf65d53996ff510800000000000000
+      internalID: 1585101675504794596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_64
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 2205
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a84b8352f5deb60800000000000000
+      internalID: 7776976745008499263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_65
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 2193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f048a6f4b8cc20f0800000000000000
+      internalID: -1140315926073687816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_66
+      rect:
+        serializedVersion: 2
+        x: 3785
+        y: 2163
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ece73f371e61090800000000000000
+      internalID: -8064010194637631985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_67
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 2115
+        width: 80
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a3ecefc1da79500800000000000000
+      internalID: 402981031718566479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_68
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 2145
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73920592b43038a0800000000000000
+      internalID: -6327499534846749826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_69
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 2151
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c9f1b5e4179b350800000000000000
+      internalID: 6032977757189676081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_70
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 2103
+        width: 80
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42338bb216bda4df0800000000000000
+      internalID: -195102423445392604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_71
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 2139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3ca07b1a58fff00800000000000000
+      internalID: 1152786959237301173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_72
+      rect:
+        serializedVersion: 2
+        x: 3377
+        y: 2133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb42dcbda504c1c0800000000000000
+      internalID: -4484453085198791717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_73
+      rect:
+        serializedVersion: 2
+        x: 3749
+        y: 2139
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c2a6e8f7a1d1de0800000000000000
+      internalID: -1360902377243530223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_74
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 2127
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069a6fa2860c22a20800000000000000
+      internalID: 3036200652431075680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_75
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1625
+        width: 356
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d183c97331ce4f280800000000000000
+      internalID: -9010317387180001251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_76
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1625
+        width: 374
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3d6e79398007010800000000000000
+      internalID: 1184456132000142318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_77
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1625
+        width: 392
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278738ee2cc58a320800000000000000
+      internalID: 2569405579709872242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_78
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 1614
+        width: 470
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6f5f3e7a5b3fce0800000000000000
+      internalID: -1372553728729155917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_79
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 1623
+        width: 463
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cd4b8e718c58000800000000000000
+      internalID: 37656176916487203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_80
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 1769
+        width: 248
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e14c601311bc4cb0800000000000000
+      internalID: -4878329600911064605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_81
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 1913
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c1d044ab01dd610800000000000000
+      internalID: 1647491430879141011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_82
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 1733
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124d48d487359cc20800000000000000
+      internalID: 3227202384149402657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_83
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 1751
+        width: 68
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dd6887059bd90f0800000000000000
+      internalID: -1108526177992647277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_84
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 1625
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb5bd14c334ff6d0800000000000000
+      internalID: -2954568904449762326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_85
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 1661
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316759fb911205160800000000000000
+      internalID: 7012141014288004627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_86
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 1625
+        width: 92
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fdb281dcb379d20800000000000000
+      internalID: 3285160205249929021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_87
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 1625
+        width: 92
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9074980b7f4bab010800000000000000
+      internalID: 1205474826186737417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_88
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 1625
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe84441e59554a50800000000000000
+      internalID: 6504703497408384764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_89
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 1661
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae2f519f4bf95590800000000000000
+      internalID: -7684834969971118430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_90
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 1673
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39761bf69ec13bf0800000000000000
+      internalID: -346268548477847238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_91
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 1625
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c8e3bd80b8da220800000000000000
+      internalID: 2498806238414802063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_92
+      rect:
+        serializedVersion: 2
+        x: 3671
+        y: 1661
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02f61f20a402b800800000000000000
+      internalID: 626568384189231631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_93
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 1655
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c735d689b212ea0800000000000000
+      internalID: -5899386103209427877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_94
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 1637
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0a6f72a88dc9a00800000000000000
+      internalID: 764724124633702608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_95
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 1643
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265f941073cf56240800000000000000
+      internalID: 4784507492326045026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_96
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 1625
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1005ba57969a250800000000000000
+      internalID: 5956407936280429053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_97
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 1637
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebcee92225d2efb0800000000000000
+      internalID: -4619895925019587604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_98
+      rect:
+        serializedVersion: 2
+        x: 3527
+        y: 1649
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd1286ad1e8f2af0800000000000000
+      internalID: -418959982323425863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_99
+      rect:
+        serializedVersion: 2
+        x: 3617
+        y: 1649
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0a551ac5e0ebec0800000000000000
+      internalID: -3549383665314848527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_100
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 1625
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53696240904c034f0800000000000000
+      internalID: -850964786569636299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_101
+      rect:
+        serializedVersion: 2
+        x: 3749
+        y: 1631
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba4a9ef6509e15e0800000000000000
+      internalID: -1936952086409622856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_102
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1549
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd7edf149d71d4e0800000000000000
+      internalID: -1958646287786148431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_103
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 1561
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c194efc652a35b5b0800000000000000
+      internalID: -5353308649643161316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_104
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 1555
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d73fa7b445786960800000000000000
+      internalID: 7595449709560281043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_105
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 1567
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeffd11a682e02f90800000000000000
+      internalID: -6980330354567675922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_106
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 1567
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5e10c77f97231f0800000000000000
+      internalID: -1066656057889004045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_107
+      rect:
+        serializedVersion: 2
+        x: 3593
+        y: 1573
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c431345554f6fe370800000000000000
+      internalID: 8354018177369445196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_108
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1225
+        width: 443
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36567d910da515230800000000000000
+      internalID: 3625779024843203939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_109
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1513
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78c8a9644a6259d0800000000000000
+      internalID: -2787048377325926275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_110
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1477
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f3b9116ff65c580800000000000000
+      internalID: -8807510393605112046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_111
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1234
+        width: 436
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d7b6b0b801f25b0800000000000000
+      internalID: -5391072039561102003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_112
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1537
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ca950d6c007be40800000000000000
+      internalID: 5672003109595491487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_113
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1543
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e56df93e4c6ebec0800000000000000
+      internalID: -3549280373085215257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_114
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1242
+        width: 410
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d695c478795b9cff0800000000000000
+      internalID: -15281461304469139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_115
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1549
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa1bfb4fd602d230800000000000000
+      internalID: 3661997003127855778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_116
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1549
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff1533da4599cb20800000000000000
+      internalID: 3155217162553335799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_117
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 1543
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f35e531858789030800000000000000
+      internalID: 3501681029957964793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_118
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 1555
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c9651f2833b0460800000000000000
+      internalID: 7208912266024360962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_119
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 1555
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4962e3c478c9dc0800000000000000
+      internalID: -3630878438037482279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_120
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 1555
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2db0d5fa560dec0800000000000000
+      internalID: -3544221102885842259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_121
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 1555
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe4279f3244b4f70800000000000000
+      internalID: 9172499987369709245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_122
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 1555
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa20f85fccedc400800000000000000
+      internalID: 346193121671916205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_123
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 1561
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0cdf82f66327a90800000000000000
+      internalID: -7317726593466646281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_124
+      rect:
+        serializedVersion: 2
+        x: 3551
+        y: 1561
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb714980c3ce945f0800000000000000
+      internalID: -771826118531213377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_125
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1531
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6969d528698ae6f80800000000000000
+      internalID: -8111360514461952362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_126
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 1543
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d21f25034b1188c0800000000000000
+      internalID: -3998885019464559917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_127
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 1549
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40200932356a673f0800000000000000
+      internalID: -903351799232069116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_128
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 1543
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb5b30fe13142620800000000000000
+      internalID: 2748342696203213763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_129
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1459
+        width: 98
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b73b8b057b97010800000000000000
+      internalID: 1187181534112873335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_130
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1525
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8becabe1965c8e0800000000000000
+      internalID: -1673816105794225973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_131
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1525
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0f6415ebb215650800000000000000
+      internalID: 6219800656782749912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_132
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 1531
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94f7babdd331b5f0800000000000000
+      internalID: -742755436126014307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_133
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1531
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a198ae80bf24020800000000000000
+      internalID: 2324696373389761182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_134
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 1531
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdba91ce56b9f5eb0800000000000000
+      internalID: -4728890221660623909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_135
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 1537
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4aaf5af408c3a0d0800000000000000
+      internalID: -3412664168910706100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_136
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 1537
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac62d84834f5bba60800000000000000
+      internalID: 7690845532256544458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_137
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1519
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c414131d7848aff0800000000000000
+      internalID: -24690095922342712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_138
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1519
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ab69274a86ccd90800000000000000
+      internalID: -7076165858999485814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_139
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1501
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350e601e6d74706b0800000000000000
+      internalID: -5330212645745794989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_140
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1507
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5244367de6ae6900800000000000000
+      internalID: 679664132600119900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_141
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 1507
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a9b9e6f3a254590800000000000000
+      internalID: -7690694336738256361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_142
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 1513
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f76569fcb248550800000000000000
+      internalID: 6162098360730156822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_143
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 1513
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a964c45e226ee4e60800000000000000
+      internalID: 7948543429905761946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_144
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1417
+        width: 146
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ef92b5848c2dbc0800000000000000
+      internalID: -3759722525808263623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_145
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1495
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd990bed7419a2b0800000000000000
+      internalID: -5572900532847534637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_146
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1495
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3de6adbae2901050800000000000000
+      internalID: 5769272659563441470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_147
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1495
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afa04290aeb29290800000000000000
+      internalID: -7885030400714559583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_148
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1489
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5914ab1d087c54880800000000000000
+      internalID: -8627270155069931115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_149
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1501
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01db242442eb280a0800000000000000
+      internalID: -6880728217728926448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_150
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 1501
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8def641ae233fb90800000000000000
+      internalID: -7209362597543416434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_151
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 1501
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffbfe722f3f49c80800000000000000
+      internalID: -8316754390468804620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_152
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 1495
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe9a87ee19715e80800000000000000
+      internalID: -8191633073569620229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_153
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 1507
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1a8d06e68e895d0800000000000000
+      internalID: -3055436786402024963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_154
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1435
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b07bc70d10f79b50800000000000000
+      internalID: 6600007786410242224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_155
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1471
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17558cdef598ae10800000000000000
+      internalID: 2209180539079186207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_156
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1483
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e8ac4d8745dead0800000000000000
+      internalID: -2671386126017982875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_157
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1477
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd301a0b8629f3120800000000000000
+      internalID: 2395794505121989596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_158
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1471
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e127e158bcb966930800000000000000
+      internalID: 4136164606200410654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_159
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1489
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9a537f401253b20800000000000000
+      internalID: 3113431022607641023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_160
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1489
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb69354c305381610800000000000000
+      internalID: 1592080758570456764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_161
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 1489
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927449c4572c72cb0800000000000000
+      internalID: -4888725061435635927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_162
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1459
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee86f19118ce77490800000000000000
+      internalID: -7748464594651223826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_163
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1459
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7c2aaf1f7444810800000000000000
+      internalID: 1748601659944257511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_164
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1465
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c00f9ad7586b5090800000000000000
+      internalID: -8044721582827962176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_165
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1471
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d84ce76e3eb6e00800000000000000
+      internalID: 1039174718147825049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_166
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1477
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a199c3cfd9f52890800000000000000
+      internalID: -7483300466348420700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_167
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1471
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9ff085048e949a0800000000000000
+      internalID: -6248207644946859541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_168
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1477
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb4743a465cb9b60800000000000000
+      internalID: 7754008219475200991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_169
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1471
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad7574203ea70220800000000000000
+      internalID: 2452120043919867304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_170
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 1477
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c1851160dcb6090800000000000000
+      internalID: -8040107283795403694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_171
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 1477
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7287b5eaf8ebcd0800000000000000
+      internalID: -2540435160768698463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_172
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1465
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ca551468f9440b0800000000000000
+      internalID: -5745291825647342467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_173
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1459
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650974ebe935c1dc0800000000000000
+      internalID: -3666964055324127146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_174
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1465
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878705f8022de8eb0800000000000000
+      internalID: -4715600722525128584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_175
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1447
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9fc63c89839d4c0800000000000000
+      internalID: -4262313343564580399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_176
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1465
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8020eadc17059b180800000000000000
+      internalID: -9099153122413116920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_177
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1459
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d074948677e36c60800000000000000
+      internalID: 7810340675007049937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_178
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 1465
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78f26da30ca38d70800000000000000
+      internalID: 9044261608483911806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_179
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 1453
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e99b51c2fb684250800000000000000
+      internalID: 5929107599803521511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_180
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 1465
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a6bae45d6ce4560800000000000000
+      internalID: 7299990665464343193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_181
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 1465
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d1a4a11a0a9a560800000000000000
+      internalID: 7325562882686065971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_182
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1441
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4245fc7c56c9e5e40800000000000000
+      internalID: 5647122943727064100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_183
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1447
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584cb073271cd5b50800000000000000
+      internalID: 6583630926579483781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_184
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1453
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5b6608270902ad0800000000000000
+      internalID: -2729022552731634188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_185
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 1453
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982f32c5c2afdbf20800000000000000
+      internalID: 3440180758812291721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_186
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1399
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b8f561ffe9fa500800000000000000
+      internalID: 409720909543213854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_187
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1423
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffba774b1eb72cb40800000000000000
+      internalID: 5459061907652062207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_188
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1429
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9f0698fc1b4ba40800000000000000
+      internalID: 5383122959535765958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_189
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1435
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00a05fce4eb4a1a0800000000000000
+      internalID: -6799100291727712244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_190
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 1435
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a727fd0b316f8860800000000000000
+      internalID: 7534347607879395234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_191
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1435
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04496e12e227f2bd0800000000000000
+      internalID: -2652776113035111360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_192
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1435
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b0b54f96249b530800000000000000
+      internalID: 3871198377540258659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_193
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 1441
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2194d74bc94e7a1e0800000000000000
+      internalID: -2186527732370945774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_194
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 1441
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba65d2f67964aa30800000000000000
+      internalID: 4225618309981498042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_195
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1411
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8020a032d37efc0800000000000000
+      internalID: -3465734167537252181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_196
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1423
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef5cfdedb7df4a60800000000000000
+      internalID: 7660578701922033647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_197
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 1423
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4682770ab7f7770800000000000000
+      internalID: 8610736941679797440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_198
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 1429
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c3959ab01176de0800000000000000
+      internalID: -1340083622335923060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_199
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1381
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef344033d9995dd0800000000000000
+      internalID: -2496795386073301022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_200
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1393
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2a529bb742a6dd0800000000000000
+      internalID: -2492139329990319412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_201
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1411
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a815a10de841ad0800000000000000
+      internalID: -2732402049461155285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_202
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1411
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3717df93975f9e780800000000000000
+      internalID: -8653115308002938509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_203
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1405
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4efdccecf172590800000000000000
+      internalID: -7699150064905624413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_204
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 1411
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19ce9ae87a536f20800000000000000
+      internalID: 3414672417855818013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_205
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1393
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a910ce394f5279ec0800000000000000
+      internalID: -3560335248029122150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_206
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1399
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c730e197e2d4724f0800000000000000
+      internalID: -853628742367575172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_207
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1381
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb276d052090d6c50800000000000000
+      internalID: 6659989329501647551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_208
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 1399
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f67823efdb924100800000000000000
+      internalID: 90806328391923444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_209
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 1393
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735d18e4e30a77550800000000000000
+      internalID: 6158567204917990711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_210
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1369
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedb1d8cd6cab69a0800000000000000
+      internalID: -6238703271271088658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_211
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1369
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44565f096e2e25ba0800000000000000
+      internalID: -6101565065231243964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_212
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1375
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559bfb8b227a227a0800000000000000
+      internalID: -6403371952597124779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_213
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 1387
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab82ede77fc0e3be0800000000000000
+      internalID: -1495743769115481926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_214
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1351
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0f79b62de701c10800000000000000
+      internalID: 2022255674902704355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_215
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1357
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1b38f41d36def10800000000000000
+      internalID: 2300604735289537003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_216
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1363
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb4a0d007e779420800000000000000
+      internalID: 2636715126568930290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_217
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1285
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647789cb4cfa32810800000000000000
+      internalID: 1739427140607702854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_218
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1237
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc3b32d821aa32d0800000000000000
+      internalID: -3298146580397605688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_219
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1267
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1269d04ad9bcac180800000000000000
+      internalID: -9094232619598637535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_220
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1261
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa442bc1b81d88f30800000000000000
+      internalID: 4578139416634213546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_221
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1255
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdce1bd939b5a940800000000000000
+      internalID: 5306851394066501107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_222
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1261
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6cad8a79cf9fb40800000000000000
+      internalID: 5474684550348719823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_223
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1267
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdd104423ae1d870800000000000000
+      internalID: 8705997056294116803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_224
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1237
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388157d308c886a70800000000000000
+      internalID: 8820454352619903107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_225
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1261
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0e7625ed00291a0800000000000000
+      internalID: -6804375132138118992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_226
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1261
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63788d6f12be6bc0800000000000000
+      internalID: -3787894388520619156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_227
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1267
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9699f6f5f4d7f9b0800000000000000
+      internalID: -5046330704569723233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_228
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1261
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8ece193f599ddc0800000000000000
+      internalID: -3613692352630298446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_229
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1230
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55aabe9967599f160800000000000000
+      internalID: 7059838227501001301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_230
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1255
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afb8015e59dce490800000000000000
+      internalID: -7715553062482821210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_231
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1255
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b59dff316eb0f3e0800000000000000
+      internalID: -2021906907794664013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_232
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1230
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5991911589202c7b0800000000000000
+      internalID: -5205595366067988075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_233
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1249
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51982e39cb9838760800000000000000
+      internalID: 7458956850883627285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_234
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1249
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7fb303f6a8de1d0800000000000000
+      internalID: -3319845140146948110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_235
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 1255
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e7d4e83d96564b0800000000000000
+      internalID: -5447831816888287600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_236
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 1255
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb476b722e6786b0800000000000000
+      internalID: -5294141742572418086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_237
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1243
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507e0757199836630800000000000000
+      internalID: 3919127358576060165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_238
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1237
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f94bd461cab983f0800000000000000
+      internalID: -897981310900155915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_239
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1237
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bffac8d336369f0800000000000000
+      internalID: -476428019566642295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_240
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1237
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e125a43dbcb7540800000000000000
+      internalID: 5006819519097872031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_241
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1243
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53818d50ad0deae0800000000000000
+      internalID: -1518542516939291813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_242
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 1243
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c01cb2fdb509700800000000000000
+      internalID: 545036568981736546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_243
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1231
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d882cbeb7f6549940800000000000000
+      internalID: 5301958283378829453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_244
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1230
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e4eb78994493d70800000000000000
+      internalID: 9023318754611580432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_245
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 825
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9268a8ceabf9ead90800000000000000
+      internalID: -7084549538625976791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_246
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 831
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9e63458135f2ee0800000000000000
+      internalID: -1283716004820096514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_247
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 831
+        width: 80
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22600842afa34560800000000000000
+      internalID: 7296868932797882926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_248
+      rect:
+        serializedVersion: 2
+        x: 3545
+        y: 831
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee33aa4637dabda0800000000000000
+      internalID: -5928189331299418385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_249
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 430
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103fbf75e06701220800000000000000
+      internalID: 2454591600894669569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_250
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 431
+        width: 104
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7344d37b1019500800000000000000
+      internalID: 401103728331208616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_251
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 431
+        width: 110
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd00e63e39f02540800000000000000
+      internalID: 4981255233475710386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_252
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 437
+        width: 116
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1e6f6a9f0b19830800000000000000
+      internalID: 4076233724041552340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_253
+      rect:
+        serializedVersion: 2
+        x: 3527
+        y: 425
+        width: 128
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe792f3a52c96dc0800000000000000
+      internalID: -3645168730517176644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_254
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 25
+        width: 116
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df591f2217aba05c0800000000000000
+      internalID: -4248378303390312963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hongo_255
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 25
+        width: 116
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730660070841844a0800000000000000
+      internalID: -6609009911298367433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8535741e941edfb4ab408b169801554f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hongo_0: -519481937007017833
+      hongo_1: -5798611384215172624
+      hongo_10: -8833001612805630295
+      hongo_100: -850964786569636299
+      hongo_101: -1936952086409622856
+      hongo_102: -1958646287786148431
+      hongo_103: -5353308649643161316
+      hongo_104: 7595449709560281043
+      hongo_105: -6980330354567675922
+      hongo_106: -1066656057889004045
+      hongo_107: 8354018177369445196
+      hongo_108: 3625779024843203939
+      hongo_109: -2787048377325926275
+      hongo_11: -5277071266190672688
+      hongo_110: -8807510393605112046
+      hongo_111: -5391072039561102003
+      hongo_112: 5672003109595491487
+      hongo_113: -3549280373085215257
+      hongo_114: -15281461304469139
+      hongo_115: 3661997003127855778
+      hongo_116: 3155217162553335799
+      hongo_117: 3501681029957964793
+      hongo_118: 7208912266024360962
+      hongo_119: -3630878438037482279
+      hongo_12: 4671462356749076457
+      hongo_120: -3544221102885842259
+      hongo_121: 9172499987369709245
+      hongo_122: 346193121671916205
+      hongo_123: -7317726593466646281
+      hongo_124: -771826118531213377
+      hongo_125: -8111360514461952362
+      hongo_126: -3998885019464559917
+      hongo_127: -903351799232069116
+      hongo_128: 2748342696203213763
+      hongo_129: 1187181534112873335
+      hongo_13: 7803060105402651091
+      hongo_130: -1673816105794225973
+      hongo_131: 6219800656782749912
+      hongo_132: -742755436126014307
+      hongo_133: 2324696373389761182
+      hongo_134: -4728890221660623909
+      hongo_135: -3412664168910706100
+      hongo_136: 7690845532256544458
+      hongo_137: -24690095922342712
+      hongo_138: -7076165858999485814
+      hongo_139: -5330212645745794989
+      hongo_14: 3869015840814149947
+      hongo_140: 679664132600119900
+      hongo_141: -7690694336738256361
+      hongo_142: 6162098360730156822
+      hongo_143: 7948543429905761946
+      hongo_144: -3759722525808263623
+      hongo_145: -5572900532847534637
+      hongo_146: 5769272659563441470
+      hongo_147: -7885030400714559583
+      hongo_148: -8627270155069931115
+      hongo_149: -6880728217728926448
+      hongo_15: -2997495980831633364
+      hongo_150: -7209362597543416434
+      hongo_151: -8316754390468804620
+      hongo_152: -8191633073569620229
+      hongo_153: -3055436786402024963
+      hongo_154: 6600007786410242224
+      hongo_155: 2209180539079186207
+      hongo_156: -2671386126017982875
+      hongo_157: 2395794505121989596
+      hongo_158: 4136164606200410654
+      hongo_159: 3113431022607641023
+      hongo_16: 3887650565167938296
+      hongo_160: 1592080758570456764
+      hongo_161: -4888725061435635927
+      hongo_162: -7748464594651223826
+      hongo_163: 1748601659944257511
+      hongo_164: -8044721582827962176
+      hongo_165: 1039174718147825049
+      hongo_166: -7483300466348420700
+      hongo_167: -6248207644946859541
+      hongo_168: 7754008219475200991
+      hongo_169: 2452120043919867304
+      hongo_17: -9084287458284760001
+      hongo_170: -8040107283795403694
+      hongo_171: -2540435160768698463
+      hongo_172: -5745291825647342467
+      hongo_173: -3666964055324127146
+      hongo_174: -4715600722525128584
+      hongo_175: -4262313343564580399
+      hongo_176: -9099153122413116920
+      hongo_177: 7810340675007049937
+      hongo_178: 9044261608483911806
+      hongo_179: 5929107599803521511
+      hongo_18: -3455216913976192158
+      hongo_180: 7299990665464343193
+      hongo_181: 7325562882686065971
+      hongo_182: 5647122943727064100
+      hongo_183: 6583630926579483781
+      hongo_184: -2729022552731634188
+      hongo_185: 3440180758812291721
+      hongo_186: 409720909543213854
+      hongo_187: 5459061907652062207
+      hongo_188: 5383122959535765958
+      hongo_189: -6799100291727712244
+      hongo_19: 7348605079062132497
+      hongo_190: 7534347607879395234
+      hongo_191: -2652776113035111360
+      hongo_192: 3871198377540258659
+      hongo_193: -2186527732370945774
+      hongo_194: 4225618309981498042
+      hongo_195: -3465734167537252181
+      hongo_196: 7660578701922033647
+      hongo_197: 8610736941679797440
+      hongo_198: -1340083622335923060
+      hongo_199: -2496795386073301022
+      hongo_2: -7645910717294073490
+      hongo_20: 2457608721582449686
+      hongo_200: -2492139329990319412
+      hongo_201: -2732402049461155285
+      hongo_202: -8653115308002938509
+      hongo_203: -7699150064905624413
+      hongo_204: 3414672417855818013
+      hongo_205: -3560335248029122150
+      hongo_206: -853628742367575172
+      hongo_207: 6659989329501647551
+      hongo_208: 90806328391923444
+      hongo_209: 6158567204917990711
+      hongo_21: -3259977126359718257
+      hongo_210: -6238703271271088658
+      hongo_211: -6101565065231243964
+      hongo_212: -6403371952597124779
+      hongo_213: -1495743769115481926
+      hongo_214: 2022255674902704355
+      hongo_215: 2300604735289537003
+      hongo_216: 2636715126568930290
+      hongo_217: 1739427140607702854
+      hongo_218: -3298146580397605688
+      hongo_219: -9094232619598637535
+      hongo_22: -3341979179563912425
+      hongo_220: 4578139416634213546
+      hongo_221: 5306851394066501107
+      hongo_222: 5474684550348719823
+      hongo_223: 8705997056294116803
+      hongo_224: 8820454352619903107
+      hongo_225: -6804375132138118992
+      hongo_226: -3787894388520619156
+      hongo_227: -5046330704569723233
+      hongo_228: -3613692352630298446
+      hongo_229: 7059838227501001301
+      hongo_23: -1358763523248163609
+      hongo_230: -7715553062482821210
+      hongo_231: -2021906907794664013
+      hongo_232: -5205595366067988075
+      hongo_233: 7458956850883627285
+      hongo_234: -3319845140146948110
+      hongo_235: -5447831816888287600
+      hongo_236: -5294141742572418086
+      hongo_237: 3919127358576060165
+      hongo_238: -897981310900155915
+      hongo_239: -476428019566642295
+      hongo_24: -7944429062423018875
+      hongo_240: 5006819519097872031
+      hongo_241: -1518542516939291813
+      hongo_242: 545036568981736546
+      hongo_243: 5301958283378829453
+      hongo_244: 9023318754611580432
+      hongo_245: -7084549538625976791
+      hongo_246: -1283716004820096514
+      hongo_247: 7296868932797882926
+      hongo_248: -5928189331299418385
+      hongo_249: 2454591600894669569
+      hongo_25: 8532802266063648722
+      hongo_250: 401103728331208616
+      hongo_251: 4981255233475710386
+      hongo_252: 4076233724041552340
+      hongo_253: -3645168730517176644
+      hongo_254: -4248378303390312963
+      hongo_255: -6609009911298367433
+      hongo_26: -5714970370832880262
+      hongo_27: -6551019313440668161
+      hongo_28: -6658182139846520681
+      hongo_29: -8436788646888042571
+      hongo_3: -6093047562541110886
+      hongo_30: -464629047827465258
+      hongo_31: 7380408572074237529
+      hongo_32: 6913141058881772799
+      hongo_33: 768696599020675341
+      hongo_34: -3890656901409257369
+      hongo_35: -3830042100032585171
+      hongo_36: -6005668936062415059
+      hongo_37: 8755295527379162592
+      hongo_38: 6298998289990902119
+      hongo_39: -7954308019825559348
+      hongo_4: 924155599547051189
+      hongo_40: -2763015252320891373
+      hongo_41: -2099888706023937509
+      hongo_42: -5264585841089868235
+      hongo_43: 217957426254746200
+      hongo_44: 8407524765095155346
+      hongo_45: 4371389924155165840
+      hongo_46: -7804724951634091881
+      hongo_47: -6153376675807873741
+      hongo_48: -8954827472817590861
+      hongo_49: 7442014757805631302
+      hongo_5: 2612995838018838203
+      hongo_50: -51517939256300539
+      hongo_51: -7806422269606998768
+      hongo_52: -2047338596794030006
+      hongo_53: 8769813802111920290
+      hongo_54: -8016319631027135422
+      hongo_55: -1623308365556778215
+      hongo_56: 3856901787448412418
+      hongo_57: 3042473758616426673
+      hongo_58: -1141013149696166717
+      hongo_59: 442400521723425766
+      hongo_6: -3299928202237951173
+      hongo_60: -8660489639959847544
+      hongo_61: -2587067380673166851
+      hongo_62: -3921312079554102765
+      hongo_63: 1585101675504794596
+      hongo_64: 7776976745008499263
+      hongo_65: -1140315926073687816
+      hongo_66: -8064010194637631985
+      hongo_67: 402981031718566479
+      hongo_68: -6327499534846749826
+      hongo_69: 6032977757189676081
+      hongo_7: 3139111642829420712
+      hongo_70: -195102423445392604
+      hongo_71: 1152786959237301173
+      hongo_72: -4484453085198791717
+      hongo_73: -1360902377243530223
+      hongo_74: 3036200652431075680
+      hongo_75: -9010317387180001251
+      hongo_76: 1184456132000142318
+      hongo_77: 2569405579709872242
+      hongo_78: -1372553728729155917
+      hongo_79: 37656176916487203
+      hongo_8: 5728035070457389272
+      hongo_80: -4878329600911064605
+      hongo_81: 1647491430879141011
+      hongo_82: 3227202384149402657
+      hongo_83: -1108526177992647277
+      hongo_84: -2954568904449762326
+      hongo_85: 7012141014288004627
+      hongo_86: 3285160205249929021
+      hongo_87: 1205474826186737417
+      hongo_88: 6504703497408384764
+      hongo_89: -7684834969971118430
+      hongo_9: -4599423064999550478
+      hongo_90: -346268548477847238
+      hongo_91: 2498806238414802063
+      hongo_92: 626568384189231631
+      hongo_93: -5899386103209427877
+      hongo_94: 764724124633702608
+      hongo_95: 4784507492326045026
+      hongo_96: 5956407936280429053
+      hongo_97: -4619895925019587604
+      hongo_98: -418959982323425863
+      hongo_99: -3549383665314848527
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

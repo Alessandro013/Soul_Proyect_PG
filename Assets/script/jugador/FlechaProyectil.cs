@@ -11,7 +11,7 @@ public class FlechaProyectil : MonoBehaviour
     public LayerMask capaEnemigo; // La capa donde están los enemigos
 
     [Header("Configuración de Rotación")]
-    public float velocidadRotacion = 500f; // Qué tan rápido gira hacia el enemigo
+    public float velocidadRotacion = 500f; 
 
     private Rigidbody2D rb;
     private Transform objetivoEnemigo;

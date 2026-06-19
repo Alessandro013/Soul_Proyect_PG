@@ -1,0 +1,2769 @@
+fileFormatVersion: 2
+guid: 08cb5893b9bce4d8d8c5c44a8ccb11aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8584571960161172985
+    second: cuerpoespin_0
+  - first:
+      213: -4188809838861904659
+    second: cuerpoespin_1
+  - first:
+      213: -674335098397204450
+    second: cuerpoespin_2
+  - first:
+      213: 5524815463741236709
+    second: cuerpoespin_3
+  - first:
+      213: 5068386614686521658
+    second: cuerpoespin_4
+  - first:
+      213: -4787914706032407346
+    second: cuerpoespin_5
+  - first:
+      213: 2480165977931363665
+    second: cuerpoespin_6
+  - first:
+      213: 6764135179203041597
+    second: cuerpoespin_7
+  - first:
+      213: 2531364510933984107
+    second: cuerpoespin_8
+  - first:
+      213: -5260025135695025026
+    second: cuerpoespin_9
+  - first:
+      213: -6271224437388699718
+    second: cuerpoespin_10
+  - first:
+      213: 9181313577247712207
+    second: cuerpoespin_11
+  - first:
+      213: 3800773087098596479
+    second: cuerpoespin_12
+  - first:
+      213: -3758098672999038717
+    second: cuerpoespin_13
+  - first:
+      213: 1799125696722481449
+    second: cuerpoespin_14
+  - first:
+      213: -567398901633522422
+    second: cuerpoespin_15
+  - first:
+      213: -9181735610533493547
+    second: cuerpoespin_16
+  - first:
+      213: 5230931733602897669
+    second: cuerpoespin_17
+  - first:
+      213: -6807645398705549155
+    second: cuerpoespin_18
+  - first:
+      213: -6543345436832593386
+    second: cuerpoespin_19
+  - first:
+      213: -5981209968294283787
+    second: cuerpoespin_20
+  - first:
+      213: 5749163284884685607
+    second: cuerpoespin_21
+  - first:
+      213: 6440356836335406414
+    second: cuerpoespin_22
+  - first:
+      213: -5688123710392557391
+    second: cuerpoespin_23
+  - first:
+      213: 7871675293821195752
+    second: cuerpoespin_24
+  - first:
+      213: -4636064644438088009
+    second: cuerpoespin_25
+  - first:
+      213: -7325969423929784362
+    second: cuerpoespin_26
+  - first:
+      213: -6724446978051718219
+    second: cuerpoespin_27
+  - first:
+      213: 326712069801864132
+    second: cuerpoespin_28
+  - first:
+      213: 2423363193691275528
+    second: cuerpoespin_29
+  - first:
+      213: -6541002293438692382
+    second: cuerpoespin_30
+  - first:
+      213: 5078782642293047946
+    second: cuerpoespin_31
+  - first:
+      213: -1001264211210754117
+    second: cuerpoespin_32
+  - first:
+      213: -5687567071503714723
+    second: cuerpoespin_33
+  - first:
+      213: -6228999132574713053
+    second: cuerpoespin_34
+  - first:
+      213: 9203100377441451266
+    second: cuerpoespin_35
+  - first:
+      213: 6891356674214939828
+    second: cuerpoespin_36
+  - first:
+      213: -1894809074546204699
+    second: cuerpoespin_37
+  - first:
+      213: 3529727605326369674
+    second: cuerpoespin_38
+  - first:
+      213: -5221869698908613439
+    second: cuerpoespin_39
+  - first:
+      213: 7140559112645954445
+    second: cuerpoespin_40
+  - first:
+      213: -3918468943756269025
+    second: cuerpoespin_41
+  - first:
+      213: -8208997747527495855
+    second: cuerpoespin_42
+  - first:
+      213: 6532344212812988555
+    second: cuerpoespin_43
+  - first:
+      213: 50913789002510633
+    second: cuerpoespin_44
+  - first:
+      213: 1368302532743320035
+    second: cuerpoespin_45
+  - first:
+      213: -3197560467101465613
+    second: cuerpoespin_46
+  - first:
+      213: -4855550750301779017
+    second: cuerpoespin_47
+  - first:
+      213: 6358624064514537796
+    second: cuerpoespin_48
+  - first:
+      213: 764538366932181270
+    second: cuerpoespin_49
+  - first:
+      213: 4548057482960165043
+    second: cuerpoespin_50
+  - first:
+      213: 6631414770498165501
+    second: cuerpoespin_51
+  - first:
+      213: -1627748769196338030
+    second: cuerpoespin_52
+  - first:
+      213: -6767572651067794831
+    second: cuerpoespin_53
+  - first:
+      213: -5554184601956329693
+    second: cuerpoespin_54
+  - first:
+      213: -8700608475590411543
+    second: cuerpoespin_55
+  - first:
+      213: -7902926715425794759
+    second: cuerpoespin_56
+  - first:
+      213: -5737453384851736509
+    second: cuerpoespin_57
+  - first:
+      213: 6602893858975213312
+    second: cuerpoespin_58
+  - first:
+      213: 4614960822804982013
+    second: cuerpoespin_59
+  - first:
+      213: 3793120128447078413
+    second: cuerpoespin_60
+  - first:
+      213: 7952069783099123592
+    second: cuerpoespin_61
+  - first:
+      213: -5550202476712456393
+    second: cuerpoespin_62
+  - first:
+      213: 5211882698873613473
+    second: cuerpoespin_63
+  - first:
+      213: 2182333812262836298
+    second: cuerpoespin_64
+  - first:
+      213: 624682777150893406
+    second: cuerpoespin_65
+  - first:
+      213: -5707379535617957355
+    second: cuerpoespin_66
+  - first:
+      213: 49992600930448607
+    second: cuerpoespin_67
+  - first:
+      213: 3231035256554754908
+    second: cuerpoespin_68
+  - first:
+      213: 5317762900650591271
+    second: cuerpoespin_69
+  - first:
+      213: 9134354461911154493
+    second: cuerpoespin_70
+  - first:
+      213: 2841169936130740503
+    second: cuerpoespin_71
+  - first:
+      213: 6007063907758635591
+    second: cuerpoespin_72
+  - first:
+      213: 1369782643053856621
+    second: cuerpoespin_73
+  - first:
+      213: -2710077222597288191
+    second: cuerpoespin_74
+  - first:
+      213: -3062854806810063896
+    second: cuerpoespin_75
+  - first:
+      213: 5652101110189780976
+    second: cuerpoespin_76
+  - first:
+      213: 5253801162135743657
+    second: cuerpoespin_77
+  - first:
+      213: -8510337336381869003
+    second: cuerpoespin_78
+  - first:
+      213: 47846786044232150
+    second: cuerpoespin_79
+  - first:
+      213: 1391240278726662062
+    second: cuerpoespin_80
+  - first:
+      213: 7766857710124671833
+    second: cuerpoespin_81
+  - first:
+      213: -1359433038605368991
+    second: cuerpoespin_82
+  - first:
+      213: 1048416262451209976
+    second: cuerpoespin_83
+  - first:
+      213: 5072910041170589424
+    second: cuerpoespin_84
+  - first:
+      213: -8569862482252626171
+    second: cuerpoespin_85
+  - first:
+      213: 6440024270699395634
+    second: cuerpoespin_86
+  - first:
+      213: -5651119075282921170
+    second: cuerpoespin_87
+  - first:
+      213: -8825408488228829220
+    second: cuerpoespin_88
+  - first:
+      213: 3798128837221707559
+    second: cuerpoespin_89
+  - first:
+      213: -428996916379348480
+    second: cuerpoespin_90
+  - first:
+      213: -1207880466439475838
+    second: cuerpoespin_91
+  - first:
+      213: -625036163904063894
+    second: cuerpoespin_92
+  - first:
+      213: -100070836023477167
+    second: cuerpoespin_93
+  - first:
+      213: 8727012861161811496
+    second: cuerpoespin_94
+  - first:
+      213: -1645706770795977630
+    second: cuerpoespin_95
+  - first:
+      213: 1299500490656823034
+    second: cuerpoespin_96
+  - first:
+      213: -4448389642248547217
+    second: cuerpoespin_97
+  - first:
+      213: 478133153984096369
+    second: cuerpoespin_98
+  - first:
+      213: 3698703421452722766
+    second: cuerpoespin_99
+  - first:
+      213: 5640573385405785300
+    second: cuerpoespin_100
+  - first:
+      213: -610955839467837596
+    second: cuerpoespin_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cuerpoespin_0
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2903
+        width: 154
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd7f2af6b6822770800000000000000
+      internalID: 8584571960161172985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_1
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 2903
+        width: 146
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de499f215ab5ed5c0800000000000000
+      internalID: -4188809838861904659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_2
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 2903
+        width: 146
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10e4700dc744a6f0800000000000000
+      internalID: -674335098397204450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_3
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 2903
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5a1ed74661cac40800000000000000
+      internalID: 5524815463741236709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_4
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 2903
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a391cb8c5c6865640800000000000000
+      internalID: 5068386614686521658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_5
+      rect:
+        serializedVersion: 2
+        x: 4333
+        y: 2903
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccc11c31f8ed8db0800000000000000
+      internalID: -4787914706032407346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_6
+      rect:
+        serializedVersion: 2
+        x: 5133
+        y: 2903
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155bb9201d15b6220800000000000000
+      internalID: 2480165977931363665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_7
+      rect:
+        serializedVersion: 2
+        x: 5933
+        y: 2903
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39de198b190fdd50800000000000000
+      internalID: 6764135179203041597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_8
+      rect:
+        serializedVersion: 2
+        x: 6733
+        y: 2903
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6320476c96312320800000000000000
+      internalID: 2531364510933984107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_9
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2503
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ca5450203a007b0800000000000000
+      internalID: -5260025135695025026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_10
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 2503
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab792beb99228f8a0800000000000000
+      internalID: -6271224437388699718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_11
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 2503
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc32257cd049a6f70800000000000000
+      internalID: 9181313577247712207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_12
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 2503
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c60604cfe0fb430800000000000000
+      internalID: 3800773087098596479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_13
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 2503
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301860d0b2d88dbc0800000000000000
+      internalID: -3758098672999038717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_14
+      rect:
+        serializedVersion: 2
+        x: 4333
+        y: 2503
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921bb6bf947c7f810800000000000000
+      internalID: 1799125696722481449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_15
+      rect:
+        serializedVersion: 2
+        x: 5133
+        y: 2503
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05ef2684b13028f0800000000000000
+      internalID: -567398901633522422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_16
+      rect:
+        serializedVersion: 2
+        x: 5933
+        y: 2503
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4c890fb1ce39080800000000000000
+      internalID: -9181735610533493547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_17
+      rect:
+        serializedVersion: 2
+        x: 6733
+        y: 2503
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f08b172b0089840800000000000000
+      internalID: 5230931733602897669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_18
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2103
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90555d04926681a0800000000000000
+      internalID: -6807645398705549155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_19
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 2103
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a8bea4efd5135a0800000000000000
+      internalID: -6543345436832593386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_20
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 2103
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f53bc049397efca0800000000000000
+      internalID: -5981209968294283787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_21
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 2103
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72305471c8129cf40800000000000000
+      internalID: 5749163284884685607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_22
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 2103
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dc7809b6eb06950800000000000000
+      internalID: 6440356836335406414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_23
+      rect:
+        serializedVersion: 2
+        x: 4333
+        y: 2103
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b023935f99bf01b0800000000000000
+      internalID: -5688123710392557391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_24
+      rect:
+        serializedVersion: 2
+        x: 5133
+        y: 2103
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e55e6b49fecd3d60800000000000000
+      internalID: 7871675293821195752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_25
+      rect:
+        serializedVersion: 2
+        x: 5933
+        y: 2103
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b62580d4c369afb0800000000000000
+      internalID: -4636064644438088009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_26
+      rect:
+        serializedVersion: 2
+        x: 6733
+        y: 2103
+        width: 178
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7ca43af9de45a90800000000000000
+      internalID: -7325969423929784362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b34742e917fda2a0800000000000000
+      internalID: -6724446978051718219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb6f5085e6b88400800000000000000
+      internalID: 326712069801864132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80189b13cf381a120800000000000000
+      internalID: 2423363193691275528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e34290e111b935a0800000000000000
+      internalID: -6541002293438692382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a820c4597e57b7640800000000000000
+      internalID: 5078782642293047946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7a87c318bca12f0800000000000000
+      internalID: -1001264211210754117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56ffcae1e3b111b0800000000000000
+      internalID: -5687567071503714723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bfaa4aa462e89a0800000000000000
+      internalID: -6228999132574713053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d39ad780bf7bf70800000000000000
+      internalID: 9203100377441451266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_36
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1703
+        width: 154
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc491b126403af50800000000000000
+      internalID: 6891356674214939828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_37
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1703
+        width: 154
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef9c729f2944b5e0800000000000000
+      internalID: -1894809074546204699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_38
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1703
+        width: 154
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a835e554e8c1cf030800000000000000
+      internalID: 3529727605326369674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_39
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 1703
+        width: 154
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c41d2dec213887b0800000000000000
+      internalID: -5221869698908613439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_40
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 1703
+        width: 154
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bc0fe3eac581360800000000000000
+      internalID: 7140559112645954445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_41
+      rect:
+        serializedVersion: 2
+        x: 4333
+        y: 1703
+        width: 146
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ae100b14dce99c0800000000000000
+      internalID: -3918468943756269025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f44a0ba08c31e80800000000000000
+      internalID: -8208997747527495855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_43
+      rect:
+        serializedVersion: 2
+        x: 5068
+        y: 1703
+        width: 285
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b800c43a37c87aa50800000000000000
+      internalID: 6532344212812988555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921f9a342d1e4b000800000000000000
+      internalID: 50913789002510633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1de6967ef2df210800000000000000
+      internalID: 1368302532743320035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_46
+      rect:
+        serializedVersion: 2
+        x: 5761
+        y: 1703
+        width: 474
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3c59252bbff93d0800000000000000
+      internalID: -3197560467101465613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb8163815e9d9cb0800000000000000
+      internalID: -4855550750301779017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449b3a1b5ee5e3850800000000000000
+      internalID: 6358624064514537796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_49
+      rect:
+        serializedVersion: 2
+        x: 6468
+        y: 1703
+        width: 664
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6116622189f2c9a00800000000000000
+      internalID: 764538366932181270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8d5e12f22fd1f30800000000000000
+      internalID: 4548057482960165043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_51
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1303
+        width: 124
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa52d95994870c50800000000000000
+      internalID: 6631414770498165501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_52
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1303
+        width: 124
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294197c5e131969e0800000000000000
+      internalID: -1627748769196338030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_53
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1303
+        width: 116
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a947da780c412a0800000000000000
+      internalID: -6767572651067794831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_54
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 1303
+        width: 115
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327d27728829be2b0800000000000000
+      internalID: -5554184601956329693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_55
+      rect:
+        serializedVersion: 2
+        x: 3541
+        y: 1303
+        width: 130
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea3ea270ba314780800000000000000
+      internalID: -8700608475590411543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_56
+      rect:
+        serializedVersion: 2
+        x: 4325
+        y: 1303
+        width: 162
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935d919160a235290800000000000000
+      internalID: -7902926715425794759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_57
+      rect:
+        serializedVersion: 2
+        x: 5133
+        y: 1303
+        width: 146
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348bc887b887060b0800000000000000
+      internalID: -5737453384851736509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_58
+      rect:
+        serializedVersion: 2
+        x: 5929
+        y: 1303
+        width: 154
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00763d92bf032ab50800000000000000
+      internalID: 6602893858975213312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_59
+      rect:
+        serializedVersion: 2
+        x: 6733
+        y: 1303
+        width: 151
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8a2afca62ab0040800000000000000
+      internalID: 4614960822804982013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_60
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 903
+        width: 147
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00e876f8aed3a430800000000000000
+      internalID: 3793120128447078413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_61
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 903
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887adbaf55d6b5e60800000000000000
+      internalID: 7952069783099123592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_62
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 903
+        width: 146
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f8f00f048b9f2b0800000000000000
+      internalID: -5550202476712456393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_63
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 903
+        width: 151
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acad5d63b3545840800000000000000
+      internalID: 5211882698873613473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_64
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 903
+        width: 148
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48104d2a05394e10800000000000000
+      internalID: 2182333812262836298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_65
+      rect:
+        serializedVersion: 2
+        x: 4333
+        y: 903
+        width: 147
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d22651da15ba800800000000000000
+      internalID: 624682777150893406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_66
+      rect:
+        serializedVersion: 2
+        x: 5133
+        y: 903
+        width: 146
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51268252d805bc0b0800000000000000
+      internalID: -5707379535617957355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_67
+      rect:
+        serializedVersion: 2
+        x: 5933
+        y: 903
+        width: 151
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd47bd3710c91b000800000000000000
+      internalID: 49992600930448607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_68
+      rect:
+        serializedVersion: 2
+        x: 6733
+        y: 903
+        width: 146
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5395b37271f6dc20800000000000000
+      internalID: 3231035256554754908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_69
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 503
+        width: 146
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7248705fe2d7cc940800000000000000
+      internalID: 5317762900650591271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_70
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 503
+        width: 146
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ff7babcfeb3ce70800000000000000
+      internalID: 9134354461911154493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_71
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 503
+        width: 150
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7119795f00ddd6720800000000000000
+      internalID: 2841169936130740503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_72
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 503
+        width: 151
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74af50d1cc06d5350800000000000000
+      internalID: 6007063907758635591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_73
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 503
+        width: 147
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6788b27e02720310800000000000000
+      internalID: 1369782643053856621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_74
+      rect:
+        serializedVersion: 2
+        x: 4333
+        y: 503
+        width: 147
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f1639ef1fd36ad0800000000000000
+      internalID: -2710077222597288191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_75
+      rect:
+        serializedVersion: 2
+        x: 5133
+        y: 503
+        width: 146
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb0d79e7cd8e75d0800000000000000
+      internalID: -3062854806810063896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_76
+      rect:
+        serializedVersion: 2
+        x: 5929
+        y: 507
+        width: 169
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffe37b730c407e40800000000000000
+      internalID: 5652101110189780976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_77
+      rect:
+        serializedVersion: 2
+        x: 6729
+        y: 510
+        width: 161
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aca2a5325049e840800000000000000
+      internalID: 5253801162135743657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534f632484535e980800000000000000
+      internalID: -8510337336381869003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d18fcdf56cf9a000800000000000000
+      internalID: 47846786044232150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7d7b299adae4310800000000000000
+      internalID: 1391240278726662062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9532cf0dfeb69cb60800000000000000
+      internalID: 7766857710124671833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1614ffd9ad2522de0800000000000000
+      internalID: -1359433038605368991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6a5243909bc8e00800000000000000
+      internalID: 1048416262451209976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f63c751ec8966640800000000000000
+      internalID: 5072910041170589424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507826b3a7bb11980800000000000000
+      internalID: -8569862482252626171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_86
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 147
+        width: 130
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a7ee714ff8f5950800000000000000
+      internalID: 6440024270699395634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_87
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 139
+        width: 122
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29d35654213391b0800000000000000
+      internalID: -5651119075282921170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_88
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 103
+        width: 122
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7476d2db9d58580800000000000000
+      internalID: -8825408488228829220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_89
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 106
+        width: 122
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f64c9dd0aa5b430800000000000000
+      internalID: 3798128837221707559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_90
+      rect:
+        serializedVersion: 2
+        x: 3545
+        y: 103
+        width: 122
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0029875d395eb0af0800000000000000
+      internalID: -428996916379348480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_91
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 106
+        width: 122
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dedba8d1fbc3fe0800000000000000
+      internalID: -1207880466439475838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_92
+      rect:
+        serializedVersion: 2
+        x: 5145
+        y: 103
+        width: 166
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66b9b6abec6357f0800000000000000
+      internalID: -625036163904063894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_93
+      rect:
+        serializedVersion: 2
+        x: 5945
+        y: 103
+        width: 137
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cb176da1a7c9ef0800000000000000
+      internalID: -100070836023477167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ea0d3a5f39c1970800000000000000
+      internalID: 8727012861161811496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264204a49664929e0800000000000000
+      internalID: -1645706770795977630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6bb0bafc0c80210800000000000000
+      internalID: 1299500490656823034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f649f3f50352442c0800000000000000
+      internalID: -4448389642248547217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1782f8ef19ba2a600800000000000000
+      internalID: 478133153984096369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42263d4a2f645330800000000000000
+      internalID: 3698703421452722766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d462a6eb97574e40800000000000000
+      internalID: 5640573385405785300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cuerpoespin_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467a117a6e27587f0800000000000000
+      internalID: -610955839467837596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2549ff7b371d292b3b7666dbd6386124
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cuerpoespin_0: 8584571960161172985
+      cuerpoespin_1: -4188809838861904659
+      cuerpoespin_10: -6271224437388699718
+      cuerpoespin_100: 5640573385405785300
+      cuerpoespin_101: -610955839467837596
+      cuerpoespin_11: 9181313577247712207
+      cuerpoespin_12: 3800773087098596479
+      cuerpoespin_13: -3758098672999038717
+      cuerpoespin_14: 1799125696722481449
+      cuerpoespin_15: -567398901633522422
+      cuerpoespin_16: -9181735610533493547
+      cuerpoespin_17: 5230931733602897669
+      cuerpoespin_18: -6807645398705549155
+      cuerpoespin_19: -6543345436832593386
+      cuerpoespin_2: -674335098397204450
+      cuerpoespin_20: -5981209968294283787
+      cuerpoespin_21: 5749163284884685607
+      cuerpoespin_22: 6440356836335406414
+      cuerpoespin_23: -5688123710392557391
+      cuerpoespin_24: 7871675293821195752
+      cuerpoespin_25: -4636064644438088009
+      cuerpoespin_26: -7325969423929784362
+      cuerpoespin_27: -6724446978051718219
+      cuerpoespin_28: 326712069801864132
+      cuerpoespin_29: 2423363193691275528
+      cuerpoespin_3: 5524815463741236709
+      cuerpoespin_30: -6541002293438692382
+      cuerpoespin_31: 5078782642293047946
+      cuerpoespin_32: -1001264211210754117
+      cuerpoespin_33: -5687567071503714723
+      cuerpoespin_34: -6228999132574713053
+      cuerpoespin_35: 9203100377441451266
+      cuerpoespin_36: 6891356674214939828
+      cuerpoespin_37: -1894809074546204699
+      cuerpoespin_38: 3529727605326369674
+      cuerpoespin_39: -5221869698908613439
+      cuerpoespin_4: 5068386614686521658
+      cuerpoespin_40: 7140559112645954445
+      cuerpoespin_41: -3918468943756269025
+      cuerpoespin_42: -8208997747527495855
+      cuerpoespin_43: 6532344212812988555
+      cuerpoespin_44: 50913789002510633
+      cuerpoespin_45: 1368302532743320035
+      cuerpoespin_46: -3197560467101465613
+      cuerpoespin_47: -4855550750301779017
+      cuerpoespin_48: 6358624064514537796
+      cuerpoespin_49: 764538366932181270
+      cuerpoespin_5: -4787914706032407346
+      cuerpoespin_50: 4548057482960165043
+      cuerpoespin_51: 6631414770498165501
+      cuerpoespin_52: -1627748769196338030
+      cuerpoespin_53: -6767572651067794831
+      cuerpoespin_54: -5554184601956329693
+      cuerpoespin_55: -8700608475590411543
+      cuerpoespin_56: -7902926715425794759
+      cuerpoespin_57: -5737453384851736509
+      cuerpoespin_58: 6602893858975213312
+      cuerpoespin_59: 4614960822804982013
+      cuerpoespin_6: 2480165977931363665
+      cuerpoespin_60: 3793120128447078413
+      cuerpoespin_61: 7952069783099123592
+      cuerpoespin_62: -5550202476712456393
+      cuerpoespin_63: 5211882698873613473
+      cuerpoespin_64: 2182333812262836298
+      cuerpoespin_65: 624682777150893406
+      cuerpoespin_66: -5707379535617957355
+      cuerpoespin_67: 49992600930448607
+      cuerpoespin_68: 3231035256554754908
+      cuerpoespin_69: 5317762900650591271
+      cuerpoespin_7: 6764135179203041597
+      cuerpoespin_70: 9134354461911154493
+      cuerpoespin_71: 2841169936130740503
+      cuerpoespin_72: 6007063907758635591
+      cuerpoespin_73: 1369782643053856621
+      cuerpoespin_74: -2710077222597288191
+      cuerpoespin_75: -3062854806810063896
+      cuerpoespin_76: 5652101110189780976
+      cuerpoespin_77: 5253801162135743657
+      cuerpoespin_78: -8510337336381869003
+      cuerpoespin_79: 47846786044232150
+      cuerpoespin_8: 2531364510933984107
+      cuerpoespin_80: 1391240278726662062
+      cuerpoespin_81: 7766857710124671833
+      cuerpoespin_82: -1359433038605368991
+      cuerpoespin_83: 1048416262451209976
+      cuerpoespin_84: 5072910041170589424
+      cuerpoespin_85: -8569862482252626171
+      cuerpoespin_86: 6440024270699395634
+      cuerpoespin_87: -5651119075282921170
+      cuerpoespin_88: -8825408488228829220
+      cuerpoespin_89: 3798128837221707559
+      cuerpoespin_9: -5260025135695025026
+      cuerpoespin_90: -428996916379348480
+      cuerpoespin_91: -1207880466439475838
+      cuerpoespin_92: -625036163904063894
+      cuerpoespin_93: -100070836023477167
+      cuerpoespin_94: 8727012861161811496
+      cuerpoespin_95: -1645706770795977630
+      cuerpoespin_96: 1299500490656823034
+      cuerpoespin_97: -4448389642248547217
+      cuerpoespin_98: 478133153984096369
+      cuerpoespin_99: 3698703421452722766
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

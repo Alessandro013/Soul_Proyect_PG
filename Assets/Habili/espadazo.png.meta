@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 75c82452c27b168bf8c2a49c9013bc7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 312314853715248735
+    second: espadazo_0
+  - first:
+      213: 6200972569314477368
+    second: espadazo_1
+  - first:
+      213: -2735800424311393590
+    second: espadazo_2
+  - first:
+      213: 408603795967139645
+    second: espadazo_3
+  - first:
+      213: -7016830307008579922
+    second: espadazo_4
+  - first:
+      213: -8829754076058902279
+    second: espadazo_5
+  - first:
+      213: -6964668036763948620
+    second: espadazo_6
+  - first:
+      213: -7523141951826938416
+    second: espadazo_7
+  - first:
+      213: -2596814048995713377
+    second: espadazo_8
+  - first:
+      213: -6717975588570817476
+    second: espadazo_9
+  - first:
+      213: 4111072323867028060
+    second: espadazo_10
+  - first:
+      213: -6597808310306505226
+    second: espadazo_11
+  - first:
+      213: -1527763496949389147
+    second: espadazo_12
+  - first:
+      213: 5189850747426497346
+    second: espadazo_13
+  - first:
+      213: 8003454660013070108
+    second: espadazo_14
+  - first:
+      213: 7605792665675768667
+    second: espadazo_15
+  - first:
+      213: -5618552913495866054
+    second: espadazo_16
+  - first:
+      213: 3620002371551285019
+    second: espadazo_17
+  - first:
+      213: 5587710991742492158
+    second: espadazo_18
+  - first:
+      213: 3569078278830143899
+    second: espadazo_19
+  - first:
+      213: -6738127831577061753
+    second: espadazo_20
+  - first:
+      213: -9019464965610192540
+    second: espadazo_21
+  - first:
+      213: -1373702267175976837
+    second: espadazo_22
+  - first:
+      213: -4314419693292096456
+    second: espadazo_23
+  - first:
+      213: 2370643960220513027
+    second: espadazo_24
+  - first:
+      213: 2368407778783739334
+    second: espadazo_25
+  - first:
+      213: 597148409108011533
+    second: espadazo_26
+  - first:
+      213: -2190018256432781187
+    second: espadazo_27
+  - first:
+      213: 8821121068963649160
+    second: espadazo_28
+  - first:
+      213: 4585508668306341975
+    second: espadazo_29
+  - first:
+      213: 5808671279968105413
+    second: espadazo_30
+  - first:
+      213: 6826383478776969434
+    second: espadazo_31
+  - first:
+      213: -2467625677565946653
+    second: espadazo_32
+  - first:
+      213: -3151525220789865262
+    second: espadazo_33
+  - first:
+      213: -9188583684629759254
+    second: espadazo_34
+  - first:
+      213: -3325974351196031006
+    second: espadazo_35
+  - first:
+      213: -1511207086971549798
+    second: espadazo_36
+  - first:
+      213: 3842143804084381588
+    second: espadazo_37
+  - first:
+      213: -1117591450972331147
+    second: espadazo_38
+  - first:
+      213: 889896261735447284
+    second: espadazo_39
+  - first:
+      213: 8680851786007054197
+    second: espadazo_40
+  - first:
+      213: -4446869074917171473
+    second: espadazo_41
+  - first:
+      213: -7155369562555729579
+    second: espadazo_42
+  - first:
+      213: -5062886826125738804
+    second: espadazo_43
+  - first:
+      213: 1164000076683562686
+    second: espadazo_44
+  - first:
+      213: -1055917428087307921
+    second: espadazo_45
+  - first:
+      213: -7948766767937512128
+    second: espadazo_46
+  - first:
+      213: 6258324743952471498
+    second: espadazo_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: espadazo_0
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 595
+        width: 251
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5686c964b0955400800000000000000
+      internalID: 312314853715248735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_1
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 888
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8354ee792b74e0650800000000000000
+      internalID: 6200972569314477368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 675
+        width: 67
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac27e8c420c780ad0800000000000000
+      internalID: -2735800424311393590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 635
+        width: 202
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f5f70dcf6aba500800000000000000
+      internalID: 408603795967139645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_4
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 621
+        width: 225
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6fe8533063f9e90800000000000000
+      internalID: -7016830307008579922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_5
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 833
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0a37a2379667580800000000000000
+      internalID: -8829754076058902279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 669
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9ea2a2257885f90800000000000000
+      internalID: -6964668036763948620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_7
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 651
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5348e014e689790800000000000000
+      internalID: -7523141951826938416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 513
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9eddd5816346fbd0800000000000000
+      internalID: -2596814048995713377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_9
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 517
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c9d79abc4f4c2a0800000000000000
+      internalID: -6717975588570817476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_10
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 513
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5aa8064f767d0930800000000000000
+      internalID: 4111072323867028060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_11
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 495
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd7f086c40ef64a0800000000000000
+      internalID: -6597808310306505226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_12
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 499
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8e587a13b4ccae0800000000000000
+      internalID: -1527763496949389147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 233
+        width: 237
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243e6adf1cd060840800000000000000
+      internalID: 5189850747426497346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 474
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c171602fb9bf11f60800000000000000
+      internalID: 8003454660013070108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 488
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5320e8d1243d8960800000000000000
+      internalID: 7605792665675768667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_16
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 448
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35c75fb4e3e602b0800000000000000
+      internalID: -5618552913495866054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 224
+        width: 290
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fc2623af4dc3230800000000000000
+      internalID: 3620002371551285019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_18
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 485
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd5b52ca898b8d40800000000000000
+      internalID: 5587710991742492158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_19
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 482
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99bb39e8c9e78130800000000000000
+      internalID: 3569078278830143899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_20
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 462
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7861da3ff6c5d72a0800000000000000
+      internalID: -6738127831577061753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_21
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 466
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46149b4a66c64d280800000000000000
+      internalID: -9019464965610192540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_22
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 457
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70c3d1f011afece0800000000000000
+      internalID: -1373702267175976837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_23
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 447
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834ff51d52a1024c0800000000000000
+      internalID: -4314419693292096456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_24
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 240
+        width: 209
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3037ed12f1836e020800000000000000
+      internalID: 2370643960220513027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_25
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 443
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd3da193564ed020800000000000000
+      internalID: 2368407778783739334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_26
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 430
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a9213705f794800800000000000000
+      internalID: 597148409108011533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_27
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 443
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7824bdbffd7b91e0800000000000000
+      internalID: -2190018256432781187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_28
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 426
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886da4c30eaea6a70800000000000000
+      internalID: 8821121068963649160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_29
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 437
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750cfd8b6dff2af30800000000000000
+      internalID: 4585508668306341975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_30
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 373
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c33383e0cb8c9050800000000000000
+      internalID: 5808671279968105413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_31
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 378
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8b8113b9f2cbe50800000000000000
+      internalID: 6826383478776969434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_32
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 337
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e49c02358b31cdd0800000000000000
+      internalID: -2467625677565946653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_33
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 341
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4b22a52888344d0800000000000000
+      internalID: -3151525220789865262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_34
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 346
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea71b072d79b7080800000000000000
+      internalID: -9188583684629759254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_35
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 313
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e776e803f3c7d1d0800000000000000
+      internalID: -3325974351196031006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_36
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 294
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97020f392d170be0800000000000000
+      internalID: -1511207086971549798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_37
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 299
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497ea6aee69025530800000000000000
+      internalID: 3842143804084381588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_38
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 309
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573e7c02f748d70f0800000000000000
+      internalID: -1117591450972331147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_39
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 287
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa70b76feb895c00800000000000000
+      internalID: 889896261735447284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_40
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 274
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57704ccc4b4987870800000000000000
+      internalID: 8680851786007054197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_41
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 253
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee54ea032c8942c0800000000000000
+      internalID: -4446869074917171473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_42
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 276
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559393b2b4503bc90800000000000000
+      internalID: -7155369562555729579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_43
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 266
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc35c681430db9b0800000000000000
+      internalID: -5062886826125738804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_44
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 274
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe404117eb572010800000000000000
+      internalID: 1164000076683562686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_45
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 248
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6146b291b0a851f0800000000000000
+      internalID: -1055917428087307921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_46
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 229
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d97aa2dbe40b190800000000000000
+      internalID: -7948766767937512128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadazo_47
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 234
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5135452390ad650800000000000000
+      internalID: 6258324743952471498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 03d210cd763bd0ae1b677b3b74773b09
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      espadazo_0: 312314853715248735
+      espadazo_1: 6200972569314477368
+      espadazo_10: 4111072323867028060
+      espadazo_11: -6597808310306505226
+      espadazo_12: -1527763496949389147
+      espadazo_13: 5189850747426497346
+      espadazo_14: 8003454660013070108
+      espadazo_15: 7605792665675768667
+      espadazo_16: -5618552913495866054
+      espadazo_17: 3620002371551285019
+      espadazo_18: 5587710991742492158
+      espadazo_19: 3569078278830143899
+      espadazo_2: -2735800424311393590
+      espadazo_20: -6738127831577061753
+      espadazo_21: -9019464965610192540
+      espadazo_22: -1373702267175976837
+      espadazo_23: -4314419693292096456
+      espadazo_24: 2370643960220513027
+      espadazo_25: 2368407778783739334
+      espadazo_26: 597148409108011533
+      espadazo_27: -2190018256432781187
+      espadazo_28: 8821121068963649160
+      espadazo_29: 4585508668306341975
+      espadazo_3: 408603795967139645
+      espadazo_30: 5808671279968105413
+      espadazo_31: 6826383478776969434
+      espadazo_32: -2467625677565946653
+      espadazo_33: -3151525220789865262
+      espadazo_34: -9188583684629759254
+      espadazo_35: -3325974351196031006
+      espadazo_36: -1511207086971549798
+      espadazo_37: 3842143804084381588
+      espadazo_38: -1117591450972331147
+      espadazo_39: 889896261735447284
+      espadazo_4: -7016830307008579922
+      espadazo_40: 8680851786007054197
+      espadazo_41: -4446869074917171473
+      espadazo_42: -7155369562555729579
+      espadazo_43: -5062886826125738804
+      espadazo_44: 1164000076683562686
+      espadazo_45: -1055917428087307921
+      espadazo_46: -7948766767937512128
+      espadazo_47: 6258324743952471498
+      espadazo_5: -8829754076058902279
+      espadazo_6: -6964668036763948620
+      espadazo_7: -7523141951826938416
+      espadazo_8: -2596814048995713377
+      espadazo_9: -6717975588570817476
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
