@@ -13,7 +13,12 @@ public class MenuPrincipal : MonoBehaviour
 
     public void QuitGame()
     {
-        Debug.Log("Saliendo del juego...");
+        // Esto cierra el juego real una vez exportado (.exe)
         Application.Quit();
+
+        // Esta instrucción especial le dice al editor de Unity que detenga el Play Mode
+        #if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false;
+        #endif
     }
 }

@@ -7,16 +7,34 @@ public class GestorInterfaz : MonoBehaviour
     public GameObject panelMochila;
     public GameObject panelEstadisticas;
 
+    [Header("Controles Configurables")]
+    public KeyCode teclaMapa;
+    public KeyCode teclaMochila;
+    public KeyCode teclaEstadisticas;
+
+    void Start()
+    {
+        // Cargamos las teclas guardadas. Si no existen, asignamos el valor por defecto en formato texto.
+        string mapaGuardado = PlayerPrefs.GetString("Control_Mapa", "M");
+        string mochilaGuardada = PlayerPrefs.GetString("Control_Mochila", "Escape");
+        string estadisticasGuardada = PlayerPrefs.GetString("Control_Estadisticas", "I");
+
+        // Convertimos ese texto de vuelta a un comando ejecutable de tipo KeyCode
+        teclaMapa = (KeyCode)System.Enum.Parse(typeof(KeyCode), mapaGuardado);
+        teclaMochila = (KeyCode)System.Enum.Parse(typeof(KeyCode), mochilaGuardada);
+        teclaEstadisticas = (KeyCode)System.Enum.Parse(typeof(KeyCode), estadisticasGuardada);
+    }
+
     void Update() 
     {
-        // Al presionar la tecla, alternamos el panel correspondiente
-        if (Input.GetKeyDown(KeyCode.M)) 
+        // Ahora evaluamos las variables dinámicas en lugar de valores fijos
+        if (Input.GetKeyDown(teclaMapa)) 
             GestionarPanel(panelMapa);
             
-        if (Input.GetKeyDown(KeyCode.Escape)) 
+        if (Input.GetKeyDown(teclaMochila)) 
             GestionarPanel(panelMochila);
             
-        if (Input.GetKeyDown(KeyCode.I)) 
+        if (Input.GetKeyDown(teclaEstadisticas)) 
             GestionarPanel(panelEstadisticas);
     }
 
@@ -24,31 +42,26 @@ public class GestorInterfaz : MonoBehaviour
     {
         if (panelObjetivo == null) return;
 
-        // Si el panel objetivo ya está abierto, lo cerramos
         if (panelObjetivo.activeSelf) 
         {
             panelObjetivo.SetActive(false);
         }
         else 
         {
-            // Primero cerramos todos para evitar que se solapen
             panelMapa.SetActive(false);
             panelMochila.SetActive(false);
             panelEstadisticas.SetActive(false);
 
-            // Luego abrimos solo el que queremos
             panelObjetivo.SetActive(true);
         }
 
-        // Controlar el tiempo del juego:
-        // Si CUALQUIERA está activo, pausamos. Si TODOS están desactivados, reanudamos.
         if (panelMapa.activeSelf || panelMochila.activeSelf || panelEstadisticas.activeSelf) 
         {
-            Time.timeScale = 0f; // Pausa
+            Time.timeScale = 0f; 
         } 
         else 
         {
-            Time.timeScale = 1f; // Reanuda
+            Time.timeScale = 1f; 
         }
     }
 }
