@@ -1,17 +1,21 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
+using UnityEngine.SceneManagement; // Vital para poder cambiar de nivel
 
 public class Portal : MonoBehaviour
 {
-    [Header("Configuración de Destino")]
-    public string nombreEscenaDestino = "mapa_hielo"; // Aquí escribirás "mapa_hielo", etc.
+    // Esta variable ya la tenías, aquí pondrás "bastion_de_froda" en el Inspector
+    public string nombreEscenaDestino; 
+    
+    // Referencia para el sonido que le pondremos
+    public AudioSource sonidoPortal; 
 
-    private void OnTriggerEnter2D(Collider2D otro)
+    // Esta función se activa sola cuando algo entra en el BoxCollider2D (Trigger)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        // Solo teletransportamos si es el jugador
-        if (otro.CompareTag("Player"))
+        // Verificamos que quien chocó fue el jugador y no un enemigo o un NPC
+        if (collision.CompareTag("Player")) 
         {
-            Debug.Log("Teletransportando a: " + nombreEscenaDestino);
+            // Cambiamos de escena
             SceneManager.LoadScene(nombreEscenaDestino);
         }
     }
