@@ -1,22 +1,44 @@
+using System.Collections; // ¡Súper importante para usar Corrutinas!
 using UnityEngine;
-using UnityEngine.SceneManagement; // Vital para poder cambiar de nivel
+using UnityEngine.SceneManagement;
 
 public class Portal : MonoBehaviour
 {
-    // Esta variable ya la tenías, aquí pondrás "bastion_de_froda" en el Inspector
     public string nombreEscenaDestino; 
-    
-    // Referencia para el sonido que le pondremos
     public AudioSource sonidoPortal; 
+    
+    // Un candado de seguridad: evita que el portal se active 60 veces por segundo 
+    // mientras el jugador esté parado sobre el cuadrito verde.
+    private bool teletransportando = false; 
 
-    // Esta función se activa sola cuando algo entra en el BoxCollider2D (Trigger)
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        // Verificamos que quien chocó fue el jugador y no un enemigo o un NPC
-        if (collision.CompareTag("Player")) 
+        // Si el que choca es el Player y el portal NO se está activando ya...
+        if (collision.CompareTag("Player") && !teletransportando) 
         {
-            // Cambiamos de escena
-            SceneManager.LoadScene(nombreEscenaDestino);
+            teletransportando = true; // Cerramos el candado
+            StartCoroutine(ViajeConSonido()); // Iniciamos la secuencia
         }
+    }
+
+    // Esta es la corrutina que maneja el tiempo
+    private IEnumerator ViajeConSonido()
+    {
+        // 1. Reproducimos el efecto de sonido de teletransporte
+        if (sonidoPortal != null)
+        {
+            sonidoPortal.Play();
+            
+            // 2. Le decimos a Unity: "Espera aquí el tiempo exacto que dura este audio"
+            yield return new WaitForSeconds(sonidoPortal.clip.length);
+        }
+        else
+        {
+            // Si por alguna razón olvidaste poner el audio, igual espera medio segundo
+            yield return new WaitForSeconds(0.5f); 
+        }
+
+        // 3. ¡Boom! Ahora sí cambiamos de nivel de forma segura
+        SceneManager.LoadScene(nombreEscenaDestino);
     }
 }

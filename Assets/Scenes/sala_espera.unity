@@ -205294,10 +205294,10 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 7d291d1417a2c99428b8fd1be3b2bc16, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
-  Loop: 1
+  Loop: 0
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -207596,7 +207596,6 @@ GameObject:
   - component: {fileID: 437597271}
   - component: {fileID: 437597270}
   - component: {fileID: 437597269}
-  - component: {fileID: 437597268}
   - component: {fileID: 437597267}
   - component: {fileID: 437597266}
   - component: {fileID: 437597265}
@@ -207700,18 +207699,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Salud
   vidaMaxima: 5
   vidaActual: 0
---- !u!114 &437597268
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 437597263}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4380e867d25bfa92abcaf599373875af, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::AtaqueJugador
 --- !u!95 &437597269
 Animator:
   serializedVersion: 7
