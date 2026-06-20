@@ -8,26 +8,49 @@ public class EnemigoSalud : MonoBehaviour
     public float vidaActual;
 
     [Header("Interfaz de Usuario")]
-    public Image barraRoja; // Arrastra la imagen con Fill Method: Horizontal
+    public Image barraRoja; 
+
+    // Referencia interna a la IA
+    private InteligenciaEnemigo ia;
 
     void Start()
     {
         vidaActual = vidaMax;
+        ia = GetComponent<InteligenciaEnemigo>();
+        
+        // Sincronizamos la IA al inicio
+        if (ia != null) ia.vidaActual = vidaMax; 
+        
         ActualizarBarra();
     }
 
     public void TomarDano(float cantidad)
     {
         vidaActual -= cantidad;
-        
-        // Aseguramos que la vida no baje de 0
         vidaActual = Mathf.Clamp(vidaActual, 0, vidaMax);
         
         ActualizarBarra();
 
+        // 1. Le pasamos la vida real a la IA para que sepa si debe huir o morir
+        if (ia != null) 
+        {
+            ia.vidaActual = this.vidaActual;
+        }
+
+        // 2. Si la vida llega a 0, preparamos el "cadáver"
         if (vidaActual <= 0)
         {
-            Morir();
+            // Apagamos el collider para que el jugador no lo siga golpeando ni chocando
+            GetComponent<Collider2D>().enabled = false;
+            
+            // Ocultamos la barra de vida flotante
+            if (barraRoja != null) 
+            {
+                barraRoja.transform.parent.gameObject.SetActive(false);
+            }
+            
+            // NOTA: Ya no usamos Destroy() aquí. La IA se encargará de hacer la animación
+            // y destruirlo después de 2 segundos gracias a su propio Update().
         }
     }
 
@@ -35,15 +58,7 @@ public class EnemigoSalud : MonoBehaviour
     {
         if (barraRoja != null)
         {
-            // Calcula el porcentaje (de 0 a 1) para el Fill Amount
             barraRoja.fillAmount = vidaActual / vidaMax;
         }
-    }
-
-    void Morir()
-    {
-        // Aquí podrías activar una animación de muerte antes del Destroy
-        Debug.Log(gameObject.name + " ha muerto.");
-        Destroy(gameObject);
     }
 }

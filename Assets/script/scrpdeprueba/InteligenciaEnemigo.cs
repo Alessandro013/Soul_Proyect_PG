@@ -29,6 +29,7 @@ public class InteligenciaEnemigo : MonoBehaviour
     private bool estaMuerto = false;
     private Animator anim;
     private Vector3 escalaOriginal;
+    private float tiempoUltimoAtaque = 0f; // Controla qué tan rápido golpea el esqueleto
 
     void Start()
     {
@@ -47,23 +48,18 @@ public class InteligenciaEnemigo : MonoBehaviour
     {
         if (estaMuerto) return;
 
+        // EL SEGURO ANTI-ERRORES: Si el jugador fue destruido o apagado, el enemigo se queda quieto
+        if (jugador == null || !jugador.gameObject.activeInHierarchy)
+        {
+            velocidadActual = Vector2.zero;
+            estadoActual = Estado.Esperando;
+            ActualizarAnimaciones();
+            return; // Cortamos el Update aquí para que no busque posiciones fantasma
+        }
+
         DeterminarEstado();
         EjecutarEstado();
         ActualizarAnimaciones();
-    }
-
-    void DeterminarEstado()
-    {
-        if (vidaActual <= 0) { estadoActual = Estado.Muerte; return; }
-        
-        float distancia = Vector2.Distance(transform.position, jugador.position);
-
-        // La persecución y huida siempre tienen prioridad sobre la patrulla/espera
-        if (vidaActual <= vidaMinimaParaHuir) estadoActual = Estado.Huir;
-        else if (distancia <= rangoAtaque) estadoActual = Estado.Atacar;
-        else if (distancia <= rangoDeteccion) estadoActual = Estado.Perseguire;
-        else if (estadoActual != Estado.Esperando) // Si no hay nadie cerca, patrulla
-            estadoActual = Estado.Patrulla;
     }
 
     void EjecutarEstado()
@@ -81,7 +77,22 @@ public class InteligenciaEnemigo : MonoBehaviour
                 break;
             case Estado.Atacar:
                 velocidadActual = Vector2.Lerp(velocidadActual, Vector2.zero, Time.deltaTime * 5f);
-                anim.SetTrigger("attack"); 
+                
+                // LÓGICA DE DAÑO: Verificamos si ya pasó 1.5 segundos desde el último espadazo
+                if (Time.time >= tiempoUltimoAtaque + 1.5f)
+                {
+                    anim.SetTrigger("attack"); 
+                    
+                    // Buscamos tu script de Salud y te bajamos 2 puntos de vida
+                    Salud saludJugador = jugador.GetComponent<Salud>();
+                    if (saludJugador != null)
+                    {
+                        saludJugador.RecibirDanio(2); 
+                    }
+                    
+                    // Reiniciamos el reloj para el siguiente golpe
+                    tiempoUltimoAtaque = Time.time;
+                }
                 break;
             case Estado.Huir:
                 Vector2 dir = (Vector2)transform.position - (Vector2)jugador.position;
@@ -91,6 +102,20 @@ public class InteligenciaEnemigo : MonoBehaviour
                 Morir();
                 break;
         }
+    }
+
+    void DeterminarEstado()
+    {
+        if (vidaActual <= 0) { estadoActual = Estado.Muerte; return; }
+        
+        float distancia = Vector2.Distance(transform.position, jugador.position);
+
+        // La persecución y huida siempre tienen prioridad sobre la patrulla/espera
+        if (vidaActual <= vidaMinimaParaHuir) estadoActual = Estado.Huir;
+        else if (distancia <= rangoAtaque) estadoActual = Estado.Atacar;
+        else if (distancia <= rangoDeteccion) estadoActual = Estado.Perseguire;
+        else if (estadoActual != Estado.Esperando) // Si no hay nadie cerca, patrulla
+            estadoActual = Estado.Patrulla;
     }
 
     void Patrullar()
