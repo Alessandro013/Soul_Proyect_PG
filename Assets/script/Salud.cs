@@ -1,68 +1,76 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Salud : MonoBehaviour
 {
-    [Header("Estadísticas del Jugador")]
+    [Header("Estadísticas")]
     public int vidaMaxima = 10;
     public int vidaActual;
     public int escudoMaximo = 5;
     public int escudoActual;
-    public int manaMaximo = 10;
-    public int manaActual;
+    public int manaMaximo = 10; // Agregado para consistencia
+    public int manaActual;      // Ahora es public para que GestorHabilidades pueda verlo
 
-    [Header("Conexión con la Interfaz")]
-    public ManejadorHUD manejadorHUD; // El puente hacia las barras de la pantalla
+    [Header("Regeneración")]
+    public float tiempoParaRegenerar = 3f;
+    private float tiempoUltimoDanio = 0f;
+
+    public ManejadorHUD manejadorHUD;
 
     protected virtual void Start()
     {
-        // Al iniciar, llenamos todas las estadísticas al máximo
         vidaActual = vidaMaxima;
         escudoActual = escudoMaximo;
         manaActual = manaMaximo;
-
-        // Actualizamos la pantalla por primera vez
         ActualizarPantalla();
+    }
+
+    void Update()
+    {
+        // Lógica de regeneración del escudo
+        if (escudoActual < escudoMaximo && Time.time >= tiempoUltimoDanio + tiempoParaRegenerar)
+        {
+            escudoActual++;
+            ActualizarPantalla();
+            tiempoUltimoDanio = Time.time;
+        }
+
+        if (Input.GetKeyDown(KeyCode.H)) RecibirDanio(2);
     }
 
     public virtual void RecibirDanio(int danio)
     {
-        vidaActual -= danio;
-        Debug.Log(gameObject.name + " recibió " + danio + " de daño. Vida restante: " + vidaActual);
+        tiempoUltimoDanio = Time.time;
 
-        // ¡Le avisamos al HUD que los números cambiaron!
+        if (escudoActual > 0)
+        {
+            escudoActual -= danio;
+            if (escudoActual < 0)
+            {
+                vidaActual += escudoActual;
+                escudoActual = 0;
+            }
+        }
+        else
+        {
+            vidaActual -= danio;
+        }
+
+        vidaActual = Mathf.Clamp(vidaActual, 0, vidaMaxima);
         ActualizarPantalla();
 
-        if (vidaActual <= 0)
-        {
-            Morir();
-        }
+        if (vidaActual <= 0) Morir();
     }
 
-    // Esta función empaqueta todos los números y se los manda a tu compañero (el script ManejadorHUD)
-    private void ActualizarPantalla()
+    // Cambiado a public para que GestorHabilidades pueda llamarlo
+    public void ActualizarPantalla()
     {
         if (manejadorHUD != null)
-        {
             manejadorHUD.ActualizarBarras(vidaActual, vidaMaxima, escudoActual, escudoMaximo, manaActual, manaMaximo);
-        }
     }
 
     protected virtual void Morir()
     {
-        Debug.Log(gameObject.name + " ha muerto.");
-        // En lugar de borrarlo y romper las físicas de los enemigos, lo "apagamos"
-        gameObject.SetActive(false); 
-        
-        // Más adelante aquí pondremos la pantalla de Game Over
-    }
-
-    // Agrega esto justo debajo de tu función Start()
-    void Update()
-    {
-        // Si presionamos la tecla H (Hurt / Herida), el jugador recibe 2 de daño
-        if (Input.GetKeyDown(KeyCode.H))
-        {
-            RecibirDanio(2);
-        }
+        SceneManager.LoadScene("GameOver");
     }
 }

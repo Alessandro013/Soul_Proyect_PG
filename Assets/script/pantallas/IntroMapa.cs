@@ -3,8 +3,8 @@ using System.Collections;
 
 public class IntroMapa : MonoBehaviour
 {
-    public GameObject canvasIntro; // Arrastra aquí tu Canvas_Introduccion
-    public float tiempoVisible = 5f; // Tiempo que estará en pantalla
+    public GameObject canvasIntro; 
+    public float tiempoVisible = 3f; 
 
     void Start()
     {
@@ -13,8 +13,18 @@ public class IntroMapa : MonoBehaviour
 
     IEnumerator MostrarIntro()
     {
-        canvasIntro.SetActive(true); // Activa el canvas
-        yield return new WaitForSeconds(tiempoVisible); // Espera 3 segundos
-        canvasIntro.SetActive(false); // Lo desactiva
+        // 1. Congelamos el tiempo
+        Time.timeScale = 0f;
+        
+        canvasIntro.SetActive(true); 
+        
+        // 2. Usamos WaitForSecondsRealtime porque el tiempo está congelado
+        // Si usamos WaitForSeconds normal, ¡nunca terminaría la espera!
+        yield return new WaitForSecondsRealtime(tiempoVisible); 
+        
+        canvasIntro.SetActive(false);
+        
+        // 3. Descongelamos el tiempo para que el jugador pueda moverse
+        Time.timeScale = 1f;
     }
 }

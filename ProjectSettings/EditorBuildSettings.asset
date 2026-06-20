@@ -17,5 +17,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/sala_espera.unity
     guid: 210100cebcbf4554b82c51c2a9a2e4eb
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 225ac60b6e8c703ec85947969683c738
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

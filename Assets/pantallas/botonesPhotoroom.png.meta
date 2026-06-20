@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 904276f5a0caf545796255f5ce96cbe9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5995146545513924701
+    second: botonesPhotoroom_0
+  - first:
+      213: -6740700166332263421
+    second: botonesPhotoroom_1
+  - first:
+      213: 8680836537729824333
+    second: botonesPhotoroom_2
+  - first:
+      213: -5904200917131517248
+    second: botonesPhotoroom_3
+  - first:
+      213: -2614113486953074422
+    second: botonesPhotoroom_4
+  - first:
+      213: -7892963563971980511
+    second: botonesPhotoroom_5
+  - first:
+      213: -4069450895177049487
+    second: botonesPhotoroom_6
+  - first:
+      213: -1399865499368589961
+    second: botonesPhotoroom_7
+  - first:
+      213: 2746463079601464010
+    second: botonesPhotoroom_8
+  - first:
+      213: 2631393357679388433
+    second: botonesPhotoroom_9
+  - first:
+      213: 8833745777951098946
+    second: botonesPhotoroom_10
+  - first:
+      213: 4943353668715297458
+    second: botonesPhotoroom_11
+  - first:
+      213: -4658131264885847620
+    second: botonesPhotoroom_12
+  - first:
+      213: 4708907130000592208
+    second: botonesPhotoroom_13
+  - first:
+      213: 8808206960726314827
+    second: botonesPhotoroom_14
+  - first:
+      213: -977291889243950536
+    second: botonesPhotoroom_15
+  - first:
+      213: 5598397203441409892
+    second: botonesPhotoroom_16
+  - first:
+      213: -8048324973756432739
+    second: botonesPhotoroom_17
+  - first:
+      213: -8671850507050959105
+    second: botonesPhotoroom_18
+  - first:
+      213: -1990524153721357248
+    second: botonesPhotoroom_19
+  - first:
+      213: -1070207667738852234
+    second: botonesPhotoroom_20
+  - first:
+      213: 1288130049374538094
+    second: botonesPhotoroom_21
+  - first:
+      213: 5975295249536027568
+    second: botonesPhotoroom_22
+  - first:
+      213: 3990622596889981334
+    second: botonesPhotoroom_23
+  - first:
+      213: 1828284366034503630
+    second: botonesPhotoroom_24
+  - first:
+      213: -4388962633421747992
+    second: botonesPhotoroom_25
+  - first:
+      213: -405970504084609440
+    second: botonesPhotoroom_26
+  - first:
+      213: -4443020475954176851
+    second: botonesPhotoroom_27
+  - first:
+      213: -8707448449106618093
+    second: botonesPhotoroom_28
+  - first:
+      213: 8369263341470763572
+    second: botonesPhotoroom_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: botonesPhotoroom_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 434
+        width: 256
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5884cdf40a033350800000000000000
+      internalID: 5995146545513924701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 437
+        width: 226
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304595899e83472a0800000000000000
+      internalID: -6740700166332263421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 359
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d463e9886d6887870800000000000000
+      internalID: 8680836537729824333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 359
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c227d33c80101ea0800000000000000
+      internalID: -5904200917131517248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 359
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01ba9f32adc8bbd0800000000000000
+      internalID: -2614113486953074422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 359
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1235950157f867290800000000000000
+      internalID: -7892963563971980511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 359
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a9312c8f76687c0800000000000000
+      internalID: -4069450895177049487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_7
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 359
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7757fc0cebda29ce0800000000000000
+      internalID: -1399865499368589961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_8
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 359
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2ee589e956d1620800000000000000
+      internalID: 2746463079601464010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 207
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1176dcc2156948420800000000000000
+      internalID: 2631393357679388433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 281
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248c1ea5bf4c79a70800000000000000
+      internalID: 8833745777951098946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 281
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba36ee78f15a9440800000000000000
+      internalID: 4943353668715297458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 207
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9865f5b4efa5fb0800000000000000
+      internalID: -4658131264885847620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 281
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d4dfbf516695140800000000000000
+      internalID: 4708907130000592208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_14
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 207
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f073a10990d3a70800000000000000
+      internalID: 8808206960726314827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_15
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 281
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8327eb36436ff62f0800000000000000
+      internalID: -977291889243950536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_16
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 281
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f5aae489081bd40800000000000000
+      internalID: 5598397203441409892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_17
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 281
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9eb756041b9e4090800000000000000
+      internalID: -8048324973756432739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_18
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 281
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffebfe5c8e567a780800000000000000
+      internalID: -8671850507050959105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 204
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c7a9414dc3064e0800000000000000
+      internalID: -1990524153721357248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_20
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 206
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674c680ebcbd521f0800000000000000
+      internalID: -1070207667738852234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_21
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 206
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69c971847b50e110800000000000000
+      internalID: 1288130049374538094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_22
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 159
+        width: 263
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb8ca8fe538ce250800000000000000
+      internalID: 5975295249536027568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_23
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 131
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6913640db1a816730800000000000000
+      internalID: 3990622596889981334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_24
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 128
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec703e9b1fe5f5910800000000000000
+      internalID: 1828284366034503630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_25
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 128
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e80f661db54713c0800000000000000
+      internalID: -4388962633421747992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_26
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 117
+        width: 263
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06620ca3af3bd5af0800000000000000
+      internalID: -405970504084609440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_27
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 33
+        width: 227
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacd6f0da683752c0800000000000000
+      internalID: -4443020475954176851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_28
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 75
+        width: 263
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31959f205cde82780800000000000000
+      internalID: -8707448449106618093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botonesPhotoroom_29
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 34
+        width: 263
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a4014baa8952470800000000000000
+      internalID: 8369263341470763572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      botonesPhotoroom_0: 5995146545513924701
+      botonesPhotoroom_1: -6740700166332263421
+      botonesPhotoroom_10: 8833745777951098946
+      botonesPhotoroom_11: 4943353668715297458
+      botonesPhotoroom_12: -4658131264885847620
+      botonesPhotoroom_13: 4708907130000592208
+      botonesPhotoroom_14: 8808206960726314827
+      botonesPhotoroom_15: -977291889243950536
+      botonesPhotoroom_16: 5598397203441409892
+      botonesPhotoroom_17: -8048324973756432739
+      botonesPhotoroom_18: -8671850507050959105
+      botonesPhotoroom_19: -1990524153721357248
+      botonesPhotoroom_2: 8680836537729824333
+      botonesPhotoroom_20: -1070207667738852234
+      botonesPhotoroom_21: 1288130049374538094
+      botonesPhotoroom_22: 5975295249536027568
+      botonesPhotoroom_23: 3990622596889981334
+      botonesPhotoroom_24: 1828284366034503630
+      botonesPhotoroom_25: -4388962633421747992
+      botonesPhotoroom_26: -405970504084609440
+      botonesPhotoroom_27: -4443020475954176851
+      botonesPhotoroom_28: -8707448449106618093
+      botonesPhotoroom_29: 8369263341470763572
+      botonesPhotoroom_3: -5904200917131517248
+      botonesPhotoroom_4: -2614113486953074422
+      botonesPhotoroom_5: -7892963563971980511
+      botonesPhotoroom_6: -4069450895177049487
+      botonesPhotoroom_7: -1399865499368589961
+      botonesPhotoroom_8: 2746463079601464010
+      botonesPhotoroom_9: 2631393357679388433
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
