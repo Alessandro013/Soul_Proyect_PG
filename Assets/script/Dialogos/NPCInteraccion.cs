@@ -2,9 +2,10 @@ using UnityEngine;
 
 public class NPCInteraccion : MonoBehaviour
 {
-    // Ahora en lugar de escribir todo aquí, solo arrastras el archivo "DialogoData"
+    [Header("Configuración")]
     public DialogoData dialogoInicial; 
     
+    // Aquí arrastras el icono que vive en tu Canvas/Panel
     public GameObject iconoAviso; 
 
     private bool playerCerca = false;
@@ -12,16 +13,18 @@ public class NPCInteraccion : MonoBehaviour
 
     void Start()
     {
-        manager = FindFirstObjectByType<DialogueManager>();
-        if(iconoAviso != null) iconoAviso.SetActive(false);
+        manager = Object.FindFirstObjectByType<DialogueManager>();
+        
+        // Empezamos con el aviso desactivado
+        if (iconoAviso != null) 
+            iconoAviso.SetActive(false);
     }
 
     void Update()
     {
-        // El manager ahora recibe el archivo completo (dialogoInicial)
-        if (playerCerca && Input.GetKeyDown(KeyCode.C) && !DialogueManager.estaHablando)
+        if (playerCerca && Input.GetKeyDown(KeyCode.C))
         {
-            if (manager != null && dialogoInicial != null)
+            if (manager != null && dialogoInicial != null && !DialogueManager.estaHablando)
             {
                 manager.StartConversation(dialogoInicial);
             }
@@ -33,7 +36,7 @@ public class NPCInteraccion : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             playerCerca = true;
-            if(iconoAviso != null) iconoAviso.SetActive(true);
+            if (iconoAviso != null) iconoAviso.SetActive(true);
         }
     }
 
@@ -42,7 +45,7 @@ public class NPCInteraccion : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             playerCerca = false;
-            if(iconoAviso != null) iconoAviso.SetActive(false);
+            if (iconoAviso != null) iconoAviso.SetActive(false);
         }
     }
 }
